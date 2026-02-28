@@ -1,0 +1,6 @@
+module QGroundControl.FirstRunPromptDialogs
+typeinfo FirstRunPromptDialogsModule.qmltypes
+prefer :/qml/QGroundControl/FirstRunPromptDialogs/
+OfflineVehicleFirstRunPrompt 1.0 OfflineVehicleFirstRunPrompt.qml
+UnitsFirstRunPrompt 1.0 UnitsFirstRunPrompt.qml
+

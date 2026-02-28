@@ -1,0 +1,223 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 637,
+                            "functionName": "_activeVehicle",
+                            "line": 13,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 101,
+                            "functionName": "_initialConnectComplete",
+                            "line": 14,
+                            "message": "Cannot load property initialConnectComplete from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/VirtualJoystick.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 584,
+                            "functionName": "leftYAxisValue",
+                            "line": 15,
+                            "message": "Cannot access value for name autoCenterThrottle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 258,
+                            "functionName": "onHeightChanged",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 131,
+                            "functionName": "onWidthChanged",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 318,
+                            "functionName": "onCalibrationChanged",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 486,
+                            "functionName": "calibrateJoysticks",
+                            "line": 36,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 614,
+                            "functionName": "keepYAxisWhileChanged",
+                            "line": 43,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 484,
+                            "functionName": "keepXAxisWhileChanged",
+                            "line": 50,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 243,
+                            "functionName": "running",
+                            "line": 22,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 948,
+                            "functionName": "onTriggered",
+                            "line": 24,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 220,
+                            "functionName": "width",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 162,
+                            "functionName": "height",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 694,
+                            "functionName": "yAxisPositiveRangeOnly",
+                            "line": 65,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 591,
+                            "functionName": "yAxisReCenter",
+                            "line": 66,
+                            "message": "Cannot access value for name autoCenterThrottle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 132,
+                            "functionName": "leftMargin",
+                            "line": 59,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 144,
+                            "functionName": "bottomMargin",
+                            "line": 60,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 229,
+                            "functionName": "left",
+                            "line": 61,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 196,
+                            "functionName": "bottom",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 161,
+                            "functionName": "width",
+                            "line": 75,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 140,
+                            "functionName": "height",
+                            "line": 76,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 760,
+                            "functionName": "yAxisPositiveRangeOnly",
+                            "line": 77,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 179,
+                            "functionName": "rightMargin",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 140,
+                            "functionName": "bottomMargin",
+                            "line": 72,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 207,
+                            "functionName": "right",
+                            "line": 73,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 190,
+                            "functionName": "bottom",
+                            "line": 74,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/VirtualJoystick.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

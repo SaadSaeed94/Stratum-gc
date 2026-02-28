@@ -1,0 +1,79 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 318,
+                            "functionName": "width",
+                            "line": 8,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 145,
+                            "functionName": "height",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 291,
+                            "functionName": "getIcon",
+                            "line": 16,
+                            "message": "function without return type annotation returns QString. This may prevent proper compilation to Cpp."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 466,
+                            "functionName": "source",
+                            "line": 31,
+                            "message": "method getIcon cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 298,
+                            "functionName": "fillMode",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 96,
+                            "functionName": "color",
+                            "line": 34,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 174,
+                            "functionName": "fill",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 76,
+                            "functionName": "height",
+                            "line": 35,
+                            "message": "Cannot access value for name size"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/SignalStrength.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

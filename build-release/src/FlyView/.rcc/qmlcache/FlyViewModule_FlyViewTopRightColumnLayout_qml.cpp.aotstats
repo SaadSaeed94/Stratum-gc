@@ -1,0 +1,47 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 14,
+                            "durationMicroseconds": 11557,
+                            "functionName": "spacing",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 934,
+                            "functionName": "sourceComponent",
+                            "line": 22,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 649,
+                            "functionName": "rightEdgeCenterInset",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 216,
+                            "functionName": "alignment",
+                            "line": 21,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewTopRightColumnLayout.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

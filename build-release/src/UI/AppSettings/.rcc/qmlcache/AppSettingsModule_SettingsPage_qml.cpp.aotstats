@@ -1,0 +1,63 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 365,
+                            "functionName": "contentWidth",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 199,
+                            "functionName": "contentHeight",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 156,
+                            "functionName": "fill",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 671,
+                            "functionName": "x",
+                            "line": 22,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 11761,
+                            "functionName": "width",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 195,
+                            "functionName": "spacing",
+                            "line": 24,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/SettingsPage.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+        }
+    ]
+}

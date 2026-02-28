@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/FirmwarePlugin/APM">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/FirmwarePlugin/APM</file>
+
+  </qresource>
+</RCC>

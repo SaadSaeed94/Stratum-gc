@@ -1,0 +1,103 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 14,
+                            "durationMicroseconds": 12347,
+                            "functionName": "spacing",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 405,
+                            "functionName": "onPassedChanged",
+                            "line": 17,
+                            "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PreFlightCheckGroup.qml)::parent with type QQuickItem does not have a property groupPassedChanged for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 2413,
+                            "functionName": "reset",
+                            "line": 31,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 1818,
+                            "functionName": "onCompleted",
+                            "line": 19,
+                            "message": "Cannot access value for name _checked"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 41,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 426,
+                            "functionName": "color",
+                            "line": 42,
+                            "message": "Cannot access value for name failed"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 39,
+                            "message": "Could not find property \"left\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "right",
+                            "line": 40,
+                            "message": "Could not find property \"right\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 475,
+                            "functionName": "spacing",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 148,
+                            "functionName": "visible",
+                            "line": 48,
+                            "message": "Cannot retrieve a non-object type by ID: header"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 1865,
+                            "functionName": "buttonPassedChanged",
+                            "line": 50,
+                            "message": "Cannot load property passed from conversion to QVariant."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/PreFlightCheckGroup.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

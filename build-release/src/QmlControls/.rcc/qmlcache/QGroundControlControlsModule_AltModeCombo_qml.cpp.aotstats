@@ -1,0 +1,71 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 18,
+                            "durationMicroseconds": 666,
+                            "functionName": "onActivated",
+                            "line": 12,
+                            "message": "Cannot generate efficient code for lookup in QJSValue"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 112,
+                            "functionName": "onActivated",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 22,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 26,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 30,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 34,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 18703,
+                            "functionName": "onCompleted",
+                            "line": 38,
+                            "message": "Cannot access value for name QGroundControl"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/AltModeCombo.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

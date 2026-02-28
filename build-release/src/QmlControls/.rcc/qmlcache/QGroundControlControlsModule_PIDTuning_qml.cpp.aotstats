@@ -1,0 +1,767 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 14,
+                            "durationMicroseconds": 329,
+                            "functionName": "spacing",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 13153,
+                            "functionName": "_margins",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 200,
+                            "functionName": "_xAxis",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 148,
+                            "functionName": "_yAxis",
+                            "line": 26,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 147,
+                            "functionName": "_savedTuningParamValues",
+                            "line": 29,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "adjustYAxisMin",
+                            "line": 34,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "adjustYAxisMax",
+                            "line": 43,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 1574,
+                            "functionName": "resetGraphs",
+                            "line": 52,
+                            "message": "Multiple matching overrides found. Cannot determine the right one."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 4498,
+                            "functionName": "saveTuningParamValues",
+                            "line": 65,
+                            "message": "Cannot access value for name controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 4409,
+                            "functionName": "resetToSavedTuningParamValues",
+                            "line": 74,
+                            "message": "Cannot access value for name controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 2622,
+                            "functionName": "axisIndexChanged",
+                            "line": 82,
+                            "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PIDTuning.qml)::axis with type QVariant (adjusted to QJSValue, stored as QJSValue)"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 228,
+                            "functionName": "on_CurrentAxisChanged",
+                            "line": 102,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 795,
+                            "functionName": "onCompleted",
+                            "line": 95,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 995,
+                            "functionName": "onDestruction",
+                            "line": 101,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 684,
+                            "functionName": "titleText",
+                            "line": 109,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 1409,
+                            "functionName": "tickCount",
+                            "line": 110,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 236,
+                            "functionName": "pointSize",
+                            "line": 111,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 206,
+                            "functionName": "family",
+                            "line": 112,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 214,
+                            "functionName": "pointSize",
+                            "line": 113,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 178,
+                            "functionName": "family",
+                            "line": 114,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 109,
+                            "functionName": "titleText",
+                            "line": 121,
+                            "message": "Cannot access value for name unit"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 241,
+                            "functionName": "tickCount",
+                            "line": 122,
+                            "message": "Cannot access value for name _tickSeparation"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 359,
+                            "functionName": "pointSize",
+                            "line": 123,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 221,
+                            "functionName": "family",
+                            "line": 124,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 257,
+                            "functionName": "pointSize",
+                            "line": 125,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 199,
+                            "functionName": "family",
+                            "line": 126,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 18586,
+                            "functionName": "onTriggered",
+                            "line": 135,
+                            "message": "Cannot access value for name _xAxis"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 326,
+                            "functionName": "_maxPointCount",
+                            "line": 167,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 388,
+                            "functionName": "spacing",
+                            "line": 173,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 215,
+                            "functionName": "alignment",
+                            "line": 172,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 496,
+                            "functionName": "width",
+                            "line": 178,
+                            "message": "Cannot access value for name availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 372,
+                            "functionName": "height",
+                            "line": 179,
+                            "message": "Cannot access value for name availableHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 412,
+                            "functionName": "_minChartWidth",
+                            "line": 188,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 356,
+                            "functionName": "_minChartHeight",
+                            "line": 189,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 228,
+                            "functionName": "alignment",
+                            "line": 181,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 256,
+                            "functionName": "pointSize",
+                            "line": 182,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 197,
+                            "functionName": "family",
+                            "line": 183,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 238,
+                            "functionName": "pointSize",
+                            "line": 184,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 212,
+                            "functionName": "family",
+                            "line": 185,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 179,
+                            "functionName": "_startPoint",
+                            "line": 193,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 2463,
+                            "functionName": "onPressed",
+                            "line": 196,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PIDTuning.qml)::_startPoint with type QVariant -> (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PIDTuning.qml)::_startPoint with type QVariant (adjusted to QPointF)"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 160,
+                            "functionName": "onPressed",
+                            "line": 196,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 675,
+                            "functionName": "onWheel",
+                            "line": 202,
+                            "message": "Cannot access value for name chartDisplaySec"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 132,
+                            "functionName": "onWheel",
+                            "line": 202,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 514,
+                            "functionName": "onPositionChanged",
+                            "line": 209,
+                            "message": "Cannot load property x from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PIDTuning.qml)::_startPoint with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 118,
+                            "functionName": "onPositionChanged",
+                            "line": 209,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 211,
+                            "functionName": "onReleased",
+                            "line": 220,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 179,
+                            "functionName": "fill",
+                            "line": 195,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 402,
+                            "functionName": "spacing",
+                            "line": 228,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 107,
+                            "functionName": "spacing",
+                            "line": 231,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 235,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 239,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 240,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 255,
+                            "functionName": "target",
+                            "line": 249,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "onArmedChanged",
+                            "line": 250,
+                            "message": "Could not find signal \"armedChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 260,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 263,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 160,
+                            "functionName": "visible",
+                            "line": 270,
+                            "message": "Cannot retrieve a non-object type by ID: autoModeChange"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 328,
+                            "functionName": "pointSize",
+                            "line": 273,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 876,
+                            "functionName": "text",
+                            "line": 277,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 310,
+                            "functionName": "pointSize",
+                            "line": 278,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 242,
+                            "functionName": "alignment",
+                            "line": 286,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 113,
+                            "functionName": "visible",
+                            "line": 289,
+                            "message": "Cannot access value for name showAutoTuning"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 294,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 295,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 300,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 301,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 232,
+                            "functionName": "visible",
+                            "line": 306,
+                            "message": "Cannot access value for name showAutoTuning"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 233,
+                            "functionName": "visible",
+                            "line": 310,
+                            "message": "Cannot access value for name showAutoTuning"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 98,
+                            "functionName": "spacing",
+                            "line": 314,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 109,
+                            "functionName": "visible",
+                            "line": 315,
+                            "message": "Cannot access value for name axis"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 88,
+                            "functionName": "model",
+                            "line": 320,
+                            "message": "Cannot access value for name axis"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 322,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 323,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 324,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 100,
+                            "functionName": "model",
+                            "line": 333,
+                            "message": "Cannot access value for name axis"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 140,
+                            "functionName": "model",
+                            "line": 336,
+                            "message": "Cannot access value for name axis"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 139,
+                            "functionName": "heading",
+                            "line": 340,
+                            "message": "Cannot access value for name title"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 670,
+                            "functionName": "headingDescription",
+                            "line": 341,
+                            "message": "Cannot access value for name description"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 159,
+                            "functionName": "visible",
+                            "line": 342,
+                            "message": "Cannot access value for name _currentAxis"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 451,
+                            "functionName": "preferredWidth",
+                            "line": 343,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 346,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 241,
+                            "functionName": "from",
+                            "line": 347,
+                            "message": "Cannot access value for name min"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 230,
+                            "functionName": "to",
+                            "line": 348,
+                            "message": "Cannot access value for name max"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 208,
+                            "functionName": "majorTickStepSize",
+                            "line": 349,
+                            "message": "Cannot access value for name step"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 95,
+                            "functionName": "rows",
+                            "line": 360,
+                            "message": "Cannot load property length from QQuickRepeater::model with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 309,
+                            "functionName": "flow",
+                            "line": 361,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 94,
+                            "functionName": "columnSpacing",
+                            "line": 363,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 166,
+                            "functionName": "model",
+                            "line": 366,
+                            "message": "Cannot access value for name axis"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 694,
+                            "functionName": "text",
+                            "line": 368,
+                            "message": "Cannot access value for name param"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 664,
+                            "functionName": "text",
+                            "line": 374,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 118,
+                            "functionName": "spacing",
+                            "line": 380,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 384,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 389,
+                            "message": "Could not find signal \"clicked\"."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/PIDTuning.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

@@ -1,0 +1,783 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 7859,
+                            "functionName": "spacing",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 493,
+                            "functionName": "_activeVehicle",
+                            "line": 11,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 67,
+                            "functionName": "_armed",
+                            "line": 12,
+                            "message": "Cannot load property armed from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 160,
+                            "functionName": "_margins",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 213,
+                            "functionName": "_spacing",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 54,
+                            "durationMicroseconds": 56,
+                            "functionName": "_healthAndArmingChecksSupported",
+                            "line": 16,
+                            "message": "Cannot load property healthAndArmingCheckReport from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 106,
+                            "functionName": "_vehicleFlies",
+                            "line": 17,
+                            "message": "Cannot load property airShip from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 75,
+                            "functionName": "_vehicleInAir",
+                            "line": 18,
+                            "message": "Cannot load property flying from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 36,
+                            "functionName": "_vtolInFWDFlight",
+                            "line": 19,
+                            "message": "Cannot load property vtolInFwdFlight from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 394,
+                            "functionName": "dropMainStatusIndicator",
+                            "line": 21,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 178,
+                            "functionName": "verticalAlignment",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 125,
+                            "functionName": "text",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 57,
+                            "functionName": "color",
+                            "line": 34,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 7762,
+                            "functionName": "mainStatusText",
+                            "line": 45,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 623,
+                            "functionName": "preferredWidth",
+                            "line": 31,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 158,
+                            "functionName": "pointSize",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 235,
+                            "functionName": "width",
+                            "line": 114,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 85,
+                            "functionName": "height",
+                            "line": 115,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 173,
+                            "functionName": "color",
+                            "line": 117,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method getIconColor, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 136,
+                            "functionName": "fillMode",
+                            "line": 119,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 144,
+                            "functionName": "visible",
+                            "line": 120,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 289,
+                            "functionName": "getIconColor",
+                            "line": 122,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 175,
+                            "functionName": "verticalCenter",
+                            "line": 112,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 161,
+                            "functionName": "right",
+                            "line": 113,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 90,
+                            "functionName": "width",
+                            "line": 118,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 679,
+                            "functionName": "onClicked",
+                            "line": 137,
+                            "message": "method dropMainStatusIndicator cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 99,
+                            "functionName": "fill",
+                            "line": 136,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 116,
+                            "functionName": "verticalAlignment",
+                            "line": 144,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 109,
+                            "functionName": "text",
+                            "line": 145,
+                            "message": "Cannot access value for name _vtolInFWDFlight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 49,
+                            "functionName": "color",
+                            "line": 146,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 79,
+                            "functionName": "visible",
+                            "line": 148,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 97,
+                            "functionName": "pointSize",
+                            "line": 147,
+                            "message": "Cannot access value for name _vehicleInAir"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 1155,
+                            "functionName": "onClicked",
+                            "line": 152,
+                            "message": "Cannot access value for name _vehicleInAir"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 115,
+                            "functionName": "fill",
+                            "line": 151,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 53,
+                            "functionName": "contentComponent",
+                            "line": 172,
+                            "message": "Cannot access value for name mainStatusContentComponent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 40,
+                            "functionName": "expandedComponent",
+                            "line": 173,
+                            "message": "Cannot access value for name mainStatusExpandedComponent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 37,
+                            "functionName": "spacing",
+                            "line": 182,
+                            "message": "Cannot access value for name _spacing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 143,
+                            "functionName": "spacing",
+                            "line": 185,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 188,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 189,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "onActivated",
+                            "line": 191,
+                            "message": "Could not find signal \"activated\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 103,
+                            "functionName": "alternateText",
+                            "line": 210,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 163,
+                            "functionName": "visible",
+                            "line": 211,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 111,
+                            "functionName": "_rgLinkNames",
+                            "line": 213,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 103,
+                            "functionName": "_rgLinkStatus",
+                            "line": 214,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 103,
+                            "functionName": "_primaryLinkName",
+                            "line": 215,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 1363,
+                            "functionName": "updateComboModel",
+                            "line": 217,
+                            "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml)::_rgLinkNames with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 166,
+                            "functionName": "on_RgLinkNamesChanged",
+                            "line": 228,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 110,
+                            "functionName": "on_RgLinkStatusChanged",
+                            "line": 229,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 583,
+                            "functionName": "onActivated",
+                            "line": 231,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 74,
+                            "functionName": "onActivated",
+                            "line": 231,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 143,
+                            "functionName": "alignment",
+                            "line": 208,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 103,
+                            "functionName": "onCompleted",
+                            "line": 227,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 42,
+                            "functionName": "visible",
+                            "line": 241,
+                            "message": "Cannot retrieve a non-object type by ID: vehicleMessageList"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 55,
+                            "functionName": "visible",
+                            "line": 251,
+                            "message": "Cannot access value for name _healthAndArmingChecksSupported"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 49,
+                            "functionName": "rowSpacing",
+                            "line": 254,
+                            "message": "Cannot access value for name _spacing"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 38,
+                            "functionName": "columnSpacing",
+                            "line": 255,
+                            "message": "Cannot access value for name _spacing"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 63,
+                            "functionName": "rows",
+                            "line": 256,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 148,
+                            "functionName": "flow",
+                            "line": 257,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 62,
+                            "functionName": "model",
+                            "line": 260,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 549,
+                            "functionName": "text",
+                            "line": 261,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 58,
+                            "functionName": "model",
+                            "line": 265,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 422,
+                            "functionName": "text",
+                            "line": 266,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 137,
+                            "functionName": "visible",
+                            "line": 274,
+                            "message": "Cannot access value for name _healthAndArmingChecksSupported"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 100,
+                            "functionName": "model",
+                            "line": 278,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 123,
+                            "functionName": "delegate",
+                            "line": 279,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 147,
+                            "functionName": "spacing",
+                            "line": 288,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 479,
+                            "functionName": "text",
+                            "line": 292,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 142,
+                            "functionName": "textFormat",
+                            "line": 293,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 896,
+                            "functionName": "color",
+                            "line": 294,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 818,
+                            "functionName": "onClicked",
+                            "line": 297,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 122,
+                            "functionName": "fill",
+                            "line": 296,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 221,
+                            "functionName": "height",
+                            "line": 307,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 76,
+                            "functionName": "width",
+                            "line": 308,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 74,
+                            "functionName": "color",
+                            "line": 310,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 358,
+                            "functionName": "visible",
+                            "line": 311,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 163,
+                            "functionName": "verticalCenter",
+                            "line": 306,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 603,
+                            "functionName": "onClicked",
+                            "line": 314,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 92,
+                            "functionName": "fill",
+                            "line": 313,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 438,
+                            "functionName": "text",
+                            "line": 321,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 128,
+                            "functionName": "textFormat",
+                            "line": 322,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 391,
+                            "functionName": "visible",
+                            "line": 324,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 797,
+                            "functionName": "onLinkActivated",
+                            "line": 328,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 88,
+                            "functionName": "onLinkActivated",
+                            "line": 328,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 349,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 185,
+                            "functionName": "spacing",
+                            "line": 364,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 142,
+                            "functionName": "margins",
+                            "line": 366,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 231,
+                            "functionName": "preferredWidth",
+                            "line": 363,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 78,
+                            "functionName": "source",
+                            "line": 370,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 99,
+                            "functionName": "visible",
+                            "line": 377,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 383,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 429,
+                            "functionName": "visible",
+                            "line": 389,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 221,
+                            "functionName": "rowSpacing",
+                            "line": 393,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 201,
+                            "functionName": "columnSpacing",
+                            "line": 394,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 400,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 409,
+                            "message": "Could not find signal \"clicked\"."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicator.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

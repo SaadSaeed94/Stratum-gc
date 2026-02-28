@@ -1,0 +1,1775 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 11683,
+                            "functionName": "_margins",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 353,
+                            "functionName": "_labelWidth",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 308,
+                            "functionName": "_valueWidth",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 274,
+                            "functionName": "_columnSpacing",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 246,
+                            "functionName": "_comboFieldWidth",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 240,
+                            "functionName": "_valueFieldWidth",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 250,
+                            "functionName": "flagsWidth",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 230,
+                            "functionName": "flagsHeight",
+                            "line": 22,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 149,
+                            "functionName": "_activeRID",
+                            "line": 26,
+                            "message": "Cannot load property remoteIDManager from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 110,
+                            "functionName": "commsGood",
+                            "line": 29,
+                            "message": "Cannot load property remoteIDManager from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 760,
+                            "functionName": "_activeVehicle",
+                            "line": 32,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 612,
+                            "functionName": "_offlineVehicle",
+                            "line": 33,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 607,
+                            "functionName": "_regionOperation",
+                            "line": 34,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 624,
+                            "functionName": "_locationType",
+                            "line": 35,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 620,
+                            "functionName": "_classificationType",
+                            "line": 36,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 323,
+                            "functionName": "_remoteIDManager",
+                            "line": 37,
+                            "message": "Cannot load property remoteIDManager from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 723,
+                            "functionName": "remoteIDSettings",
+                            "line": 40,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "regionFact",
+                            "line": 41,
+                            "message": "Cannot resolve property type Fact for binding on regionFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "sendOperatorIdFact",
+                            "line": 42,
+                            "message": "Cannot resolve property type Fact for binding on sendOperatorIdFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "locationTypeFact",
+                            "line": 43,
+                            "message": "Cannot resolve property type Fact for binding on locationTypeFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "operatorIDFact",
+                            "line": 44,
+                            "message": "Cannot resolve property type Fact for binding on operatorIDFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 245,
+                            "functionName": "isEURegion",
+                            "line": 45,
+                            "message": "Cannot access value for name regionFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 214,
+                            "functionName": "isFAARegion",
+                            "line": 46,
+                            "message": "Cannot access value for name regionFact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 326,
+                            "functionName": "textFieldWidth",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 247,
+                            "functionName": "textLabelWidth",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 771,
+                            "functionName": "gcsPosition",
+                            "line": 51,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 632,
+                            "functionName": "gcsHeading",
+                            "line": 52,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 610,
+                            "functionName": "gcsHDOP",
+                            "line": 53,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 3194,
+                            "functionName": "getSelfIdLabelText",
+                            "line": 60,
+                            "message": "Cannot access value for name selfIDComboBox"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 3403,
+                            "functionName": "getSelfIDFact",
+                            "line": 77,
+                            "message": "Cannot access value for name selfIDComboBox"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 249,
+                            "functionName": "width",
+                            "line": 96,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 187,
+                            "functionName": "height",
+                            "line": 97,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 209,
+                            "functionName": "alignment",
+                            "line": 98,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 73,
+                            "functionName": "spacing",
+                            "line": 103,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 221,
+                            "functionName": "horizontalCenter",
+                            "line": 102,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 80,
+                            "functionName": "color",
+                            "line": 112,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 64,
+                            "functionName": "visible",
+                            "line": 113,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 140,
+                            "functionName": "preferredHeight",
+                            "line": 110,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 105,
+                            "functionName": "preferredWidth",
+                            "line": 111,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 82,
+                            "functionName": "rowSpacing",
+                            "line": 122,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 60,
+                            "functionName": "columnSpacing",
+                            "line": 123,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 64,
+                            "functionName": "margins",
+                            "line": 118,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 267,
+                            "functionName": "top",
+                            "line": 119,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 277,
+                            "functionName": "horizontalCenter",
+                            "line": 120,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 390,
+                            "functionName": "color",
+                            "line": 129,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 64,
+                            "functionName": "radius",
+                            "line": 130,
+                            "message": "Cannot access value for name radiusFlags"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 73,
+                            "functionName": "visible",
+                            "line": 131,
+                            "message": "Cannot access value for name commsGood"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 71,
+                            "functionName": "preferredHeight",
+                            "line": 127,
+                            "message": "Cannot access value for name flagsHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 58,
+                            "functionName": "preferredWidth",
+                            "line": 128,
+                            "message": "Cannot access value for name flagsWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 212,
+                            "functionName": "wrapMode",
+                            "line": 136,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 164,
+                            "functionName": "horizontalAlignment",
+                            "line": 137,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 173,
+                            "functionName": "verticalAlignment",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 360,
+                            "functionName": "fill",
+                            "line": 134,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 423,
+                            "functionName": "color",
+                            "line": 147,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 60,
+                            "functionName": "radius",
+                            "line": 148,
+                            "message": "Cannot access value for name radiusFlags"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 60,
+                            "functionName": "preferredHeight",
+                            "line": 145,
+                            "message": "Cannot access value for name flagsHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 55,
+                            "functionName": "preferredWidth",
+                            "line": 146,
+                            "message": "Cannot access value for name flagsWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 313,
+                            "functionName": "text",
+                            "line": 152,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 210,
+                            "functionName": "wrapMode",
+                            "line": 153,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 160,
+                            "functionName": "horizontalAlignment",
+                            "line": 154,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 151,
+                            "functionName": "verticalAlignment",
+                            "line": 155,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 168,
+                            "functionName": "fill",
+                            "line": 151,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 407,
+                            "functionName": "color",
+                            "line": 164,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 64,
+                            "functionName": "radius",
+                            "line": 165,
+                            "message": "Cannot access value for name radiusFlags"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 53,
+                            "functionName": "visible",
+                            "line": 166,
+                            "message": "Cannot access value for name commsGood"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 77,
+                            "functionName": "preferredHeight",
+                            "line": 162,
+                            "message": "Cannot access value for name flagsHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 55,
+                            "functionName": "preferredWidth",
+                            "line": 163,
+                            "message": "Cannot access value for name flagsWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 218,
+                            "functionName": "wrapMode",
+                            "line": 171,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 177,
+                            "functionName": "horizontalAlignment",
+                            "line": 172,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 166,
+                            "functionName": "verticalAlignment",
+                            "line": 173,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 160,
+                            "functionName": "fill",
+                            "line": 169,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 404,
+                            "functionName": "color",
+                            "line": 182,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 71,
+                            "functionName": "radius",
+                            "line": 183,
+                            "message": "Cannot access value for name radiusFlags"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 55,
+                            "functionName": "visible",
+                            "line": 184,
+                            "message": "Cannot access value for name commsGood"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 63,
+                            "functionName": "preferredHeight",
+                            "line": 180,
+                            "message": "Cannot access value for name flagsHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 57,
+                            "functionName": "preferredWidth",
+                            "line": 181,
+                            "message": "Cannot access value for name flagsWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 183,
+                            "functionName": "wrapMode",
+                            "line": 189,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 135,
+                            "functionName": "horizontalAlignment",
+                            "line": 190,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 139,
+                            "functionName": "verticalAlignment",
+                            "line": 191,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 148,
+                            "functionName": "fill",
+                            "line": 187,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 469,
+                            "functionName": "color",
+                            "line": 200,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 65,
+                            "functionName": "radius",
+                            "line": 201,
+                            "message": "Cannot access value for name radiusFlags"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 991,
+                            "functionName": "visible",
+                            "line": 202,
+                            "message": "Cannot access value for name commsGood"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 100,
+                            "functionName": "preferredHeight",
+                            "line": 198,
+                            "message": "Cannot access value for name flagsHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 71,
+                            "functionName": "preferredWidth",
+                            "line": 199,
+                            "message": "Cannot access value for name flagsWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 233,
+                            "functionName": "wrapMode",
+                            "line": 207,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 148,
+                            "functionName": "horizontalAlignment",
+                            "line": 208,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 161,
+                            "functionName": "verticalAlignment",
+                            "line": 209,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 226,
+                            "functionName": "fill",
+                            "line": 205,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 241,
+                            "functionName": "spacing",
+                            "line": 219,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 95,
+                            "functionName": "target",
+                            "line": 222,
+                            "message": "Cannot access value for name regionFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onRawValueChanged",
+                            "line": 223,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 360,
+                            "functionName": "spacing",
+                            "line": 233,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 218,
+                            "functionName": "alignment",
+                            "line": 234,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 82,
+                            "functionName": "label",
+                            "line": 240,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 241,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 616,
+                            "functionName": "visible",
+                            "line": 242,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 290,
+                            "functionName": "outerBorderColor",
+                            "line": 247,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 323,
+                            "functionName": "visible",
+                            "line": 248,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 199,
+                            "functionName": "labelText",
+                            "line": 252,
+                            "message": "Cannot access value for name _remoteIDManager"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 269,
+                            "functionName": "visible",
+                            "line": 253,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 295,
+                            "functionName": "outerBorderColor",
+                            "line": 263,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 73,
+                            "functionName": "preferredWidth",
+                            "line": 262,
+                            "message": "Cannot access value for name textLabelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 269,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 270,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 273,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 84,
+                            "functionName": "label",
+                            "line": 278,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 279,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 49,
+                            "functionName": "visible",
+                            "line": 281,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 105,
+                            "functionName": "enabled",
+                            "line": 282,
+                            "message": "Cannot retrieve a non-object type by ID: sendBasicIDSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 285,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 84,
+                            "functionName": "label",
+                            "line": 289,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 290,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 47,
+                            "functionName": "visible",
+                            "line": 292,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 75,
+                            "functionName": "enabled",
+                            "line": 293,
+                            "message": "Cannot retrieve a non-object type by ID: sendBasicIDSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 296,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 79,
+                            "functionName": "label",
+                            "line": 300,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 301,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 42,
+                            "functionName": "visible",
+                            "line": 302,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 78,
+                            "functionName": "enabled",
+                            "line": 303,
+                            "message": "Cannot retrieve a non-object type by ID: sendBasicIDSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 94,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 306,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 308,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 317,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 318,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 319,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 320,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 323,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 91,
+                            "functionName": "label",
+                            "line": 328,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 329,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 144,
+                            "functionName": "visible",
+                            "line": 331,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 334,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 436,
+                            "functionName": "spacing",
+                            "line": 338,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 358,
+                            "functionName": "text",
+                            "line": 342,
+                            "message": "Cannot access value for name operatorIDFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 349,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 350,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 58,
+                            "durationMicroseconds": 554,
+                            "functionName": "operatorIDInvalid",
+                            "line": 353,
+                            "message": "Cannot access value for name _regionOperation"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 343,
+                            "functionName": "onOperatorIDInvalidChanged",
+                            "line": 356,
+                            "message": "Cannot retrieve a non-object type by ID: operatorIDTextField"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTextChanged",
+                            "line": 364,
+                            "message": "Could not find signal \"textChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 373,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 84,
+                            "functionName": "preferredWidth",
+                            "line": 347,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 80,
+                            "functionName": "preferredWidth",
+                            "line": 388,
+                            "message": "Cannot access value for name textLabelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 393,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 394,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 397,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 403,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 99,
+                            "functionName": "visible",
+                            "line": 405,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 105,
+                            "functionName": "enabled",
+                            "line": 406,
+                            "message": "Cannot retrieve a non-object type by ID: sendSelfIDSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 409,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 79,
+                            "functionName": "label",
+                            "line": 413,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 414,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 40,
+                            "functionName": "visible",
+                            "line": 415,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 79,
+                            "functionName": "enabled",
+                            "line": 416,
+                            "message": "Cannot retrieve a non-object type by ID: sendSelfIDSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 76,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 419,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 421,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 82,
+                            "functionName": "label",
+                            "line": 425,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 426,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 44,
+                            "functionName": "visible",
+                            "line": 427,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 80,
+                            "functionName": "enabled",
+                            "line": 428,
+                            "message": "Cannot retrieve a non-object type by ID: sendSelfIDSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 82,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 431,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 433,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 107,
+                            "functionName": "label",
+                            "line": 437,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 438,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 40,
+                            "functionName": "visible",
+                            "line": 439,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 73,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 442,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 444,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 592,
+                            "functionName": "spacing",
+                            "line": 450,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 251,
+                            "functionName": "alignment",
+                            "line": 451,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 312,
+                            "functionName": "outerBorderColor",
+                            "line": 455,
+                            "message": "Cannot access value for name _activeRID"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 105,
+                            "functionName": "label",
+                            "line": 457,
+                            "message": "Cannot access value for name locationTypeFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 458,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 124,
+                            "functionName": "label",
+                            "line": 464,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 465,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 342,
+                            "functionName": "enabled",
+                            "line": 467,
+                            "message": "Cannot access value for name locationTypeFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 67,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 469,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 471,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 79,
+                            "functionName": "label",
+                            "line": 475,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 476,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 272,
+                            "functionName": "enabled",
+                            "line": 478,
+                            "message": "Cannot access value for name locationTypeFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 80,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 480,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 482,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 107,
+                            "functionName": "label",
+                            "line": 486,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 487,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 263,
+                            "functionName": "enabled",
+                            "line": 489,
+                            "message": "Cannot access value for name locationTypeFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 65,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 491,
+                            "message": "Cannot access value for name textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 493,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 1739,
+                            "functionName": "visible",
+                            "line": 498,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 81,
+                            "functionName": "rowSpacing",
+                            "line": 503,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 64,
+                            "functionName": "columnSpacing",
+                            "line": 505,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 96,
+                            "functionName": "margins",
+                            "line": 502,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 249,
+                            "functionName": "alignment",
+                            "line": 506,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 1189,
+                            "functionName": "onActivated",
+                            "line": 518,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 117,
+                            "functionName": "onActivated",
+                            "line": 518,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 99,
+                            "functionName": "preferredWidth",
+                            "line": 513,
+                            "message": "Cannot access value for name _comboFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 9122,
+                            "functionName": "onCompleted",
+                            "line": 523,
+                            "message": "Cannot access value for name gpsDisabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 283,
+                            "functionName": "visible",
+                            "line": 539,
+                            "message": "Cannot access value for name gpsUdpPort"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 306,
+                            "functionName": "visible",
+                            "line": 543,
+                            "message": "Cannot access value for name gpsUdpPort"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 834,
+                            "functionName": "model",
+                            "line": 546,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 1174,
+                            "functionName": "onActivated",
+                            "line": 548,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 122,
+                            "functionName": "onActivated",
+                            "line": 548,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 113,
+                            "functionName": "preferredWidth",
+                            "line": 545,
+                            "message": "Cannot access value for name _comboFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 1073,
+                            "functionName": "onCompleted",
+                            "line": 553,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 215,
+                            "functionName": "visible",
+                            "line": 561,
+                            "message": "Cannot access value for name gpsUdpPort"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 564,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 566,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 159,
+                            "functionName": "preferredWidth",
+                            "line": 565,
+                            "message": "Cannot access value for name _valueFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 94,
+                            "functionName": "visible",
+                            "line": 574,
+                            "message": "Cannot access value for name isEURegion"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 580,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 581,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 583,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 585,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 103,
+                            "functionName": "label",
+                            "line": 590,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 591,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 43,
+                            "functionName": "visible",
+                            "line": 593,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 95,
+                            "functionName": "enabled",
+                            "line": 594,
+                            "message": "Cannot retrieve a non-object type by ID: euProvideInfoSlider"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 597,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 81,
+                            "functionName": "label",
+                            "line": 601,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 602,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 44,
+                            "functionName": "visible",
+                            "line": 604,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 283,
+                            "functionName": "enabled",
+                            "line": 605,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 608,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+        }
+    ]
+}

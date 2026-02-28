@@ -1,0 +1,135 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 369,
+                            "functionName": "width",
+                            "line": 8,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 209,
+                            "functionName": "height",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 567,
+                            "functionName": "color",
+                            "line": 10,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 72,
+                            "functionName": "visible",
+                            "line": 13,
+                            "message": "Cannot load property isUvc from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlightDisplayViewUVC.qml)::_videoManager with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 533,
+                            "functionName": "_videoManager",
+                            "line": 15,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 2183,
+                            "functionName": "adjustAspectRatio",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 174,
+                            "functionName": "centerIn",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "findCameraDevice",
+                            "line": 29,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 186,
+                            "functionName": "videoOutput",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 171,
+                            "functionName": "cameraDevice",
+                            "line": 43,
+                            "message": "Cannot access value for name _videoManager"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 74,
+                            "functionName": "active",
+                            "line": 44,
+                            "message": "Cannot access value for name _videoManager"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 451,
+                            "functionName": "onCameraDeviceChanged",
+                            "line": 46,
+                            "message": "method adjustAspectRatio cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 410,
+                            "functionName": "onActiveChanged",
+                            "line": 52,
+                            "message": "method adjustAspectRatio cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 206,
+                            "functionName": "fillMode",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 149,
+                            "functionName": "fill",
+                            "line": 63,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/FlightDisplayViewUVC.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

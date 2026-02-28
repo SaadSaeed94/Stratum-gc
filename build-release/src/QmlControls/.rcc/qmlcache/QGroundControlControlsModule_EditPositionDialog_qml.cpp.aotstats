@@ -1,0 +1,319 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 327,
+                            "functionName": "buttons",
+                            "line": 13,
+                            "message": "Cannot access value for name Dialog"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 11217,
+                            "functionName": "_margin",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 244,
+                            "functionName": "_textFieldWidth",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 58,
+                            "functionName": "_showGeographic",
+                            "line": 20,
+                            "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 30,
+                            "functionName": "_showUTM",
+                            "line": 21,
+                            "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 27,
+                            "functionName": "_showMGRS",
+                            "line": 22,
+                            "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 28,
+                            "functionName": "_showVehicle",
+                            "line": 23,
+                            "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 52,
+                            "functionName": "onCompleted",
+                            "line": 28,
+                            "message": "method initValues cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 18,
+                            "durationMicroseconds": 47,
+                            "functionName": "spacing",
+                            "line": 32,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 702,
+                            "functionName": "model",
+                            "line": 38,
+                            "message": "Cannot access value for name showSetPositionFromVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 45,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 109,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 46,
+                            "message": "Cannot access value for name _textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 64,
+                            "functionName": "visible",
+                            "line": 48,
+                            "message": "Cannot access value for name _showGeographic"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 53,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 61,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 54,
+                            "message": "Cannot access value for name _textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 57,
+                            "functionName": "visible",
+                            "line": 56,
+                            "message": "Cannot access value for name _showGeographic"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 68,
+                            "functionName": "visible",
+                            "line": 62,
+                            "message": "Cannot access value for name _showGeographic"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 266,
+                            "functionName": "onClicked",
+                            "line": 63,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 71,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 83,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 72,
+                            "message": "Cannot access value for name _textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 59,
+                            "functionName": "visible",
+                            "line": 74,
+                            "message": "Cannot access value for name _showUTM"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 79,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 64,
+                            "functionName": "visible",
+                            "line": 82,
+                            "message": "Cannot access value for name _showUTM"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 87,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 61,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 88,
+                            "message": "Cannot access value for name _textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 53,
+                            "functionName": "visible",
+                            "line": 90,
+                            "message": "Cannot access value for name _showUTM"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 95,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 79,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 96,
+                            "message": "Cannot access value for name _textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 60,
+                            "functionName": "visible",
+                            "line": 98,
+                            "message": "Cannot access value for name _showUTM"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 59,
+                            "functionName": "visible",
+                            "line": 104,
+                            "message": "Cannot access value for name _showUTM"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 225,
+                            "functionName": "onClicked",
+                            "line": 105,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 113,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 69,
+                            "functionName": "visible",
+                            "line": 114,
+                            "message": "Cannot access value for name _showMGRS"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 59,
+                            "functionName": "textFieldPreferredWidth",
+                            "line": 115,
+                            "message": "Cannot access value for name _textFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 59,
+                            "functionName": "visible",
+                            "line": 122,
+                            "message": "Cannot access value for name _showMGRS"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 199,
+                            "functionName": "onClicked",
+                            "line": 123,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 67,
+                            "functionName": "visible",
+                            "line": 132,
+                            "message": "Cannot access value for name _showVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 186,
+                            "functionName": "onClicked",
+                            "line": 133,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/EditPositionDialog.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

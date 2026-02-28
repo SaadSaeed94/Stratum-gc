@@ -1,0 +1,23 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 386,
+                            "functionName": "model",
+                            "line": 10,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/VTOLChecklist.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

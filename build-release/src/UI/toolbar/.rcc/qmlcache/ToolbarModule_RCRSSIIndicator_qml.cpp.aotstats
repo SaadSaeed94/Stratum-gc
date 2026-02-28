@@ -1,0 +1,191 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 539,
+                            "functionName": "width",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 113,
+                            "functionName": "showIndicator",
+                            "line": 15,
+                            "message": "Cannot load property supportsRadio from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/RCRSSIIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 500,
+                            "functionName": "_activeVehicle",
+                            "line": 17,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 112,
+                            "functionName": "_rcRSSIAvailable",
+                            "line": 18,
+                            "message": "Cannot load property rcRSSI from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/RCRSSIIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 316,
+                            "functionName": "top",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 228,
+                            "functionName": "bottom",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 136,
+                            "functionName": "labelText",
+                            "line": 31,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 12237,
+                            "functionName": "spacing",
+                            "line": 41,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 303,
+                            "functionName": "top",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 225,
+                            "functionName": "bottom",
+                            "line": 40,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 148,
+                            "functionName": "width",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 177,
+                            "functionName": "fillMode",
+                            "line": 49,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 134,
+                            "functionName": "opacity",
+                            "line": 50,
+                            "message": "Cannot access value for name _rcRSSIAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 437,
+                            "functionName": "color",
+                            "line": 51,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 273,
+                            "functionName": "top",
+                            "line": 45,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 237,
+                            "functionName": "bottom",
+                            "line": 46,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 139,
+                            "functionName": "height",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 310,
+                            "functionName": "size",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 201,
+                            "functionName": "percent",
+                            "line": 57,
+                            "message": "Cannot access value for name _rcRSSIAvailable"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 251,
+                            "functionName": "verticalCenter",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 594,
+                            "functionName": "onClicked",
+                            "line": 63,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 176,
+                            "functionName": "fill",
+                            "line": 62,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UI/toolbar/RCRSSIIndicator.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+        }
+    ]
+}

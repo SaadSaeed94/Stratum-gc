@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AppSettings/">
+    <file alias="ADSBServerSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/ADSBServerSettings.qml</file>
+    <file alias="BluetoothSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/BluetoothSettings.qml</file>
+    <file alias="DebugWindow.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/DebugWindow.qml</file>
+    <file alias="FlyViewSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml</file>
+    <file alias="GeneralSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml</file>
+    <file alias="HelpSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/HelpSettings.qml</file>
+    <file alias="LinkSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/LinkSettings.qml</file>
+    <file alias="LogReplaySettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/LogReplaySettings.qml</file>
+    <file alias="MapSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/MapSettings.qml</file>
+    <file alias="NTRIPSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/NTRIPSettings.qml</file>
+    <file alias="MockLink.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/MockLink.qml</file>
+    <file alias="MockLinkSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/MockLinkSettings.qml</file>
+    <file alias="PlanViewSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/PlanViewSettings.qml</file>
+    <file alias="PX4LogTransferSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/PX4LogTransferSettings.qml</file>
+    <file alias="QmlTest.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/QmlTest.qml</file>
+    <file alias="RemoteIDSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml</file>
+    <file alias="SerialSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/SerialSettings.qml</file>
+    <file alias="SettingsPage.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/SettingsPage.qml</file>
+    <file alias="SettingsPagesModel.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/SettingsPagesModel.qml</file>
+    <file alias="TcpSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TcpSettings.qml</file>
+    <file alias="TelemetrySettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml</file>
+    <file alias="UdpSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/UdpSettings.qml</file>
+    <file alias="VideoSettings.qml">/home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml</file>
+  </qresource>
+</RCC>
+

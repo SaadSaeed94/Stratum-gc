@@ -1,0 +1,623 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 566,
+                            "functionName": "width",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 159,
+                            "functionName": "showIndicator",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 541,
+                            "functionName": "_activeJoystick",
+                            "line": 15,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 1060,
+                            "functionName": "_updateJoystickEnabled",
+                            "line": 18,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 311,
+                            "functionName": "top",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 220,
+                            "functionName": "bottom",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 165,
+                            "functionName": "target",
+                            "line": 23,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 157,
+                            "functionName": "onJoystickEnabledChanged",
+                            "line": 24,
+                            "message": "method _updateJoystickEnabled cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 97,
+                            "functionName": "target",
+                            "line": 28,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 131,
+                            "functionName": "onActiveVehicleChanged",
+                            "line": 29,
+                            "message": "method _updateJoystickEnabled cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 186,
+                            "functionName": "onCompleted",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 254,
+                            "functionName": "heading",
+                            "line": 43,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 12580,
+                            "functionName": "columnSpacing",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 917,
+                            "functionName": "text",
+                            "line": 51,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 824,
+                            "functionName": "color",
+                            "line": 56,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 374,
+                            "functionName": "text",
+                            "line": 65,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 351,
+                            "functionName": "visible",
+                            "line": 70,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 150,
+                            "functionName": "text",
+                            "line": 73,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 304,
+                            "functionName": "visible",
+                            "line": 74,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 852,
+                            "functionName": "text",
+                            "line": 79,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 197,
+                            "functionName": "visible",
+                            "line": 90,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 583,
+                            "functionName": "text",
+                            "line": 93,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 279,
+                            "functionName": "color",
+                            "line": 99,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 157,
+                            "functionName": "visible",
+                            "line": 100,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 444,
+                            "functionName": "visible",
+                            "line": 105,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 995,
+                            "functionName": "features",
+                            "line": 108,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 230,
+                            "functionName": "text",
+                            "line": 119,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 457,
+                            "functionName": "visible",
+                            "line": 120,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 180,
+                            "functionName": "visible",
+                            "line": 125,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 260,
+                            "functionName": "text",
+                            "line": 128,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 173,
+                            "functionName": "visible",
+                            "line": 129,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 428,
+                            "functionName": "columnSpacing",
+                            "line": 139,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 165,
+                            "functionName": "visible",
+                            "line": 143,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 163,
+                            "functionName": "text",
+                            "line": 146,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 147,
+                            "functionName": "visible",
+                            "line": 147,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 168,
+                            "functionName": "visible",
+                            "line": 152,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 553,
+                            "functionName": "text",
+                            "line": 155,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 164,
+                            "functionName": "visible",
+                            "line": 156,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 153,
+                            "functionName": "visible",
+                            "line": 161,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 176,
+                            "functionName": "text",
+                            "line": 164,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 145,
+                            "functionName": "visible",
+                            "line": 165,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 175,
+                            "functionName": "visible",
+                            "line": 170,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 203,
+                            "functionName": "text",
+                            "line": 173,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 167,
+                            "functionName": "visible",
+                            "line": 174,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 151,
+                            "functionName": "visible",
+                            "line": 179,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 162,
+                            "functionName": "text",
+                            "line": 182,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 151,
+                            "functionName": "visible",
+                            "line": 183,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 311,
+                            "functionName": "elide",
+                            "line": 184,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 408,
+                            "functionName": "maximumWidth",
+                            "line": 185,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 190,
+                            "functionName": "visible",
+                            "line": 190,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 174,
+                            "functionName": "text",
+                            "line": 193,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 127,
+                            "functionName": "visible",
+                            "line": 194,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 234,
+                            "functionName": "elide",
+                            "line": 197,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 255,
+                            "functionName": "pixelSize",
+                            "line": 196,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 341,
+                            "functionName": "maximumWidth",
+                            "line": 198,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 179,
+                            "functionName": "visible",
+                            "line": 203,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 158,
+                            "functionName": "visible",
+                            "line": 207,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 390,
+                            "functionName": "visible",
+                            "line": 212,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 682,
+                            "functionName": "ledTypes",
+                            "line": 215,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 235,
+                            "functionName": "text",
+                            "line": 224,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 367,
+                            "functionName": "visible",
+                            "line": 225,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 162,
+                            "functionName": "visible",
+                            "line": 230,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 355,
+                            "functionName": "text",
+                            "line": 233,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 154,
+                            "functionName": "visible",
+                            "line": 234,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 252,
+                            "functionName": "visible",
+                            "line": 239,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 1255,
+                            "functionName": "sensors",
+                            "line": 242,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 228,
+                            "functionName": "text",
+                            "line": 256,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 264,
+                            "functionName": "visible",
+                            "line": 257,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 184,
+                            "functionName": "width",
+                            "line": 266,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 225,
+                            "functionName": "fillMode",
+                            "line": 271,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 757,
+                            "functionName": "color",
+                            "line": 272,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 282,
+                            "functionName": "top",
+                            "line": 267,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 233,
+                            "functionName": "bottom",
+                            "line": 268,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 153,
+                            "functionName": "height",
+                            "line": 269,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 170,
+                            "functionName": "fillItem",
+                            "line": 284,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 774,
+                            "functionName": "onClicked",
+                            "line": 285,
+                            "message": "Cannot access value for name mainWindow"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UI/toolbar/JoystickIndicator.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+        }
+    ]
+}

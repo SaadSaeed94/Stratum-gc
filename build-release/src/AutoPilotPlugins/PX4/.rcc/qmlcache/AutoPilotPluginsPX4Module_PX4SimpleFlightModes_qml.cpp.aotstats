@@ -1,0 +1,391 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 10642,
+                            "functionName": "_margins",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 593,
+                            "functionName": "_switchNameList",
+                            "line": 13,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 550,
+                            "functionName": "_switchTHList",
+                            "line": 14,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 337,
+                            "functionName": "_flightModeComboWidth",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 325,
+                            "functionName": "_channelComboWidth",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 444,
+                            "functionName": "onCompleted",
+                            "line": 19,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 461,
+                            "functionName": "contentWidth",
+                            "line": 38,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 483,
+                            "functionName": "contentHeight",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 179,
+                            "functionName": "fill",
+                            "line": 36,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 94,
+                            "functionName": "spacing",
+                            "line": 43,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 66,
+                            "functionName": "spacing",
+                            "line": 47,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 62,
+                            "functionName": "spacing",
+                            "line": 51,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 136,
+                            "functionName": "width",
+                            "line": 61,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 473,
+                            "functionName": "height",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 447,
+                            "functionName": "color",
+                            "line": 63,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 322,
+                            "functionName": "rowSpacing",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 130,
+                            "functionName": "columnSpacing",
+                            "line": 72,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 186,
+                            "functionName": "flow",
+                            "line": 73,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 285,
+                            "functionName": "margins",
+                            "line": 67,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 259,
+                            "functionName": "left",
+                            "line": 68,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 265,
+                            "functionName": "top",
+                            "line": 69,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 880,
+                            "functionName": "text",
+                            "line": 85,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 746,
+                            "functionName": "color",
+                            "line": 86,
+                            "message": "Cannot access value for name controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 92,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 102,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 93,
+                            "functionName": "spacing",
+                            "line": 113,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 202,
+                            "functionName": "width",
+                            "line": 122,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 403,
+                            "functionName": "height",
+                            "line": 123,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 449,
+                            "functionName": "color",
+                            "line": 124,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 219,
+                            "functionName": "columnSpacing",
+                            "line": 132,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 201,
+                            "functionName": "margins",
+                            "line": 128,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 237,
+                            "functionName": "left",
+                            "line": 129,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 240,
+                            "functionName": "top",
+                            "line": 130,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 281,
+                            "functionName": "spacing",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 181,
+                            "functionName": "thFactName",
+                            "line": 141,
+                            "message": "Cannot access value for name _switchTHList"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 69,
+                            "durationMicroseconds": 294,
+                            "functionName": "thFactExists",
+                            "line": 142,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "swFact",
+                            "line": 143,
+                            "message": "Cannot resolve property type Fact for binding on swFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "thFact",
+                            "line": 144,
+                            "message": "Cannot resolve property type Fact for binding on thFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 117,
+                            "functionName": "thValue",
+                            "line": 145,
+                            "message": "Cannot access value for name thFact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 69,
+                            "durationMicroseconds": 404,
+                            "functionName": "thPWM",
+                            "line": 146,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 90,
+                            "functionName": "swChannel",
+                            "line": 147,
+                            "message": "Cannot access value for name swFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 481,
+                            "functionName": "swActive",
+                            "line": 148,
+                            "message": "Cannot access value for name controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 128,
+                            "functionName": "text",
+                            "line": 154,
+                            "message": "Cannot access value for name swFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 806,
+                            "functionName": "color",
+                            "line": 156,
+                            "message": "Cannot access value for name swActive"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 161,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 121,
+                            "functionName": "preferredWidth",
+                            "line": 160,
+                            "message": "Cannot access value for name _channelComboWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 233,
+                            "functionName": "width",
+                            "line": 170,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+        }
+    ]
+}

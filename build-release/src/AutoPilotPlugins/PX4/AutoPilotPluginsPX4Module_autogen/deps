@@ -1,0 +1,7 @@
+AutoPilotPluginsPX4Module_autogen/timestamp: \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/CMakeLists.txt \
+	/home/saad-saeed/Qt/6.10.0/Tools/CMake/bin/cmake

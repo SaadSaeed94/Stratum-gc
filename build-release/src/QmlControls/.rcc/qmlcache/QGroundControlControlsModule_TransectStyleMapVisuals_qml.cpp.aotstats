@@ -1,0 +1,535 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 529,
+                            "functionName": "_missionItem",
+                            "line": 19,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 405,
+                            "functionName": "_mapPolygon",
+                            "line": 20,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 384,
+                            "functionName": "_currentItem",
+                            "line": 21,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 57,
+                            "functionName": "_transectPoints",
+                            "line": 22,
+                            "message": "Cannot load property visualTransectPoints from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::_missionItem with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 103,
+                            "functionName": "_transectCount",
+                            "line": 23,
+                            "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::_transectPoints with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 62,
+                            "functionName": "_hasTurnaround",
+                            "line": 24,
+                            "message": "Cannot load property turnAroundDistance from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::_missionItem with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 389,
+                            "functionName": "_firstTrueTransectIndex",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 121,
+                            "functionName": "_lastTrueTransectIndex",
+                            "line": 26,
+                            "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::_transectPoints with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 43,
+                            "functionName": "_lastPointIndex",
+                            "line": 27,
+                            "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::_transectPoints with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 117,
+                            "functionName": "_showPartialEntryExit",
+                            "line": 28,
+                            "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::_transectPoints with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 1130,
+                            "functionName": "_addVisualElements",
+                            "line": 37,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 277,
+                            "functionName": "_destroyVisualElements",
+                            "line": 43,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 173,
+                            "functionName": "onCompleted",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 153,
+                            "functionName": "onDestruction",
+                            "line": 51,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 100,
+                            "functionName": "mapControl",
+                            "line": 62,
+                            "message": "Cannot access value for name map"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 51,
+                            "functionName": "mapPolygon",
+                            "line": 63,
+                            "message": "Cannot access value for name _mapPolygon"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 181,
+                            "functionName": "interactive",
+                            "line": 64,
+                            "message": "Cannot access value for name polygonInteractive"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 667,
+                            "functionName": "interiorColor",
+                            "line": 67,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 604,
+                            "functionName": "altColor",
+                            "line": 68,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 328,
+                            "functionName": "interiorOpacity",
+                            "line": 69,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 100,
+                            "functionName": "path",
+                            "line": 79,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 52,
+                            "functionName": "visible",
+                            "line": 80,
+                            "message": "Cannot access value for name _currentItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 67,
+                            "functionName": "opacity",
+                            "line": 81,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 253,
+                            "functionName": "path",
+                            "line": 92,
+                            "message": "Cannot access value for name _showPartialEntryExit"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 52,
+                            "functionName": "visible",
+                            "line": 93,
+                            "message": "Cannot access value for name _showPartialEntryExit"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 63,
+                            "functionName": "opacity",
+                            "line": 94,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 282,
+                            "functionName": "path",
+                            "line": 103,
+                            "message": "Cannot access value for name _showPartialEntryExit"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 48,
+                            "functionName": "visible",
+                            "line": 104,
+                            "message": "Cannot access value for name _showPartialEntryExit"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 63,
+                            "functionName": "opacity",
+                            "line": 105,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 477,
+                            "functionName": "z",
+                            "line": 116,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 64,
+                            "functionName": "coordinate",
+                            "line": 117,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 63,
+                            "functionName": "visible",
+                            "line": 118,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 55,
+                            "functionName": "opacity",
+                            "line": 119,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 184,
+                            "functionName": "x",
+                            "line": 114,
+                            "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 144,
+                            "functionName": "y",
+                            "line": 115,
+                            "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 89,
+                            "functionName": "index",
+                            "line": 122,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 59,
+                            "functionName": "checked",
+                            "line": 123,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 231,
+                            "functionName": "onClicked",
+                            "line": 124,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 126,
+                            "functionName": "fromCoord",
+                            "line": 133,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 111,
+                            "functionName": "toCoord",
+                            "line": 134,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 50,
+                            "functionName": "visible",
+                            "line": 136,
+                            "message": "Cannot access value for name _currentItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 62,
+                            "functionName": "opacity",
+                            "line": 137,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 90,
+                            "functionName": "fromCoord",
+                            "line": 145,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 74,
+                            "functionName": "toCoord",
+                            "line": 146,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 138,
+                            "functionName": "visible",
+                            "line": 148,
+                            "message": "Cannot access value for name _currentItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 65,
+                            "functionName": "opacity",
+                            "line": 149,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 121,
+                            "functionName": "nextTrueTransectIndex",
+                            "line": 151,
+                            "message": "Cannot access value for name _firstTrueTransectIndex"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 122,
+                            "functionName": "fromCoord",
+                            "line": 159,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 90,
+                            "functionName": "toCoord",
+                            "line": 160,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 53,
+                            "functionName": "visible",
+                            "line": 162,
+                            "message": "Cannot access value for name _currentItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 64,
+                            "functionName": "opacity",
+                            "line": 163,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 108,
+                            "functionName": "fromCoord",
+                            "line": 171,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 62,
+                            "functionName": "toCoord",
+                            "line": 172,
+                            "message": "Cannot access value for name _transectPoints"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 121,
+                            "functionName": "visible",
+                            "line": 174,
+                            "message": "Cannot access value for name _currentItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 67,
+                            "functionName": "opacity",
+                            "line": 175,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 120,
+                            "functionName": "prevTrueTransectIndex",
+                            "line": 177,
+                            "message": "Cannot access value for name _lastTrueTransectIndex"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 567,
+                            "functionName": "z",
+                            "line": 188,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 70,
+                            "functionName": "coordinate",
+                            "line": 189,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 65,
+                            "functionName": "visible",
+                            "line": 190,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 57,
+                            "functionName": "opacity",
+                            "line": 191,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 163,
+                            "functionName": "x",
+                            "line": 186,
+                            "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 136,
+                            "functionName": "y",
+                            "line": 187,
+                            "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 80,
+                            "functionName": "index",
+                            "line": 194,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 59,
+                            "functionName": "checked",
+                            "line": 195,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 248,
+                            "functionName": "onClicked",
+                            "line": 196,
+                            "message": "Cannot access value for name _root"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleMapVisuals.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

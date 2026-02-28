@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="i18n/qgc_json_az_AZ.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_az_AZ.qm</file>
+    <file alias="i18n/qgc_json_bg_BG.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_bg_BG.qm</file>
+    <file alias="i18n/qgc_json_de_DE.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_de_DE.qm</file>
+    <file alias="i18n/qgc_json_el_GR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_el_GR.qm</file>
+    <file alias="i18n/qgc_json_es_ES.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_es_ES.qm</file>
+    <file alias="i18n/qgc_json_fi_FI.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_fi_FI.qm</file>
+    <file alias="i18n/qgc_json_fr_FR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_fr_FR.qm</file>
+    <file alias="i18n/qgc_json_he_IL.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_he_IL.qm</file>
+    <file alias="i18n/qgc_json_it_IT.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_it_IT.qm</file>
+    <file alias="i18n/qgc_json_ja_JP.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_ja_JP.qm</file>
+    <file alias="i18n/qgc_json_ko_KR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_ko_KR.qm</file>
+    <file alias="i18n/qgc_json_nl_NL.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_nl_NL.qm</file>
+    <file alias="i18n/qgc_json_no_NO.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_no_NO.qm</file>
+    <file alias="i18n/qgc_json_pl_PL.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_pl_PL.qm</file>
+    <file alias="i18n/qgc_json_pt_PT.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_pt_PT.qm</file>
+    <file alias="i18n/qgc_json_ru_RU.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_ru_RU.qm</file>
+    <file alias="i18n/qgc_json_sv_SE.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_sv_SE.qm</file>
+    <file alias="i18n/qgc_json_tr_TR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_tr_TR.qm</file>
+    <file alias="i18n/qgc_json_uk_UA.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_uk_UA.qm</file>
+    <file alias="i18n/qgc_json_zh_CN.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_zh_CN.qm</file>
+    <file alias="i18n/qgc_json_zh_TW.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_json_zh_TW.qm</file>
+    <file alias="i18n/qgc_source_az_AZ.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_az_AZ.qm</file>
+    <file alias="i18n/qgc_source_bg_BG.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_bg_BG.qm</file>
+    <file alias="i18n/qgc_source_de_DE.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_de_DE.qm</file>
+    <file alias="i18n/qgc_source_el_GR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_el_GR.qm</file>
+    <file alias="i18n/qgc_source_es_ES.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_es_ES.qm</file>
+    <file alias="i18n/qgc_source_fi_FI.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_fi_FI.qm</file>
+    <file alias="i18n/qgc_source_fr_FR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_fr_FR.qm</file>
+    <file alias="i18n/qgc_source_he_IL.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_he_IL.qm</file>
+    <file alias="i18n/qgc_source_it_IT.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_it_IT.qm</file>
+    <file alias="i18n/qgc_source_ja_JP.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_ja_JP.qm</file>
+    <file alias="i18n/qgc_source_ko_KR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_ko_KR.qm</file>
+    <file alias="i18n/qgc_source_nl_NL.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_nl_NL.qm</file>
+    <file alias="i18n/qgc_source_no_NO.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_no_NO.qm</file>
+    <file alias="i18n/qgc_source_pl_PL.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_pl_PL.qm</file>
+    <file alias="i18n/qgc_source_pt_PT.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_pt_PT.qm</file>
+    <file alias="i18n/qgc_source_ru_RU.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_ru_RU.qm</file>
+    <file alias="i18n/qgc_source_sv_SE.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_sv_SE.qm</file>
+    <file alias="i18n/qgc_source_tr_TR.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_tr_TR.qm</file>
+    <file alias="i18n/qgc_source_uk_UA.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_uk_UA.qm</file>
+    <file alias="i18n/qgc_source_zh_CN.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_zh_CN.qm</file>
+    <file alias="i18n/qgc_source_zh_TW.qm">/home/saad-saeed/qgroundcontrol/build-release/i18n/qgc_source_zh_TW.qm</file>
+  </qresource>
+</RCC>
+

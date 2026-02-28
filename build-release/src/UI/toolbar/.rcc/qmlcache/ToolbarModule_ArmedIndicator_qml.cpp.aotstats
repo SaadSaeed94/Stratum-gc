@@ -1,0 +1,79 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 797,
+                            "functionName": "alternateText",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 551,
+                            "functionName": "model",
+                            "line": 13,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 1151,
+                            "functionName": "_activeVehicle",
+                            "line": 20,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 139,
+                            "functionName": "_armed",
+                            "line": 21,
+                            "message": "Cannot load property armed from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/ArmedIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 18,
+                            "durationMicroseconds": 1851,
+                            "functionName": "onActivated",
+                            "line": 23,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 168,
+                            "functionName": "onActivated",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 341,
+                            "functionName": "verticalCenter",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 11496,
+                            "functionName": "pointSize",
+                            "line": 14,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UI/toolbar/ArmedIndicator.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+        }
+    ]
+}

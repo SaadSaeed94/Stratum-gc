@@ -1,0 +1,14 @@
+--bare
+-I
+/home/saad-saeed/qgroundcontrol/build-release/qml
+-I
+/home/saad-saeed/qgroundcontrol/build-release/qml
+-I
+/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/qml
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/FirmwarePlugin/PX4/.qt/rcc/qmake_QGroundControl_FirmwarePlugin_PX4.qrc
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/FirmwarePlugin/PX4/.qt/rcc/PX4FirmwareModule_raw_qml_0.qrc
+/home/saad-saeed/qgroundcontrol/src/FirmwarePlugin/PX4/PX4BatteryIndicator.qml
+/home/saad-saeed/qgroundcontrol/src/FirmwarePlugin/PX4/PX4FlightModeIndicator.qml
+/home/saad-saeed/qgroundcontrol/src/FirmwarePlugin/PX4/PX4MainStatusIndicator.qml

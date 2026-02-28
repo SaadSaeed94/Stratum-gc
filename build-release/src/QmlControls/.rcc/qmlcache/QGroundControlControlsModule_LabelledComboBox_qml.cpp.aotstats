@@ -1,0 +1,55 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 345,
+                            "functionName": "comboBox",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 14,
+                            "durationMicroseconds": 10521,
+                            "functionName": "spacing",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 396,
+                            "functionName": "onActivated",
+                            "line": 29,
+                            "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/LabelledComboBox.qml)::parent with type QQuickItem does not have a property activated for calling"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 148,
+                            "functionName": "onActivated",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 103,
+                            "functionName": "preferredWidth",
+                            "line": 27,
+                            "message": "Cannot access value for name comboBoxPreferredWidth"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/LabelledComboBox.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

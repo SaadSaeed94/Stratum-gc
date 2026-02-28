@@ -1,0 +1,71 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 337,
+                            "functionName": "telemetryFailure",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 969,
+                            "functionName": "telemetryTextFailure",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 150,
+                            "functionName": "allowTelemetryFailureOverride",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 881,
+                            "functionName": "_batteryGroup",
+                            "line": 18,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 89,
+                            "functionName": "_batteryValue",
+                            "line": 19,
+                            "message": "Cannot load property percentRemaining from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/PreFlightBatteryCheck.qml)::_batteryGroup with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 569,
+                            "functionName": "_batPercentRemaining",
+                            "line": 20,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 294,
+                            "functionName": "_batLow",
+                            "line": 21,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/PreFlightBatteryCheck.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

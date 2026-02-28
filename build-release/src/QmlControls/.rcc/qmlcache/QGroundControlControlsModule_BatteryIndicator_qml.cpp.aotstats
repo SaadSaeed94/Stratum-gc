@@ -1,0 +1,1103 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 413,
+                            "functionName": "width",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 158,
+                            "functionName": "showIndicator",
+                            "line": 16,
+                            "message": "Cannot load property batteries from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 590,
+                            "functionName": "_activeVehicle",
+                            "line": 20,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 513,
+                            "functionName": "_batterySettings",
+                            "line": 21,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "_indicatorDisplay",
+                            "line": 22,
+                            "message": "Cannot resolve property type Fact for binding on _indicatorDisplay."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 64,
+                            "functionName": "_showPercentage",
+                            "line": 23,
+                            "message": "Cannot access value for name _indicatorDisplay"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 53,
+                            "functionName": "_showVoltage",
+                            "line": 24,
+                            "message": "Cannot access value for name _indicatorDisplay"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 46,
+                            "functionName": "_showBoth",
+                            "line": 25,
+                            "message": "Cannot access value for name _indicatorDisplay"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 52,
+                            "functionName": "threshold1",
+                            "line": 29,
+                            "message": "Cannot load property threshold1 from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_batterySettings with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 40,
+                            "functionName": "threshold2",
+                            "line": 30,
+                            "message": "Cannot load property threshold2 from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_batterySettings with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 4239,
+                            "functionName": "_recalcLowestBatteryIdFromVoltage",
+                            "line": 32,
+                            "message": "Cannot load property batteries from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 4655,
+                            "functionName": "_recalcLowestBatteryIdFromPercentage",
+                            "line": 68,
+                            "message": "Cannot load property batteries from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 5823,
+                            "functionName": "_recalcLowestBatteryIdFromChargeState",
+                            "line": 104,
+                            "message": "Cannot load property batteries from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 354,
+                            "functionName": "_recalcLowestBatteryId",
+                            "line": 140,
+                            "message": "Cannot load property batteries from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 373,
+                            "functionName": "top",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 250,
+                            "functionName": "bottom",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 182,
+                            "functionName": "onCompleted",
+                            "line": 158,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 173,
+                            "functionName": "target",
+                            "line": 161,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 201,
+                            "functionName": "onCountChanged",
+                            "line": 162,
+                            "message": "method _recalcLowestBatteryId cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 24622,
+                            "functionName": "spacing",
+                            "line": 171,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 291,
+                            "functionName": "top",
+                            "line": 169,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 240,
+                            "functionName": "bottom",
+                            "line": 170,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 217,
+                            "functionName": "model",
+                            "line": 174,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 149,
+                            "functionName": "sourceComponent",
+                            "line": 178,
+                            "message": "Cannot access value for name batteryVisual"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 755,
+                            "functionName": "visible",
+                            "line": 179,
+                            "message": "Cannot access value for name control"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 362,
+                            "functionName": "battery",
+                            "line": 181,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 551,
+                            "functionName": "onClicked",
+                            "line": 188,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 236,
+                            "functionName": "fill",
+                            "line": 187,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 3459,
+                            "functionName": "showExpand",
+                            "line": 195,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 146,
+                            "functionName": "waitForParameters",
+                            "line": 196,
+                            "message": "Cannot access value for name control"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 66,
+                            "functionName": "contentComponent",
+                            "line": 197,
+                            "message": "Cannot access value for name batteryContentComponent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 56,
+                            "functionName": "expandedComponent",
+                            "line": 198,
+                            "message": "Cannot access value for name batteryExpandedComponent"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 418,
+                            "functionName": "spacing",
+                            "line": 207,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 10950,
+                            "functionName": "getBatteryColor",
+                            "line": 209,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 7139,
+                            "functionName": "getBatterySvgSource",
+                            "line": 235,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 6931,
+                            "functionName": "getBatteryPercentageText",
+                            "line": 260,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 2128,
+                            "functionName": "getBatteryVoltageText",
+                            "line": 275,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 121,
+                            "functionName": "onTriggered",
+                            "line": 289,
+                            "message": "Cannot access value for name control"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 131,
+                            "functionName": "target",
+                            "line": 294,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 307,
+                            "functionName": "onRawValueChanged",
+                            "line": 295,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 138,
+                            "functionName": "target",
+                            "line": 300,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 239,
+                            "functionName": "onRawValueChanged",
+                            "line": 301,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 130,
+                            "functionName": "target",
+                            "line": 306,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 219,
+                            "functionName": "onRawValueChanged",
+                            "line": 307,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 160,
+                            "functionName": "width",
+                            "line": 315,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 706,
+                            "functionName": "source",
+                            "line": 317,
+                            "message": "method getBatterySvgSource cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 193,
+                            "functionName": "fillMode",
+                            "line": 318,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 580,
+                            "functionName": "color",
+                            "line": 319,
+                            "message": "method getBatteryColor cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 278,
+                            "functionName": "top",
+                            "line": 313,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 209,
+                            "functionName": "bottom",
+                            "line": 314,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 132,
+                            "functionName": "width",
+                            "line": 316,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 258,
+                            "functionName": "top",
+                            "line": 324,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 248,
+                            "functionName": "bottom",
+                            "line": 325,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 239,
+                            "functionName": "verticalAlignment",
+                            "line": 330,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 131,
+                            "functionName": "color",
+                            "line": 331,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 1147,
+                            "functionName": "text",
+                            "line": 332,
+                            "message": "method getBatteryPercentageText cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 168,
+                            "functionName": "visible",
+                            "line": 334,
+                            "message": "Cannot access value for name _showBoth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 217,
+                            "functionName": "alignment",
+                            "line": 329,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 176,
+                            "functionName": "pointSize",
+                            "line": 333,
+                            "message": "Cannot access value for name _showBoth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 98,
+                            "functionName": "color",
+                            "line": 340,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 967,
+                            "functionName": "text",
+                            "line": 341,
+                            "message": "method getBatteryVoltageText cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 163,
+                            "functionName": "visible",
+                            "line": 342,
+                            "message": "Cannot access value for name _showBoth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 223,
+                            "functionName": "alignment",
+                            "line": 338,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 165,
+                            "functionName": "pointSize",
+                            "line": 339,
+                            "message": "Cannot access value for name _showBoth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 356,
+                            "functionName": "spacing",
+                            "line": 352,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 414,
+                            "functionName": "functionAvailable",
+                            "line": 358,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 330,
+                            "functionName": "showFunction",
+                            "line": 359,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 216,
+                            "functionName": "temperatureAvailable",
+                            "line": 360,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 174,
+                            "functionName": "currentAvailable",
+                            "line": 361,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 188,
+                            "functionName": "mahConsumedAvailable",
+                            "line": 362,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 170,
+                            "functionName": "timeRemainingAvailable",
+                            "line": 363,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 159,
+                            "functionName": "percentRemainingAvailable",
+                            "line": 364,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 301,
+                            "functionName": "chargeStateAvailable",
+                            "line": 365,
+                            "message": "Cannot access value for name battery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 167,
+                            "functionName": "model",
+                            "line": 370,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 820,
+                            "functionName": "heading",
+                            "line": 373,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 58,
+                            "durationMicroseconds": 322,
+                            "functionName": "batteryValuesAvailable",
+                            "line": 377,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 109,
+                            "functionName": "sourceComponent",
+                            "line": 381,
+                            "message": "Cannot access value for name batteryValuesAvailableComponent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 436,
+                            "functionName": "battery",
+                            "line": 383,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 397,
+                            "functionName": "labelText",
+                            "line": 388,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 90,
+                            "functionName": "visible",
+                            "line": 389,
+                            "message": "Cannot access value for name batteryValuesAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 401,
+                            "functionName": "labelText",
+                            "line": 394,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 85,
+                            "functionName": "visible",
+                            "line": 395,
+                            "message": "Cannot access value for name batteryValuesAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 690,
+                            "functionName": "labelText",
+                            "line": 400,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 82,
+                            "functionName": "visible",
+                            "line": 401,
+                            "message": "Cannot access value for name batteryValuesAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 637,
+                            "functionName": "labelText",
+                            "line": 406,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 688,
+                            "functionName": "labelText",
+                            "line": 411,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 88,
+                            "functionName": "visible",
+                            "line": 412,
+                            "message": "Cannot access value for name batteryValuesAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 662,
+                            "functionName": "labelText",
+                            "line": 417,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 82,
+                            "functionName": "visible",
+                            "line": 418,
+                            "message": "Cannot access value for name batteryValuesAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 347,
+                            "functionName": "labelText",
+                            "line": 423,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 85,
+                            "functionName": "visible",
+                            "line": 424,
+                            "message": "Cannot access value for name batteryValuesAvailable"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 429,
+                            "functionName": "spacing",
+                            "line": 435,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 305,
+                            "functionName": "batteryIconHeight",
+                            "line": 437,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 447,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 449,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 454,
+                            "message": "Cannot resolve property type  for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 73,
+                            "functionName": "visible",
+                            "line": 455,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 227,
+                            "functionName": "spacing",
+                            "line": 462,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 386,
+                            "functionName": "spacing",
+                            "line": 466,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 156,
+                            "functionName": "width",
+                            "line": 469,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 106,
+                            "functionName": "height",
+                            "line": 470,
+                            "message": "Cannot access value for name batteryIconHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 203,
+                            "functionName": "fillMode",
+                            "line": 471,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 114,
+                            "functionName": "color",
+                            "line": 472,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 381,
+                            "functionName": "spacing",
+                            "line": 479,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 154,
+                            "functionName": "width",
+                            "line": 482,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 100,
+                            "functionName": "height",
+                            "line": 483,
+                            "message": "Cannot access value for name batteryIconHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 204,
+                            "functionName": "fillMode",
+                            "line": 484,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 110,
+                            "functionName": "color",
+                            "line": 485,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 489,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "implicitWidth",
+                            "line": 490,
+                            "message": "Could not find property \"implicitWidth\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 491,
+                            "message": "Could not find property \"height\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 492,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 493,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 407,
+                            "functionName": "spacing",
+                            "line": 502,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 165,
+                            "functionName": "width",
+                            "line": 505,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 105,
+                            "functionName": "height",
+                            "line": 506,
+                            "message": "Cannot access value for name batteryIconHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 211,
+                            "functionName": "fillMode",
+                            "line": 507,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 110,
+                            "functionName": "color",
+                            "line": 508,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 511,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "implicitWidth",
+                            "line": 512,
+                            "message": "Could not find property \"implicitWidth\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 513,
+                            "message": "Could not find property \"height\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 514,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 515,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 390,
+                            "functionName": "spacing",
+                            "line": 524,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 147,
+                            "functionName": "width",
+                            "line": 527,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 97,
+                            "functionName": "height",
+                            "line": 528,
+                            "message": "Cannot access value for name batteryIconHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 189,
+                            "functionName": "fillMode",
+                            "line": 529,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 104,
+                            "functionName": "color",
+                            "line": 530,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 358,
+                            "functionName": "spacing",
+                            "line": 537,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 154,
+                            "functionName": "width",
+                            "line": 540,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 94,
+                            "functionName": "height",
+                            "line": 541,
+                            "message": "Cannot access value for name batteryIconHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 176,
+                            "functionName": "fillMode",
+                            "line": 542,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 101,
+                            "functionName": "color",
+                            "line": 543,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 120,
+                            "functionName": "source",
+                            "line": 553,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 1396,
+                            "functionName": "visible",
+                            "line": 557,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 1340,
+                            "functionName": "onClicked",
+                            "line": 564,
+                            "message": "Cannot access value for name mainWindow"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/BatteryIndicator.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Toolbar/">
+    <file alias="ArmedIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/ArmedIndicator.qml</file>
+    <file alias="EscIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicator.qml</file>
+    <file alias="EscIndicatorPage.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicatorPage.qml</file>
+    <file alias="GCSControlIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml</file>
+    <file alias="GimbalIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml</file>
+    <file alias="GPSResilienceIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/GPSResilienceIndicator.qml</file>
+    <file alias="JoystickIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/JoystickIndicator.qml</file>
+    <file alias="ModeIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/ModeIndicator.qml</file>
+    <file alias="MultiVehicleSelector.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/MultiVehicleSelector.qml</file>
+    <file alias="RCRSSIIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/RCRSSIIndicator.qml</file>
+    <file alias="RemoteIDIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml</file>
+    <file alias="RTKGPSIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/RTKGPSIndicator.qml</file>
+    <file alias="SelectViewDropdown.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/SelectViewDropdown.qml</file>
+    <file alias="TelemetryRSSIIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/TelemetryRSSIIndicator.qml</file>
+    <file alias="VehicleGPSIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UI/toolbar/VehicleGPSIndicator.qml</file>
+  </qresource>
+</RCC>
+

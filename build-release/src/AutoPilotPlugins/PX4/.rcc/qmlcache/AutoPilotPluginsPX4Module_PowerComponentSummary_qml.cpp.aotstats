@@ -1,0 +1,71 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 361,
+                            "functionName": "fill",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 67,
+                            "functionName": "controller",
+                            "line": 17,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 169,
+                            "functionName": "fill",
+                            "line": 22,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 102,
+                            "functionName": "valueText",
+                            "line": 26,
+                            "message": "Cannot load property battSource from ."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 326,
+                            "functionName": "valueText",
+                            "line": 31,
+                            "message": "Cannot load property battHighVolt from ."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 247,
+                            "functionName": "valueText",
+                            "line": 36,
+                            "message": "Cannot load property battLowVolt from ."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 169,
+                            "functionName": "valueText",
+                            "line": 41,
+                            "message": "Cannot load property battNumCells from ."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/PowerComponentSummary.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+        }
+    ]
+}

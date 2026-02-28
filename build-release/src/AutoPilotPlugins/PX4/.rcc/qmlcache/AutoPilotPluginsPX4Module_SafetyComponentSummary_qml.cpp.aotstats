@@ -1,0 +1,183 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "returnAltFact",
+                            "line": 13,
+                            "message": "Cannot resolve property type Fact for binding on returnAltFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "_descendAltFact",
+                            "line": 14,
+                            "message": "Cannot resolve property type Fact for binding on _descendAltFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "landDelayFact",
+                            "line": 15,
+                            "message": "Cannot resolve property type Fact for binding on landDelayFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "commRCLossFact",
+                            "line": 16,
+                            "message": "Cannot resolve property type Fact for binding on commRCLossFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "lowBattAction",
+                            "line": 17,
+                            "message": "Cannot resolve property type Fact for binding on lowBattAction."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "rcLossAction",
+                            "line": 18,
+                            "message": "Cannot resolve property type Fact for binding on rcLossAction."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "dataLossAction",
+                            "line": 19,
+                            "message": "Cannot resolve property type Fact for binding on dataLossAction."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "_rtlLandDelayFact",
+                            "line": 20,
+                            "message": "Cannot resolve property type Fact for binding on _rtlLandDelayFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 144,
+                            "functionName": "_rtlLandDelayValue",
+                            "line": 21,
+                            "message": "Cannot access value for name _rtlLandDelayFact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 269,
+                            "functionName": "fill",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 200,
+                            "functionName": "fill",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 213,
+                            "functionName": "valueText",
+                            "line": 28,
+                            "message": "Cannot access value for name lowBattAction"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 156,
+                            "functionName": "valueText",
+                            "line": 33,
+                            "message": "Cannot access value for name rcLossAction"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 228,
+                            "functionName": "valueText",
+                            "line": 38,
+                            "message": "Cannot access value for name commRCLossFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 3421,
+                            "functionName": "valueText",
+                            "line": 43,
+                            "message": "Cannot access value for name dataLossAction"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 250,
+                            "functionName": "valueText",
+                            "line": 48,
+                            "message": "Cannot access value for name returnAltFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 341,
+                            "functionName": "valueText",
+                            "line": 53,
+                            "message": "Cannot access value for name _rtlLandDelayValue"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 182,
+                            "functionName": "valueText",
+                            "line": 63,
+                            "message": "Cannot access value for name _descendAltFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 75,
+                            "functionName": "visible",
+                            "line": 64,
+                            "message": "Cannot access value for name _rtlLandDelayValue"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 150,
+                            "functionName": "valueText",
+                            "line": 69,
+                            "message": "Cannot access value for name _rtlLandDelayValue"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 83,
+                            "functionName": "visible",
+                            "line": 70,
+                            "message": "Cannot access value for name _rtlLandDelayValue"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/SafetyComponentSummary.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+        }
+    ]
+}

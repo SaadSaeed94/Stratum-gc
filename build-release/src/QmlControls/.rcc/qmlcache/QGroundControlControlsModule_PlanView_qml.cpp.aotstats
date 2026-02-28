@@ -1,0 +1,1679 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 12979,
+                            "functionName": "_margin",
+                            "line": 20,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 349,
+                            "functionName": "_toolsMargin",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 276,
+                            "functionName": "_radius",
+                            "line": 22,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 696,
+                            "functionName": "_rightPanelWidth",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 56,
+                            "durationMicroseconds": 466,
+                            "functionName": "_defaultVehicleCoordinate",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 887,
+                            "functionName": "_waypointsOnlyMode",
+                            "line": 25,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 45,
+                            "functionName": "_planMasterController",
+                            "line": 27,
+                            "message": "Cannot retrieve a non-object type by ID: planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 44,
+                            "functionName": "_missionController",
+                            "line": 28,
+                            "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_planMasterController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 31,
+                            "functionName": "_geoFenceController",
+                            "line": 29,
+                            "message": "Cannot load property geoFenceController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_planMasterController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 30,
+                            "functionName": "_rallyPointController",
+                            "line": 30,
+                            "message": "Cannot load property rallyPointController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_planMasterController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 43,
+                            "functionName": "_visualItems",
+                            "line": 31,
+                            "message": "Cannot load property visualItems from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 230,
+                            "functionName": "_lightWidgetBorders",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 63,
+                            "functionName": "_singleComplexItem",
+                            "line": 33,
+                            "message": "Cannot load property complexMissionItemNames from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 122,
+                            "functionName": "_editingLayer",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 803,
+                            "functionName": "_toolStripBottom",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 877,
+                            "functionName": "_appSettings",
+                            "line": 36,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 780,
+                            "functionName": "_planViewSettings",
+                            "line": 37,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 713,
+                            "functionName": "_utmspEnabled",
+                            "line": 39,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 1597,
+                            "functionName": "onVisibleChanged",
+                            "line": 51,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 206,
+                            "functionName": "mapCenter",
+                            "line": 58,
+                            "message": "function without return type annotation returns QDeclarativeGeoMap::center with type QGeoCoordinate. This may prevent proper compilation to Cpp."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "insertSimpleItemAfterCurrent",
+                            "line": 178,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "insertROIAfterCurrent",
+                            "line": 183,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 100,
+                            "functionName": "insertCancelROIAfterCurrent",
+                            "line": 188,
+                            "message": "Cannot load property currentPlanViewVIIndex from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "insertComplexItemAfterCurrent",
+                            "line": 193,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 89,
+                            "functionName": "insertTakeoffItemAfterCurrent",
+                            "line": 198,
+                            "message": "Cannot load property currentPlanViewVIIndex from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 75,
+                            "functionName": "insertLandItemAfterCurrent",
+                            "line": 203,
+                            "message": "Cannot load property currentPlanViewVIIndex from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 14,
+                            "durationMicroseconds": 240,
+                            "functionName": "map",
+                            "line": 73,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 91,
+                            "functionName": "planMasterController",
+                            "line": 75,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPromptForPlanUsageOnVehicleChange",
+                            "line": 87,
+                            "message": "Could not find signal \"promptForPlanUsageOnVehicleChange\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "waitingOnIncompleteDataMessage",
+                            "line": 94,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "waitingOnTerrainDataMessage",
+                            "line": 99,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "checkReadyForSaveUpload",
+                            "line": 104,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 1426,
+                            "functionName": "upload",
+                            "line": 115,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 192,
+                            "functionName": "loadFromSelectedFile",
+                            "line": 135,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 180,
+                            "functionName": "saveToSelectedFile",
+                            "line": 142,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 344,
+                            "functionName": "fitViewportToItems",
+                            "line": 152,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 261,
+                            "functionName": "saveKmlToSelectedFile",
+                            "line": 156,
+                            "message": "Cannot access value for name ShapeFileHelper"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 145,
+                            "functionName": "onCompleted",
+                            "line": 82,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 75,
+                            "functionName": "target",
+                            "line": 168,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 380,
+                            "functionName": "onNewItemsFromVehicle",
+                            "line": 170,
+                            "message": "Cannot access value for name _visualItems"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 164,
+                            "functionName": "folder",
+                            "line": 210,
+                            "message": "Cannot access value for name _appSettings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 205,
+                            "functionName": "onAcceptedForSave",
+                            "line": 214,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 181,
+                            "functionName": "onAcceptedForSave",
+                            "line": 214,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 257,
+                            "functionName": "onAcceptedForLoad",
+                            "line": 223,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 112,
+                            "functionName": "onAcceptedForLoad",
+                            "line": 223,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 66,
+                            "functionName": "planMasterController",
+                            "line": 233,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 358,
+                            "functionName": "left",
+                            "line": 238,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 233,
+                            "functionName": "right",
+                            "line": 239,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 229,
+                            "functionName": "top",
+                            "line": 240,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 217,
+                            "functionName": "bottom",
+                            "line": 241,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 1178,
+                            "functionName": "zoomLevel",
+                            "line": 251,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 902,
+                            "functionName": "center",
+                            "line": 252,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 668,
+                            "functionName": "centerViewport",
+                            "line": 255,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 502,
+                            "functionName": "_leftToolWidth",
+                            "line": 257,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 44,
+                            "durationMicroseconds": 496,
+                            "functionName": "_rightToolWidth",
+                            "line": 258,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 1135,
+                            "functionName": "onZoomLevelChanged",
+                            "line": 266,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 949,
+                            "functionName": "onCenterChanged",
+                            "line": 269,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 5199,
+                            "functionName": "onMapClicked",
+                            "line": 273,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 188,
+                            "functionName": "onMapClicked",
+                            "line": 273,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "_mapRightClicked",
+                            "line": 299,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 214,
+                            "functionName": "onMapRightClicked",
+                            "line": 325,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 84,
+                            "functionName": "onMapRightClicked",
+                            "line": 325,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 164,
+                            "functionName": "onMapPressAndHold",
+                            "line": 326,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 72,
+                            "functionName": "onMapPressAndHold",
+                            "line": 326,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 170,
+                            "functionName": "fill",
+                            "line": 245,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 1117,
+                            "functionName": "onCompleted",
+                            "line": 262,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "lightColors",
+                            "line": 264,
+                            "message": "Could not find property \"lightColors\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 110,
+                            "functionName": "model",
+                            "line": 330,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 86,
+                            "functionName": "map",
+                            "line": 332,
+                            "message": "Cannot access value for name editorMap"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 248,
+                            "functionName": "opacity",
+                            "line": 333,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 108,
+                            "functionName": "interactive",
+                            "line": 334,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 73,
+                            "functionName": "vehicle",
+                            "line": 335,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 95,
+                            "functionName": "onClicked",
+                            "line": 336,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 134,
+                            "functionName": "onClicked",
+                            "line": 336,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 107,
+                            "functionName": "showSpecialVisual",
+                            "line": 342,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 68,
+                            "functionName": "model",
+                            "line": 343,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 214,
+                            "functionName": "opacity",
+                            "line": 344,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 219,
+                            "functionName": "model",
+                            "line": 349,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 1013,
+                            "functionName": "fromCoord",
+                            "line": 352,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 1224,
+                            "functionName": "toCoord",
+                            "line": 353,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 592,
+                            "functionName": "z",
+                            "line": 355,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 601,
+                            "functionName": "z",
+                            "line": 364,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 143,
+                            "functionName": "visible",
+                            "line": 365,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 790,
+                            "functionName": "_updateSplitCoord",
+                            "line": 373,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 473,
+                            "functionName": "x",
+                            "line": 362,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 336,
+                            "functionName": "y",
+                            "line": 363,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 264,
+                            "functionName": "onClicked",
+                            "line": 368,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 82,
+                            "functionName": "target",
+                            "line": 384,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 336,
+                            "functionName": "onSplitSegmentChanged",
+                            "line": 385,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 103,
+                            "functionName": "target",
+                            "line": 389,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 314,
+                            "functionName": "onCoordinate1Changed",
+                            "line": 390,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 236,
+                            "functionName": "onCoordinate2Changed",
+                            "line": 391,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 668,
+                            "functionName": "model",
+                            "line": 397,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 539,
+                            "functionName": "vehicle",
+                            "line": 399,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 495,
+                            "functionName": "coordinate",
+                            "line": 400,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 81,
+                            "functionName": "map",
+                            "line": 401,
+                            "message": "Cannot access value for name editorMap"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 771,
+                            "functionName": "size",
+                            "line": 402,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 680,
+                            "functionName": "z",
+                            "line": 403,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 264,
+                            "functionName": "map",
+                            "line": 408,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 97,
+                            "functionName": "myGeoFenceController",
+                            "line": 409,
+                            "message": "Cannot access value for name _geoFenceController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 118,
+                            "functionName": "interactive",
+                            "line": 410,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 88,
+                            "functionName": "homePosition",
+                            "line": 411,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 205,
+                            "functionName": "opacity",
+                            "line": 413,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 267,
+                            "functionName": "map",
+                            "line": 417,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 90,
+                            "functionName": "myRallyPointController",
+                            "line": 418,
+                            "message": "Cannot access value for name _rallyPointController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 119,
+                            "functionName": "interactive",
+                            "line": 419,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 211,
+                            "functionName": "opacity",
+                            "line": 421,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 118,
+                            "functionName": "enabled",
+                            "line": 425,
+                            "message": "Cannot access value for name _utmspEnabled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 249,
+                            "functionName": "map",
+                            "line": 426,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 83,
+                            "functionName": "currentMissionItems",
+                            "line": 427,
+                            "message": "Cannot access value for name _visualItems"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 55,
+                            "functionName": "myGeoFenceController",
+                            "line": 428,
+                            "message": "Cannot access value for name _geoFenceController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 122,
+                            "functionName": "interactive",
+                            "line": 429,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 78,
+                            "functionName": "homePosition",
+                            "line": 430,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 214,
+                            "functionName": "opacity",
+                            "line": 432,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 63,
+                            "functionName": "resetCheck",
+                            "line": 433,
+                            "message": "Cannot access value for name _resetGeofencePolygon"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 814,
+                            "functionName": "z",
+                            "line": 444,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 496,
+                            "functionName": "maxHeight",
+                            "line": 445,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 144,
+                            "functionName": "visible",
+                            "line": 446,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 105,
+                            "functionName": "_isRallyLayer",
+                            "line": 456,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 98,
+                            "functionName": "_isMissionLayer",
+                            "line": 457,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 76,
+                            "functionName": "model",
+                            "line": 506,
+                            "message": "Cannot retrieve a non-object type by ID: toolStripActionList"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 101,
+                            "functionName": "margins",
+                            "line": 441,
+                            "message": "Cannot access value for name _toolsMargin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 325,
+                            "functionName": "left",
+                            "line": 442,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 284,
+                            "functionName": "top",
+                            "line": 443,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 500,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTriggered",
+                            "line": 501,
+                            "message": "Could not find signal \"triggered\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 485,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 491,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 492,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTriggered",
+                            "line": 493,
+                            "message": "Could not find signal \"triggered\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 473,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 475,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 476,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "dropPanelComponent",
+                            "line": 477,
+                            "message": "Could not find property \"dropPanelComponent\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTriggered",
+                            "line": 478,
+                            "message": "Could not find signal \"triggered\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 465,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 466,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTriggered",
+                            "line": 467,
+                            "message": "Could not find signal \"triggered\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 288,
+                            "functionName": "mapControl",
+                            "line": 513,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 115,
+                            "functionName": "margins",
+                            "line": 510,
+                            "message": "Cannot access value for name _toolsMargin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 346,
+                            "functionName": "left",
+                            "line": 511,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 240,
+                            "functionName": "top",
+                            "line": 512,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 363,
+                            "functionName": "width",
+                            "line": 522,
+                            "message": "Cannot access value for name _utmspEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 57,
+                            "functionName": "planMasterController",
+                            "line": 523,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 205,
+                            "functionName": "editorMap",
+                            "line": 524,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 300,
+                            "functionName": "top",
+                            "line": 519,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 239,
+                            "functionName": "bottom",
+                            "line": 520,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 213,
+                            "functionName": "right",
+                            "line": 521,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 960,
+                            "functionName": "visible",
+                            "line": 534,
+                            "message": "Cannot access value for name _editingLayer"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 124,
+                            "functionName": "hidden",
+                            "line": 536,
+                            "message": "Cannot access value for name _planViewSettings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 84,
+                            "functionName": "showMissionStatus",
+                            "line": 538,
+                            "message": "Cannot access value for name _planViewSettings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 378,
+                            "functionName": "_calcLeftAnchor",
+                            "line": 542,
+                            "message": "function without return type annotation returns QQuickItem::right with type QQuickAnchorLine. This may prevent proper compilation to Cpp."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 230,
+                            "functionName": "_toggleMissionStatusVisibility",
+                            "line": 551,
+                            "message": "Cannot access value for name _planViewSettings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 92,
+                            "functionName": "margins",
+                            "line": 529,
+                            "message": "Cannot access value for name _toolsMargin"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 318,
+                            "functionName": "left",
+                            "line": 530,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method _calcLeftAnchor, returning QVariant -> QQuickAnchorLine stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 256,
+                            "functionName": "right",
+                            "line": 531,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 264,
+                            "functionName": "bottom",
+                            "line": 532,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 415,
+                            "functionName": "_buttonImplicitWidth",
+                            "line": 560,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 52,
+                            "durationMicroseconds": 236,
+                            "functionName": "_buttonImageMargins",
+                            "line": 561,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 220,
+                            "functionName": "alignment",
+                            "line": 557,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 264,
+                            "functionName": "implicitWidth",
+                            "line": 565,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 123,
+                            "functionName": "implicitHeight",
+                            "line": 566,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 1165,
+                            "functionName": "color",
+                            "line": 567,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 1267,
+                            "functionName": "color",
+                            "line": 575,
+                            "message": "Cannot load property checked from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 302,
+                            "functionName": "margins",
+                            "line": 572,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 138,
+                            "functionName": "fill",
+                            "line": 573,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 874,
+                            "functionName": "onClicked",
+                            "line": 580,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 193,
+                            "functionName": "fill",
+                            "line": 579,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 278,
+                            "functionName": "implicitWidth",
+                            "line": 589,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 134,
+                            "functionName": "implicitHeight",
+                            "line": 590,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 1200,
+                            "functionName": "color",
+                            "line": 591,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 1300,
+                            "functionName": "color",
+                            "line": 599,
+                            "message": "Cannot load property checked from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 296,
+                            "functionName": "margins",
+                            "line": 596,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 151,
+                            "functionName": "fill",
+                            "line": 597,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 471,
+                            "functionName": "onClicked",
+                            "line": 604,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 194,
+                            "functionName": "fill",
+                            "line": 603,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 258,
+                            "functionName": "implicitWidth",
+                            "line": 613,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 151,
+                            "functionName": "implicitHeight",
+                            "line": 614,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 642,
+                            "functionName": "color",
+                            "line": 615,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 989,
+                            "functionName": "color",
+                            "line": 621,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 324,
+                            "functionName": "margins",
+                            "line": 618,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 160,
+                            "functionName": "fill",
+                            "line": 619,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 387,
+                            "functionName": "onClicked",
+                            "line": 626,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 153,
+                            "functionName": "fill",
+                            "line": 625,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 439,
+                            "functionName": "height",
+                            "line": 635,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 115,
+                            "functionName": "missionController",
+                            "line": 636,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 231,
+                            "functionName": "visible",
+                            "line": 637,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 157,
+                            "functionName": "onSetCurrentSeqNum",
+                            "line": 638,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 240,
+                            "functionName": "alignment",
+                            "line": 633,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 245,
+                            "functionName": "visible",
+                            "line": 645,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 201,
+                            "functionName": "planMasterController",
+                            "line": 646,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 216,
+                            "functionName": "alignment",
+                            "line": 643,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 394,
+                            "functionName": "spacing",
+                            "line": 657,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 135,
+                            "functionName": "model",
+                            "line": 662,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 665,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 668,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 230,
+                            "functionName": "title",
+                            "line": 680,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 201,
+                            "functionName": "buttons",
+                            "line": 681,
+                            "message": "Cannot access value for name Dialog"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 320,
+                            "functionName": "wrapMode",
+                            "line": 686,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 245,
+                            "functionName": "text",
+                            "line": 687,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 295,
+                            "functionName": "maximumWidth",
+                            "line": 685,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 693,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 696,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 705,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 707,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 484,
+                            "functionName": "spacing",
+                            "line": 729,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 735,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 745,
+                            "message": "Could not find signal \"clicked\"."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/PlanView.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

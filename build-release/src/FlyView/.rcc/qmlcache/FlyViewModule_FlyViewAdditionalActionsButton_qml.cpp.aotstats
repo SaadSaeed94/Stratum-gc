@@ -1,0 +1,87 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 13,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 159,
+                            "functionName": "_guidedController",
+                            "line": 16,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 66,
+                            "functionName": "guidedController",
+                            "line": 19,
+                            "message": "Cannot access value for name _guidedController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "actionFileNameFact",
+                            "line": 23,
+                            "message": "Could not find property \"actionFileNameFact\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 205,
+                            "functionName": "anyActionAvailable",
+                            "line": 25,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 59,
+                            "functionName": "guidedController",
+                            "line": 29,
+                            "message": "Cannot access value for name _guidedController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 67,
+                            "functionName": "additionalActions",
+                            "line": 34,
+                            "message": "Cannot access value for name _additionalActions"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 71,
+                            "functionName": "mavlinkActions",
+                            "line": 35,
+                            "message": "Cannot access value for name _mavlinkActions"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 53,
+                            "functionName": "customActions",
+                            "line": 36,
+                            "message": "Cannot access value for name _customActions"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewAdditionalActionsButton.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

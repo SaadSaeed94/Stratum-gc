@@ -1,6 +1,9 @@
 <RCC>
     <qresource prefix="/qmlimages">
         <file alias="adsbVehicle.svg">src/FlightMap/Images/adsbVehicle.svg</file>
+        <!-- STRATUM Branding -->
+        <file alias="qgroundcontrol.png">resources/icons/qgroundcontrol.png</file>
+        <file alias="qgc-app-icon.png">resources/icons/qgc-app-icon.png</file>
         <file alias="Airframe/AirframeSimulation.svg">src/AutoPilotPlugins/Common/Images/AirframeSimulation.svg</file>
         <file alias="Airframe/AirframeUnknown.svg">src/AutoPilotPlugins/Common/Images/AirframeUnknown.svg</file>
         <file alias="Airframe/Airship.svg">src/AutoPilotPlugins/Common/Images/Airship.svg</file>

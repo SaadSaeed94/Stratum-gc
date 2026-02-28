@@ -1,0 +1,1319 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 13106,
+                            "functionName": "_margins",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 403,
+                            "functionName": "_middleRowWidth",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 334,
+                            "functionName": "_editFieldWidth",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 301,
+                            "functionName": "_labelWidth",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 293,
+                            "functionName": "_statusWidth",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 212,
+                            "functionName": "_smallFont",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 238,
+                            "functionName": "stStatus",
+                            "line": 20,
+                            "message": "Cannot generate efficient code for lookup in QJSValue"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "thisThingHasNoNumberLocaleSupport",
+                            "line": 32,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 350,
+                            "functionName": "updateStatus",
+                            "line": 36,
+                            "message": "Instruction \"generate_StoreLocal\" not implemented"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "wifiMode",
+                            "line": 82,
+                            "message": "Cannot resolve property type Fact for binding on wifiMode."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "wifiChannel",
+                            "line": 83,
+                            "message": "Cannot resolve property type Fact for binding on wifiChannel."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "hostPort",
+                            "line": 84,
+                            "message": "Cannot resolve property type Fact for binding on hostPort."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "clientPort",
+                            "line": 85,
+                            "message": "Cannot resolve property type Fact for binding on clientPort."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 1040,
+                            "functionName": "onCompleted",
+                            "line": 75,
+                            "message": "Cannot generate efficient code for lookup of function property."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 258,
+                            "functionName": "fill",
+                            "line": 89,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 296,
+                            "functionName": "contentHeight",
+                            "line": 94,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 245,
+                            "functionName": "flickableDirection",
+                            "line": 95,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 209,
+                            "functionName": "fill",
+                            "line": 93,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 116,
+                            "functionName": "spacing",
+                            "line": 98,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 410,
+                            "functionName": "horizontalCenter",
+                            "line": 99,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 118,
+                            "functionName": "height",
+                            "line": 100,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 540,
+                            "functionName": "color",
+                            "line": 106,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 152,
+                            "functionName": "width",
+                            "line": 107,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 116,
+                            "functionName": "height",
+                            "line": 108,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 106,
+                            "functionName": "spacing",
+                            "line": 111,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 180,
+                            "functionName": "centerIn",
+                            "line": 112,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 680,
+                            "functionName": "color",
+                            "line": 114,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 425,
+                            "functionName": "width",
+                            "line": 115,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 327,
+                            "functionName": "height",
+                            "line": 116,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 259,
+                            "functionName": "fillMode",
+                            "line": 119,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 326,
+                            "functionName": "source",
+                            "line": 120,
+                            "message": "Cannot access value for name wifiMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 352,
+                            "functionName": "height",
+                            "line": 117,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 315,
+                            "functionName": "verticalCenter",
+                            "line": 121,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 123,
+                            "functionName": "spacing",
+                            "line": 124,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 61,
+                            "durationMicroseconds": 283,
+                            "functionName": "verticalCenter",
+                            "line": 125,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 92,
+                            "functionName": "visible",
+                            "line": 127,
+                            "message": "Cannot access value for name wifiMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 104,
+                            "functionName": "width",
+                            "line": 130,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 61,
+                            "durationMicroseconds": 329,
+                            "functionName": "baseline",
+                            "line": 131,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 99,
+                            "functionName": "width",
+                            "line": 135,
+                            "message": "Cannot access value for name _editFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 355,
+                            "functionName": "model",
+                            "line": 136,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 223,
+                            "functionName": "currentIndex",
+                            "line": 137,
+                            "message": "Cannot access value for name wifiMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 107,
+                            "functionName": "onActivated",
+                            "line": 138,
+                            "message": "Cannot access value for name wifiMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 115,
+                            "functionName": "onActivated",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 118,
+                            "functionName": "width",
+                            "line": 146,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 61,
+                            "durationMicroseconds": 378,
+                            "functionName": "baseline",
+                            "line": 147,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 125,
+                            "functionName": "width",
+                            "line": 151,
+                            "message": "Cannot access value for name _editFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 273,
+                            "functionName": "enabled",
+                            "line": 152,
+                            "message": "Cannot access value for name wifiMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 99,
+                            "functionName": "model",
+                            "line": 153,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 236,
+                            "functionName": "currentIndex",
+                            "line": 154,
+                            "message": "Cannot access value for name wifiChannel"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 136,
+                            "functionName": "onActivated",
+                            "line": 155,
+                            "message": "Cannot access value for name wifiChannel"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 132,
+                            "functionName": "onActivated",
+                            "line": 155,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 143,
+                            "functionName": "width",
+                            "line": 163,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 217,
+                            "functionName": "baseline",
+                            "line": 164,
+                            "message": "Cannot retrieve a non-object type by ID: ssidField"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 168,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 169,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 56,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 171,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 122,
+                            "functionName": "width",
+                            "line": 179,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 144,
+                            "functionName": "baseline",
+                            "line": 180,
+                            "message": "Cannot retrieve a non-object type by ID: passwordField"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 184,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 185,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 56,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 187,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 106,
+                            "functionName": "width",
+                            "line": 195,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 171,
+                            "functionName": "baseline",
+                            "line": 196,
+                            "message": "Cannot retrieve a non-object type by ID: stassidField"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 200,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 201,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 203,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 56,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 204,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 121,
+                            "functionName": "width",
+                            "line": 212,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 169,
+                            "functionName": "baseline",
+                            "line": 213,
+                            "message": "Cannot retrieve a non-object type by ID: passwordStaField"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 217,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 218,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 220,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 56,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 221,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 117,
+                            "functionName": "width",
+                            "line": 229,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 61,
+                            "durationMicroseconds": 444,
+                            "functionName": "baseline",
+                            "line": 230,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 161,
+                            "functionName": "width",
+                            "line": 234,
+                            "message": "Cannot access value for name _editFieldWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 102,
+                            "functionName": "model",
+                            "line": 235,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 81,
+                            "functionName": "currentIndex",
+                            "line": 236,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 70,
+                            "functionName": "onActivated",
+                            "line": 237,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 153,
+                            "functionName": "onActivated",
+                            "line": 237,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 100,
+                            "functionName": "width",
+                            "line": 245,
+                            "message": "Cannot access value for name _middleRowWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 158,
+                            "functionName": "baseline",
+                            "line": 246,
+                            "message": "Cannot retrieve a non-object type by ID: qgcportField"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 250,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 251,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "inputMethodHints",
+                            "line": 253,
+                            "message": "Could not find property \"inputMethodHints\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 56,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 254,
+                            "message": "Could not find signal \"editingFinished\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 612,
+                            "functionName": "color",
+                            "line": 267,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 172,
+                            "functionName": "width",
+                            "line": 268,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 102,
+                            "functionName": "height",
+                            "line": 269,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 91,
+                            "functionName": "columnSpacing",
+                            "line": 273,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 242,
+                            "functionName": "centerIn",
+                            "line": 274,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 250,
+                            "functionName": "alignment",
+                            "line": 277,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 232,
+                            "functionName": "alignment",
+                            "line": 281,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 224,
+                            "functionName": "alignment",
+                            "line": 285,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 156,
+                            "functionName": "spacing",
+                            "line": 288,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 130,
+                            "functionName": "width",
+                            "line": 292,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 111,
+                            "functionName": "pointSize",
+                            "line": 291,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 101,
+                            "functionName": "width",
+                            "line": 297,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 293,
+                            "functionName": "horizontalAlignment",
+                            "line": 298,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 101,
+                            "functionName": "pointSize",
+                            "line": 296,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 102,
+                            "functionName": "spacing",
+                            "line": 302,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 100,
+                            "functionName": "width",
+                            "line": 306,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 103,
+                            "functionName": "pointSize",
+                            "line": 304,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 113,
+                            "functionName": "width",
+                            "line": 311,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 293,
+                            "functionName": "horizontalAlignment",
+                            "line": 312,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 97,
+                            "functionName": "pointSize",
+                            "line": 310,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 78,
+                            "functionName": "spacing",
+                            "line": 316,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 79,
+                            "functionName": "width",
+                            "line": 320,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 79,
+                            "functionName": "pointSize",
+                            "line": 318,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 1619,
+                            "functionName": "text",
+                            "line": 324,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 113,
+                            "functionName": "width",
+                            "line": 325,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 318,
+                            "functionName": "horizontalAlignment",
+                            "line": 326,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 133,
+                            "functionName": "pointSize",
+                            "line": 323,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 89,
+                            "functionName": "spacing",
+                            "line": 330,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 106,
+                            "functionName": "width",
+                            "line": 334,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 104,
+                            "functionName": "pointSize",
+                            "line": 333,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 126,
+                            "functionName": "width",
+                            "line": 338,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 285,
+                            "functionName": "horizontalAlignment",
+                            "line": 339,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 121,
+                            "functionName": "pointSize",
+                            "line": 340,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 88,
+                            "functionName": "spacing",
+                            "line": 344,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 109,
+                            "functionName": "width",
+                            "line": 348,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 102,
+                            "functionName": "pointSize",
+                            "line": 347,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 113,
+                            "functionName": "width",
+                            "line": 352,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 293,
+                            "functionName": "horizontalAlignment",
+                            "line": 353,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 118,
+                            "functionName": "pointSize",
+                            "line": 354,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 141,
+                            "functionName": "spacing",
+                            "line": 358,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 90,
+                            "functionName": "width",
+                            "line": 362,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 90,
+                            "functionName": "pointSize",
+                            "line": 361,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 1701,
+                            "functionName": "text",
+                            "line": 365,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 110,
+                            "functionName": "width",
+                            "line": 366,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 279,
+                            "functionName": "horizontalAlignment",
+                            "line": 367,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 110,
+                            "functionName": "pointSize",
+                            "line": 368,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 88,
+                            "functionName": "spacing",
+                            "line": 372,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 104,
+                            "functionName": "width",
+                            "line": 376,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 112,
+                            "functionName": "pointSize",
+                            "line": 375,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 150,
+                            "functionName": "width",
+                            "line": 380,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 329,
+                            "functionName": "horizontalAlignment",
+                            "line": 381,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 117,
+                            "functionName": "pointSize",
+                            "line": 382,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 89,
+                            "functionName": "spacing",
+                            "line": 386,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 125,
+                            "functionName": "width",
+                            "line": 390,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 92,
+                            "functionName": "pointSize",
+                            "line": 389,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 112,
+                            "functionName": "width",
+                            "line": 394,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 329,
+                            "functionName": "horizontalAlignment",
+                            "line": 395,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 114,
+                            "functionName": "pointSize",
+                            "line": 396,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 93,
+                            "functionName": "spacing",
+                            "line": 400,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 90,
+                            "functionName": "width",
+                            "line": 404,
+                            "message": "Cannot access value for name _labelWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 92,
+                            "functionName": "pointSize",
+                            "line": 403,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 1746,
+                            "functionName": "text",
+                            "line": 407,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 114,
+                            "functionName": "width",
+                            "line": 408,
+                            "message": "Cannot access value for name _statusWidth"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 268,
+                            "functionName": "horizontalAlignment",
+                            "line": 409,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 154,
+                            "functionName": "pointSize",
+                            "line": 410,
+                            "message": "Cannot access value for name _smallFont"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 91,
+                            "functionName": "spacing",
+                            "line": 416,
+                            "message": "Cannot access value for name _margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 57,
+                            "durationMicroseconds": 394,
+                            "functionName": "horizontalCenter",
+                            "line": 417,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 420,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 421,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 427,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 428,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 429,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 555,
+                            "functionName": "buttons",
+                            "line": 435,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 454,
+                            "functionName": "onButtonClicked",
+                            "line": 438,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 177,
+                            "functionName": "onButtonClicked",
+                            "line": 438,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 453,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 454,
+                            "message": "Could not find signal \"clicked\"."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/Common/ESP8266Component.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.Common(AutoPilotPluginsCommonModule)"
+        }
+    ]
+}

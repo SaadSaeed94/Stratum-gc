@@ -1,0 +1,11 @@
+module QGroundControl.UTMSP
+typeinfo UTMSPModule.qmltypes
+prefer :/qml/QGroundControl/UTMSP/
+UTMSPActivationStatusBar 1.0 dummy/UTMSPActivationStatusBar.qml
+UTMSPAdapterEditor 1.0 dummy/UTMSPAdapterEditor.qml
+UTMSPFlightStatusIndicator 1.0 dummy/UTMSPFlightStatusIndicator.qml
+UTMSPMapPolygonVisuals 1.0 dummy/UTMSPMapPolygonVisuals.qml
+UTMSPMapVisuals 1.0 dummy/UTMSPMapVisuals.qml
+UTMSPNotificationSlider 1.0 dummy/UTMSPNotificationSlider.qml
+singleton UTMSPStateStorage 1.0 dummy/UTMSPStateStorage.qml
+

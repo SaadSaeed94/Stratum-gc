@@ -1,0 +1,247 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 699,
+                            "functionName": "implicitWidth",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 137,
+                            "functionName": "implicitHeight",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 229,
+                            "functionName": "extraInset",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 120,
+                            "functionName": "extraValuesWidth",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 543,
+                            "functionName": "defaultCompassRadius",
+                            "line": 17,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 12587,
+                            "functionName": "maxCompassRadius",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 433,
+                            "functionName": "compassRadius",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 324,
+                            "functionName": "compassBorder",
+                            "line": 20,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 510,
+                            "functionName": "vehicle",
+                            "line": 21,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 511,
+                            "functionName": "qgcPal",
+                            "line": 22,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 285,
+                            "functionName": "_totalAttitudeSize",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 81,
+                            "functionName": "x",
+                            "line": 29,
+                            "message": "Cannot access value for name _totalAttitudeSize"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 161,
+                            "functionName": "attitudeAngleDegrees",
+                            "line": 30,
+                            "message": "Cannot access value for name vehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 205,
+                            "functionName": "compassRadius",
+                            "line": 31,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 74,
+                            "functionName": "x",
+                            "line": 35,
+                            "message": "Cannot access value for name _totalAttitudeSize"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 146,
+                            "functionName": "attitudeAngleDegrees",
+                            "line": 36,
+                            "message": "Cannot access value for name vehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 197,
+                            "functionName": "compassRadius",
+                            "line": 37,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 163,
+                            "functionName": "attitudeSize",
+                            "line": 38,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 161,
+                            "functionName": "attitudeSpacing",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 189,
+                            "functionName": "transformOrigin",
+                            "line": 40,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 68,
+                            "functionName": "y",
+                            "line": 45,
+                            "message": "Cannot access value for name _totalAttitudeSize"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 64,
+                            "functionName": "width",
+                            "line": 46,
+                            "message": "Cannot access value for name compassRadius"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 124,
+                            "functionName": "height",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 243,
+                            "functionName": "radius",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 70,
+                            "functionName": "color",
+                            "line": 49,
+                            "message": "Cannot access value for name qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 92,
+                            "functionName": "size",
+                            "line": 52,
+                            "message": "Cannot access value for name compassBorder"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 211,
+                            "functionName": "vehicle",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 177,
+                            "functionName": "usedByMultipleVehicleList",
+                            "line": 54,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 146,
+                            "functionName": "centerIn",
+                            "line": 55,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/IntegratedCompassAttitude.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+        }
+    ]
+}

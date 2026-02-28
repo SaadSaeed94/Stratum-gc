@@ -1,0 +1,27 @@
+module QGroundControl.AppSettings
+typeinfo AppSettingsModule.qmltypes
+prefer :/qml/QGroundControl/AppSettings/
+ADSBServerSettings 1.0 ADSBServerSettings.qml
+BluetoothSettings 1.0 BluetoothSettings.qml
+DebugWindow 1.0 DebugWindow.qml
+FlyViewSettings 1.0 FlyViewSettings.qml
+GeneralSettings 1.0 GeneralSettings.qml
+HelpSettings 1.0 HelpSettings.qml
+LinkSettings 1.0 LinkSettings.qml
+LogReplaySettings 1.0 LogReplaySettings.qml
+MapSettings 1.0 MapSettings.qml
+NTRIPSettings 1.0 NTRIPSettings.qml
+MockLink 1.0 MockLink.qml
+MockLinkSettings 1.0 MockLinkSettings.qml
+PlanViewSettings 1.0 PlanViewSettings.qml
+PX4LogTransferSettings 1.0 PX4LogTransferSettings.qml
+QmlTest 1.0 QmlTest.qml
+RemoteIDSettings 1.0 RemoteIDSettings.qml
+SerialSettings 1.0 SerialSettings.qml
+SettingsPage 1.0 SettingsPage.qml
+SettingsPagesModel 1.0 SettingsPagesModel.qml
+TcpSettings 1.0 TcpSettings.qml
+TelemetrySettings 1.0 TelemetrySettings.qml
+UdpSettings 1.0 UdpSettings.qml
+VideoSettings 1.0 VideoSettings.qml
+

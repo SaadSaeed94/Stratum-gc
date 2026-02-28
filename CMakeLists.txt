@@ -1,8 +1,35 @@
 # ============================================================================
 # QGroundControl CMake Build Configuration
+# STRATUM - Optimized for Fast Loading
 # ============================================================================
 
 cmake_minimum_required(VERSION 3.25)
+
+# ============================================================================
+# STRATUM: Speed Optimizations
+# ============================================================================
+
+# Disable testing (major speedup)
+set(QGC_BUILD_TESTING OFF CACHE BOOL "Disable testing" FORCE)
+set(BUILD_TESTING OFF CACHE BOOL "Disable testing" FORCE)
+
+# Use CPM cache to avoid re-downloading dependencies
+set(CPM_SOURCE_CACHE "${CMAKE_SOURCE_DIR}/.cpm_cache" CACHE PATH "CPM cache directory")
+set(CPM_USE_LOCAL_PACKAGES ON CACHE BOOL "Use local packages")
+
+# Disable QML linting for faster builds
+set(QGC_ENABLE_QMLLINT OFF CACHE BOOL "Disable QML linting" FORCE)
+
+# Skip unnecessary runtime path settings
+set(CMAKE_SKIP_RPATH ON)
+set(CMAKE_SKIP_INSTALL_RPATH ON)
+
+# Use ccache if available
+find_program(CCACHE_PROGRAM ccache)
+if(CCACHE_PROGRAM)
+    set(CMAKE_C_COMPILER_LAUNCHER "${CCACHE_PROGRAM}")
+    set(CMAKE_CXX_COMPILER_LAUNCHER "${CCACHE_PROGRAM}")
+endif()
 
 # ----------------------------------------------------------------------------
 # CMake Module Paths
@@ -326,7 +353,7 @@ qt_add_resources(${CMAKE_PROJECT_NAME} "qgcresources_cmake"
 qt_import_plugins(${CMAKE_PROJECT_NAME}
     INCLUDE Qt6::QSvgPlugin
     EXCLUDE_BY_TYPE geoservices  # Use built-in location plugins
-    INCLUDE_BY_TYPE sqldrivers Qt6::QSQLiteDriverPlugin
+    #INCLUDE_BY_TYPE sqldrivers Qt6::QSQLiteDriverPlugin
 )
 
 # Linux-specific Qt platform plugins

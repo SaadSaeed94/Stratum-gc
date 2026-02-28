@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AppSettings">
+    <file alias="qmldir">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/AppSettings/qmldir</file>
+  </qresource>
+</RCC>
+

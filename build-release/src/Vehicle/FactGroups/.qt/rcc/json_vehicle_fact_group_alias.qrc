@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/json/Vehicle">
+    <file alias="LocalPositionSetpointFact.json">/home/saad-saeed/qgroundcontrol/src/Vehicle/FactGroups/LocalPositionFact.json</file>
+  </qresource>
+</RCC>
+

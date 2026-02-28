@@ -1,0 +1,1967 @@
+[
+    {
+        "classes": [
+            {
+                "className": "QGCCachedTileSet",
+                "lineNumber": 17,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 15,
+                        "lineNumber": 57,
+                        "name": "createDownloadTask",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 16,
+                        "lineNumber": 58,
+                        "name": "resumeDownloadTask",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 17,
+                        "lineNumber": 59,
+                        "name": "cancelDownloadTask",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 22,
+                        "name": "name",
+                        "notify": "nameChanged",
+                        "read": "name",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "lineNumber": 23,
+                        "name": "mapTypeStr",
+                        "read": "mapTypeStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "lineNumber": 24,
+                        "name": "topleftLon",
+                        "read": "topleftLon",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "lineNumber": 25,
+                        "name": "topleftLat",
+                        "read": "topleftLat",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "lineNumber": 26,
+                        "name": "bottomRightLon",
+                        "read": "bottomRightLon",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 5,
+                        "lineNumber": 27,
+                        "name": "bottomRightLat",
+                        "read": "bottomRightLat",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 6,
+                        "lineNumber": 28,
+                        "name": "minZoom",
+                        "read": "minZoom",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 7,
+                        "lineNumber": 29,
+                        "name": "maxZoom",
+                        "read": "maxZoom",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 8,
+                        "lineNumber": 30,
+                        "name": "totalTileCount",
+                        "notify": "totalTileCountChanged",
+                        "read": "totalTileCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint32",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 9,
+                        "lineNumber": 31,
+                        "name": "totalTileCountStr",
+                        "notify": "totalTileCountChanged",
+                        "read": "totalTileCountStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 10,
+                        "lineNumber": 32,
+                        "name": "totalTilesSize",
+                        "notify": "totalTilesSizeChanged",
+                        "read": "totalTilesSize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint64",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 11,
+                        "lineNumber": 33,
+                        "name": "totalTilesSizeStr",
+                        "notify": "totalTilesSizeChanged",
+                        "read": "totalTilesSizeStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 12,
+                        "lineNumber": 34,
+                        "name": "uniqueTileCount",
+                        "notify": "uniqueTileCountChanged",
+                        "read": "uniqueTileCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint32",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 13,
+                        "lineNumber": 35,
+                        "name": "uniqueTileCountStr",
+                        "notify": "uniqueTileCountChanged",
+                        "read": "uniqueTileCountStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 14,
+                        "lineNumber": 36,
+                        "name": "uniqueTileSize",
+                        "notify": "uniqueTileSizeChanged",
+                        "read": "uniqueTileSize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint64",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 15,
+                        "lineNumber": 37,
+                        "name": "uniqueTileSizeStr",
+                        "notify": "uniqueTileSizeChanged",
+                        "read": "uniqueTileSizeStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 16,
+                        "lineNumber": 38,
+                        "name": "savedTileCount",
+                        "notify": "savedTileCountChanged",
+                        "read": "savedTileCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint32",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 17,
+                        "lineNumber": 39,
+                        "name": "savedTileCountStr",
+                        "notify": "savedTileCountChanged",
+                        "read": "savedTileCountStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 18,
+                        "lineNumber": 40,
+                        "name": "savedTileSize",
+                        "notify": "savedTileSizeChanged",
+                        "read": "savedTileSize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint64",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 19,
+                        "lineNumber": 41,
+                        "name": "savedTileSizeStr",
+                        "notify": "savedTileSizeChanged",
+                        "read": "savedTileSizeStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 20,
+                        "lineNumber": 42,
+                        "name": "downloadStatus",
+                        "notify": "savedTileSizeChanged",
+                        "read": "downloadStatus",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 21,
+                        "lineNumber": 43,
+                        "name": "creationDate",
+                        "read": "creationDate",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QDateTime",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 22,
+                        "lineNumber": 44,
+                        "name": "complete",
+                        "notify": "completeChanged",
+                        "read": "complete",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 23,
+                        "lineNumber": 45,
+                        "name": "defaultSet",
+                        "read": "defaultSet",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 24,
+                        "lineNumber": 46,
+                        "name": "id",
+                        "read": "id",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint64",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 25,
+                        "lineNumber": 47,
+                        "name": "deleting",
+                        "notify": "deletingChanged",
+                        "read": "deleting",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 26,
+                        "lineNumber": 48,
+                        "name": "downloading",
+                        "notify": "downloadingChanged",
+                        "read": "downloading",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 27,
+                        "lineNumber": 49,
+                        "name": "errorCount",
+                        "notify": "errorCountChanged",
+                        "read": "errorCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint32",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 28,
+                        "lineNumber": 50,
+                        "name": "errorCountStr",
+                        "notify": "errorCountChanged",
+                        "read": "errorCountStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 29,
+                        "lineNumber": 51,
+                        "name": "selected",
+                        "notify": "selectedChanged",
+                        "read": "selected",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false,
+                        "write": "setSelected"
+                    }
+                ],
+                "qualifiedClassName": "QGCCachedTileSet",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 124,
+                        "name": "deletingChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 125,
+                        "name": "downloadingChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 126,
+                        "name": "totalTileCountChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "lineNumber": 127,
+                        "name": "uniqueTileCountChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "lineNumber": 128,
+                        "name": "uniqueTileSizeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 5,
+                        "lineNumber": 129,
+                        "name": "totalTilesSizeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 6,
+                        "lineNumber": 130,
+                        "name": "savedTileCountChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 7,
+                        "lineNumber": 131,
+                        "name": "savedTileSizeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "lineNumber": 132,
+                        "name": "completeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 9,
+                        "lineNumber": 133,
+                        "name": "errorCountChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 10,
+                        "lineNumber": 134,
+                        "name": "selectedChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 11,
+                        "lineNumber": 135,
+                        "name": "nameChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "tiles",
+                                "type": "QQueue<QGCTile*>"
+                            }
+                        ],
+                        "index": 12,
+                        "lineNumber": 138,
+                        "name": "_tileListFetched",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 13,
+                        "lineNumber": 139,
+                        "name": "_networkReplyFinished",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "error",
+                                "type": "QNetworkReply::NetworkError"
+                            }
+                        ],
+                        "index": 14,
+                        "lineNumber": 140,
+                        "name": "_networkReplyError",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGCCachedTileSet.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGCMapEngine",
+                "lineNumber": 12,
+                "object": true,
+                "qualifiedClassName": "QGCMapEngine",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "totaltiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "totalsize",
+                                "type": "quint64"
+                            },
+                            {
+                                "name": "defaulttiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "defaultsize",
+                                "type": "quint64"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 26,
+                        "name": "updateTotals",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "totaltiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "totalsize",
+                                "type": "quint64"
+                            },
+                            {
+                                "name": "defaulttiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "defaultsize",
+                                "type": "quint64"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 29,
+                        "name": "_updateTotals",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 2,
+                        "lineNumber": 30,
+                        "name": "_pruned",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGCMapEngine.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGCMapEngineManager",
+                "enums": [
+                    {
+                        "isClass": true,
+                        "isFlag": false,
+                        "lineNumber": 42,
+                        "name": "ImportAction",
+                        "values": [
+                            "ActionNone",
+                            "ActionImporting",
+                            "ActionExporting",
+                            "ActionDone"
+                        ]
+                    }
+                ],
+                "lineNumber": 15,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 20,
+                        "lineNumber": 50,
+                        "name": "exportSets",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "index": 21,
+                        "isCloned": true,
+                        "lineNumber": 50,
+                        "name": "exportSets",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 22,
+                        "isConst": true,
+                        "lineNumber": 51,
+                        "name": "findName",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 23,
+                        "lineNumber": 52,
+                        "name": "importSets",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "index": 24,
+                        "isCloned": true,
+                        "lineNumber": 52,
+                        "name": "importSets",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "archivePath",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 25,
+                        "lineNumber": 58,
+                        "name": "importArchive",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "index": 26,
+                        "isConst": true,
+                        "lineNumber": 59,
+                        "name": "getUniqueName",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tileSet",
+                                "type": "QGCCachedTileSet*"
+                            }
+                        ],
+                        "index": 27,
+                        "lineNumber": 60,
+                        "name": "deleteTileSet",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 28,
+                        "lineNumber": 61,
+                        "name": "loadTileSets",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tileSet",
+                                "type": "QGCCachedTileSet*"
+                            },
+                            {
+                                "name": "newName",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 29,
+                        "lineNumber": 62,
+                        "name": "renameTileSet",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 30,
+                        "lineNumber": 63,
+                        "name": "resetAction",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 31,
+                        "lineNumber": 64,
+                        "name": "selectAll",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 32,
+                        "lineNumber": 65,
+                        "name": "selectNone",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "mapType",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 33,
+                        "lineNumber": 66,
+                        "name": "startDownload",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "lon0",
+                                "type": "double"
+                            },
+                            {
+                                "name": "lat0",
+                                "type": "double"
+                            },
+                            {
+                                "name": "lon1",
+                                "type": "double"
+                            },
+                            {
+                                "name": "lat1",
+                                "type": "double"
+                            },
+                            {
+                                "name": "minZoom",
+                                "type": "int"
+                            },
+                            {
+                                "name": "maxZoom",
+                                "type": "int"
+                            },
+                            {
+                                "name": "mapName",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 34,
+                        "lineNumber": 67,
+                        "name": "updateForCurrentView",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "key",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "defaultValue",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 35,
+                        "lineNumber": 69,
+                        "name": "loadSetting",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "provider",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 36,
+                        "lineNumber": 70,
+                        "name": "mapTypeList",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "key",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "value",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 37,
+                        "lineNumber": 71,
+                        "name": "saveSetting",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 22,
+                        "member": "_fetchElevation",
+                        "name": "fetchElevation",
+                        "notify": "fetchElevationChanged",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "lineNumber": 23,
+                        "member": "_importReplace",
+                        "name": "importReplace",
+                        "notify": "importReplaceChanged",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "lineNumber": 24,
+                        "name": "importAction",
+                        "notify": "importActionChanged",
+                        "read": "importAction",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "ImportAction",
+                        "user": false,
+                        "write": "setImportAction"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "lineNumber": 25,
+                        "name": "actionProgress",
+                        "notify": "actionProgressChanged",
+                        "read": "actionProgress",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "lineNumber": 26,
+                        "name": "selectedCount",
+                        "notify": "selectedCountChanged",
+                        "read": "selectedCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 5,
+                        "lineNumber": 27,
+                        "name": "tileSets",
+                        "notify": "tileSetsChanged",
+                        "read": "tileSets",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QmlObjectListModel*",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 6,
+                        "lineNumber": 28,
+                        "name": "errorMessage",
+                        "notify": "errorMessageChanged",
+                        "read": "errorMessage",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 7,
+                        "lineNumber": 29,
+                        "name": "tileCountStr",
+                        "notify": "tileCountChanged",
+                        "read": "tileCountStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 8,
+                        "lineNumber": 30,
+                        "name": "tileSizeStr",
+                        "notify": "tileSizeChanged",
+                        "read": "tileSizeStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 9,
+                        "lineNumber": 31,
+                        "name": "mapList",
+                        "read": "mapList",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 10,
+                        "lineNumber": 32,
+                        "name": "mapProviderList",
+                        "read": "mapProviderList",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 11,
+                        "lineNumber": 33,
+                        "name": "elevationProviderList",
+                        "read": "elevationProviderList",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 12,
+                        "lineNumber": 34,
+                        "name": "tileCount",
+                        "notify": "tileCountChanged",
+                        "read": "tileCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint64",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 13,
+                        "lineNumber": 35,
+                        "name": "tileSize",
+                        "notify": "tileSizeChanged",
+                        "read": "tileSize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "quint64",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "QGCMapEngineManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 92,
+                        "name": "actionProgressChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 93,
+                        "name": "errorMessageChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 94,
+                        "name": "fetchElevationChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "lineNumber": 95,
+                        "name": "freeDiskSpaceChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "lineNumber": 96,
+                        "name": "importActionChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 5,
+                        "lineNumber": 97,
+                        "name": "importReplaceChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 6,
+                        "lineNumber": 98,
+                        "name": "selectedCountChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 7,
+                        "lineNumber": 99,
+                        "name": "tileCountChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "lineNumber": 100,
+                        "name": "tileSetsChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 9,
+                        "lineNumber": 101,
+                        "name": "tileSizeChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "type",
+                                "type": "QGCMapTask::TaskType"
+                            },
+                            {
+                                "name": "error",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 10,
+                        "lineNumber": 104,
+                        "name": "taskError",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 11,
+                        "lineNumber": 107,
+                        "name": "_actionCompleted",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "percentage",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 12,
+                        "lineNumber": 108,
+                        "name": "_actionProgressHandler",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 13,
+                        "lineNumber": 109,
+                        "name": "_resetCompleted",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "setID",
+                                "type": "quint64"
+                            }
+                        ],
+                        "index": 14,
+                        "lineNumber": 110,
+                        "name": "_tileSetDeleted",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "tileSets",
+                                "type": "QGCCachedTileSet*"
+                            }
+                        ],
+                        "index": 15,
+                        "lineNumber": 111,
+                        "name": "_tileSetFetched",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "set",
+                                "type": "QGCCachedTileSet*"
+                            }
+                        ],
+                        "index": 16,
+                        "lineNumber": 112,
+                        "name": "_tileSetSaved",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "totaltiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "totalsize",
+                                "type": "quint64"
+                            },
+                            {
+                                "name": "defaulttiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "defaultsize",
+                                "type": "quint64"
+                            }
+                        ],
+                        "index": 17,
+                        "lineNumber": 113,
+                        "name": "_updateTotals",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "progress",
+                                "type": "qreal"
+                            }
+                        ],
+                        "index": 18,
+                        "lineNumber": 114,
+                        "name": "_handleExtractionProgress",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "success",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 19,
+                        "lineNumber": 115,
+                        "name": "_handleExtractionFinished",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGCMapEngineManager.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGCMapTask",
+                "enums": [
+                    {
+                        "isClass": true,
+                        "isFlag": false,
+                        "lineNumber": 16,
+                        "name": "TaskType",
+                        "values": [
+                            "taskInit",
+                            "taskCacheTile",
+                            "taskFetchTile",
+                            "taskFetchTileSets",
+                            "taskCreateTileSet",
+                            "taskGetTileDownloadList",
+                            "taskUpdateTileDownloadState",
+                            "taskDeleteTileSet",
+                            "taskRenameTileSet",
+                            "taskPruneCache",
+                            "taskReset",
+                            "taskExport",
+                            "taskImport"
+                        ]
+                    }
+                ],
+                "lineNumber": 11,
+                "object": true,
+                "qualifiedClassName": "QGCMapTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "type",
+                                "type": "QGCMapTask::TaskType"
+                            },
+                            {
+                                "name": "errorString",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 47,
+                        "name": "error",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            },
+            {
+                "className": "QGCFetchTileSetTask",
+                "lineNumber": 55,
+                "object": true,
+                "qualifiedClassName": "QGCFetchTileSetTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tileSet",
+                                "type": "QGCCachedTileSet*"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 71,
+                        "name": "tileSetFetched",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCCreateTileSetTask",
+                "lineNumber": 76,
+                "object": true,
+                "qualifiedClassName": "QGCCreateTileSetTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tileSet",
+                                "type": "QGCCachedTileSet*"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 102,
+                        "name": "tileSetSaved",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCFetchTileTask",
+                "lineNumber": 111,
+                "object": true,
+                "qualifiedClassName": "QGCFetchTileTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tile",
+                                "type": "QGCCacheTile*"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 130,
+                        "name": "tileFetched",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCSaveTileTask",
+                "lineNumber": 138,
+                "object": true,
+                "qualifiedClassName": "QGCSaveTileTask",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCGetTileDownloadListTask",
+                "lineNumber": 161,
+                "object": true,
+                "qualifiedClassName": "QGCGetTileDownloadListTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tiles",
+                                "type": "QQueue<QGCTile*>"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 182,
+                        "name": "tileListFetched",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCUpdateTileDownloadStateTask",
+                "lineNumber": 191,
+                "object": true,
+                "qualifiedClassName": "QGCUpdateTileDownloadStateTask",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCDeleteTileSetTask",
+                "lineNumber": 216,
+                "object": true,
+                "qualifiedClassName": "QGCDeleteTileSetTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "setID",
+                                "type": "quint64"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 235,
+                        "name": "tileSetDeleted",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCRenameTileSetTask",
+                "lineNumber": 243,
+                "object": true,
+                "qualifiedClassName": "QGCRenameTileSetTask",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCPruneCacheTask",
+                "lineNumber": 265,
+                "object": true,
+                "qualifiedClassName": "QGCPruneCacheTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 284,
+                        "name": "pruned",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCResetTask",
+                "lineNumber": 292,
+                "object": true,
+                "qualifiedClassName": "QGCResetTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 308,
+                        "name": "resetCompleted",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCExportTileTask",
+                "lineNumber": 313,
+                "object": true,
+                "qualifiedClassName": "QGCExportTileTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 339,
+                        "name": "actionCompleted",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "percentage",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 340,
+                        "name": "actionProgress",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            },
+            {
+                "className": "QGCImportTileTask",
+                "lineNumber": 349,
+                "object": true,
+                "qualifiedClassName": "QGCImportTileTask",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 377,
+                        "name": "actionCompleted",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "percentage",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 378,
+                        "name": "actionProgress",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGCMapTask"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGCMapTasks.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGCCacheWorker",
+                "lineNumber": 18,
+                "object": true,
+                "qualifiedClassName": "QGCCacheWorker",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "totaltiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "totalsize",
+                                "type": "quint64"
+                            },
+                            {
+                                "name": "defaulttiles",
+                                "type": "quint32"
+                            },
+                            {
+                                "name": "defaultsize",
+                                "type": "quint64"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 33,
+                        "name": "updateTotals",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "task",
+                                "type": "QGCMapTask*"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 29,
+                        "name": "enqueueTask",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 30,
+                        "name": "stop",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QThread"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGCTileCacheWorker.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGeoFileTileCacheQGC",
+                "lineNumber": 10,
+                "object": true,
+                "qualifiedClassName": "QGeoFileTileCacheQGC",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGeoFileTileCache"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGeoFileTileCacheQGC.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGeoTiledMapReplyQGC",
+                "lineNumber": 15,
+                "object": true,
+                "qualifiedClassName": "QGeoTiledMapReplyQGC",
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 0,
+                        "lineNumber": 27,
+                        "name": "_networkReplyFinished",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "error",
+                                "type": "QNetworkReply::NetworkError"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 28,
+                        "name": "_networkReplyError",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "errors",
+                                "type": "QList<QSslError>"
+                            }
+                        ],
+                        "index": 2,
+                        "lineNumber": 29,
+                        "name": "_networkReplySslErrors",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "tile",
+                                "type": "QGCCacheTile*"
+                            }
+                        ],
+                        "index": 3,
+                        "lineNumber": 30,
+                        "name": "_cacheReply",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "type",
+                                "type": "QGCMapTask::TaskType"
+                            },
+                            {
+                                "name": "errorString",
+                                "type": "QStringView"
+                            }
+                        ],
+                        "index": 4,
+                        "lineNumber": 31,
+                        "name": "_cacheError",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGeoTiledMapReply"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGeoMapReplyQGC.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGeoServiceProviderFactoryQGC",
+                "interfaces": [
+                    [
+                        {
+                            "className": "QGeoServiceProviderFactory",
+                            "id": "\"org.qt-project.qt.geoservice.serviceproviderfactory/6.0\""
+                        }
+                    ]
+                ],
+                "lineNumber": 10,
+                "object": true,
+                "qualifiedClassName": "QGeoServiceProviderFactoryQGC",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    },
+                    {
+                        "access": "public",
+                        "name": "QGeoServiceProviderFactory"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGeoServiceProviderPluginQGC.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGeoTileFetcherQGC",
+                "lineNumber": 14,
+                "object": true,
+                "qualifiedClassName": "QGeoTileFetcherQGC",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGeoTileFetcher"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGeoTileFetcherQGC.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGeoTiledMapQGC",
+                "lineNumber": 10,
+                "object": true,
+                "qualifiedClassName": "QGeoTiledMapQGC",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGeoTiledMap"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGeoTiledMapQGC.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "QGeoTiledMappingManagerEngineQGC",
+                "lineNumber": 11,
+                "object": true,
+                "qualifiedClassName": "QGeoTiledMappingManagerEngineQGC",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QGeoTiledMappingManagerEngine"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "QGeoTiledMappingManagerEngineQGC.h",
+        "outputRevision": 69
+    }
+]

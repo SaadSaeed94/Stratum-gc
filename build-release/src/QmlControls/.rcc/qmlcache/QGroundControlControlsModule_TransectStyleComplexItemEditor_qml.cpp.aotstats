@@ -1,0 +1,639 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 807,
+                            "functionName": "height",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 780,
+                            "functionName": "width",
+                            "line": 14,
+                            "message": "Cannot access value for name availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 119,
+                            "functionName": "color",
+                            "line": 15,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 476,
+                            "functionName": "radius",
+                            "line": 16,
+                            "message": "Cannot access value for name _radius"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 221,
+                            "functionName": "transectAreaDefinitionHelp",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 127,
+                            "functionName": "transectValuesHeaderName",
+                            "line": 20,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 118,
+                            "functionName": "transectValuesComponent",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 85,
+                            "functionName": "presetsTransectValuesComponent",
+                            "line": 22,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 582,
+                            "functionName": "_missionItem",
+                            "line": 26,
+                            "message": "Cannot access value for name missionItem"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 12503,
+                            "functionName": "_margin",
+                            "line": 27,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 333,
+                            "functionName": "_fieldWidth",
+                            "line": 28,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 1950,
+                            "functionName": "_vehicle",
+                            "line": 29,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 85,
+                            "functionName": "_cameraMinTriggerInterval",
+                            "line": 30,
+                            "message": "Cannot load property cameraCalc from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleComplexItemEditor.qml)::_missionItem with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 65,
+                            "functionName": "_presetsAvailable",
+                            "line": 32,
+                            "message": "Cannot load property presetNames from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleComplexItemEditor.qml)::_missionItem with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 332,
+                            "functionName": "polygonCaptureStarted",
+                            "line": 34,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "polygonCaptureFinished",
+                            "line": 38,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "polygonAdjustVertex",
+                            "line": 44,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 67,
+                            "functionName": "polygonAdjustStarted",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 57,
+                            "functionName": "polygonAdjustFinished",
+                            "line": 49,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 91,
+                            "functionName": "margins",
+                            "line": 55,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 277,
+                            "functionName": "top",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 250,
+                            "functionName": "left",
+                            "line": 57,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 218,
+                            "functionName": "right",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 210,
+                            "functionName": "wrapMode",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 172,
+                            "functionName": "horizontalAlignment",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 100,
+                            "functionName": "text",
+                            "line": 65,
+                            "message": "Cannot access value for name transectAreaDefinitionHelp"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 177,
+                            "functionName": "visible",
+                            "line": 66,
+                            "message": "Cannot access value for name transectAreaDefinitionComplete"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 78,
+                            "functionName": "spacing",
+                            "line": 71,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 161,
+                            "functionName": "visible",
+                            "line": 72,
+                            "message": "Cannot access value for name transectAreaDefinitionComplete"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 93,
+                            "functionName": "spacing",
+                            "line": 82,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 418,
+                            "functionName": "visible",
+                            "line": 83,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 240,
+                            "functionName": "text",
+                            "line": 87,
+                            "message": "Cannot access value for name _cameraMinTriggerInterval"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 261,
+                            "functionName": "wrapMode",
+                            "line": 88,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 92,
+                            "functionName": "color",
+                            "line": 89,
+                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 426,
+                            "functionName": "visible",
+                            "line": 90,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 104,
+                            "functionName": "cameraCalc",
+                            "line": 95,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 105,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 134,
+                            "functionName": "visible",
+                            "line": 110,
+                            "message": "Cannot retrieve a non-object type by ID: transectValuesHeader"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 78,
+                            "functionName": "sourceComponent",
+                            "line": 111,
+                            "message": "Cannot access value for name transectValuesComponent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 119,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 120,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 296,
+                            "functionName": "alignment",
+                            "line": 117,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 130,
+                            "functionName": "visible",
+                            "line": 131,
+                            "message": "Cannot retrieve a non-object type by ID: statsHeader"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 427,
+                            "functionName": "visible",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 124,
+                            "functionName": "cameraCalc",
+                            "line": 139,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 78,
+                            "functionName": "spacing",
+                            "line": 145,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 403,
+                            "functionName": "visible",
+                            "line": 146,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 80,
+                            "functionName": "missionItem",
+                            "line": 147,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 86,
+                            "functionName": "spacing",
+                            "line": 153,
+                            "message": "Cannot access value for name _margin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 408,
+                            "functionName": "visible",
+                            "line": 154,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 273,
+                            "functionName": "wrapMode",
+                            "line": 159,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 134,
+                            "functionName": "model",
+                            "line": 165,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 174,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 175,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 181,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 182,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 651,
+                            "functionName": "text",
+                            "line": 189,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 492,
+                            "functionName": "buttons",
+                            "line": 190,
+                            "message": "Cannot access value for name Dialog"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 126,
+                            "functionName": "onAccepted",
+                            "line": 194,
+                            "message": "Cannot access value for name _missionItem"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 254,
+                            "functionName": "height",
+                            "line": 200,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 206,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 264,
+                            "functionName": "alignment",
+                            "line": 203,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 212,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 213,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 298,
+                            "functionName": "visible",
+                            "line": 218,
+                            "message": "Cannot retrieve a non-object type by ID: presectsTransectValuesHeader"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 73,
+                            "functionName": "sourceComponent",
+                            "line": 219,
+                            "message": "Cannot access value for name presetsTransectValuesComponent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 104,
+                            "functionName": "visible",
+                            "line": 232,
+                            "message": "Cannot retrieve a non-object type by ID: presetsStatsHeader"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 452,
+                            "functionName": "buttons",
+                            "line": 243,
+                            "message": "Cannot access value for name Dialog"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 370,
+                            "functionName": "onAccepted",
+                            "line": 245,
+                            "message": "Cannot retrieve a non-object type by ID: presetNameField"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 478,
+                            "functionName": "width",
+                            "line": 254,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 220,
+                            "functionName": "spacing",
+                            "line": 255,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 240,
+                            "functionName": "wrapMode",
+                            "line": 260,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTextChanged",
+                            "line": 273,
+                            "message": "Could not find signal \"textChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "validateText",
+                            "line": 275,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 196,
+                            "functionName": "onCompleted",
+                            "line": 272,
+                            "message": "Cannot retrieve a non-object type by ID: presetNameField"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 278,
+                            "functionName": "wrapMode",
+                            "line": 292,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 945,
+                            "functionName": "color",
+                            "line": 293,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 308,
+                            "functionName": "visible",
+                            "line": 294,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/TransectStyleComplexItemEditor.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+
+set(target "Viewer3DModule")
+set(working_dir "/home/saad-saeed/qgroundcontrol/src/Viewer3D")
+set(src_and_dest_list
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Images/city_3d_map_icon.svg"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/City3DMapIcon.svg"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Shaders/earthMaterial.frag"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/ShaderFragment/earthMaterial.frag"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Shaders/earthMaterial.vert"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/ShaderVertex/earthMaterial.vert"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_3/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_3/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_4/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_4/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_3/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_3/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_4/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_4/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_7/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_7/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_2/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_bottom_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_bottom_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_Top_1/node.mesh"
+    "/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_Top_1/node.mesh"
+
+)
+set(timestamp_file "/home/saad-saeed/qgroundcontrol/build-release/src/Viewer3D/.qt/Viewer3DModule_res.txt")

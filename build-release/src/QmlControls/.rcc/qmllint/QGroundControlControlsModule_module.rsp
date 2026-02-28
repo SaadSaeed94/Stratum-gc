@@ -1,0 +1,12 @@
+-I
+/home/saad-saeed/qgroundcontrol/build-release/qml
+-I
+/home/saad-saeed/qgroundcontrol/build-release/qml
+-I
+/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/qml
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/QmlControls/.qt/rcc/qmake_QGroundControl_Controls.qrc
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/QmlControls/.qt/rcc/QGroundControlControlsModule_raw_qml_0.qrc
+--module
+QGroundControl.Controls

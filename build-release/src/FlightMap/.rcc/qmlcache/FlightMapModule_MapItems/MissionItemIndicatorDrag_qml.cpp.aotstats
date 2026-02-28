@@ -1,0 +1,223 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 462,
+                            "functionName": "x",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 240,
+                            "functionName": "y",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 327,
+                            "functionName": "width",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 324,
+                            "functionName": "height",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 715,
+                            "functionName": "z",
+                            "line": 15,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 95,
+                            "functionName": "_itemIndicatorX",
+                            "line": 28,
+                            "message": "Cannot load property x from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml)::itemIndicator with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 68,
+                            "functionName": "_itemIndicatorY",
+                            "line": 29,
+                            "message": "Cannot load property y from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml)::itemIndicator with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 51,
+                            "functionName": "_itemIndicatorWidth",
+                            "line": 30,
+                            "message": "Cannot load property width from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml)::itemIndicator with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 51,
+                            "functionName": "_itemIndicatorHeight",
+                            "line": 31,
+                            "message": "Cannot load property height from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml)::itemIndicator with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 12600,
+                            "functionName": "_mobile",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 540,
+                            "functionName": "_touchWidth",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 432,
+                            "functionName": "_touchHeight",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 605,
+                            "functionName": "_touchMarginHorizontal",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 507,
+                            "functionName": "_touchMarginVertical",
+                            "line": 36,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 180,
+                            "functionName": "onXChanged",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 126,
+                            "functionName": "onYChanged",
+                            "line": 40,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 883,
+                            "functionName": "liveDrag",
+                            "line": 42,
+                            "message": "Cannot load property anchorPoint from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml)::itemIndicator with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 286,
+                            "functionName": "active",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 209,
+                            "functionName": "enabled",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 356,
+                            "functionName": "onClicked",
+                            "line": 66,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 172,
+                            "functionName": "dragActive",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 1380,
+                            "functionName": "onDragActiveChanged",
+                            "line": 72,
+                            "message": "Cannot access value for name _dragStartSignalled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 193,
+                            "functionName": "fill",
+                            "line": 57,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 133,
+                            "functionName": "target",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 447,
+                            "functionName": "maximumX",
+                            "line": 61,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 398,
+                            "functionName": "maximumY",
+                            "line": 62,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+        }
+    ]
+}

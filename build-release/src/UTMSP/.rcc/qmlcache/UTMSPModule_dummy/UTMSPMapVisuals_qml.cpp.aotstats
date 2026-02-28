@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 168,
+                            "functionName": "_dummy",
+                            "line": 12,
+                            "message": "Cannot load property polygons from (component in /home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPMapVisuals.qml)::myGeoFenceController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 91,
+                            "functionName": "model",
+                            "line": 15,
+                            "message": "Cannot access value for name _dummy"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPMapVisuals.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.UTMSP(UTMSPModule)"
+        }
+    ]
+}

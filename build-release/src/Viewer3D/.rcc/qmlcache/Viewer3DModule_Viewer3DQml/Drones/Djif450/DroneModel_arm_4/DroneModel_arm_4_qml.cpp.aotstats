@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_4/DroneModel_arm_4.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Viewer3D(Viewer3DModule)"
+        }
+    ]
+}

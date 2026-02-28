@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/json">
+    <file alias="BreachReturn.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/BreachReturn.FactMetaData.json</file>
+    <file alias="CameraCalc.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json</file>
+    <file alias="CameraSection.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json</file>
+    <file alias="CameraSpec.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json</file>
+    <file alias="CorridorScan.SettingsGroup.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/CorridorScan.SettingsGroup.json</file>
+    <file alias="FWLandingPattern.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json</file>
+    <file alias="MavCmdInfoCommon.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json</file>
+    <file alias="MavCmdInfoFixedWing.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MavCmdInfoFixedWing.json</file>
+    <file alias="MavCmdInfoMultiRotor.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MavCmdInfoMultiRotor.json</file>
+    <file alias="MavCmdInfoRover.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MavCmdInfoRover.json</file>
+    <file alias="MavCmdInfoSub.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MavCmdInfoSub.json</file>
+    <file alias="MavCmdInfoVTOL.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MavCmdInfoVTOL.json</file>
+    <file alias="MissionSettings.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/MissionSettings.FactMetaData.json</file>
+    <file alias="RallyPoint.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/RallyPoint.FactMetaData.json</file>
+    <file alias="SpeedSection.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/SpeedSection.FactMetaData.json</file>
+    <file alias="StructureScan.SettingsGroup.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json</file>
+    <file alias="Survey.SettingsGroup.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/Survey.SettingsGroup.json</file>
+    <file alias="TransectStyle.SettingsGroup.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json</file>
+    <file alias="VTOLLandingPattern.FactMetaData.json">/home/saad-saeed/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json</file>
+  </qresource>
+</RCC>
+

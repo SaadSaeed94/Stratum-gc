@@ -1,0 +1,16 @@
+--bare
+-I
+/home/saad-saeed/qgroundcontrol/build-release/qml
+-I
+/home/saad-saeed/qgroundcontrol/build-release/qml
+-I
+/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/qml
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/AnalyzeView/GeoTag/.qt/rcc/qmake_QGroundControl_AnalyzeView_GeoTag.qrc
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/AnalyzeView/GeoTag/.qt/rcc/GeoTagModule_raw_qml_0.qrc
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/AnalyzeView/GeoTag/.qt/rcc/GeoTagModule_raw_res_0.qrc
+/home/saad-saeed/qgroundcontrol/src/AnalyzeView/GeoTag/GeoTagPage.qml
+--json
+/home/saad-saeed/qgroundcontrol/build-release/GeoTagModule_qmllint.json

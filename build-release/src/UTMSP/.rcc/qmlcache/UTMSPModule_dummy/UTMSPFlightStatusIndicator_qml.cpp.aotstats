@@ -1,0 +1,47 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 360,
+                            "functionName": "ledImages",
+                            "line": 4,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 169,
+                            "functionName": "statusBarColor",
+                            "line": 5,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 122,
+                            "functionName": "flightState",
+                            "line": 6,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 114,
+                            "functionName": "progressPercentage",
+                            "line": 7,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPFlightStatusIndicator.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.UTMSP(UTMSPModule)"
+        }
+    ]
+}

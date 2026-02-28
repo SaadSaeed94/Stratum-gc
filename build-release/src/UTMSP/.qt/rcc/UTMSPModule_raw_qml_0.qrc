@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/UTMSP/">
+    <file alias="dummy/UTMSPActivationStatusBar.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPActivationStatusBar.qml</file>
+    <file alias="dummy/UTMSPAdapterEditor.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPAdapterEditor.qml</file>
+    <file alias="dummy/UTMSPFlightStatusIndicator.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPFlightStatusIndicator.qml</file>
+    <file alias="dummy/UTMSPMapPolygonVisuals.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPMapPolygonVisuals.qml</file>
+    <file alias="dummy/UTMSPMapVisuals.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPMapVisuals.qml</file>
+    <file alias="dummy/UTMSPNotificationSlider.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPNotificationSlider.qml</file>
+    <file alias="dummy/UTMSPStateStorage.qml">/home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPStateStorage.qml</file>
+  </qresource>
+</RCC>
+

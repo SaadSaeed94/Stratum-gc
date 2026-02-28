@@ -1,0 +1,5 @@
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/.qt/rcc/qmake_QGroundControl.qrc
+--resource
+/home/saad-saeed/qgroundcontrol/build-release/src/.qt/rcc/QGroundControlModule_raw_qml_0.qrc
+/qml/QGroundControl/MainWindow.qml

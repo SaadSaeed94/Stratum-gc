@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/SetupParameterEditor.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.VehicleSetup(VehicleSetupModule)"
+        }
+    ]
+}

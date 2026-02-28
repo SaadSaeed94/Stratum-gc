@@ -1,0 +1,415 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 778,
+                            "functionName": "pageComponent",
+                            "line": 12,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 12707,
+                            "functionName": "spacing",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "activeJoystickNameFact",
+                            "line": 21,
+                            "message": "Cannot resolve property type Fact for binding on activeJoystickNameFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 98,
+                            "functionName": "activeJoystickName",
+                            "line": 22,
+                            "message": "Cannot access value for name activeJoystickNameFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 607,
+                            "functionName": "availableJoystickNames",
+                            "line": 23,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 495,
+                            "functionName": "activeVehicle",
+                            "line": 24,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 507,
+                            "functionName": "activeJoystick",
+                            "line": 25,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 316,
+                            "functionName": "spacing",
+                            "line": 28,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 560,
+                            "functionName": "visible",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 1296,
+                            "functionName": "visible",
+                            "line": 34,
+                            "message": "Cannot access value for name activeJoystickName"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 166,
+                            "functionName": "onActivated",
+                            "line": 36,
+                            "message": "Cannot access value for name activeJoystickNameFact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 150,
+                            "functionName": "onActivated",
+                            "line": 36,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 3356,
+                            "functionName": "_buildModel",
+                            "line": 38,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 580,
+                            "functionName": "_selectActiveJoystick",
+                            "line": 47,
+                            "message": "Cannot access value for name activeJoystickName"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 273,
+                            "functionName": "_recalc",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 44,
+                            "durationMicroseconds": 202,
+                            "functionName": "onCompleted",
+                            "line": 61,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 194,
+                            "functionName": "target",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 257,
+                            "functionName": "onActiveJoystickNameChanged",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 197,
+                            "functionName": "target",
+                            "line": 63,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 60,
+                            "durationMicroseconds": 276,
+                            "functionName": "onAvailableJoystickNamesChanged",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 68,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 70,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 110,
+                            "functionName": "visible",
+                            "line": 76,
+                            "message": "Cannot access value for name activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 243,
+                            "functionName": "pointSize",
+                            "line": 74,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 314,
+                            "functionName": "visible",
+                            "line": 82,
+                            "message": "Cannot access value for name activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 220,
+                            "functionName": "sourceComponent",
+                            "line": 89,
+                            "message": "Cannot access value for name activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 174,
+                            "functionName": "useDeadband",
+                            "line": 106,
+                            "message": "Cannot load property joystick from (component in /home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponent.qml)::controller with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 465,
+                            "functionName": "additionalSetupComponent",
+                            "line": 108,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 381,
+                            "functionName": "additionalMonitorComponent",
+                            "line": 109,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 159,
+                            "functionName": "_controller",
+                            "line": 111,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 678,
+                            "functionName": "_activeVehicle",
+                            "line": 112,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 51,
+                            "durationMicroseconds": 47,
+                            "functionName": "_activeJoystick",
+                            "line": 113,
+                            "message": "Cannot load property joystick from (component in /home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponent.qml)::_controller with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 135,
+                            "functionName": "_requiresCalibration",
+                            "line": 114,
+                            "message": "Cannot load property requiresCalibration from (component in /home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponent.qml)::_activeJoystick with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "joystick",
+                            "line": 99,
+                            "message": "Could not find property \"joystick\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "statusText",
+                            "line": 100,
+                            "message": "Could not find property \"statusText\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "cancelButton",
+                            "line": 101,
+                            "message": "Could not find property \"cancelButton\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "nextButton",
+                            "line": 102,
+                            "message": "Could not find property \"nextButton\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 619,
+                            "functionName": "onCompleted",
+                            "line": 116,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 116,
+                            "functionName": "target",
+                            "line": 119,
+                            "message": "Cannot access value for name controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 836,
+                            "functionName": "onCalibrationCompleted",
+                            "line": 121,
+                            "message": "Cannot access value for name joystickManager"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 424,
+                            "functionName": "spacing",
+                            "line": 137,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 118,
+                            "functionName": "enabled",
+                            "line": 138,
+                            "message": "Cannot access value for name controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 100,
+                            "functionName": "joystick",
+                            "line": 158,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 80,
+                            "functionName": "controller",
+                            "line": 159,
+                            "message": "Cannot access value for name _controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 384,
+                            "functionName": "visible",
+                            "line": 160,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 98,
+                            "functionName": "joystick",
+                            "line": 166,
+                            "message": "Cannot access value for name _activeJoystick"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 331,
+                            "functionName": "visible",
+                            "line": 167,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 92,
+                            "functionName": "width",
+                            "line": 186,
+                            "message": "Cannot access value for name availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 58,
+                            "functionName": "height",
+                            "line": 187,
+                            "message": "Cannot access value for name availableHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 224,
+                            "functionName": "wrapMode",
+                            "line": 189,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponent.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.VehicleSetup(VehicleSetupModule)"
+        }
+    ]
+}

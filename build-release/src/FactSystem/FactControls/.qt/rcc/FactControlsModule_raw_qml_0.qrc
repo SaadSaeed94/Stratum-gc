@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/FactControls/">
+    <file alias="AltitudeFactTextField.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/AltitudeFactTextField.qml</file>
+    <file alias="FactBitmask.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactBitmask.qml</file>
+    <file alias="FactCheckBox.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactCheckBox.qml</file>
+    <file alias="FactCheckBoxSlider.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactCheckBoxSlider.qml</file>
+    <file alias="FactComboBox.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactComboBox.qml</file>
+    <file alias="FactLabel.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactLabel.qml</file>
+    <file alias="FactTextField.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextField.qml</file>
+    <file alias="FactTextFieldGrid.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml</file>
+    <file alias="FactTextFieldSlider.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldSlider.qml</file>
+    <file alias="FactTextFieldSlider2.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldSlider2.qml</file>
+    <file alias="FactValueSlider.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactValueSlider.qml</file>
+    <file alias="LabelledFactComboBox.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/LabelledFactComboBox.qml</file>
+    <file alias="LabelledFactLabel.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/LabelledFactLabel.qml</file>
+    <file alias="LabelledFactTextField.qml">/home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/LabelledFactTextField.qml</file>
+  </qresource>
+</RCC>
+

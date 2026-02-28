@@ -1,0 +1,431 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_copterFenceAction",
+                            "line": 13,
+                            "message": "Cannot resolve property type Fact for binding on _copterFenceAction."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_copterFenceEnable",
+                            "line": 14,
+                            "message": "Cannot resolve property type Fact for binding on _copterFenceEnable."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_copterFenceType",
+                            "line": 15,
+                            "message": "Cannot resolve property type Fact for binding on _copterFenceType."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_batt1Monitor",
+                            "line": 17,
+                            "message": "Cannot resolve property type Fact for binding on _batt1Monitor."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_batt2Monitor",
+                            "line": 18,
+                            "message": "Cannot resolve property type Fact for binding on _batt2Monitor."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 171,
+                            "functionName": "_batt2MonitorAvailable",
+                            "line": 19,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 86,
+                            "functionName": "_batt1MonitorEnabled",
+                            "line": 20,
+                            "message": "Cannot access value for name _batt1Monitor"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 103,
+                            "functionName": "_batt2MonitorEnabled",
+                            "line": 21,
+                            "message": "Cannot access value for name _batt2Monitor"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_batt1FSLowAct",
+                            "line": 23,
+                            "message": "Cannot resolve property type Fact for binding on _batt1FSLowAct."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_batt1FSCritAct",
+                            "line": 24,
+                            "message": "Cannot resolve property type Fact for binding on _batt1FSCritAct."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_batt2FSLowAct",
+                            "line": 25,
+                            "message": "Cannot resolve property type Fact for binding on _batt2FSLowAct."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_batt2FSCritAct",
+                            "line": 26,
+                            "message": "Cannot resolve property type Fact for binding on _batt2FSCritAct."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 109,
+                            "functionName": "_batt1FSCritActAvailable",
+                            "line": 27,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 70,
+                            "functionName": "_roverFirmware",
+                            "line": 29,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 270,
+                            "functionName": "fill",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 193,
+                            "functionName": "fill",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 416,
+                            "functionName": "valueText",
+                            "line": 37,
+                            "message": "Cannot access value for name _armingCheckFact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "_armingCheckFact",
+                            "line": 47,
+                            "message": "Cannot resolve property type Fact for binding on _armingCheckFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "_armingSkipCheckFact",
+                            "line": 48,
+                            "message": "Cannot resolve property type Fact for binding on _armingSkipCheckFact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 127,
+                            "functionName": "valueText",
+                            "line": 53,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 93,
+                            "functionName": "visible",
+                            "line": 54,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 56,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 122,
+                            "functionName": "valueText",
+                            "line": 61,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 81,
+                            "functionName": "visible",
+                            "line": 62,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 64,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 104,
+                            "functionName": "valueText",
+                            "line": 69,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 77,
+                            "functionName": "visible",
+                            "line": 70,
+                            "message": "Cannot access value for name _roverFirmware"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 72,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 135,
+                            "functionName": "valueText",
+                            "line": 77,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 69,
+                            "functionName": "visible",
+                            "line": 78,
+                            "message": "Cannot access value for name _roverFirmware"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 80,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 98,
+                            "functionName": "valueText",
+                            "line": 85,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 60,
+                            "functionName": "visible",
+                            "line": 86,
+                            "message": "Cannot access value for name _roverFirmware"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 88,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 154,
+                            "functionName": "valueText",
+                            "line": 93,
+                            "message": "Cannot access value for name _batt1MonitorEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 52,
+                            "functionName": "visible",
+                            "line": 94,
+                            "message": "Cannot access value for name _batt1MonitorEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 154,
+                            "functionName": "valueText",
+                            "line": 99,
+                            "message": "Cannot access value for name _batt1FSCritActAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 57,
+                            "functionName": "visible",
+                            "line": 100,
+                            "message": "Cannot access value for name _batt1FSCritActAvailable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 149,
+                            "functionName": "valueText",
+                            "line": 105,
+                            "message": "Cannot access value for name _batt2MonitorEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 58,
+                            "functionName": "visible",
+                            "line": 106,
+                            "message": "Cannot access value for name _batt2MonitorEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 160,
+                            "functionName": "valueText",
+                            "line": 111,
+                            "message": "Cannot access value for name _batt2MonitorEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 55,
+                            "functionName": "visible",
+                            "line": 112,
+                            "message": "Cannot access value for name _batt2MonitorEnabled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 547,
+                            "functionName": "valueText",
+                            "line": 117,
+                            "message": "Cannot access value for name _copterFenceEnable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 90,
+                            "functionName": "visible",
+                            "line": 133,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 271,
+                            "functionName": "valueText",
+                            "line": 138,
+                            "message": "Cannot access value for name _copterFenceAction"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 160,
+                            "functionName": "visible",
+                            "line": 141,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 279,
+                            "functionName": "valueText",
+                            "line": 146,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 81,
+                            "functionName": "visible",
+                            "line": 147,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 149,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 277,
+                            "functionName": "valueText",
+                            "line": 154,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 77,
+                            "functionName": "visible",
+                            "line": 155,
+                            "message": "Cannot retrieve a non-object type by ID: controller"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 157,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+        }
+    ]
+}

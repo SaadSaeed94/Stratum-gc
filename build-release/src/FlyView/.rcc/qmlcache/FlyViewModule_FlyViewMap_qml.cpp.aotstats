@@ -1,0 +1,1391 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 342,
+                            "functionName": "allowVehicleLocationCenter",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 1213,
+                            "functionName": "zoomLevel",
+                            "line": 18,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 992,
+                            "functionName": "center",
+                            "line": 19,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 234,
+                            "functionName": "pipState",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 1008,
+                            "functionName": "_activeVehicle",
+                            "line": 29,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 178,
+                            "functionName": "_planMasterController",
+                            "line": 30,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 49,
+                            "functionName": "_geoFenceController",
+                            "line": 31,
+                            "message": "Cannot load property geoFenceController from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::planMasterController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 35,
+                            "functionName": "_rallyPointController",
+                            "line": 32,
+                            "message": "Cannot load property rallyPointController from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::planMasterController with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 183,
+                            "functionName": "_activeVehicleCoordinate",
+                            "line": 33,
+                            "message": "Cannot load property coordinate from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::_activeVehicle with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 11627,
+                            "functionName": "_toolButtonTopMargin",
+                            "line": 34,
+                            "message": "Cannot access value for name mainWindow"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 346,
+                            "functionName": "_toolsMargin",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 1092,
+                            "functionName": "_flyViewSettings",
+                            "line": 36,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 62,
+                            "functionName": "_keepMapCenteredOnVehicle",
+                            "line": 37,
+                            "message": "Cannot load property keepMapCenteredOnVehicle from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::_flyViewSettings with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 296,
+                            "functionName": "_keepVehicleCentered",
+                            "line": 40,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 3041,
+                            "functionName": "_adjustMapZoomForPipMode",
+                            "line": 43,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 201,
+                            "functionName": "onPipModeChanged",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 1069,
+                            "functionName": "onVisibleChanged",
+                            "line": 57,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 1077,
+                            "functionName": "onZoomLevelChanged",
+                            "line": 64,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 1066,
+                            "functionName": "onCenterChanged",
+                            "line": 69,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 214,
+                            "functionName": "onMapPanStart",
+                            "line": 74,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 260,
+                            "functionName": "onMapPanStop",
+                            "line": 75,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "pointInRect",
+                            "line": 77,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 582,
+                            "functionName": "onAnimatedLatitudeChanged",
+                            "line": 91,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 611,
+                            "functionName": "onAnimatedLongitudeChanged",
+                            "line": 92,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "animatedMapRecenter",
+                            "line": 97,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 311,
+                            "functionName": "_insetCenterRect",
+                            "line": 108,
+                            "message": "Cannot load property leftEdgeCenterInset from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::toolInsets with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 671,
+                            "functionName": "_insetCornerRects",
+                            "line": 117,
+                            "message": "Cannot load property leftEdgeTopInset from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::toolInsets with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 494,
+                            "functionName": "recenterNeeded",
+                            "line": 134,
+                            "message": "function without return type annotation returns bool. This may prevent proper compilation to Cpp."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 3285,
+                            "functionName": "updateMapToVehiclePosition",
+                            "line": 161,
+                            "message": "Cannot load property isValid from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::_activeVehicleCoordinate with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 210,
+                            "functionName": "on_ActiveVehicleCoordinateChanged",
+                            "line": 184,
+                            "message": "Cannot load property isValid from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::_activeVehicleCoordinate with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 6905,
+                            "functionName": "onMapClicked",
+                            "line": 747,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 143,
+                            "functionName": "onMapClicked",
+                            "line": 747,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 97,
+                            "functionName": "from",
+                            "line": 94,
+                            "message": "Cannot access value for name _animatedLatitudeStart"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 93,
+                            "durationMicroseconds": 52,
+                            "functionName": "to",
+                            "line": 94,
+                            "message": "Cannot access value for name _animatedLatitudeStop"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 76,
+                            "functionName": "from",
+                            "line": 95,
+                            "message": "Cannot access value for name _animatedLongitudeStart"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 96,
+                            "durationMicroseconds": 46,
+                            "functionName": "to",
+                            "line": 95,
+                            "message": "Cannot access value for name _animatedLongitudeStop"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 230,
+                            "functionName": "pipView",
+                            "line": 192,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 601,
+                            "functionName": "isDark",
+                            "line": 193,
+                            "message": "Cannot access value for name _isFullWindowItemDark"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 281,
+                            "functionName": "onTriggered",
+                            "line": 200,
+                            "message": "Cannot find name _disableVehicleTracking"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 201,
+                            "functionName": "onTriggered",
+                            "line": 210,
+                            "message": "method updateMapToVehiclePosition cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "lightColors",
+                            "line": 213,
+                            "message": "Could not find property \"lightColors\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 151,
+                            "functionName": "target",
+                            "line": 216,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 323,
+                            "functionName": "onNewItemsFromVehicle",
+                            "line": 218,
+                            "message": "Cannot access value for name _missionController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 195,
+                            "functionName": "map",
+                            "line": 229,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 69,
+                            "functionName": "planMasterController",
+                            "line": 231,
+                            "message": "Cannot access value for name _planMasterController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 56,
+                            "functionName": "showText",
+                            "line": 236,
+                            "message": "Cannot access value for name pipMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 592,
+                            "functionName": "z",
+                            "line": 244,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 70,
+                            "functionName": "visible",
+                            "line": 245,
+                            "message": "Cannot access value for name pipMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 154,
+                            "functionName": "target",
+                            "line": 248,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onActiveVehicleChanged",
+                            "line": 249,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 165,
+                            "functionName": "target",
+                            "line": 255,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPointAdded",
+                            "line": 256,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onUpdateLastPoint",
+                            "line": 257,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 286,
+                            "functionName": "onPointsCleared",
+                            "line": 258,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 569,
+                            "functionName": "model",
+                            "line": 264,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 446,
+                            "functionName": "vehicle",
+                            "line": 266,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 388,
+                            "functionName": "coordinate",
+                            "line": 267,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 61,
+                            "functionName": "map",
+                            "line": 268,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 184,
+                            "functionName": "size",
+                            "line": 269,
+                            "message": "Cannot access value for name pipMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 525,
+                            "functionName": "z",
+                            "line": 270,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 481,
+                            "functionName": "model",
+                            "line": 275,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 370,
+                            "functionName": "vehicle",
+                            "line": 277,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 322,
+                            "functionName": "coordinate",
+                            "line": 278,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 54,
+                            "functionName": "map",
+                            "line": 279,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 504,
+                            "functionName": "z",
+                            "line": 280,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 444,
+                            "functionName": "model",
+                            "line": 285,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 437,
+                            "functionName": "coordinate",
+                            "line": 287,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 334,
+                            "functionName": "altitude",
+                            "line": 288,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 322,
+                            "functionName": "callsign",
+                            "line": 289,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 348,
+                            "functionName": "heading",
+                            "line": 290,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 313,
+                            "functionName": "alert",
+                            "line": 291,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 52,
+                            "functionName": "map",
+                            "line": 292,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 170,
+                            "functionName": "size",
+                            "line": 293,
+                            "message": "Cannot access value for name pipMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 493,
+                            "functionName": "z",
+                            "line": 294,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 404,
+                            "functionName": "model",
+                            "line": 300,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 63,
+                            "functionName": "map",
+                            "line": 303,
+                            "message": "Cannot access value for name _root"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 53,
+                            "functionName": "largeMapView",
+                            "line": 304,
+                            "message": "Cannot access value for name pipMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 30,
+                            "functionName": "planMasterController",
+                            "line": 305,
+                            "message": "Cannot retrieve a non-object type by ID: masterController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 156,
+                            "functionName": "vehicle",
+                            "line": 306,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 381,
+                            "functionName": "_vehicle",
+                            "line": 308,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 107,
+                            "functionName": "onCompleted",
+                            "line": 312,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 153,
+                            "functionName": "map",
+                            "line": 319,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 61,
+                            "functionName": "largeMapView",
+                            "line": 320,
+                            "message": "Cannot access value for name pipMode"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 165,
+                            "functionName": "map",
+                            "line": 324,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 62,
+                            "functionName": "myGeoFenceController",
+                            "line": 325,
+                            "message": "Cannot access value for name _geoFenceController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 259,
+                            "functionName": "homePosition",
+                            "line": 328,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 73,
+                            "functionName": "model",
+                            "line": 333,
+                            "message": "Cannot access value for name _rallyPointController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 469,
+                            "functionName": "coordinate",
+                            "line": 339,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 427,
+                            "functionName": "z",
+                            "line": 340,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 161,
+                            "functionName": "x",
+                            "line": 337,
+                            "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 138,
+                            "functionName": "y",
+                            "line": 338,
+                            "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 173,
+                            "functionName": "model",
+                            "line": 351,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 424,
+                            "functionName": "coordinate",
+                            "line": 354,
+                            "message": "Cannot access value for name object"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 430,
+                            "functionName": "z",
+                            "line": 355,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 174,
+                            "functionName": "mapControl",
+                            "line": 362,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 48,
+                            "functionName": "mapCircle",
+                            "line": 363,
+                            "message": "Cannot retrieve a non-object type by ID: _fwdFlightGotoMapCircle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 287,
+                            "functionName": "visible",
+                            "line": 365,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 58,
+                            "functionName": "startLoiterRadiusEdit",
+                            "line": 386,
+                            "message": "Cannot retrieve a non-object type by ID: _fwdFlightGotoMapCircle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 92,
+                            "functionName": "actionConfirmed",
+                            "line": 391,
+                            "message": "Cannot retrieve a non-object type by ID: _fwdFlightGotoMapCircle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 78,
+                            "functionName": "actionCancelled",
+                            "line": 397,
+                            "message": "Cannot retrieve a non-object type by ID: _fwdFlightGotoMapCircle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 569,
+                            "functionName": "onCompleted",
+                            "line": 373,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 89,
+                            "functionName": "target",
+                            "line": 381,
+                            "message": "Cannot retrieve a non-object type by ID: _fwdFlightGotoMapCircle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 246,
+                            "functionName": "value",
+                            "line": 383,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 101,
+                            "functionName": "_defaultLoiterRadius",
+                            "line": 408,
+                            "message": "Cannot access value for name _flyViewSettings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCenterChanged",
+                            "line": 411,
+                            "message": "Could not find signal \"centerChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 66,
+                            "functionName": "_commitRadius",
+                            "line": 421,
+                            "message": "Cannot access value for name radius"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 61,
+                            "functionName": "_restoreRadius",
+                            "line": 425,
+                            "message": "Cannot access value for name radius"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 93,
+                            "functionName": "onCompleted",
+                            "line": 416,
+                            "message": "Cannot access value for name radius"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 677,
+                            "functionName": "z",
+                            "line": 435,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 203,
+                            "functionName": "inGotoFlightMode",
+                            "line": 444,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 538,
+                            "functionName": "onInGotoFlightModeChanged",
+                            "line": 448,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "show",
+                            "line": 455,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 231,
+                            "functionName": "hide",
+                            "line": 460,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 312,
+                            "functionName": "actionConfirmed",
+                            "line": 464,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 270,
+                            "functionName": "actionCancelled",
+                            "line": 473,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 661,
+                            "functionName": "_commitCoordinate",
+                            "line": 480,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 366,
+                            "functionName": "_restoreCoordinate",
+                            "line": 488,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 240,
+                            "functionName": "x",
+                            "line": 436,
+                            "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 138,
+                            "functionName": "y",
+                            "line": 437,
+                            "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 218,
+                            "functionName": "mapControl",
+                            "line": 500,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 54,
+                            "functionName": "mapCircle",
+                            "line": 501,
+                            "message": "Cannot retrieve a non-object type by ID: _mapCircle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "show",
+                            "line": 517,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 238,
+                            "functionName": "hide",
+                            "line": 523,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 147,
+                            "functionName": "actionConfirmed",
+                            "line": 527,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 9,
+                            "durationMicroseconds": 146,
+                            "functionName": "actionCancelled",
+                            "line": 532,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 106,
+                            "functionName": "radius",
+                            "line": 536,
+                            "message": "Cannot retrieve a non-object type by ID: _mapCircle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 214,
+                            "functionName": "target",
+                            "line": 509,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onActiveVehicleChanged",
+                            "line": 510,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 582,
+                            "functionName": "onCompleted",
+                            "line": 540,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 174,
+                            "functionName": "visible",
+                            "line": 554,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 477,
+                            "functionName": "z",
+                            "line": 555,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "show",
+                            "line": 585,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 175,
+                            "functionName": "x",
+                            "line": 556,
+                            "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 132,
+                            "functionName": "y",
+                            "line": 557,
+                            "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 81,
+                            "functionName": "target",
+                            "line": 560,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onRoiCoordChanged",
+                            "line": 561,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 1238,
+                            "functionName": "onClicked",
+                            "line": 568,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 146,
+                            "functionName": "onClicked",
+                            "line": 568,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 172,
+                            "functionName": "fill",
+                            "line": 567,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 191,
+                            "functionName": "mapControl",
+                            "line": 593,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 166,
+                            "functionName": "mapCircle",
+                            "line": 594,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 115,
+                            "functionName": "visible",
+                            "line": 595,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 283,
+                            "functionName": "coordinate",
+                            "line": 602,
+                            "message": "Cannot access value for name _activeVehicle"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 533,
+                            "functionName": "visible",
+                            "line": 603,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 235,
+                            "functionName": "x",
+                            "line": 600,
+                            "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 145,
+                            "functionName": "y",
+                            "line": 601,
+                            "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml)::sourceItem with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "coordinate",
+                            "line": 617,
+                            "message": "Cannot resolve property type  for binding on coordinate."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 233,
+                            "functionName": "onCoordinateChanged",
+                            "line": 618,
+                            "message": "Cannot access value for name roiLocationItem"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 386,
+                            "functionName": "spacing",
+                            "line": 633,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 638,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 647,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 365,
+                            "functionName": "spacing",
+                            "line": 667,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 672,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 673,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 689,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 690,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 700,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 701,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 710,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 711,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 720,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 721,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 730,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 731,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 251,
+                            "functionName": "text",
+                            "line": 739,
+                            "message": "Cannot access value for name mapClickCoord"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 204,
+                            "functionName": "text",
+                            "line": 740,
+                            "message": "Cannot access value for name mapClickCoord"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 266,
+                            "functionName": "mapControl",
+                            "line": 767,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 806,
+                            "functionName": "visible",
+                            "line": 768,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 502,
+                            "functionName": "centerInset",
+                            "line": 770,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 93,
+                            "functionName": "margins",
+                            "line": 764,
+                            "message": "Cannot access value for name _toolsMargin"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 291,
+                            "functionName": "left",
+                            "line": 765,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 219,
+                            "functionName": "top",
+                            "line": 766,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewMap.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.FlyView(FlyViewModule)"
+        }
+    ]
+}

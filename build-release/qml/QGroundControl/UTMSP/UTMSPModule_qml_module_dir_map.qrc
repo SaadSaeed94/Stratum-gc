@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/UTMSP">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/UTMSP</file>
+
+  </qresource>
+</RCC>

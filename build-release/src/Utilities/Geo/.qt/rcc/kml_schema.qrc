@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/kml">
+    <file alias="ogckml22.xsd">/home/saad-saeed/qgroundcontrol/src/Utilities/Geo/ogckml22.xsd</file>
+  </qresource>
+</RCC>
+

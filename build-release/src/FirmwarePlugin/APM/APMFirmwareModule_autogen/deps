@@ -1,0 +1,10 @@
+APMFirmwareModule_autogen/timestamp: \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/home/saad-saeed/Qt/6.10.0/Tools/CMake/share/cmake-3.30/Modules/FindGit.cmake \
+	/home/saad-saeed/Qt/6.10.0/Tools/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
+	/home/saad-saeed/Qt/6.10.0/Tools/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake \
+	/home/saad-saeed/qgroundcontrol/src/FirmwarePlugin/APM/CMakeLists.txt \
+	/home/saad-saeed/Qt/6.10.0/Tools/CMake/bin/cmake

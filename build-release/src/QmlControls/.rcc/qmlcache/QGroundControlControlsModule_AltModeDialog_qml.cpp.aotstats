@@ -1,0 +1,175 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 14,
+                            "durationMicroseconds": 277,
+                            "functionName": "buttons",
+                            "line": 11,
+                            "message": "Cannot access value for name Dialog"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 5255,
+                            "functionName": "onCompleted",
+                            "line": 17,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 42,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 47,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 52,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 57,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "modeValue",
+                            "line": 62,
+                            "message": "Could not find property \"modeValue\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 13247,
+                            "functionName": "spacing",
+                            "line": 67,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 213,
+                            "functionName": "pointSize",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "checked",
+                            "line": 79,
+                            "message": "Could not find property \"checked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 104,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 316,
+                            "functionName": "radius",
+                            "line": 82,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 2277,
+                            "functionName": "color",
+                            "line": 83,
+                            "message": "Cannot access value for name pressed"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 594,
+                            "functionName": "text",
+                            "line": 91,
+                            "message": "Cannot access value for name modeName"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 2842,
+                            "functionName": "color",
+                            "line": 92,
+                            "message": "Cannot access value for name pressed"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 434,
+                            "functionName": "width",
+                            "line": 96,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 468,
+                            "functionName": "text",
+                            "line": 97,
+                            "message": "Cannot access value for name help"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 475,
+                            "functionName": "wrapMode",
+                            "line": 98,
+                            "message": "Cannot access value for name Label"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 84,
+                            "functionName": "color",
+                            "line": 100,
+                            "message": "Cannot access value for name modeNameLabel"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 218,
+                            "functionName": "pointSize",
+                            "line": 99,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/AltModeDialog.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

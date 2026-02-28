@@ -1,0 +1,103 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 467,
+                            "functionName": "_availableHeight",
+                            "line": 10,
+                            "message": "Cannot access value for name availableHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 333,
+                            "functionName": "_availableWidth",
+                            "line": 11,
+                            "message": "Cannot access value for name availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "_airmode",
+                            "line": 12,
+                            "message": "Cannot resolve property type Fact for binding on _airmode."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "_thrustModelFactor",
+                            "line": 13,
+                            "message": "Cannot resolve property type Fact for binding on _thrustModelFactor."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 46,
+                            "functionName": "availableWidth",
+                            "line": 17,
+                            "message": "Cannot access value for name _availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 82,
+                            "functionName": "availableHeight",
+                            "line": 18,
+                            "message": "Cannot access value for name _availableHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 369,
+                            "functionName": "tuningMode",
+                            "line": 20,
+                            "message": "Cannot access value for name Vehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 443,
+                            "functionName": "axis",
+                            "line": 22,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 215,
+                            "functionName": "plot",
+                            "line": 29,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 168,
+                            "functionName": "plot",
+                            "line": 62,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 159,
+                            "functionName": "plot",
+                            "line": 95,
+                            "message": "Cannot access value for name globals"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+        }
+    ]
+}

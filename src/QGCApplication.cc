@@ -88,10 +88,11 @@ QGCApplication::QGCApplication(int &argc, char *argv[], const QGCCommandLinePars
         applicationName = QGC_APP_NAME;
 #endif
     }
-    setApplicationName(applicationName);
-    setOrganizationName(QGC_ORG_NAME);
-    setOrganizationDomain(QGC_ORG_DOMAIN);
-    setApplicationVersion(QString(QGC_APP_VERSION_STR));
+    setApplicationName("STRATUM");
+    setOrganizationName("NexamSystems");
+    setOrganizationDomain("nexamsystem.com");
+    setApplicationVersion("v1");
+    //setApplicationVersion(QString(QGC_APP_VERSION_STR));
 
     // Set settings format
     QSettings::setDefaultFormat(QSettings::IniFormat);
@@ -249,7 +250,7 @@ void QGCApplication::_initForNormalAppBoot()
 {
     _initVideo(); // GStreamer must be initialized before QmlEngine
 
-    QQuickStyle::setStyle("Basic");
+    QQuickStyle::setStyle("Fusion");
     QGCCorePlugin::instance()->init();
     MAVLinkProtocol::instance()->init();
     MultiVehicleManager::instance()->init();

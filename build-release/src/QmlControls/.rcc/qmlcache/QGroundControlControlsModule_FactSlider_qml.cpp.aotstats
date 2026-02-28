@@ -1,0 +1,103 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 122,
+                            "functionName": "value",
+                            "line": 10,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 48,
+                            "functionName": "from",
+                            "line": 11,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 37,
+                            "functionName": "to",
+                            "line": 12,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 35,
+                            "functionName": "unitsString",
+                            "line": 13,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 34,
+                            "functionName": "decimalPlaces",
+                            "line": 14,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 12878,
+                            "functionName": "_minMaxVisibilityPadding",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "_fact",
+                            "line": 20,
+                            "message": "Cannot resolve property type Fact for binding on _fact."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 576,
+                            "functionName": "onValueChanged",
+                            "line": 49,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 800,
+                            "functionName": "onCompleted",
+                            "line": 24,
+                            "message": "Cannot access value for name fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 30,
+                            "durationMicroseconds": 281,
+                            "functionName": "onDestruction",
+                            "line": 34,
+                            "message": "Cannot access value for name _fact"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 115,
+                            "functionName": "onTriggered",
+                            "line": 46,
+                            "message": "Cannot access value for name _fact"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/FactSlider.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

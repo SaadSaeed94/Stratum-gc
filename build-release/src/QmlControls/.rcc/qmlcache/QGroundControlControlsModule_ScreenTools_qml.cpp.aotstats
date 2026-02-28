@@ -1,0 +1,399 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 481,
+                            "functionName": "largeFontPixelHeight",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 243,
+                            "functionName": "mediumFontPixelHeight",
+                            "line": 43,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 220,
+                            "functionName": "smallFontPixelHeight",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 213,
+                            "functionName": "largeFontPixelWidth",
+                            "line": 50,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 218,
+                            "functionName": "mediumFontPixelWidth",
+                            "line": 51,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 45,
+                            "durationMicroseconds": 204,
+                            "functionName": "smallFontPixelWidth",
+                            "line": 52,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 48,
+                            "durationMicroseconds": 204,
+                            "functionName": "defaultDialogControlSpacing",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 2171,
+                            "functionName": "realPixelDensity",
+                            "line": 66,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 1329,
+                            "functionName": "screenWidth",
+                            "line": 85,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 1140,
+                            "functionName": "screenHeight",
+                            "line": 86,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1035,
+                            "functionName": "isAndroid",
+                            "line": 88,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1050,
+                            "functionName": "isiOS",
+                            "line": 89,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1082,
+                            "functionName": "isMobile",
+                            "line": 90,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1046,
+                            "functionName": "isFakeMobile",
+                            "line": 91,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 991,
+                            "functionName": "isWindows",
+                            "line": 92,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1063,
+                            "functionName": "isDebug",
+                            "line": 93,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1025,
+                            "functionName": "isMac",
+                            "line": 94,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 986,
+                            "functionName": "isLinux",
+                            "line": 95,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 572,
+                            "functionName": "isTinyScreen",
+                            "line": 96,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1392,
+                            "functionName": "isShortScreen",
+                            "line": 97,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 554,
+                            "functionName": "isHugeScreen",
+                            "line": 98,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1103,
+                            "functionName": "isSerialAvailable",
+                            "line": 99,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 444,
+                            "functionName": "implicitButtonWidth",
+                            "line": 105,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 417,
+                            "functionName": "implicitButtonHeight",
+                            "line": 106,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 369,
+                            "functionName": "implicitCheckBoxHeight",
+                            "line": 107,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 118,
+                            "functionName": "implicitRadioButtonHeight",
+                            "line": 108,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 212,
+                            "functionName": "implicitTextFieldWidth",
+                            "line": 109,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 106,
+                            "functionName": "implicitTextFieldHeight",
+                            "line": 110,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 99,
+                            "functionName": "implicitComboBoxHeight",
+                            "line": 111,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 99,
+                            "functionName": "implicitComboBoxWidth",
+                            "line": 112,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 93,
+                            "functionName": "comboBoxPadding",
+                            "line": 113,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 90,
+                            "functionName": "implicitSliderHeight",
+                            "line": 114,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 198,
+                            "functionName": "defaultBorderRadius",
+                            "line": 115,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 583,
+                            "functionName": "checkBoxIndicatorSize",
+                            "line": 118,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 53,
+                            "durationMicroseconds": 106,
+                            "functionName": "radioButtonIndicatorSize",
+                            "line": 119,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1153,
+                            "functionName": "normalFontFamily",
+                            "line": 121,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 1055,
+                            "functionName": "fixedFontFamily",
+                            "line": 122,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 317,
+                            "functionName": "onRealPixelDensityChanged",
+                            "line": 133,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 5,
+                            "durationMicroseconds": 1004,
+                            "functionName": "printScreenStats",
+                            "line": 137,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 1180,
+                            "functionName": "mouseX",
+                            "line": 142,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 1094,
+                            "functionName": "mouseY",
+                            "line": 147,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "_setBasePointSize",
+                            "line": 152,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 175,
+                            "functionName": "target",
+                            "line": 127,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 290,
+                            "functionName": "onValueChanged",
+                            "line": 128,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 190,
+                            "functionName": "fontWidth",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 106,
+                            "functionName": "fontHeight",
+                            "line": 180,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 69,
+                            "functionName": "family",
+                            "line": 178,
+                            "message": "Cannot access value for name normalFontFamily"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 4512,
+                            "functionName": "onCompleted",
+                            "line": 181,
+                            "message": "Cannot access value for name ScreenToolsController"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/QmlControls/ScreenTools.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+        }
+    ]
+}

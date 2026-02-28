@@ -1,0 +1,111 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 651,
+                            "functionName": "_availableHeight",
+                            "line": 10,
+                            "message": "Cannot access value for name availableHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 452,
+                            "functionName": "_availableWidth",
+                            "line": 11,
+                            "message": "Cannot access value for name availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "_mcPosMode",
+                            "line": 12,
+                            "message": "Cannot resolve property type Fact for binding on _mcPosMode."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 71,
+                            "functionName": "visible",
+                            "line": 19,
+                            "message": "Cannot access value for name _mcPosMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "fact",
+                            "line": 22,
+                            "message": "Cannot resolve property type Fact for binding on fact."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 68,
+                            "functionName": "visible",
+                            "line": 24,
+                            "message": "Cannot access value for name _mcPosMode"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 66,
+                            "functionName": "availableWidth",
+                            "line": 30,
+                            "message": "Cannot access value for name _availableWidth"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 120,
+                            "functionName": "availableHeight",
+                            "line": 31,
+                            "message": "Cannot access value for name _availableHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 542,
+                            "functionName": "tuningMode",
+                            "line": 101,
+                            "message": "Cannot access value for name Vehicle"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 15,
+                            "durationMicroseconds": 546,
+                            "functionName": "axis",
+                            "line": 103,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 377,
+                            "functionName": "plot",
+                            "line": 36,
+                            "message": "Cannot access value for name globals"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 305,
+                            "functionName": "plot",
+                            "line": 69,
+                            "message": "Cannot access value for name globals"
+                        }
+                    ],
+                    "filePath": "/home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml"
+                }
+            ],
+            "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="gamecontrollerdb.txt">/home/saad-saeed/qgroundcontrol/.cpm_cache/sdl_gamecontrollerdb/df26/gamecontrollerdb.txt</file>
+  </qresource>
+</RCC>
+
