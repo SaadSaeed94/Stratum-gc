@@ -168,3 +168,4 @@ Qt*-linux*.tar.*
 .github/styles/
 .gemini/
 .pytest_cache/
+backup_*/
