@@ -1,8 +1,0 @@
---resource
-/home/saad-saeed/qgroundcontrol/build-release/src/FirmwarePlugin/APM/.qt/rcc/qmake_QGroundControl_FirmwarePlugin_APM.qrc
---resource
-/home/saad-saeed/qgroundcontrol/build-release/src/FirmwarePlugin/APM/.qt/rcc/APMFirmwareModule_raw_qml_0.qrc
-/qml/QGroundControl/FirmwarePlugin/APM/APMBatteryIndicator.qml
-/qml/QGroundControl/FirmwarePlugin/APM/APMFlightModeIndicator.qml
-/qml/QGroundControl/FirmwarePlugin/APM/APMMainStatusIndicator.qml
-/qml/QGroundControl/FirmwarePlugin/APM/APMSupportForwardingIndicator.qml

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qml/QGroundControl/AutoPilotPlugins/APM">
-    <file alias="qmldir">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/AutoPilotPlugins/APM/qmldir</file>
-  </qresource>
-</RCC>
-

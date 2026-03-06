@@ -1,6 +1,0 @@
-libevents_health_and_arming_checks_autogen/timestamp: \
-	/home/saad-saeed/Qt/6.10.0/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake \
-	/home/saad-saeed/qgroundcontrol/.cpm_cache/libevents/1ea2/libs/cpp/parse/CMakeLists.txt \
-	/home/saad-saeed/qgroundcontrol/.cpm_cache/libevents/1ea2/libs/cpp/parse/health_and_arming_checks.cpp \
-	/home/saad-saeed/qgroundcontrol/.cpm_cache/libevents/1ea2/libs/cpp/parse/health_and_arming_checks.h \
-	/home/saad-saeed/Qt/6.10.0/Tools/CMake/bin/cmake
