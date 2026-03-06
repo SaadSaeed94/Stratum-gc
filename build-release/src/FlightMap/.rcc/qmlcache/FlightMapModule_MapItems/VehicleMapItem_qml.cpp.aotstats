@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 247,
                             "functionName": "altitude",
                             "line": 15,
                             "message": "Cannot generate efficient code for lookup in QJSValue"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 111,
                             "functionName": "heading",
                             "line": 17,
                             "message": "Cannot load property heading from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/VehicleMapItem.qml)::vehicle with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 11222,
+                            "durationMicroseconds": 15668,
                             "functionName": "size",
                             "line": 18,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 196,
                             "functionName": "visible",
                             "line": 23,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 573,
+                            "durationMicroseconds": 462,
                             "functionName": "_activeVehicle",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 306,
+                            "durationMicroseconds": 230,
                             "functionName": "_adsbVehicle",
                             "line": 26,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 110,
                             "functionName": "_map",
                             "line": 27,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 525,
+                            "durationMicroseconds": 445,
                             "functionName": "_multiVehicle",
                             "line": 28,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 230,
                             "functionName": "x",
                             "line": 21,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 191,
                             "functionName": "y",
                             "line": 22,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 801,
                             "functionName": "width",
                             "line": 32,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 154,
                             "functionName": "height",
                             "line": 33,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 211,
                             "functionName": "opacity",
                             "line": 34,
                             "message": "Cannot access value for name _adsbVehicle"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 137,
                             "functionName": "source",
                             "line": 37,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 107,
                             "functionName": "shadowEnabled",
                             "line": 38,
                             "message": "Cannot access value for name _adsbVehicle"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 460,
+                            "durationMicroseconds": 378,
                             "functionName": "shadowColor",
                             "line": 39,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 136,
                             "functionName": "model",
                             "line": 50,
                             "message": "Cannot access value for name vehicle"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 61,
                             "functionName": "height",
                             "line": 56,
                             "message": "Cannot access value for name vehicleItem"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 299,
+                            "durationMicroseconds": 245,
                             "functionName": "gimbalYaw",
                             "line": 57,
                             "message": "Cannot access value for name object"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 224,
                             "functionName": "rotation",
                             "line": 58,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 196,
                             "functionName": "onGimbalYawChanged",
                             "line": 59,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 556,
+                            "durationMicroseconds": 444,
                             "functionName": "visible",
                             "line": 60,
                             "message": "Cannot access value for name vehicle"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 347,
+                            "durationMicroseconds": 299,
                             "functionName": "opacity",
                             "line": 61,
                             "message": "Cannot access value for name object"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 51,
                             "functionName": "centerIn",
                             "line": 54,
                             "message": "Cannot access value for name vehicleItem"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 76,
                             "functionName": "width",
                             "line": 67,
                             "message": "Cannot access value for name vehicleItem"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 54,
                             "functionName": "height",
                             "line": 68,
                             "message": "Cannot access value for name vehicleItem"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 183,
                             "functionName": "onPaint",
                             "line": 70,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 1180,
+                            "durationMicroseconds": 963,
                             "functionName": "paintHeading",
                             "line": 72,
                             "message": "Cannot access value for name vehicleIcon"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 149,
                             "functionName": "centerIn",
                             "line": 65,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 75,
                             "functionName": "verticalCenterOffset",
                             "line": 66,
                             "message": "Cannot access value for name vehicleItem"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 171,
                             "functionName": "source",
                             "line": 113,
                             "message": "Cannot access value for name _adsbVehicle"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 158,
                             "functionName": "width",
                             "line": 115,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 125,
                             "functionName": "fillMode",
                             "line": 117,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 171,
                             "functionName": "width",
                             "line": 116,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 151,
                             "functionName": "angle",
                             "line": 121,
                             "message": "Cannot access value for name heading"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 245,
                             "functionName": "x",
                             "line": 119,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 297,
+                            "durationMicroseconds": 248,
                             "functionName": "y",
                             "line": 120,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 70,
                             "functionName": "map",
                             "line": 129,
                             "message": "Cannot access value for name _map"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 114,
                             "functionName": "text",
                             "line": 130,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 198,
                             "functionName": "visible",
                             "line": 132,
                             "message": "Cannot access value for name _adsbVehicle"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 2095,
+                            "durationMicroseconds": 1848,
                             "functionName": "vehicleLabelText",
                             "line": 133,
                             "message": "Cannot access value for name _adsbVehicle"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 203,
                             "functionName": "top",
                             "line": 127,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 177,
                             "functionName": "horizontalCenter",
                             "line": 128,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 116,
                             "functionName": "pointSize",
                             "line": 131,
                             "message": "Cannot access value for name _adsbVehicle"

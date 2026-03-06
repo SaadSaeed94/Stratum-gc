@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 79,
                             "functionName": "checkedValue",
                             "line": 10,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 38,
                             "functionName": "uncheckedValue",
                             "line": 11,
                             "message": "Cannot access value for name fact"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 385,
+                            "durationMicroseconds": 672,
                             "functionName": "value",
                             "line": 14,
                             "message": "Cannot access value for name fact"

@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 136,
                             "functionName": "missionController",
                             "line": 11,
                             "message": "Cannot access value for name _missionController"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 48,
                             "functionName": "extraInset",
                             "line": 12,
                             "message": "Cannot load property extraInset from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewInstrumentPanel.qml)::innerControl with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 23,
                             "functionName": "extraValuesWidth",
                             "line": 13,
                             "message": "Cannot load property extraValuesWidth from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewInstrumentPanel.qml)::innerControl with type QVariant."

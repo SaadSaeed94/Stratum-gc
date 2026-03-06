@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 182,
                             "functionName": "sourceComponent",
                             "line": 48,
                             "message": "Cannot load property enumStrings from (component in /home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorFact.qml)::fact with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 52,
                             "functionName": "text",
                             "line": 39,
                             "message": "Cannot access value for name loader"

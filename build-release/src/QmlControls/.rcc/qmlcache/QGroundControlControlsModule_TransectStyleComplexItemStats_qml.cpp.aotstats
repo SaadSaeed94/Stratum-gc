@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 12787,
+                            "durationMicroseconds": 7161,
                             "functionName": "columnSpacing",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 2303,
+                            "durationMicroseconds": 1233,
                             "functionName": "text",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 656,
+                            "durationMicroseconds": 335,
                             "functionName": "text",
                             "line": 19,
                             "message": "Cannot access value for name missionItem"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 770,
+                            "durationMicroseconds": 356,
                             "functionName": "text",
                             "line": 22,
                             "message": "Cannot access value for name missionItem"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 1322,
+                            "durationMicroseconds": 689,
                             "functionName": "text",
                             "line": 25,
                             "message": "Cannot access value for name missionItem"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1467,
+                            "durationMicroseconds": 945,
                             "functionName": "reset",
                             "line": 8,
                             "message": "Type call to method get, returning QObject does not have a property reset for calling"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 885,
+                            "durationMicroseconds": 596,
                             "functionName": "isPassed",
                             "line": 21,
                             "message": "Cannot load property passed from call to method get, returning QObject."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 212,
                             "functionName": "onCompleted",
                             "line": 31,
                             "message": ""

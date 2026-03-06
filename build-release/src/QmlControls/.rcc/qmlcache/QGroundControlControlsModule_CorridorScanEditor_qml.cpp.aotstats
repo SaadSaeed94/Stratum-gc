@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 108,
                             "functionName": "transectAreaDefinitionComplete",
                             "line": 12,
                             "message": "Cannot load property corridorPolyline from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/CorridorScanEditor.qml)::_missionItem with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 207,
                             "functionName": "transectValuesComponent",
                             "line": 15,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 96,
                             "functionName": "presetsTransectValuesComponent",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 11383,
+                            "durationMicroseconds": 7686,
                             "functionName": "_margin",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 710,
+                            "durationMicroseconds": 385,
                             "functionName": "_missionItem",
                             "line": 23,
                             "message": "Cannot access value for name missionItem"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 57,
                             "functionName": "columnSpacing",
                             "line": 29,
                             "message": "Cannot access value for name _margin"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 31,
                             "functionName": "rowSpacing",
                             "line": 30,
                             "message": "Cannot access value for name _margin"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 629,
+                            "durationMicroseconds": 380,
                             "functionName": "visible",
                             "line": 41,
                             "message": "Cannot access value for name forPresets"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 180,
                             "functionName": "width",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 67,
                             "functionName": "height",
                             "line": 9,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 138,
                             "functionName": "radius",
                             "line": 10,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 60,
                             "functionName": "color",
                             "line": 11,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 75,
                             "functionName": "opacity",
                             "line": 14,
                             "message": "Cannot load property armed from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 65,
                             "functionName": "size",
                             "line": 16,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 12535,
+                            "durationMicroseconds": 7063,
                             "functionName": "_defaultSize",
                             "line": 20,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 943,
+                            "durationMicroseconds": 491,
                             "functionName": "_sizeRatio",
                             "line": 21,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 836,
+                            "durationMicroseconds": 466,
                             "functionName": "_fontSize",
                             "line": 22,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 73,
                             "functionName": "_heading",
                             "line": 23,
                             "message": "Cannot load property heading from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 38,
                             "functionName": "_headingToHome",
                             "line": 24,
                             "message": "Cannot load property headingToHome from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 33,
                             "functionName": "_groundSpeed",
                             "line": 25,
                             "message": "Cannot load property groundSpeed from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant."
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 34,
                             "functionName": "_headingToNextWP",
                             "line": 26,
                             "message": "Cannot load property headingToNextWP from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 41,
                             "functionName": "_courseOverGround",
                             "line": 27,
                             "message": "Cannot load property gps from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 684,
+                            "durationMicroseconds": 453,
                             "functionName": "_flyViewSettings",
                             "line": 28,
                             "message": "Cannot access value for name QGroundControl"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 39,
                             "functionName": "_showAdditionalIndicators",
                             "line": 29,
                             "message": "Cannot load property showAdditionalIndicatorsCompass from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::_flyViewSettings with type QVariant."
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 29,
                             "functionName": "_lockNoseUpCompass",
                             "line": 30,
                             "message": "Cannot load property lockNoseUpCompass from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::_flyViewSettings with type QVariant."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 51,
                             "functionName": "showCOG",
                             "line": 32,
                             "message": "function without return type annotation returns bool. This may prevent proper compilation to Cpp."
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 67,
                             "functionName": "showHeadingHome",
                             "line": 40,
                             "message": "function without return type annotation returns conversion to QVariant. This may prevent proper compilation to Cpp."
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 59,
                             "functionName": "showHeadingToNextWP",
                             "line": 44,
                             "message": "function without return type annotation returns conversion to QVariant. This may prevent proper compilation to Cpp."
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 42,
                             "functionName": "color",
                             "line": 12,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 182,
                             "functionName": "width",
                             "line": 13,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 89,
                             "functionName": "fill",
                             "line": 60,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 84,
                             "functionName": "angle",
                             "line": 65,
                             "message": "Cannot access value for name _lockNoseUpCompass"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 438,
+                            "durationMicroseconds": 405,
                             "functionName": "x",
                             "line": 63,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 361,
+                            "durationMicroseconds": 198,
                             "functionName": "y",
                             "line": 64,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 47,
                             "functionName": "visible",
                             "line": 70,
                             "message": "Cannot access value for name usedByMultipleVehicleList"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 87,
                             "functionName": "fill",
                             "line": 69,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 40,
                             "functionName": "compassSize",
                             "line": 74,
                             "message": "Cannot access value for name size"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 29,
                             "functionName": "heading",
                             "line": 75,
                             "message": "Cannot access value for name _heading"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 30,
                             "functionName": "simplified",
                             "line": 76,
                             "message": "Cannot access value for name usedByMultipleVehicleList"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 126,
                             "functionName": "fillMode",
                             "line": 83,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 618,
+                            "durationMicroseconds": 365,
                             "functionName": "visible",
                             "line": 86,
                             "message": "method showCOG cannot be resolved."
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 75,
                             "functionName": "fill",
                             "line": 84,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 112,
                             "functionName": "height",
                             "line": 85,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 40,
                             "functionName": "angle",
                             "line": 91,
                             "message": "Cannot access value for name _courseOverGround"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 370,
+                            "durationMicroseconds": 188,
                             "functionName": "x",
                             "line": 89,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 182,
                             "functionName": "y",
                             "line": 90,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 102,
                             "functionName": "fillMode",
                             "line": 99,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 884,
+                            "durationMicroseconds": 452,
                             "functionName": "visible",
                             "line": 102,
                             "message": "method showHeadingToNextWP cannot be resolved."
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 86,
                             "functionName": "fill",
                             "line": 100,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 110,
                             "functionName": "height",
                             "line": 101,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 43,
                             "functionName": "angle",
                             "line": 107,
                             "message": "Cannot access value for name _headingToNextWP"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 368,
+                            "durationMicroseconds": 161,
                             "functionName": "x",
                             "line": 105,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 180,
                             "functionName": "y",
                             "line": 106,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 679,
+                            "durationMicroseconds": 371,
                             "functionName": "width",
                             "line": 113,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 71,
                             "functionName": "height",
                             "line": 114,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 58,
                             "functionName": "color",
                             "line": 115,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 141,
                             "functionName": "radius",
                             "line": 116,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 517,
+                            "durationMicroseconds": 338,
                             "functionName": "visible",
                             "line": 118,
                             "message": "method showHeadingHome cannot be resolved."
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 89,
                             "functionName": "centerIn",
                             "line": 117,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 45,
                             "functionName": "color",
                             "line": 124,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 73,
                             "functionName": "centerIn",
                             "line": 125,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 45,
                             "functionName": "_angle",
                             "line": 129,
                             "message": "Cannot access value for name _headingToHome"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 164,
                             "functionName": "x",
                             "line": 131,
                             "message": "Cannot access value for name parent"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 125,
                             "functionName": "y",
                             "line": 132,
                             "message": "Cannot access value for name parent"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 45,
                             "functionName": "y",
                             "line": 139,
                             "message": "Cannot access value for name size"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 587,
+                            "durationMicroseconds": 142,
                             "functionName": "text",
                             "line": 140,
                             "message": "Cannot access value for name vehicle"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 122,
                             "functionName": "horizontalAlignment",
                             "line": 141,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 167,
                             "functionName": "horizontalCenter",
                             "line": 138,
                             "message": ""

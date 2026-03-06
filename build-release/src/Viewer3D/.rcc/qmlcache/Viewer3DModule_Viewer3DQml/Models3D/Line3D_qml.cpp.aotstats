@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 738,
+                            "durationMicroseconds": 464,
                             "functionName": "p_1",
                             "line": 6,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 493,
+                            "durationMicroseconds": 273,
                             "functionName": "p_2",
                             "line": 7,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 1339,
+                            "durationMicroseconds": 807,
                             "functionName": "vec_1",
                             "line": 11,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 188,
                             "functionName": "length_",
                             "line": 14,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 492,
+                            "durationMicroseconds": 282,
                             "functionName": "vec_2",
                             "line": 15,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 15,
-                            "durationMicroseconds": 393,
+                            "durationMicroseconds": 254,
                             "functionName": "rotation",
                             "line": 81,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 15,
-                            "durationMicroseconds": 216,
+                            "durationMicroseconds": 100,
                             "functionName": "position",
                             "line": 82,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 130,
                             "functionName": "height",
                             "line": 86,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 177,
                             "functionName": "radius",
                             "line": 87,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 988,
+                            "durationMicroseconds": 601,
                             "functionName": "scale",
                             "line": 90,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 589,
+                            "durationMicroseconds": 343,
                             "functionName": "position",
                             "line": 91,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 212,
                             "functionName": "dropDirection",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 13054,
+                            "durationMicroseconds": 8235,
                             "functionName": "viewportMargins",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 59,
                             "functionName": "lightBorders",
                             "line": 14,
                             "message": "Cannot load property isSatelliteMap from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/Widgets/CenterMapDropButton.qml)::map with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1264,
+                            "durationMicroseconds": 808,
                             "functionName": "fitHomePosition",
                             "line": 27,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 355,
+                            "durationMicroseconds": 215,
                             "functionName": "fitMapViewportToMissionItems",
                             "line": 98,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 181,
                             "functionName": "fitMapViewportToFenceItems",
                             "line": 121,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 173,
                             "functionName": "fitMapViewportToRallyItems",
                             "line": 133,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 242,
                             "functionName": "fitMapViewportToAllItems",
                             "line": 139,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 388,
+                            "durationMicroseconds": 225,
                             "functionName": "spacing",
                             "line": 149,
                             "message": ""

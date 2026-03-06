@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 300,
+                            "durationMicroseconds": 165,
                             "functionName": "title",
                             "line": 12,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 466,
+                            "durationMicroseconds": 371,
                             "functionName": "buttons",
                             "line": 14,
                             "message": "Cannot access value for name Dialog"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 13026,
+                            "durationMicroseconds": 6918,
                             "functionName": "_editFieldWidth",
                             "line": 22,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 56,
                             "functionName": "_longDescriptionAvailable",
                             "line": 23,
                             "message": "Cannot access value for name fact"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 29,
                             "functionName": "_editingParameter",
                             "line": 24,
                             "message": "Cannot access value for name fact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 394,
+                            "durationMicroseconds": 194,
                             "functionName": "_allowForceSave",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 22,
                             "functionName": "_allowDefaultReset",
                             "line": 26,
                             "message": "Cannot access value for name fact"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 158,
+                            "durationMicroseconds": 84,
                             "functionName": "_showCombo",
                             "line": 27,
                             "message": "Cannot access value for name fact"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 1250,
+                            "durationMicroseconds": 700,
                             "functionName": "onAccepted",
                             "line": 33,
                             "message": "Cannot retrieve a non-object type by ID: manualEntry"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1564,
+                            "durationMicroseconds": 867,
                             "functionName": "bitmaskValue",
                             "line": 54,
                             "message": "Cannot access value for name fact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 230,
                             "functionName": "onCompleted",
                             "line": 65,
                             "message": "Cannot retrieve a non-object type by ID: valueField"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 631,
+                            "durationMicroseconds": 344,
                             "functionName": "width",
                             "line": 78,
                             "message": "Cannot access value for name mainWindow"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 424,
+                            "durationMicroseconds": 178,
                             "functionName": "spacing",
                             "line": 79,
                             "message": "Cannot access value for name globals"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 178,
                             "functionName": "wrapMode",
                             "line": 84,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 45,
                             "functionName": "color",
                             "line": 85,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 295,
+                            "durationMicroseconds": 164,
                             "functionName": "visible",
                             "line": 86,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 162,
                             "functionName": "spacing",
                             "line": 91,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 72,
                             "functionName": "unitsLabel",
                             "line": 96,
                             "message": "Cannot access value for name fact"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 48,
                             "functionName": "showUnits",
                             "line": 97,
                             "message": "Cannot access value for name fact"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 56,
                             "functionName": "width",
                             "line": 107,
                             "message": "Cannot access value for name _editFieldWidth"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 44,
                             "functionName": "model",
                             "line": 108,
                             "message": "Cannot access value for name fact"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 35,
                             "functionName": "visible",
                             "line": 110,
                             "message": "Cannot access value for name _showCombo"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 66,
                             "functionName": "focus",
                             "line": 111,
                             "message": "Cannot access value for name setFocus"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 446,
+                            "durationMicroseconds": 258,
                             "functionName": "onCurrentIndexChanged",
                             "line": 121,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/ParameterEditorDialog.qml)::model with type QVariant."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 112,
                             "functionName": "onCompleted",
                             "line": 113,
                             "message": "Cannot access value for name _showCombo"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 461,
+                            "durationMicroseconds": 265,
                             "functionName": "spacing",
                             "line": 142,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 72,
                             "functionName": "visible",
                             "line": 143,
                             "message": "Cannot access value for name fact"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 43,
                             "functionName": "model",
                             "line": 147,
                             "message": "Cannot access value for name fact"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 297,
+                            "durationMicroseconds": 164,
                             "functionName": "wrapMode",
                             "line": 162,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 306,
                             "functionName": "visible",
                             "line": 163,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 69,
                             "functionName": "text",
                             "line": 164,
                             "message": "Cannot access value for name fact"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 131,
                             "functionName": "wrapMode",
                             "line": 170,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 171,
                             "message": "Cannot access value for name fact"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 39,
                             "functionName": "text",
                             "line": 172,
                             "message": "Cannot access value for name fact"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 151,
                             "functionName": "spacing",
                             "line": 176,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 86,
                             "functionName": "text",
                             "line": 180,
                             "message": "Cannot access value for name fact"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 50,
                             "functionName": "visible",
                             "line": 181,
                             "message": "Cannot access value for name fact"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 77,
                             "functionName": "text",
                             "line": 185,
                             "message": "Cannot access value for name fact"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 46,
                             "functionName": "visible",
                             "line": 186,
                             "message": "Cannot access value for name fact"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 70,
                             "functionName": "text",
                             "line": 190,
                             "message": "Cannot access value for name fact"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 37,
                             "functionName": "visible",
                             "line": 191,
                             "message": "Cannot access value for name _allowDefaultReset"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 196,
                             "message": "Cannot access value for name fact"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 38,
                             "functionName": "visible",
                             "line": 201,
                             "message": "Cannot access value for name fact"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 170,
                             "functionName": "wrapMode",
                             "line": 207,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 494,
+                            "durationMicroseconds": 303,
                             "functionName": "text",
                             "line": 208,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 61,
                             "functionName": "visible",
                             "line": 210,
                             "message": "Cannot access value for name fact"

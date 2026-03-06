@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 8,
-                            "durationMicroseconds": 963,
+                            "durationMicroseconds": 498,
                             "functionName": "z",
                             "line": 13,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 48,
                             "functionName": "_polygons",
                             "line": 24,
                             "message": "Cannot load property polygons from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GeoFenceMapVisuals.qml)::myGeoFenceController with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 30,
                             "functionName": "_circles",
                             "line": 25,
                             "message": "Cannot load property circles from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GeoFenceMapVisuals.qml)::myGeoFenceController with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 351,
+                            "durationMicroseconds": 247,
                             "functionName": "_interiorOpacityExclusion",
                             "line": 31,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 186,
                             "functionName": "_interiorOpacityInclusion",
                             "line": 32,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1590,
+                            "durationMicroseconds": 1096,
                             "functionName": "onCompleted",
                             "line": 67,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 543,
+                            "durationMicroseconds": 347,
                             "functionName": "onDestruction",
                             "line": 75,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 56,
                             "functionName": "model",
                             "line": 86,
                             "message": "Cannot access value for name _polygons"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 54,
                             "functionName": "parent",
                             "line": 89,
                             "message": "Cannot access value for name _root"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 40,
                             "functionName": "mapControl",
                             "line": 90,
                             "message": "Cannot access value for name map"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 35,
                             "functionName": "mapPolygon",
                             "line": 91,
                             "message": "Cannot access value for name object"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 131,
                             "functionName": "borderWidth",
                             "line": 92,
                             "message": "Cannot access value for name object"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 37,
                             "functionName": "borderColor",
                             "line": 93,
                             "message": "Cannot access value for name _borderColor"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 112,
                             "functionName": "interiorColor",
                             "line": 94,
                             "message": "Cannot access value for name object"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 111,
                             "functionName": "interiorOpacity",
                             "line": 95,
                             "message": "Cannot access value for name object"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 102,
                             "functionName": "interactive",
                             "line": 96,
                             "message": "Cannot access value for name _root"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 39,
                             "functionName": "model",
                             "line": 101,
                             "message": "Cannot access value for name _circles"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 47,
                             "functionName": "parent",
                             "line": 104,
                             "message": "Cannot access value for name _root"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 48,
+                            "durationMicroseconds": 36,
                             "functionName": "mapControl",
                             "line": 105,
                             "message": "Cannot access value for name map"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 33,
                             "functionName": "mapCircle",
                             "line": 106,
                             "message": "Cannot access value for name object"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 120,
                             "functionName": "borderWidth",
                             "line": 107,
                             "message": "Cannot access value for name object"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 48,
+                            "durationMicroseconds": 35,
                             "functionName": "borderColor",
                             "line": 108,
                             "message": "Cannot access value for name _borderColor"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 111,
                             "functionName": "interiorColor",
                             "line": 109,
                             "message": "Cannot access value for name object"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 103,
                             "functionName": "interiorOpacity",
                             "line": 110,
                             "message": "Cannot access value for name object"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 91,
                             "functionName": "interactive",
                             "line": 111,
                             "message": "Cannot access value for name _root"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 120,
                             "message": "Cannot access value for name _interiorColorInclusion"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 36,
                             "functionName": "opacity",
                             "line": 121,
                             "message": "Cannot access value for name _interiorOpacityInclusion"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 34,
                             "functionName": "center",
                             "line": 124,
                             "message": "Cannot access value for name homePosition"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 123,
                             "functionName": "radius",
                             "line": 125,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 92,
                             "functionName": "visible",
                             "line": 126,
                             "message": "Cannot access value for name homePosition"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 51,
                             "functionName": "_radius",
                             "line": 128,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 120,
                             "functionName": "on_RadiusChanged",
                             "line": 130,
                             "message": "Cannot access value for name homePosition"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 349,
+                            "durationMicroseconds": 45,
                             "functionName": "color",
                             "line": 122,
                             "message": "Cannot access value for name _borderColor"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 37,
                             "functionName": "width",
                             "line": 123,
                             "message": "Cannot access value for name _borderWidthInclusion"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 50,
                             "functionName": "mapControl",
                             "line": 138,
                             "message": "Cannot access value for name map"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 46,
                             "functionName": "itemCoordinate",
                             "line": 139,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 140,
                             "message": "Cannot access value for name _root"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 65,
                             "functionName": "onItemCoordinateChanged",
                             "line": 142,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 604,
+                            "durationMicroseconds": 421,
                             "functionName": "z",
                             "line": 154,
                             "message": "Cannot access value for name QGroundControl"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 50,
                             "functionName": "coordinate",
                             "line": 155,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 43,
                             "functionName": "opacity",
                             "line": 156,
                             "message": "Cannot access value for name _root"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 128,
                             "functionName": "x",
                             "line": 152,
                             "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GeoFenceMapVisuals.qml)::sourceItem with type QQuickItem."
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 106,
                             "functionName": "y",
                             "line": 153,
                             "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GeoFenceMapVisuals.qml)::sourceItem with type QQuickItem."

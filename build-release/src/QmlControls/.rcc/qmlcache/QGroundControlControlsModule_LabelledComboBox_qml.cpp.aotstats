@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 345,
+                            "durationMicroseconds": 220,
                             "functionName": "comboBox",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 10521,
+                            "durationMicroseconds": 6116,
                             "functionName": "spacing",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 396,
+                            "durationMicroseconds": 163,
                             "functionName": "onActivated",
                             "line": 29,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/LabelledComboBox.qml)::parent with type QQuickItem does not have a property activated for calling"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 61,
                             "functionName": "onActivated",
                             "line": 29,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 41,
                             "functionName": "preferredWidth",
                             "line": 27,
                             "message": "Cannot access value for name comboBoxPreferredWidth"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 467,
+                            "durationMicroseconds": 253,
                             "functionName": "boundsBehavior",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 19924,
+                            "durationMicroseconds": 11822,
                             "functionName": "maximumFlickVelocity",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 750,
+                            "durationMicroseconds": 450,
                             "functionName": "indicatorColor",
                             "line": 14,
                             "message": "Cannot access value for name qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 11545,
+                            "durationMicroseconds": 6523,
                             "functionName": "onCompleted",
                             "line": 16,
                             "message": ""

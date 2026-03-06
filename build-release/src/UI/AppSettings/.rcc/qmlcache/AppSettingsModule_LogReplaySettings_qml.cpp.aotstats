@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 14,
-                            "durationMicroseconds": 525,
+                            "durationMicroseconds": 296,
                             "functionName": "spacing",
                             "line": 9,
                             "message": "Cannot access value for name _colSpacing"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 708,
+                            "durationMicroseconds": 386,
                             "functionName": "saveSettings",
                             "line": 11,
                             "message": "Cannot retrieve a non-object type by ID: logField"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 93,
                             "functionName": "preferredWidth",
                             "line": 20,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 941,
+                            "durationMicroseconds": 508,
                             "functionName": "nameFilters",
                             "line": 32,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 638,
+                            "durationMicroseconds": 327,
                             "functionName": "folder",
                             "line": 33,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 321,
                             "functionName": "_logFileExtension",
                             "line": 35,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 55,
                             "functionName": "onAcceptedForLoad",
                             "line": 37,
                             "message": "Cannot retrieve a non-object type by ID: logField"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 76,
                             "functionName": "onAcceptedForLoad",
                             "line": 37,
                             "message": ""

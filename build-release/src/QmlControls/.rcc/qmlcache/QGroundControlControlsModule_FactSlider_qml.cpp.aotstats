@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 81,
                             "functionName": "value",
                             "line": 10,
                             "message": "Cannot access value for name _fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 48,
+                            "durationMicroseconds": 26,
                             "functionName": "from",
                             "line": 11,
                             "message": "Cannot access value for name _fact"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 37,
+                            "durationMicroseconds": 23,
                             "functionName": "to",
                             "line": 12,
                             "message": "Cannot access value for name _fact"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 35,
+                            "durationMicroseconds": 23,
                             "functionName": "unitsString",
                             "line": 13,
                             "message": "Cannot access value for name _fact"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 34,
+                            "durationMicroseconds": 23,
                             "functionName": "decimalPlaces",
                             "line": 14,
                             "message": "Cannot access value for name _fact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 12878,
+                            "durationMicroseconds": 7623,
                             "functionName": "_minMaxVisibilityPadding",
                             "line": 18,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 576,
+                            "durationMicroseconds": 351,
                             "functionName": "onValueChanged",
                             "line": 49,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 800,
+                            "durationMicroseconds": 476,
                             "functionName": "onCompleted",
                             "line": 24,
                             "message": "Cannot access value for name fact"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 166,
                             "functionName": "onDestruction",
                             "line": 34,
                             "message": "Cannot access value for name _fact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 75,
                             "functionName": "onTriggered",
                             "line": 46,
                             "message": "Cannot access value for name _fact"

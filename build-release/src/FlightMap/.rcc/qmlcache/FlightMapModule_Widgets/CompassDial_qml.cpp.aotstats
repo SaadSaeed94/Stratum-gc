@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 28255,
+                            "durationMicroseconds": 8062,
                             "functionName": "offsetRadius",
                             "line": 11,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 141,
                             "functionName": "centerIn",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 152,
                             "functionName": "x",
                             "line": 26,
                             "message": "method translateCenterToAngleX cannot be resolved."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 98,
                             "functionName": "y",
                             "line": 27,
                             "message": "method translateCenterToAngleY cannot be resolved."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 107,
                             "functionName": "centerIn",
                             "line": 32,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 115,
                             "functionName": "x",
                             "line": 36,
                             "message": "method translateCenterToAngleX cannot be resolved."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 88,
                             "functionName": "y",
                             "line": 37,
                             "message": "method translateCenterToAngleY cannot be resolved."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 101,
                             "functionName": "centerIn",
                             "line": 42,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 101,
                             "functionName": "x",
                             "line": 46,
                             "message": "method translateCenterToAngleX cannot be resolved."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 82,
                             "functionName": "y",
                             "line": 47,
                             "message": "method translateCenterToAngleY cannot be resolved."
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 94,
                             "functionName": "centerIn",
                             "line": 52,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 95,
                             "functionName": "x",
                             "line": 56,
                             "message": "method translateCenterToAngleX cannot be resolved."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 3324,
+                            "durationMicroseconds": 89,
                             "functionName": "y",
                             "line": 57,
                             "message": "method translateCenterToAngleY cannot be resolved."
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 201,
                             "functionName": "x",
                             "line": 67,
                             "message": "Cannot access value for name size"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 401,
+                            "durationMicroseconds": 223,
                             "functionName": "height",
                             "line": 69,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 314,
+                            "durationMicroseconds": 206,
                             "functionName": "color",
                             "line": 70,
                             "message": "Cannot access value for name qgcPal"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 3519,
+                            "durationMicroseconds": 79,
                             "functionName": "angle",
                             "line": 75,
                             "message": "Cannot access value for name index"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 60,
                             "functionName": "y",
                             "line": 74,
                             "message": "Cannot access value for name size"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 350,
+                            "durationMicroseconds": 177,
                             "functionName": "x",
                             "line": 86,
                             "message": "Cannot access value for name size"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 103,
                             "functionName": "y",
                             "line": 87,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 66,
                             "functionName": "height",
                             "line": 89,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 360,
+                            "durationMicroseconds": 184,
                             "functionName": "color",
                             "line": 90,
                             "message": "Cannot access value for name qgcPal"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 351,
+                            "durationMicroseconds": 194,
                             "functionName": "_margin",
                             "line": 92,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 110,
                             "functionName": "angle",
                             "line": 97,
                             "message": "Cannot access value for name index"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 110,
                             "functionName": "y",
                             "line": 96,
                             "message": "Cannot access value for name size"

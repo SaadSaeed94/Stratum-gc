@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 787,
+                            "durationMicroseconds": 451,
                             "functionName": "transectAreaDefinitionComplete",
                             "line": 12,
                             "message": "Cannot access value for name missionItem"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 180,
                             "functionName": "transectValuesComponent",
                             "line": 15,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 90,
                             "functionName": "presetsTransectValuesComponent",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 12693,
+                            "durationMicroseconds": 6612,
                             "functionName": "_margin",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 713,
+                            "durationMicroseconds": 392,
                             "functionName": "_missionItem",
                             "line": 23,
                             "message": "Cannot access value for name missionItem"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 47,
                             "functionName": "columnSpacing",
                             "line": 30,
                             "message": "Cannot access value for name _margin"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 30,
                             "functionName": "rowSpacing",
                             "line": 31,
                             "message": "Cannot access value for name _margin"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 297,
+                            "durationMicroseconds": 153,
                             "functionName": "onUpdated",
                             "line": 38,
                             "message": "Cannot retrieve a non-object type by ID: angleSlider"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 446,
+                            "durationMicroseconds": 239,
                             "functionName": "preferredHeight",
                             "line": 48,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 118,
                             "functionName": "onCompleted",
                             "line": 50,
                             "message": "Cannot access value for name missionItem"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 658,
+                            "durationMicroseconds": 362,
                             "functionName": "visible",
                             "line": 56,
                             "message": "Cannot access value for name forPresets"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1050,
+                            "durationMicroseconds": 550,
                             "functionName": "onAcceptedForLoad",
                             "line": 103,
                             "message": "Cannot access value for name missionItem"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 81,
                             "functionName": "onAcceptedForLoad",
                             "line": 103,
                             "message": ""

@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 200,
                             "functionName": "fill",
                             "line": 13,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 97,
                             "functionName": "fill",
                             "line": 24,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 386,
+                            "durationMicroseconds": 206,
                             "functionName": "valueText",
                             "line": 28,
                             "message": "Cannot access value for name mag0IdFact"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 72,
                             "functionName": "visible",
                             "line": 33,
                             "message": "Cannot access value for name mag1IdFact"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 51,
                             "functionName": "visible",
                             "line": 39,
                             "message": "Cannot access value for name mag2IdFact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 154,
                             "functionName": "valueText",
                             "line": 45,
                             "message": "Cannot access value for name gyro0IdFact"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 144,
                             "functionName": "valueText",
                             "line": 50,
                             "message": "Cannot access value for name accel0IdFact"

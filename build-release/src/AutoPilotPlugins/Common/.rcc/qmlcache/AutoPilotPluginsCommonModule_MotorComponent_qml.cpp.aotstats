@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 351,
+                            "durationMicroseconds": 154,
                             "functionName": "pageComponent",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 12777,
+                            "durationMicroseconds": 5324,
                             "functionName": "spacing",
                             "line": 36,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 760,
+                            "durationMicroseconds": 324,
                             "functionName": "color",
                             "line": 40,
                             "message": "Cannot access value for name qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 41,
                             "message": "Cannot access value for name controller"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 31,
                             "functionName": "enabled",
                             "line": 46,
                             "message": "Cannot retrieve a non-object type by ID: safetySwitch"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 147,
                             "functionName": "spacing",
                             "line": 47,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 73,
                             "functionName": "wrapMode",
                             "line": 64,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 84,
                             "functionName": "left",
                             "line": 62,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 69,
                             "functionName": "right",
                             "line": 63,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 33,
                             "functionName": "enabled",
                             "line": 70,
                             "message": "Cannot retrieve a non-object type by ID: safetySwitch"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 108,
                             "functionName": "spacing",
                             "line": 71,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 94,
                             "functionName": "model",
                             "line": 75,
                             "message": "Cannot access value for name controller"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 74,
                             "functionName": "spacing",
                             "line": 109,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 672,
+                            "durationMicroseconds": 221,
                             "functionName": "color",
                             "line": 122,
                             "message": "Cannot access value for name qgcPal"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 62,
                             "functionName": "text",
                             "line": 123,
                             "message": "Cannot retrieve a non-object type by ID: safetySwitch"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 98,
                             "functionName": "verticalCenter",
                             "line": 121,
                             "message": ""

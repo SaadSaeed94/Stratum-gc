@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 14,
-                            "durationMicroseconds": 499,
+                            "durationMicroseconds": 345,
                             "functionName": "spacing",
                             "line": 9,
                             "message": "Cannot access value for name _rowSpacing"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 110,
                             "functionName": "saveSettings",
                             "line": 11,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 454,
+                            "durationMicroseconds": 311,
                             "functionName": "rowSpacing",
                             "line": 17,
                             "message": "Cannot access value for name _rowSpacing"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 394,
+                            "durationMicroseconds": 244,
                             "functionName": "columnSpacing",
                             "line": 18,
                             "message": "Cannot access value for name _colSpacing"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1047,
+                            "durationMicroseconds": 637,
                             "functionName": "enabled",
                             "line": 24,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 3859,
+                            "durationMicroseconds": 2533,
                             "functionName": "onActivated",
                             "line": 26,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 128,
                             "functionName": "onActivated",
                             "line": 26,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1052,
+                            "durationMicroseconds": 637,
                             "functionName": "preferredWidth",
                             "line": 23,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 31529,
+                            "durationMicroseconds": 17789,
                             "functionName": "onCompleted",
                             "line": 37,
                             "message": "Cannot access value for name QGroundControl"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1229,
+                            "durationMicroseconds": 680,
                             "functionName": "model",
                             "line": 66,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 1947,
+                            "durationMicroseconds": 1177,
                             "functionName": "onActivated",
                             "line": 68,
                             "message": "Cannot access value for name subEditConfig"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 104,
                             "functionName": "onActivated",
                             "line": 68,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1033,
+                            "durationMicroseconds": 615,
                             "functionName": "preferredWidth",
                             "line": 65,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 2609,
+                            "durationMicroseconds": 1553,
                             "functionName": "onCompleted",
                             "line": 74,
                             "message": "Cannot access value for name subEditConfig"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 471,
+                            "durationMicroseconds": 318,
                             "functionName": "rowSpacing",
                             "line": 97,
                             "message": "Cannot access value for name _rowSpacing"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 443,
+                            "durationMicroseconds": 245,
                             "functionName": "columnSpacing",
                             "line": 98,
                             "message": "Cannot access value for name _colSpacing"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 73,
                             "functionName": "visible",
                             "line": 99,
                             "message": "Cannot retrieve a non-object type by ID: advancedSettings"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 812,
+                            "durationMicroseconds": 502,
                             "functionName": "model",
                             "line": 118,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 2976,
+                            "durationMicroseconds": 1808,
                             "functionName": "onActivated",
                             "line": 120,
                             "message": "Cannot access value for name subEditConfig"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 115,
                             "functionName": "onActivated",
                             "line": 120,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1001,
+                            "durationMicroseconds": 657,
                             "functionName": "preferredWidth",
                             "line": 117,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 2309,
+                            "durationMicroseconds": 1346,
                             "functionName": "onCompleted",
                             "line": 135,
                             "message": "Cannot access value for name subEditConfig"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 602,
+                            "durationMicroseconds": 350,
                             "functionName": "model",
                             "line": 156,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1281,
+                            "durationMicroseconds": 688,
                             "functionName": "currentIndex",
                             "line": 157,
                             "message": "Cannot access value for name subEditConfig"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 996,
+                            "durationMicroseconds": 547,
                             "functionName": "onActivated",
                             "line": 158,
                             "message": "Cannot access value for name subEditConfig"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 97,
                             "functionName": "onActivated",
                             "line": 158,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1087,
+                            "durationMicroseconds": 615,
                             "functionName": "preferredWidth",
                             "line": 155,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 257,
                             "functionName": "model",
                             "line": 164,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1064,
+                            "durationMicroseconds": 682,
                             "functionName": "currentIndex",
                             "line": 165,
                             "message": "Cannot access value for name subEditConfig"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 920,
+                            "durationMicroseconds": 574,
                             "functionName": "onActivated",
                             "line": 166,
                             "message": "Cannot access value for name subEditConfig"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 100,
                             "functionName": "onActivated",
                             "line": 166,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1195,
+                            "durationMicroseconds": 663,
                             "functionName": "preferredWidth",
                             "line": 163,
                             "message": "Cannot access value for name _secondColumnWidth"

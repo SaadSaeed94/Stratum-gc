@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 79,
                             "functionName": "actionID",
                             "line": 9,
                             "message": "Cannot load property actionTakeoff from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionTakeoff.qml)::_guidedController with type QVariant."

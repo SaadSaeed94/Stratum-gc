@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 208,
                             "functionName": "spacing",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 11461,
+                            "durationMicroseconds": 7256,
                             "functionName": "_margin",
                             "line": 19,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 228,
                             "functionName": "_fieldWidth",
                             "line": 20,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1831,
+                            "durationMicroseconds": 1133,
                             "functionName": "_vehicle",
                             "line": 21,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 49,
                             "functionName": "spacing",
                             "line": 33,
                             "message": "Cannot access value for name _margin"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 48,
                             "functionName": "visible",
                             "line": 34,
                             "message": "Cannot access value for name cameraCalc"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 345,
+                            "durationMicroseconds": 211,
                             "functionName": "left",
                             "line": 31,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 141,
                             "functionName": "right",
                             "line": 32,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 51,
                             "functionName": "spacing",
                             "line": 39,
                             "message": "Cannot access value for name _margin"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 151,
                             "functionName": "left",
                             "line": 37,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 123,
                             "functionName": "right",
                             "line": 38,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 540,
+                            "durationMicroseconds": 377,
                             "functionName": "preferredWidth",
                             "line": 42,
                             "message": "Cannot access value for name _root"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 499,
+                            "durationMicroseconds": 304,
                             "functionName": "preferredWidth",
                             "line": 46,
                             "message": "Cannot access value for name _root"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 49,
                             "functionName": "spacing",
                             "line": 54,
                             "message": "Cannot access value for name _margin"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 191,
                             "functionName": "left",
                             "line": 52,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 129,
                             "functionName": "right",
                             "line": 53,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 103,
                             "functionName": "preferredWidth",
                             "line": 57,
                             "message": "Cannot access value for name _root"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 68,
                             "functionName": "preferredWidth",
                             "line": 61,
                             "message": "Cannot access value for name _root"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 123,
                             "functionName": "wrapMode",
                             "line": 67,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 125,
                             "functionName": "preferredWidth",
                             "line": 69,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 48,
                             "functionName": "columnSpacing",
                             "line": 76,
                             "message": "Cannot access value for name _margin"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 31,
                             "functionName": "rowSpacing",
                             "line": 77,
                             "message": "Cannot access value for name _margin"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 142,
                             "functionName": "left",
                             "line": 74,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 118,
                             "functionName": "right",
                             "line": 75,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 60,
                             "functionName": "altitudeMode",
                             "line": 90,
                             "message": "Cannot access value for name cameraCalc"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 47,
                             "functionName": "columnSpacing",
                             "line": 115,
                             "message": "Cannot access value for name _margin"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 29,
                             "functionName": "rowSpacing",
                             "line": 116,
                             "message": "Cannot access value for name _margin"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 118,
                             "message": "Cannot access value for name cameraCalc"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 183,
                             "functionName": "left",
                             "line": 113,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 123,
                             "functionName": "right",
                             "line": 114,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 42,
                             "functionName": "text",
                             "line": 120,
                             "message": "Cannot access value for name distanceToSurfaceLabel"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 42,
                             "functionName": "altitudeMode",
                             "line": 123,
                             "message": "Cannot access value for name cameraCalc"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 36,
                             "functionName": "text",
                             "line": 127,
                             "message": "Cannot access value for name frontalDistanceLabel"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 34,
                             "functionName": "text",
                             "line": 133,
                             "message": "Cannot access value for name sideDistanceLabel"

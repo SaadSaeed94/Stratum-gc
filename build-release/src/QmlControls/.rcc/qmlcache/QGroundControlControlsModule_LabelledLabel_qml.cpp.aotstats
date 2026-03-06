@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 12070,
+                            "durationMicroseconds": 11849,
                             "functionName": "spacing",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 79,
                             "functionName": "preferredWidth",
                             "line": 21,
                             "message": "Cannot access value for name labelPreferredWidth"

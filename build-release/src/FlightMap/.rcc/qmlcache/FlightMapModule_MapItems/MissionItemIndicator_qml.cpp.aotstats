@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 203,
                             "functionName": "x",
                             "line": 16,
                             "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicator.qml)::sourceItem with type QQuickItem."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 100,
                             "functionName": "y",
                             "line": 17,
                             "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MissionItemIndicator.qml)::sourceItem with type QQuickItem."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 169,
                             "functionName": "checked",
                             "line": 22,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 75,
                             "functionName": "label",
                             "line": 23,
                             "message": "Cannot access value for name missionItem"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 215,
                             "functionName": "index",
                             "line": 24,
                             "message": "Cannot access value for name missionItem"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 40,
                             "functionName": "gimbalYaw",
                             "line": 25,
                             "message": "Cannot access value for name missionItem"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 38,
                             "functionName": "vehicleYaw",
                             "line": 26,
                             "message": "Cannot access value for name missionItem"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 63,
                             "functionName": "showGimbalYaw",
                             "line": 27,
                             "message": "Cannot access value for name missionItem"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 223,
                             "functionName": "onClicked",
                             "line": 29,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 136,
                             "functionName": "opacity",
                             "line": 30,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 3382,
+                            "durationMicroseconds": 134,
                             "functionName": "_isCurrentItem",
                             "line": 32,
                             "message": "Cannot access value for name missionItem"

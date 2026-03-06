@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 112,
                             "functionName": "_missionController",
                             "line": 12,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml)::_planMasterController with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 544,
+                            "durationMicroseconds": 309,
                             "functionName": "_viewer3DSetting",
                             "line": 13,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 32,
                             "functionName": "_altitudeBias",
                             "line": 14,
                             "message": "Cannot load property altitudeBias from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml)::_viewer3DSetting with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 7558,
+                            "durationMicroseconds": 4406,
                             "functionName": "addMissionItemsToListModel",
                             "line": 62,
                             "message": "Cannot retrieve a non-object type by ID: goe2Enu"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 14781,
+                            "durationMicroseconds": 8394,
                             "functionName": "addSegmentToMissionPathModel",
                             "line": 98,
                             "message": "Cannot retrieve a non-object type by ID: goe2Enu"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 79,
                             "functionName": "vehicle",
                             "line": 162,
                             "message": "Cannot access value for name _vehicle"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 690,
+                            "durationMicroseconds": 409,
                             "functionName": "modelScale",
                             "line": 163,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 43,
                             "functionName": "altitudeBias",
                             "line": 164,
                             "message": "Cannot access value for name _altitudeBias"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 45,
                             "functionName": "gpsRef",
                             "line": 165,
                             "message": "Cannot access value for name _backendQml"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 115,
                             "functionName": "model",
                             "line": 170,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 40,
                             "functionName": "missionItem",
                             "line": 174,
                             "message": "Cannot access value for name model"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 33,
                             "functionName": "altitudeBias",
                             "line": 175,
                             "message": "Cannot access value for name _altitudeBias"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 106,
                             "functionName": "model",
                             "line": 181,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 375,
+                            "durationMicroseconds": 237,
                             "functionName": "p_1",
                             "line": 184,
                             "message": "Cannot access value for name model"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 177,
                             "functionName": "p_2",
                             "line": 185,
                             "message": "Cannot access value for name model"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 35,
                             "functionName": "color",
                             "line": 187,
                             "message": "Cannot access value for name model"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 30,
                             "functionName": "target",
                             "line": 192,
                             "message": "Cannot access value for name _missionController"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 48,
+                            "durationMicroseconds": 29,
                             "functionName": "target",
                             "line": 201,
                             "message": "Cannot access value for name _backendQml"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 31,
                             "functionName": "target",
                             "line": 210,
                             "message": "Cannot access value for name _vehicle"

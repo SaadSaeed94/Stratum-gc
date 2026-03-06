@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 116,
                             "functionName": "_guidedController",
                             "line": 8,
                             "message": "Cannot access value for name globals"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 14,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 348,
                             "functionName": "spacing",
                             "line": 9,
                             "message": "Cannot access value for name _rowSpacing"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 97,
                             "functionName": "saveSettings",
                             "line": 11,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 296,
+                            "durationMicroseconds": 199,
                             "functionName": "wrapMode",
                             "line": 19,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 809,
+                            "durationMicroseconds": 619,
                             "functionName": "preferredWidth",
                             "line": 16,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 12106,
+                            "durationMicroseconds": 7813,
                             "functionName": "pointSize",
                             "line": 18,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 438,
+                            "durationMicroseconds": 315,
                             "functionName": "spacing",
                             "line": 24,
                             "message": "Cannot access value for name _colSpacing"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 126,
                             "functionName": "preferredWidth",
                             "line": 31,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 437,
+                            "durationMicroseconds": 370,
                             "functionName": "model",
                             "line": 40,
                             "message": "Cannot access value for name subEditConfig"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 270,
                             "functionName": "spacing",
                             "line": 43,
                             "message": "Cannot access value for name _colSpacing"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 615,
+                            "durationMicroseconds": 444,
                             "functionName": "text",
                             "line": 47,
                             "message": "Cannot access value for name modelData"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 756,
+                            "durationMicroseconds": 593,
                             "functionName": "preferredWidth",
                             "line": 46,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 266,
                             "functionName": "spacing",
                             "line": 58,
                             "message": "Cannot access value for name _colSpacing"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 114,
                             "functionName": "preferredWidth",
                             "line": 62,
                             "message": "Cannot access value for name _secondColumnWidth"

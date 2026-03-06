@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 119,
                             "functionName": "onAccepted",
                             "line": 12,
                             "message": "method acceptFunction cannot be resolved."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 354,
+                            "durationMicroseconds": 218,
                             "functionName": "wrapMode",
                             "line": 28,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 13405,
+                            "durationMicroseconds": 7816,
                             "functionName": "preferredWidth",
                             "line": 27,
                             "message": "Cannot access value for name mainWindow"

@@ -3899,6 +3899,37 @@ void Vehicle::triggerSimpleCamera()
                    1.0);                        // trigger camera
 }
 
+void Vehicle::sendStandoffCommand(double lat, double lon, double distance, double height, double speed, int direction)
+{
+    // Step 1: Send standoff parameters (custom cmd 31010) to onboard computer
+    sendMavCommand(MAV_COMP_ID_ONBOARD_COMPUTER,
+                   static_cast<MAV_CMD>(31010),
+                   true,                        // show error on fail
+                   static_cast<float>(lat),
+                   static_cast<float>(lon),
+                   static_cast<float>(distance),
+                   static_cast<float>(height),
+                   static_cast<float>(speed),
+                   static_cast<float>(direction),
+                   0.0f);
+
+    // Step 2: Activate standoff (custom cmd 31011)
+    sendMavCommand(MAV_COMP_ID_ONBOARD_COMPUTER,
+                   static_cast<MAV_CMD>(31011),
+                   true,
+                   1.0f,                        // 1 = activate
+                   0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f);
+}
+
+void Vehicle::cancelStandoffCommand()
+{
+    sendMavCommand(MAV_COMP_ID_ONBOARD_COMPUTER,
+                   static_cast<MAV_CMD>(31011),
+                   true,
+                   0.0f,                        // 0 = cancel
+                   0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f);
+}
+
 void Vehicle::sendGripperAction(QGCMAVLink::GripperActions gripperAction)
 {
     sendMavCommand(

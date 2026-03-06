@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 12121,
+                            "durationMicroseconds": 7650,
                             "functionName": "_margins",
                             "line": 17,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 168,
                             "functionName": "_rowButtonWidth",
                             "line": 19,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 544,
+                            "durationMicroseconds": 329,
                             "functionName": "_rowButtonHeight",
                             "line": 20,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 172,
                             "functionName": "preferredWidth",
                             "line": 12,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 150,
                             "functionName": "preferredHeight",
                             "line": 13,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 135,
                             "functionName": "spacing",
                             "line": 27,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 124,
                             "functionName": "spacing",
                             "line": 30,
                             "message": "Cannot load property spacing from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/HorizontalFactValueGrid.qml)::parent with type QQuickItem."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 374,
+                            "durationMicroseconds": 208,
                             "functionName": "spacing",
                             "line": 33,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 74,
                             "functionName": "model",
                             "line": 36,
                             "message": "Cannot retrieve a non-object type by ID: _root"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 499,
+                            "durationMicroseconds": 299,
                             "functionName": "rows",
                             "line": 39,
                             "message": "Cannot access value for name object"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 369,
+                            "durationMicroseconds": 202,
                             "functionName": "columnSpacing",
                             "line": 42,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 143,
                             "functionName": "flow",
                             "line": 43,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 425,
+                            "durationMicroseconds": 242,
                             "functionName": "model",
                             "line": 47,
                             "message": "Cannot access value for name object"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 453,
+                            "durationMicroseconds": 281,
                             "functionName": "instrumentValueData",
                             "line": 52,
                             "message": "Cannot access value for name object"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 138,
                             "functionName": "alignment",
                             "line": 51,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 507,
+                            "durationMicroseconds": 286,
                             "functionName": "model",
                             "line": 58,
                             "message": "Cannot access value for name object"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 306,
+                            "durationMicroseconds": 242,
                             "functionName": "_index",
                             "line": 60,
                             "message": "Cannot access value for name index"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 230,
                             "functionName": "lastCheck",
                             "line": 62,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 2158,
+                            "durationMicroseconds": 1201,
                             "functionName": "recalcWidth",
                             "line": 64,
                             "message": "Cannot load property contentWidth from call to method itemAt, returning QQuickItem."
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 707,
+                            "durationMicroseconds": 393,
                             "functionName": "instrumentValueData",
                             "line": 76,
                             "message": "Cannot access value for name object"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 56,
-                            "durationMicroseconds": 635,
+                            "durationMicroseconds": 419,
                             "functionName": "onContentWidthChanged",
                             "line": 85,
                             "message": "Cannot access value for name valueRepeater"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 153,
                             "functionName": "alignment",
                             "line": 74,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 69,
                             "functionName": "preferredWidth",
                             "line": 75,
                             "message": "Cannot access value for name valueRepeater"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 189,
                             "functionName": "onCompleted",
                             "line": 80,
                             "message": "Cannot access value for name valueRepeater"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 102,
                             "message": "Cannot access value for name settingsUnlocked"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 184,
                             "functionName": "preferredWidth",
                             "line": 105,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 192,
                             "functionName": "preferredWidth",
                             "line": 117,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 133,
                             "message": "Cannot access value for name settingsUnlocked"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 177,
                             "functionName": "preferredHeight",
                             "line": 137,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 77,
                             "functionName": "preferredHeight",
                             "line": 149,
                             "message": "Cannot access value for name parent"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 177,
                             "functionName": "x",
                             "line": 162,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 142,
                             "functionName": "y",
                             "line": 163,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 151,
                             "functionName": "width",
                             "line": 164,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 136,
                             "functionName": "height",
                             "line": 165,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 166,
                             "message": "Cannot access value for name settingsUnlocked"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 257,
                             "functionName": "cursorShape",
                             "line": 167,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 60,
-                            "durationMicroseconds": 449,
+                            "durationMicroseconds": 155,
                             "functionName": "mappedLabelValueColumnLayoutPosition",
                             "line": 169,
                             "message": "Cannot retrieve a non-object type by ID: _root"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 1652,
+                            "durationMicroseconds": 1123,
                             "functionName": "onClicked",
                             "line": 171,
                             "message": "Cannot load property instrumentValueData from call to method childAt, returning QQuickItem."
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 86,
                             "functionName": "onClicked",
                             "line": 171,
                             "message": ""

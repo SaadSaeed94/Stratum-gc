@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 13026,
+                            "durationMicroseconds": 7855,
                             "functionName": "_toolButtonHeight",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 144,
                             "functionName": "columnSpacing",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 74,
                             "functionName": "rowSpacing",
                             "line": 17,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 156,
                             "functionName": "horizontalAlignment",
                             "line": 110,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 1020,
+                            "durationMicroseconds": 616,
                             "functionName": "text",
                             "line": 111,
                             "message": "Cannot access value for name QGroundControl"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 132,
                             "functionName": "wrapMode",
                             "line": 113,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 139,
                             "functionName": "pointSize",
                             "line": 112,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 108,
                             "functionName": "horizontalAlignment",
                             "line": 118,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 807,
+                            "durationMicroseconds": 465,
                             "functionName": "text",
                             "line": 119,
                             "message": "Cannot access value for name QGroundControl"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 104,
                             "functionName": "wrapMode",
                             "line": 121,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 126,
                             "functionName": "pointSize",
                             "line": 120,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 106,
                             "functionName": "horizontalAlignment",
                             "line": 126,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 875,
+                            "durationMicroseconds": 479,
                             "functionName": "text",
                             "line": 127,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 118,
                             "functionName": "wrapMode",
                             "line": 129,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 780,
+                            "durationMicroseconds": 437,
                             "functionName": "visible",
                             "line": 130,
                             "message": "Cannot access value for name QGroundControl"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 152,
                             "functionName": "pointSize",
                             "line": 128,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 5929,
+                            "durationMicroseconds": 3368,
                             "functionName": "onClicked",
                             "line": 136,
                             "message": "Cannot access value for name QGroundControl"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 113,
                             "functionName": "onClicked",
                             "line": 136,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 2298,
+                            "durationMicroseconds": 1294,
                             "functionName": "onPressAndHold",
                             "line": 151,
                             "message": "Cannot access value for name QGroundControl"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 572,
+                            "durationMicroseconds": 337,
                             "functionName": "topMargin",
                             "line": 133,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
                             "line": 134,
                             "message": ""

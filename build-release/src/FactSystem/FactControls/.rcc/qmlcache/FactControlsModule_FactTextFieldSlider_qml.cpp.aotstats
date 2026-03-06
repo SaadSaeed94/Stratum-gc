@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 208,
                             "functionName": "backgroundColor",
                             "line": 20,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 129,
                             "functionName": "implicitHeight",
                             "line": 25,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 100,
                             "functionName": "color",
                             "line": 26,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 10918,
+                            "durationMicroseconds": 4740,
                             "functionName": "radius",
                             "line": 27,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 85,
                             "functionName": "_showSlider",
                             "line": 30,
                             "message": "Cannot access value for name fact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 110,
                             "functionName": "_ftfsBackgroundColor",
                             "line": 31,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 517,
+                            "durationMicroseconds": 180,
                             "functionName": "updateSliderToClampedValue",
                             "line": 33,
                             "message": "Cannot load property fact from ."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 97,
                             "functionName": "onCompleted",
                             "line": 45,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 27,
                             "functionName": "target",
                             "line": 50,
                             "message": "Cannot load property fact from ."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 9,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 120,
                             "functionName": "onValueChanged",
                             "line": 52,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 83,
                             "functionName": "width",
                             "line": 61,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 66,
                             "functionName": "spacing",
                             "line": 65,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 33,
                             "functionName": "fillWidth",
                             "line": 69,
                             "message": "Cannot access value for name visible"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 534,
+                            "durationMicroseconds": 170,
                             "functionName": "label",
                             "line": 79,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 60,
                             "functionName": "enabled",
                             "line": 81,
                             "message": "Cannot retrieve a non-object type by ID: enableCheckbox"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 85,
                             "functionName": "fillWidth",
                             "line": 78,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 170,
                             "functionName": "sourceComponent",
                             "line": 88,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 57,
                             "functionName": "enabled",
                             "line": 89,
                             "message": "Cannot retrieve a non-object type by ID: enableCheckbox"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 106,
                             "functionName": "onLoaded",
                             "line": 91,
                             "message": ""

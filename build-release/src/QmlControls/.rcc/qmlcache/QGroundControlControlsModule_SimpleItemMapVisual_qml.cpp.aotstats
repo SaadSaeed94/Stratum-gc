@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 479,
+                            "durationMicroseconds": 287,
                             "functionName": "_missionItem",
                             "line": 18,
                             "message": "Cannot access value for name object"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 738,
+                            "durationMicroseconds": 437,
                             "functionName": "hideItemVisuals",
                             "line": 24,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 598,
+                            "durationMicroseconds": 319,
                             "functionName": "showItemVisuals",
                             "line": 32,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 401,
+                            "durationMicroseconds": 202,
                             "functionName": "hideDragArea",
                             "line": 40,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 481,
+                            "durationMicroseconds": 216,
                             "functionName": "showDragArea",
                             "line": 47,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 109,
                             "functionName": "updateDragArea",
                             "line": 54,
                             "message": "Cannot load property isCurrentItem from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/SimpleItemMapVisual.qml)::_missionItem with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 119,
                             "functionName": "onCompleted",
                             "line": 62,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 44,
                             "functionName": "target",
                             "line": 68,
                             "message": "Cannot access value for name _missionItem"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 87,
                             "functionName": "onIsCurrentItemChanged",
                             "line": 70,
                             "message": "method updateDragArea cannot be resolved."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 64,
                             "functionName": "onSpecifiesCoordinateChanged",
                             "line": 71,
                             "message": "method updateDragArea cannot be resolved."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 71,
                             "functionName": "target",
                             "line": 75,
                             "message": "Cannot access value for name _missionItem"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 117,
                             "functionName": "sourceComponent",
                             "line": 96,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 81,
                             "functionName": "onLoaded",
                             "line": 98,
                             "message": "Cannot access value for name map"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 85,
                             "functionName": "sourceComponent",
                             "line": 111,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 121,
                             "functionName": "onLoaded",
                             "line": 113,
                             "message": "Cannot access value for name map"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 76,
                             "functionName": "sourceComponent",
                             "line": 127,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 109,
                             "functionName": "onLoaded",
                             "line": 129,
                             "message": "Cannot access value for name map"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 44,
                             "functionName": "mapControl",
                             "line": 142,
                             "message": "Cannot access value for name _root"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 36,
                             "functionName": "itemIndicator",
                             "line": 143,
                             "message": "Cannot access value for name itemVisualLoader"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 46,
                             "functionName": "itemCoordinate",
                             "line": 144,
                             "message": "Cannot access value for name _missionItem"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 145,
                             "message": "Cannot access value for name _root"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 48,
                             "functionName": "onItemCoordinateChanged",
                             "line": 146,
                             "message": "Cannot access value for name _missionItem"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 40,
                             "functionName": "coordinate",
                             "line": 154,
                             "message": "Cannot access value for name _missionItem"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 155,
                             "message": "Cannot access value for name _missionItem"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 653,
+                            "durationMicroseconds": 370,
                             "functionName": "z",
                             "line": 156,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 34,
                             "functionName": "missionItem",
                             "line": 157,
                             "message": "Cannot access value for name _missionItem"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 37,
                             "functionName": "sequenceNumber",
                             "line": 158,
                             "message": "Cannot access value for name _missionItem"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 150,
                             "functionName": "onClicked",
                             "line": 159,
                             "message": "Cannot access value for name _root"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 37,
                             "functionName": "opacity",
                             "line": 160,
                             "message": "Cannot access value for name _root"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 46,
                             "functionName": "coordinate",
                             "line": 169,
                             "message": "Cannot access value for name _root"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 103,
                             "functionName": "visible",
                             "line": 170,
                             "message": "Cannot access value for name _root"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 159,
                             "functionName": "handleLoiterRadiusChange",
                             "line": 176,
                             "message": "Cannot access value for name _missionItem"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 37,
                             "functionName": "handleCoordinateChange",
                             "line": 183,
                             "message": "Cannot access value for name _missionItem"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 46,
                             "functionName": "onCoordinateChanged",
                             "line": 187,
                             "message": "Cannot retrieve a non-object type by ID: _mapCircle"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 62,
                             "functionName": "mapControl",
                             "line": 191,
                             "message": "Cannot access value for name _root"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 35,
+                            "durationMicroseconds": 21,
                             "functionName": "mapCircle",
                             "line": 192,
                             "message": "Cannot retrieve a non-object type by ID: _mapCircle"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 805,
+                            "durationMicroseconds": 440,
                             "functionName": "borderColor",
                             "line": 194,
                             "message": "Cannot access value for name _missionItem"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 173,
                             "functionName": "updateMissionItem",
                             "line": 198,
                             "message": "Cannot access value for name _missionItem"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 48,
                             "functionName": "target",
                             "line": 211,
                             "message": "Cannot retrieve a non-object type by ID: _mapCircle"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 82,
                             "functionName": "onRawValueChanged",
                             "line": 212,
                             "message": "Cannot access value for name blockSignals"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 113,
                             "functionName": "onCompleted",
                             "line": 218,
                             "message": ""

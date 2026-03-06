@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 593,
+                            "durationMicroseconds": 322,
                             "functionName": "_settingsManager",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 33,
                             "functionName": "_adsbSettings",
                             "line": 11,
                             "message": "Cannot load property adsbVehicleManagerSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/ADSBServerSettings.qml)::_settingsManager with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 979,
+                            "durationMicroseconds": 323,
                             "functionName": "visible",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 131,
                             "functionName": "visible",
                             "line": 28,
                             "message": "Cannot access value for name _adsbSettings"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 40,
                             "functionName": "enabled",
                             "line": 29,
                             "message": "Cannot access value for name _adsbServerConnectEnabled"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 30,
                             "functionName": "label",
                             "line": 33,
                             "message": "Cannot access value for name fact"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 25,
                             "functionName": "visible",
                             "line": 35,
                             "message": "Cannot access value for name fact"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 25,
                             "functionName": "label",
                             "line": 40,
                             "message": "Cannot access value for name fact"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 22,
                             "functionName": "visible",
                             "line": 42,
                             "message": "Cannot access value for name fact"

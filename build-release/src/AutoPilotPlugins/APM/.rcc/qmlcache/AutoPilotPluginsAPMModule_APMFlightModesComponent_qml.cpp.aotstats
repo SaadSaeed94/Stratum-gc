@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 285,
+                            "durationMicroseconds": 185,
                             "functionName": "pageComponent",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 56,
                             "functionName": "_modeChannelParam",
                             "line": 13,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 22,
                             "functionName": "_modeParamPrefix",
                             "line": 14,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 586,
+                            "durationMicroseconds": 255,
                             "functionName": "_pwmStrings",
                             "line": 15,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 11403,
+                            "durationMicroseconds": 4609,
                             "functionName": "_margins",
                             "line": 17,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 66,
                             "functionName": "_fltmodeChExists",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 26,
                             "functionName": "_ch7OptAvailable",
                             "line": 21,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 115,
                             "functionName": "_rcOptionStart",
                             "line": 22,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 124,
                             "functionName": "_rcOptionStop",
                             "line": 23,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1047,
+                            "durationMicroseconds": 396,
                             "functionName": "_customSimpleMode",
                             "line": 24,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 31,
                             "functionName": "width",
                             "line": 37,
                             "message": "Cannot access value for name availableWidth"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 15,
                             "functionName": "spacing",
                             "line": 38,
                             "message": "Cannot access value for name _margins"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 18,
                             "functionName": "spacing",
                             "line": 41,
                             "message": "Cannot access value for name _margins"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 65,
                             "functionName": "text",
                             "line": 45,
                             "message": "Cannot access value for name _fltmodeChExists"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 51,
                             "message": "Cannot access value for name _margins"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 369,
+                            "durationMicroseconds": 178,
                             "functionName": "height",
                             "line": 52,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 47,
                             "functionName": "color",
                             "line": 53,
                             "message": "Cannot access value for name qgcPal"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 77,
                             "functionName": "spacing",
                             "line": 60,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 64,
                             "functionName": "margins",
                             "line": 57,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 86,
                             "functionName": "left",
                             "line": 58,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 73,
                             "functionName": "top",
                             "line": 59,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 42,
                             "functionName": "spacing",
                             "line": 63,
                             "message": "Cannot access value for name _margins"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 20,
                             "functionName": "visible",
                             "line": 64,
                             "message": "Cannot access value for name _fltmodeChExists"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 96,
                             "functionName": "baseline",
                             "line": 68,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 141,
                             "functionName": "width",
                             "line": 74,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1627,
+                            "durationMicroseconds": 694,
                             "functionName": "model",
                             "line": 75,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 67,
                             "functionName": "currentIndex",
                             "line": 79,
                             "message": "Cannot access value for name _fltmodeCh"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 40,
                             "functionName": "onActivated",
                             "line": 80,
                             "message": "Cannot access value for name _fltmodeCh"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 46,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 43,
                             "functionName": "onActivated",
                             "line": 80,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 54,
                             "functionName": "rows",
                             "line": 85,
                             "message": "Cannot access value for name _customSimpleMode"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 95,
                             "functionName": "flow",
                             "line": 86,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 59,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 34,
                             "functionName": "visible",
                             "line": 88,
                             "message": "Cannot access value for name _customSimpleMode"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 169,
                             "functionName": "text",
                             "line": 93,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 474,
+                            "durationMicroseconds": 107,
                             "functionName": "color",
                             "line": 94,
                             "message": "Cannot access value for name controller"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 740,
+                            "durationMicroseconds": 282,
                             "functionName": "index",
                             "line": 96,
                             "message": "Cannot access value for name modelData"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 59,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 40,
                             "functionName": "visible",
                             "line": 100,
                             "message": "Cannot access value for name _customSimpleMode"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 887,
+                            "durationMicroseconds": 355,
                             "functionName": "index",
                             "line": 109,
                             "message": "Cannot access value for name modelData"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 355,
+                            "durationMicroseconds": 171,
                             "functionName": "preferredWidth",
                             "line": 105,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 44,
                             "functionName": "visible",
                             "line": 116,
                             "message": "Cannot access value for name _customSimpleMode"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 75,
                             "functionName": "pointSize",
                             "line": 115,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 42,
                             "functionName": "model",
                             "line": 119,
                             "message": "Cannot access value for name controller"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 81,
                             "functionName": "alignment",
                             "line": 121,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 32,
                             "functionName": "visible",
                             "line": 131,
                             "message": "Cannot access value for name _customSimpleMode"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 68,
                             "functionName": "pointSize",
                             "line": 130,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 37,
                             "functionName": "model",
                             "line": 134,
                             "message": "Cannot access value for name controller"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 79,
                             "functionName": "alignment",
                             "line": 136,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 59,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 31,
                             "functionName": "visible",
                             "line": 143,
                             "message": "Cannot access value for name _customSimpleMode"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 774,
+                            "durationMicroseconds": 314,
                             "functionName": "text",
                             "line": 147,
                             "message": "Cannot access value for name _pwmStrings"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 32,
                             "functionName": "spacing",
                             "line": 152,
                             "message": "Cannot access value for name _margins"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 36,
                             "functionName": "visible",
                             "line": 153,
                             "message": "Cannot access value for name controller"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 41,
                             "functionName": "model",
                             "line": 158,
                             "message": "Cannot access value for name controller"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 29,
                             "functionName": "currentIndex",
                             "line": 159,
                             "message": "Cannot access value for name controller"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 48,
                             "functionName": "onActivated",
                             "line": 160,
                             "message": "Cannot access value for name controller"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 46,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 64,
                             "functionName": "onActivated",
                             "line": 160,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 24,
                             "functionName": "spacing",
                             "line": 168,
                             "message": "Cannot access value for name _margins"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 54,
                             "functionName": "width",
                             "line": 178,
                             "message": "Cannot access value for name _margins"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 446,
+                            "durationMicroseconds": 209,
                             "functionName": "height",
                             "line": 179,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 37,
                             "functionName": "color",
                             "line": 180,
                             "message": "Cannot access value for name qgcPal"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 79,
                             "functionName": "spacing",
                             "line": 187,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 80,
                             "functionName": "margins",
                             "line": 184,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 315,
+                            "durationMicroseconds": 121,
                             "functionName": "left",
                             "line": 185,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 81,
                             "functionName": "top",
                             "line": 186,
                             "message": ""
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 69,
                             "functionName": "model",
                             "line": 190,
                             "message": "Cannot access value for name _rcOptionStop"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 91,
                             "functionName": "spacing",
                             "line": 193,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 630,
+                            "durationMicroseconds": 241,
                             "functionName": "index",
                             "line": 195,
                             "message": "Cannot access value for name modelData"
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 85,
                             "functionName": "text",
                             "line": 200,
                             "message": "Cannot access value for name index"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 935,
+                            "durationMicroseconds": 385,
                             "functionName": "color",
                             "line": 201,
                             "message": "Cannot access value for name controller"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 152,
                             "functionName": "baseline",
                             "line": 199,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 160,
                             "functionName": "width",
                             "line": 206,
                             "message": ""

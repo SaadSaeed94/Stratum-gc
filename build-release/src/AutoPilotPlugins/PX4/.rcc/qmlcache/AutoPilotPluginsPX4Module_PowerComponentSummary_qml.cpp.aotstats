@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 361,
+                            "durationMicroseconds": 207,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 168,
                             "functionName": "controller",
                             "line": 17,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 104,
                             "functionName": "fill",
                             "line": 22,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 57,
                             "functionName": "valueText",
                             "line": 26,
                             "message": "Cannot load property battSource from ."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 170,
                             "functionName": "valueText",
                             "line": 31,
                             "message": "Cannot load property battHighVolt from ."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 134,
                             "functionName": "valueText",
                             "line": 36,
                             "message": "Cannot load property battLowVolt from ."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 90,
                             "functionName": "valueText",
                             "line": 41,
                             "message": "Cannot load property battNumCells from ."

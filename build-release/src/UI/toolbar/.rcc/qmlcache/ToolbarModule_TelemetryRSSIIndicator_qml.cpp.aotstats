@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 580,
+                            "durationMicroseconds": 341,
                             "functionName": "width",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 82,
                             "functionName": "showIndicator",
                             "line": 15,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 516,
+                            "durationMicroseconds": 291,
                             "functionName": "_activeVehicle",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 38,
                             "functionName": "_hasTelemetry",
                             "line": 18,
                             "message": "Cannot load property telemetryLRSSI from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/TelemetryRSSIIndicator.qml)::_activeVehicle with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 171,
                             "functionName": "top",
                             "line": 11,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 122,
                             "functionName": "bottom",
                             "line": 12,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 88,
                             "functionName": "width",
                             "line": 24,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 102,
                             "functionName": "fillMode",
                             "line": 27,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 441,
+                            "durationMicroseconds": 251,
                             "functionName": "color",
                             "line": 28,
                             "message": "Cannot access value for name qgcPal"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 150,
                             "functionName": "top",
                             "line": 22,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 120,
                             "functionName": "bottom",
                             "line": 23,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 79,
                             "functionName": "height",
                             "line": 25,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 614,
+                            "durationMicroseconds": 347,
                             "functionName": "onClicked",
                             "line": 33,
                             "message": "Cannot access value for name mainWindow"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 97,
                             "functionName": "fill",
                             "line": 32,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 110,
                             "functionName": "labelText",
                             "line": 47,
                             "message": "Cannot access value for name _activeVehicle"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 81,
                             "functionName": "labelText",
                             "line": 52,
                             "message": "Cannot access value for name _activeVehicle"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 50,
                             "functionName": "labelText",
                             "line": 57,
                             "message": "Cannot access value for name _activeVehicle"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 45,
                             "functionName": "labelText",
                             "line": 62,
                             "message": "Cannot access value for name _activeVehicle"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 46,
                             "functionName": "labelText",
                             "line": 67,
                             "message": "Cannot access value for name _activeVehicle"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 45,
                             "functionName": "labelText",
                             "line": 72,
                             "message": "Cannot access value for name _activeVehicle"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 49,
                             "functionName": "labelText",
                             "line": 77,
                             "message": "Cannot access value for name _activeVehicle"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 14,
-                            "durationMicroseconds": 12173,
+                            "durationMicroseconds": 7248,
                             "functionName": "spacing",
                             "line": 8,
                             "message": "Cannot load property defaultFontHeight from ScreenTools."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 523,
+                            "durationMicroseconds": 300,
                             "functionName": "_activeVehicle",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 808,
+                            "durationMicroseconds": 473,
                             "functionName": "_buttonTitles",
                             "line": 11,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 1110,
+                            "durationMicroseconds": 594,
                             "functionName": "_buttonActions",
                             "line": 12,
                             "message": "Cannot access value for name QGCMAVLink"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 42,
                             "functionName": "model",
                             "line": 15,
                             "message": "Cannot access value for name _buttonTitles"

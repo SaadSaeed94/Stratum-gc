@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 187,
                             "functionName": "onCompleted",
                             "line": 21,
                             "message": "Cannot access value for name indicator"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 13006,
+                            "durationMicroseconds": 7842,
                             "functionName": "implicitWidth",
                             "line": 24,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 156,
                             "functionName": "implicitHeight",
                             "line": 25,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 77,
                             "functionName": "color",
                             "line": 26,
                             "message": "Cannot access value for name _controlQGCPal"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 334,
+                            "durationMicroseconds": 209,
                             "functionName": "width",
                             "line": 27,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 43,
                             "functionName": "_control",
                             "line": 45,
                             "message": "Cannot access value for name control"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 982,
+                            "durationMicroseconds": 659,
                             "functionName": "value",
                             "line": 47,
                             "message": "Cannot access value for name modelData"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 161,
                             "functionName": "spacing",
                             "line": 52,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 148,
                             "functionName": "height",
                             "line": 55,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 85,
                             "functionName": "width",
                             "line": 56,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 62,
                             "functionName": "color",
                             "line": 59,
                             "message": "Cannot access value for name _itemQGCPal"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 50,
                             "functionName": "color",
                             "line": 57,
                             "message": "Cannot access value for name _itemQGCPal"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 212,
                             "functionName": "width",
                             "line": 63,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 81,
                             "functionName": "height",
                             "line": 64,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 61,
                             "functionName": "color",
                             "line": 66,
                             "message": "Cannot access value for name _itemQGCPal"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 131,
                             "functionName": "fillMode",
                             "line": 68,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 431,
+                            "durationMicroseconds": 298,
                             "functionName": "visible",
                             "line": 70,
                             "message": "Cannot access value for name checked"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 103,
                             "functionName": "centerIn",
                             "line": 62,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 88,
                             "functionName": "height",
                             "line": 69,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 673,
+                            "durationMicroseconds": 427,
                             "functionName": "text",
                             "line": 75,
                             "message": "Cannot access value for name modelData"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 55,
                             "functionName": "color",
                             "line": 76,
                             "message": "Cannot access value for name _itemQGCPal"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 47,
                             "functionName": "color",
                             "line": 82,
                             "message": "Cannot access value for name _controlQGCPal"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 120,
                             "functionName": "implicitWidth",
                             "line": 100,
                             "message": "Cannot access value for name _showFlash"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 100,
                             "functionName": "implicitHeight",
                             "line": 101,
                             "message": "Cannot access value for name _showFlash"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 50,
                             "functionName": "text",
                             "line": 106,
                             "message": "Cannot access value for name labelText"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 48,
                             "functionName": "color",
                             "line": 107,
                             "message": "Cannot access value for name _controlQGCPal"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 40,
                             "functionName": "visible",
                             "line": 108,
                             "message": "Cannot access value for name _showFlash"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 196,
                             "functionName": "verticalCenter",
                             "line": 105,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 142,
                             "functionName": "spacing",
                             "line": 114,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 55,
                             "functionName": "visible",
                             "line": 115,
                             "message": "Cannot access value for name _showFlash"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 90,
                             "functionName": "onVisibleChanged",
                             "line": 117,
                             "message": "Cannot access value for name flashTimer"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 162,
                             "functionName": "verticalCenter",
                             "line": 113,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 50,
                             "functionName": "onTriggered",
                             "line": 128,
                             "message": "Cannot find name _showFlash"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 136,
                             "functionName": "height",
                             "line": 132,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 88,
                             "functionName": "width",
                             "line": 133,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 62,
                             "functionName": "color",
                             "line": 136,
                             "message": "Cannot access value for name _controlQGCPal"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 50,
                             "functionName": "color",
                             "line": 134,
                             "message": "Cannot access value for name _controlQGCPal"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 346,
+                            "durationMicroseconds": 206,
                             "functionName": "width",
                             "line": 140,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 99,
                             "functionName": "height",
                             "line": 141,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 64,
                             "functionName": "color",
                             "line": 143,
                             "message": "Cannot access value for name _controlQGCPal"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 115,
                             "functionName": "fillMode",
                             "line": 145,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 48,
                             "functionName": "visible",
                             "line": 147,
                             "message": "Cannot access value for name _flashChecked"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 90,
                             "functionName": "centerIn",
                             "line": 139,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 87,
                             "functionName": "height",
                             "line": 146,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 51,
                             "functionName": "text",
                             "line": 152,
                             "message": "Cannot access value for name _flashText"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 51,
                             "functionName": "color",
                             "line": 153,
                             "message": "Cannot access value for name _controlQGCPal"

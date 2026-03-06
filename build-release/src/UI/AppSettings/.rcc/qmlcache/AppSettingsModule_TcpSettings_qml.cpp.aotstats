@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 575,
+                            "durationMicroseconds": 309,
                             "functionName": "rowSpacing",
                             "line": 10,
                             "message": "Cannot access value for name _rowSpacing"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 423,
+                            "durationMicroseconds": 257,
                             "functionName": "columnSpacing",
                             "line": 11,
                             "message": "Cannot access value for name _colSpacing"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1195,
+                            "durationMicroseconds": 675,
                             "functionName": "saveSettings",
                             "line": 13,
                             "message": "Cannot access value for name subEditConfig"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 94,
                             "functionName": "preferredWidth",
                             "line": 21,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 195,
                             "functionName": "regularExpression",
                             "line": 29,
                             "message": "Cannot generate efficient code for MoveRegExp"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 81,
                             "functionName": "preferredWidth",
                             "line": 36,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 125,
                             "functionName": "wrapMode",
                             "line": 53,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 582,
+                            "durationMicroseconds": 312,
                             "functionName": "color",
                             "line": 55,
                             "message": "Cannot access value for name qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 822,
+                            "durationMicroseconds": 445,
                             "functionName": "preferredWidth",
                             "line": 50,
                             "message": "Cannot access value for name _secondColumnWidth"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 13254,
+                            "durationMicroseconds": 5922,
                             "functionName": "pointSize",
                             "line": 52,
                             "message": ""

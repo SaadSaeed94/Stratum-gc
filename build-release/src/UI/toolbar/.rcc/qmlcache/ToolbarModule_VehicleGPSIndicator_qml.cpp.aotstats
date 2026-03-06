@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 112,
                             "functionName": "showIndicator",
                             "line": 8,
                             "message": "Cannot load property gps from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/VehicleGPSIndicator.qml)::_activeVehicle with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 485,
+                            "durationMicroseconds": 361,
                             "functionName": "_activeVehicle",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"

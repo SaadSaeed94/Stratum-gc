@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 665,
+                            "durationMicroseconds": 380,
                             "functionName": "_settingsManager",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 31,
                             "functionName": "_mavlinkSettings",
                             "line": 12,
                             "message": "Cannot load property mavlinkSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_settingsManager with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 18,
                             "functionName": "_appSettings",
                             "line": 13,
                             "message": "Cannot load property appSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_settingsManager with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 26,
                             "functionName": "_disableAllDataPersistence",
                             "line": 14,
                             "message": "Cannot load property disableAllPersistence from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_appSettings with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 568,
+                            "durationMicroseconds": 281,
                             "functionName": "_activeVehicle",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 52,
                             "functionName": "_isAPM",
                             "line": 17,
                             "message": "Cannot load property apmFirmware from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_activeVehicle with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 673,
+                            "durationMicroseconds": 311,
                             "functionName": "_showAPMStreamRates",
                             "line": 18,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 20,
                             "functionName": "_apmStartMavlinkStreams",
                             "line": 19,
                             "message": "Cannot load property apmStartMavlinkStreams from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_mavlinkSettings with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 34,
                             "functionName": "visible",
                             "line": 43,
                             "message": "Cannot access value for name _mavlink2SigningKey"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 33,
                             "functionName": "target",
                             "line": 48,
                             "message": "Cannot load property _mavlink2SigningKey from ."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 13276,
+                            "durationMicroseconds": 7158,
                             "functionName": "spacing",
                             "line": 53,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 209,
                             "functionName": "textFieldPreferredWidth",
                             "line": 57,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 379,
+                            "durationMicroseconds": 184,
                             "functionName": "textFieldPreferredWidth",
                             "line": 94,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 46,
                             "functionName": "visible",
                             "line": 97,
                             "message": "Cannot access value for name fact"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 63,
                             "functionName": "enabled",
                             "line": 98,
                             "message": "Cannot access value for name _mavlinkSettings"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 105,
                             "message": "Cannot access value for name _disableAllDataPersistence"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 40,
                             "functionName": "visible",
                             "line": 136,
                             "message": "Cannot access value for name _showAPMStreamRates"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 65,
                             "functionName": "enabled",
                             "line": 151,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 48,
                             "functionName": "enabled",
                             "line": 159,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 54,
                             "functionName": "enabled",
                             "line": 167,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 47,
                             "functionName": "enabled",
                             "line": 175,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 42,
                             "functionName": "enabled",
                             "line": 183,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 41,
                             "functionName": "enabled",
                             "line": 191,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 42,
                             "functionName": "enabled",
                             "line": 199,
                             "message": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 141,
                             "functionName": "labelText",
                             "line": 210,
                             "message": "Cannot access value for name _activeVehicle"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 112,
                             "functionName": "labelText",
                             "line": 216,
                             "message": "Cannot access value for name _activeVehicle"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 117,
                             "functionName": "labelText",
                             "line": 222,
                             "message": "Cannot access value for name _activeVehicle"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 155,
                             "functionName": "labelText",
                             "line": 228,
                             "message": "Cannot access value for name _activeVehicle"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 327,
+                            "durationMicroseconds": 126,
                             "functionName": "labelText",
                             "line": 234,
                             "message": "Cannot access value for name _activeVehicle"

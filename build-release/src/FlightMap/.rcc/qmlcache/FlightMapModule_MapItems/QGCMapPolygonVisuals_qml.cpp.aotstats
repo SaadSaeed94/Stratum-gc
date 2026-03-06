@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 83,
                             "functionName": "interactive",
                             "line": 18,
                             "message": "Cannot load property interactive from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::mapPolygon with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 466,
+                            "durationMicroseconds": 295,
                             "functionName": "_circleRadiusDragCoord",
                             "line": 28,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 86,
                             "functionName": "_instructionText",
                             "line": 30,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 81,
                             "functionName": "_savedVertices",
                             "line": 31,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 719,
+                            "durationMicroseconds": 417,
                             "functionName": "_zorderDragHandle",
                             "line": 35,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 650,
+                            "durationMicroseconds": 351,
                             "functionName": "_zorderSplitHandle",
                             "line": 36,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 607,
+                            "durationMicroseconds": 353,
                             "functionName": "_zorderCenterHandle",
                             "line": 37,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 753,
+                            "durationMicroseconds": 480,
                             "functionName": "addCommonVisuals",
                             "line": 42,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 142,
                             "functionName": "removeCommonVisuals",
                             "line": 48,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1006,
+                            "durationMicroseconds": 619,
                             "functionName": "addEditingVisuals",
                             "line": 52,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 148,
                             "functionName": "removeEditingVisuals",
                             "line": 61,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 963,
+                            "durationMicroseconds": 559,
                             "functionName": "addToolbarVisuals",
                             "line": 65,
                             "message": "Cannot access value for name QGroundControl"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 156,
                             "functionName": "removeToolVisuals",
                             "line": 72,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 716,
+                            "durationMicroseconds": 386,
                             "functionName": "addCircleVisuals",
                             "line": 76,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 972,
+                            "durationMicroseconds": 581,
                             "functionName": "defaultPolygonVertices",
                             "line": 83,
                             "message": "Cannot load property centerViewport from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::mapControl with type QVariant."
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 692,
+                            "durationMicroseconds": 482,
                             "functionName": "_resetPolygon",
                             "line": 109,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 2521,
+                            "durationMicroseconds": 1428,
                             "functionName": "_resetCircle",
                             "line": 135,
                             "message": "Cannot generate efficient code for LoadElement with non-list base type call to method defaultPolygonVertices, returning QVariant"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 99,
                             "functionName": "_handleInteractiveChanged",
                             "line": 144,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::mapPolygon with type QVariant does not have a property traceMode for writing"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 648,
+                            "durationMicroseconds": 381,
                             "functionName": "_saveCurrentVertices",
                             "line": 155,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::mapPolygon with type QVariant."
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 916,
+                            "durationMicroseconds": 516,
                             "functionName": "_restorePreviousVertices",
                             "line": 163,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::_savedVertices with type QVariant."
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 122,
                             "functionName": "onInteractiveChanged",
                             "line": 173,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 636,
+                            "durationMicroseconds": 351,
                             "functionName": "on_CircleModeChanged",
                             "line": 175,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 58,
                             "functionName": "target",
                             "line": 184,
                             "message": "Cannot access value for name mapPolygon"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 164,
                             "functionName": "onCompleted",
                             "line": 196,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 32,
                             "functionName": "onDestruction",
                             "line": 200,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::mapPolygon with type QVariant does not have a property traceMode for writing"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 741,
+                            "durationMicroseconds": 434,
                             "functionName": "onAcceptedForLoad",
                             "line": 214,
                             "message": "Cannot access value for name mapPolygon"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 68,
                             "functionName": "onAcceptedForLoad",
                             "line": 214,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 59,
                             "functionName": "popupCenter",
                             "line": 232,
                             "message": "Cannot retrieve a non-object type by ID: menu"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 142,
                             "functionName": "color",
                             "line": 274,
                             "message": "Cannot access value for name mapPolygon"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 30,
                             "functionName": "opacity",
                             "line": 275,
                             "message": "Cannot access value for name interiorOpacity"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 34,
                             "functionName": "path",
                             "line": 278,
                             "message": "Cannot access value for name mapPolygon"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 33,
                             "functionName": "color",
                             "line": 276,
                             "message": "Cannot access value for name borderColor"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 32,
                             "functionName": "width",
                             "line": 277,
                             "message": "Cannot access value for name borderWidth"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 289,
                             "message": "Cannot access value for name _circleMode"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 636,
+                            "durationMicroseconds": 370,
                             "functionName": "_unitsConversion",
                             "line": 294,
                             "message": "Cannot access value for name QGroundControl"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 367,
+                            "durationMicroseconds": 240,
                             "functionName": "x",
                             "line": 287,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 175,
                             "functionName": "y",
                             "line": 288,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 177,
                             "functionName": "text",
                             "line": 297,
                             "message": "Cannot access value for name _unitsConversion"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 93,
                             "functionName": "model",
                             "line": 308,
                             "message": "Cannot access value for name _isVertexBeingDragged"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 46,
                             "functionName": "_vertices",
                             "line": 312,
                             "message": "Cannot access value for name mapPolygon"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 567,
+                            "durationMicroseconds": 313,
                             "functionName": "_setHandlePosition",
                             "line": 314,
                             "message": "Cannot access value for name index"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 350,
+                            "durationMicroseconds": 196,
                             "functionName": "onCompleted",
                             "line": 325,
                             "message": "Cannot access value for name edgeLengthHandleComponent"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 478,
+                            "durationMicroseconds": 322,
                             "functionName": "onDestruction",
                             "line": 332,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 55,
                             "functionName": "visible",
                             "line": 348,
                             "message": "Cannot access value for name _circleMode"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 430,
+                            "durationMicroseconds": 238,
                             "functionName": "x",
                             "line": 346,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 349,
+                            "durationMicroseconds": 194,
                             "functionName": "y",
                             "line": 347,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 63,
                             "functionName": "z",
                             "line": 353,
                             "message": "Cannot access value for name _zorderSplitHandle"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 168,
                             "functionName": "onClicked",
                             "line": 354,
                             "message": "Cannot access value for name _root"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 46,
                             "functionName": "model",
                             "line": 363,
                             "message": "Cannot access value for name mapPolygon"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 47,
                             "functionName": "_vertices",
                             "line": 367,
                             "message": "Cannot access value for name mapPolygon"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 588,
+                            "durationMicroseconds": 276,
                             "functionName": "_setHandlePosition",
                             "line": 369,
                             "message": "Cannot access value for name index"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 197,
                             "functionName": "onCompleted",
                             "line": 379,
                             "message": "Cannot access value for name splitHandleComponent"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 340,
                             "functionName": "onDestruction",
                             "line": 386,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 70,
                             "functionName": "mapControl",
                             "line": 401,
                             "message": "Cannot access value for name _root"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 38,
                             "functionName": "z",
                             "line": 402,
                             "message": "Cannot access value for name _zorderDragHandle"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 36,
                             "functionName": "visible",
                             "line": 403,
                             "message": "Cannot access value for name _circleMode"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 38,
                             "functionName": "onDragStart",
                             "line": 404,
                             "message": "Cannot find name _isVertexBeingDragged"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 67,
                             "functionName": "onDragStop",
                             "line": 405,
                             "message": "Cannot find name _isVertexBeingDragged"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 109,
                             "functionName": "onItemCoordinateChanged",
                             "line": 413,
                             "message": "Cannot access value for name mapPolygon"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 105,
                             "functionName": "onClicked",
                             "line": 420,
                             "message": "Cannot access value for name _root"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 135,
                             "functionName": "onCompleted",
                             "line": 411,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 43,
                             "functionName": "z",
                             "line": 430,
                             "message": "Cannot access value for name _zorderDragHandle"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 418,
+                            "durationMicroseconds": 250,
                             "functionName": "x",
                             "line": 428,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 187,
                             "functionName": "y",
                             "line": 429,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 11287,
+                            "durationMicroseconds": 6765,
                             "functionName": "width",
                             "line": 433,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 84,
                             "functionName": "height",
                             "line": 434,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 129,
                             "functionName": "radius",
                             "line": 435,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 547,
+                            "durationMicroseconds": 327,
                             "functionName": "color",
                             "line": 436,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 327,
                             "functionName": "color",
                             "line": 437,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 142,
                             "functionName": "width",
                             "line": 440,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 69,
                             "functionName": "height",
                             "line": 441,
                             "message": ""
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 489,
+                            "durationMicroseconds": 329,
                             "functionName": "color",
                             "line": 442,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 100,
                             "functionName": "fillMode",
                             "line": 444,
                             "message": ""
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 87,
                             "functionName": "height",
                             "line": 446,
                             "message": ""
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 75,
                             "functionName": "centerIn",
                             "line": 447,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 65,
                             "functionName": "z",
                             "line": 460,
                             "message": "Cannot access value for name _zorderDragHandle"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 461,
                             "message": "Cannot access value for name _circleMode"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 422,
+                            "durationMicroseconds": 242,
                             "functionName": "x",
                             "line": 458,
                             "message": ""
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 183,
                             "functionName": "y",
                             "line": 459,
                             "message": ""
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 227,
                             "functionName": "width",
                             "line": 467,
                             "message": ""
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 77,
                             "functionName": "height",
                             "line": 468,
                             "message": ""
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 133,
                             "functionName": "radius",
                             "line": 469,
                             "message": ""
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 600,
+                            "durationMicroseconds": 371,
                             "functionName": "color",
                             "line": 470,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -768,7 +768,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 586,
+                            "durationMicroseconds": 347,
                             "functionName": "color",
                             "line": 471,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 77,
                             "functionName": "model",
                             "line": 482,
                             "message": "Cannot access value for name mapPolygon"
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 99,
                             "functionName": "_visuals",
                             "line": 485,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 986,
+                            "durationMicroseconds": 551,
                             "functionName": "onCompleted",
                             "line": 487,
                             "message": "Cannot access value for name dragHandleComponent"
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 666,
+                            "durationMicroseconds": 398,
                             "functionName": "onDestruction",
                             "line": 498,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml)::_visuals with type QVariant."
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 153,
                             "functionName": "onCoordinateChanged",
                             "line": 514,
                             "message": "Cannot access value for name mapPolygon"
@@ -832,7 +832,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 151,
                             "functionName": "onCoordinateChanged",
                             "line": 530,
                             "message": "Cannot access value for name mapPolygon"
@@ -840,7 +840,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 66,
                             "functionName": "mapControl",
                             "line": 541,
                             "message": "Cannot access value for name _root"
@@ -848,7 +848,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 35,
                             "functionName": "z",
                             "line": 542,
                             "message": "Cannot access value for name _zorderCenterHandle"
@@ -856,7 +856,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 56,
                             "functionName": "onItemCoordinateChanged",
                             "line": 543,
                             "message": "Cannot access value for name mapPolygon"
@@ -864,7 +864,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 38,
                             "functionName": "onDragStart",
                             "line": 544,
                             "message": "Cannot access value for name mapPolygon"
@@ -872,7 +872,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 39,
                             "functionName": "onDragStop",
                             "line": 545,
                             "message": "Cannot access value for name mapPolygon"
@@ -880,7 +880,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 310,
                             "functionName": "onCompleted",
                             "line": 556,
                             "message": "Cannot access value for name centerDragHandle"
@@ -888,7 +888,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 306,
                             "functionName": "onDestruction",
                             "line": 563,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -896,7 +896,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 65,
                             "functionName": "y",
                             "line": 576,
                             "message": "Cannot access value for name mapControl"
@@ -904,7 +904,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 40,
                             "functionName": "availableWidth",
                             "line": 577,
                             "message": "Cannot access value for name mapControl"
@@ -912,7 +912,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 43,
                             "functionName": "horizontalCenter",
                             "line": 574,
                             "message": "Cannot access value for name mapControl"
@@ -920,7 +920,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 99,
                             "functionName": "horizontalCenterOffset",
                             "line": 575,
                             "message": "Cannot access value for name mapControl"
@@ -992,7 +992,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 707,
+                            "durationMicroseconds": 431,
                             "functionName": "z",
                             "line": 627,
                             "message": "Cannot access value for name QGroundControl"
@@ -1000,7 +1000,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1555,
+                            "durationMicroseconds": 981,
                             "functionName": "onClicked",
                             "line": 629,
                             "message": "Cannot access value for name _utmspEnabled"
@@ -1008,7 +1008,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 99,
                             "functionName": "onClicked",
                             "line": 629,
                             "message": ""
@@ -1016,7 +1016,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 67,
                             "functionName": "fill",
                             "line": 625,
                             "message": "Cannot access value for name mapControl"
@@ -1024,7 +1024,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 373,
                             "functionName": "z",
                             "line": 651,
                             "message": "Cannot access value for name QGroundControl"
@@ -1032,7 +1032,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 347,
+                            "durationMicroseconds": 247,
                             "functionName": "x",
                             "line": 649,
                             "message": ""
@@ -1040,7 +1040,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 304,
+                            "durationMicroseconds": 159,
                             "functionName": "y",
                             "line": 650,
                             "message": ""
@@ -1048,7 +1048,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 448,
+                            "durationMicroseconds": 260,
                             "functionName": "width",
                             "line": 655,
                             "message": ""
@@ -1056,7 +1056,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 75,
                             "functionName": "height",
                             "line": 656,
                             "message": ""
@@ -1064,7 +1064,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 129,
                             "functionName": "radius",
                             "line": 657,
                             "message": ""
@@ -1072,7 +1072,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 71,
                             "functionName": "opacity",
                             "line": 659,
                             "message": "Cannot access value for name interiorOpacity"
@@ -1080,7 +1080,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 88,
                             "functionName": "pendingCoord",
                             "line": 669,
                             "message": ""
@@ -1088,7 +1088,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 519,
+                            "durationMicroseconds": 319,
                             "functionName": "onTriggered",
                             "line": 671,
                             "message": "Cannot access value for name mapPolygon"
@@ -1096,7 +1096,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 58,
                             "functionName": "mapControl",
                             "line": 686,
                             "message": "Cannot access value for name _root"
@@ -1104,7 +1104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 450,
+                            "durationMicroseconds": 275,
                             "functionName": "onItemCoordinateChanged",
                             "line": 688,
                             "message": "Cannot access value for name mapPolygon"
@@ -1112,7 +1112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 54,
                             "functionName": "circleCenterCoord",
                             "line": 704,
                             "message": "Cannot access value for name mapPolygon"
@@ -1120,7 +1120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 76,
                             "functionName": "_calcRadiusDragCoord",
                             "line": 706,
                             "message": "Cannot access value for name _circleRadius"
@@ -1128,7 +1128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 71,
                             "functionName": "onCircleCenterCoordChanged",
                             "line": 710,
                             "message": "Cannot access value for name _circleRadiusDrag"
@@ -1136,7 +1136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 490,
+                            "durationMicroseconds": 284,
                             "functionName": "onCompleted",
                             "line": 720,
                             "message": "Cannot access value for name radiusDragHandleComponent"

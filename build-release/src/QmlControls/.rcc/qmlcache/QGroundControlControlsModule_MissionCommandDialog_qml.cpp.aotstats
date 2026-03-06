@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 181,
                             "functionName": "buttons",
                             "line": 12,
                             "message": "Cannot access value for name Dialog"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 65399,
+                            "durationMicroseconds": 7187,
                             "functionName": "spacing",
                             "line": 21,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 4495,
+                            "durationMicroseconds": 824,
                             "functionName": "model",
                             "line": 30,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 437,
+                            "durationMicroseconds": 263,
                             "functionName": "onActivated",
                             "line": 42,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 75,
                             "functionName": "onActivated",
                             "line": 42,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 211,
                             "functionName": "preferredWidth",
                             "line": 29,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 123,
                             "functionName": "onCompleted",
                             "line": 36,
                             "message": "Cannot access value for name missionItem"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 3360,
+                            "durationMicroseconds": 144,
                             "functionName": "width",
                             "line": 51,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 462,
+                            "durationMicroseconds": 252,
                             "functionName": "height",
                             "line": 52,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 611,
+                            "durationMicroseconds": 334,
                             "functionName": "color",
                             "line": 53,
                             "message": "Cannot access value for name QGroundControl"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 387,
+                            "durationMicroseconds": 236,
                             "functionName": "mavCmdInfo",
                             "line": 55,
                             "message": "Cannot access value for name modelData"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 471,
+                            "durationMicroseconds": 280,
                             "functionName": "textColor",
                             "line": 56,
                             "message": "Cannot access value for name QGroundControl"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 156,
                             "functionName": "margins",
                             "line": 60,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 3360,
+                            "durationMicroseconds": 161,
                             "functionName": "left",
                             "line": 61,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 370,
+                            "durationMicroseconds": 127,
                             "functionName": "right",
                             "line": 62,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 120,
                             "functionName": "top",
                             "line": 63,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 74,
                             "functionName": "text",
                             "line": 66,
                             "message": "Cannot access value for name mavCmdInfo"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 41,
                             "functionName": "color",
                             "line": 67,
                             "message": "Cannot access value for name textColor"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 51,
                             "functionName": "text",
                             "line": 75,
                             "message": "Cannot access value for name mavCmdInfo"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 132,
                             "functionName": "wrapMode",
                             "line": 76,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 41,
                             "functionName": "color",
                             "line": 77,
                             "message": "Cannot access value for name textColor"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 139,
                             "functionName": "margins",
                             "line": 72,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 141,
                             "functionName": "left",
                             "line": 73,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 129,
                             "functionName": "right",
                             "line": 74,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 416,
+                            "durationMicroseconds": 255,
                             "functionName": "onClicked",
                             "line": 83,
                             "message": "Cannot access value for name missionItem"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 100,
                             "functionName": "fill",
                             "line": 82,
                             "message": ""

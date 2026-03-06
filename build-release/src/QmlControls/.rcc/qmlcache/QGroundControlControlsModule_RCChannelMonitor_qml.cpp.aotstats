@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 251,
                             "functionName": "height",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 357,
+                            "durationMicroseconds": 176,
                             "functionName": "_pwmRange",
                             "line": 18,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 13655,
+                            "durationMicroseconds": 7363,
                             "functionName": "height",
                             "line": 29,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 426,
+                            "durationMicroseconds": 252,
                             "functionName": "__barColor",
                             "line": 35,
                             "message": "Cannot access value for name qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 144,
                             "functionName": "width",
                             "line": 41,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 184,
                             "functionName": "height",
                             "line": 42,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 43,
                             "message": "Cannot access value for name __barColor"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 162,
                             "functionName": "verticalCenter",
                             "line": 40,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 364,
+                            "durationMicroseconds": 194,
                             "functionName": "width",
                             "line": 49,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 103,
                             "functionName": "height",
                             "line": 50,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 434,
+                            "durationMicroseconds": 222,
                             "functionName": "color",
                             "line": 51,
                             "message": "Cannot access value for name qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 157,
                             "functionName": "horizontalCenter",
                             "line": 48,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 363,
+                            "durationMicroseconds": 201,
                             "functionName": "width",
                             "line": 57,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 75,
                             "functionName": "height",
                             "line": 58,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 815,
+                            "durationMicroseconds": 628,
                             "functionName": "x",
                             "line": 59,
                             "message": "Cannot access value for name reversed"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 164,
                             "functionName": "radius",
                             "line": 60,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 411,
+                            "durationMicroseconds": 215,
                             "functionName": "color",
                             "line": 61,
                             "message": "Cannot access value for name qgcPal"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 171,
                             "functionName": "visible",
                             "line": 62,
                             "message": "Cannot access value for name mapped"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 170,
                             "functionName": "verticalCenter",
                             "line": 56,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 125,
                             "functionName": "horizontalAlignment",
                             "line": 67,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 95,
                             "functionName": "verticalAlignment",
                             "line": 68,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 341,
                             "functionName": "visible",
                             "line": 70,
                             "message": "Cannot access value for name mapped"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 98,
                             "functionName": "fill",
                             "line": 66,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 82,
                             "functionName": "target",
                             "line": 75,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 44,
                             "functionName": "to",
                             "line": 78,
                             "message": "Cannot access value for name __barColor"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 116,
                             "functionName": "width",
                             "line": 86,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 63,
                             "functionName": "columns",
                             "line": 87,
                             "message": "Cannot access value for name twoColumn"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 99,
                             "functionName": "columnSpan",
                             "line": 90,
                             "message": "Cannot load property columns from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/RCChannelMonitor.qml)::parent with type QQuickItem."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 62,
                             "functionName": "target",
                             "line": 95,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 39,
                             "functionName": "model",
                             "line": 106,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 111,
                             "functionName": "loader",
                             "line": 110,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 677,
+                            "durationMicroseconds": 385,
                             "functionName": "text",
                             "line": 114,
                             "message": "Cannot access value for name modelData"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 53,
                             "functionName": "sourceComponent",
                             "line": 122,
                             "message": "Cannot access value for name channelMonitorDisplayComponent"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 187,
                             "functionName": "pageComponent",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 56,
                             "functionName": "width",
                             "line": 18,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 22,
                             "functionName": "height",
                             "line": 19,
                             "message": "Cannot access value for name availableHeight"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 109,
                             "functionName": "contentWidth",
                             "line": 24,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 66,
                             "functionName": "contentHeight",
                             "line": 25,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 649,
+                            "durationMicroseconds": 241,
                             "functionName": "rows",
                             "line": 29,
                             "message": "Cannot access value for name LogDownloadController"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 216,
+                            "durationMicroseconds": 82,
                             "functionName": "flow",
                             "line": 31,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 12523,
+                            "durationMicroseconds": 4870,
                             "functionName": "columnSpacing",
                             "line": 32,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 690,
+                            "durationMicroseconds": 267,
                             "functionName": "model",
                             "line": 41,
                             "message": "Cannot access value for name LogDownloadController"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 340,
+                            "durationMicroseconds": 142,
                             "functionName": "value",
                             "line": 45,
                             "message": "Cannot access value for name object"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 606,
+                            "durationMicroseconds": 201,
                             "functionName": "model",
                             "line": 55,
                             "message": "Cannot access value for name LogDownloadController"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 589,
+                            "durationMicroseconds": 205,
                             "functionName": "text",
                             "line": 57,
                             "message": "Cannot access value for name object"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 532,
+                            "durationMicroseconds": 175,
                             "functionName": "model",
                             "line": 63,
                             "message": "Cannot access value for name LogDownloadController"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 1718,
+                            "durationMicroseconds": 575,
                             "functionName": "text",
                             "line": 66,
                             "message": "Cannot access value for name object"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 550,
+                            "durationMicroseconds": 167,
                             "functionName": "model",
                             "line": 83,
                             "message": "Cannot access value for name LogDownloadController"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 464,
+                            "durationMicroseconds": 170,
                             "functionName": "text",
                             "line": 85,
                             "message": "Cannot access value for name object"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 537,
+                            "durationMicroseconds": 167,
                             "functionName": "model",
                             "line": 91,
                             "message": "Cannot access value for name LogDownloadController"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 501,
+                            "durationMicroseconds": 154,
                             "functionName": "text",
                             "line": 93,
                             "message": "Cannot access value for name object"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 132,
                             "functionName": "spacing",
                             "line": 99,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 78,
                             "functionName": "alignment",
                             "line": 100,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 727,
+                            "durationMicroseconds": 232,
                             "functionName": "onAcceptedForLoad",
                             "line": 150,
                             "message": "Cannot access value for name LogDownloadController"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 47,
                             "functionName": "onAcceptedForLoad",
                             "line": 150,
                             "message": ""

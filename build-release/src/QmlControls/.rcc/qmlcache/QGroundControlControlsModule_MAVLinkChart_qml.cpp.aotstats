@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 397,
+                            "durationMicroseconds": 238,
                             "functionName": "theme",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 101,
                             "functionName": "animationOptions",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 650,
+                            "durationMicroseconds": 364,
                             "functionName": "backgroundColor",
                             "line": 15,
                             "message": "Cannot access value for name qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 71,
                             "functionName": "visible",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 696,
+                            "durationMicroseconds": 403,
                             "functionName": "_seriesColors",
                             "line": 24,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 75,
                             "functionName": "roomForNewDimension",
                             "line": 44,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 11895,
+                            "durationMicroseconds": 6844,
                             "functionName": "bottom",
                             "line": 17,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 565,
+                            "durationMicroseconds": 299,
                             "functionName": "top",
                             "line": 18,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 124,
                             "functionName": "min",
                             "line": 56,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 76,
                             "functionName": "max",
                             "line": 57,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 24,
                             "functionName": "visible",
                             "line": 58,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 159,
                             "functionName": "labelsColor",
                             "line": 64,
                             "message": "Cannot access value for name qgcPal"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 134,
                             "functionName": "family",
                             "line": 62,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 102,
                             "functionName": "pointSize",
                             "line": 63,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 71,
                             "functionName": "min",
                             "line": 69,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 51,
                             "functionName": "max",
                             "line": 70,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 24,
                             "functionName": "visible",
                             "line": 71,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 152,
                             "functionName": "labelsColor",
                             "line": 75,
                             "message": "Cannot access value for name qgcPal"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 106,
                             "functionName": "family",
                             "line": 73,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 82,
                             "functionName": "pointSize",
                             "line": 74,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 207,
                             "functionName": "spacing",
                             "line": 86,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 31,
                             "functionName": "visible",
                             "line": 87,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 296,
+                            "durationMicroseconds": 159,
                             "functionName": "left",
                             "line": 80,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 159,
                             "functionName": "leftMargin",
                             "line": 81,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 133,
                             "functionName": "right",
                             "line": 82,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 332,
+                            "durationMicroseconds": 164,
                             "functionName": "rightMargin",
                             "line": 83,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 117,
                             "functionName": "top",
                             "line": 84,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 324,
+                            "durationMicroseconds": 167,
                             "functionName": "topMargin",
                             "line": 85,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 118,
                             "functionName": "columnSpacing",
                             "line": 90,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 343,
+                            "durationMicroseconds": 164,
                             "functionName": "rowSpacing",
                             "line": 91,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 125,
                             "functionName": "verticalCenter",
                             "line": 92,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 105,
                             "functionName": "alignment",
                             "line": 95,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 106,
                             "functionName": "height",
                             "line": 100,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1141,
+                            "durationMicroseconds": 626,
                             "functionName": "model",
                             "line": 101,
                             "message": "Cannot access value for name controller"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 88,
                             "functionName": "currentIndex",
                             "line": 102,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 70,
                             "functionName": "onActivated",
                             "line": 103,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 63,
                             "functionName": "onActivated",
                             "line": 103,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 384,
+                            "durationMicroseconds": 193,
                             "functionName": "minimumWidth",
                             "line": 98,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 150,
                             "functionName": "maximumWidth",
                             "line": 99,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 97,
                             "functionName": "alignment",
                             "line": 104,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 89,
                             "functionName": "alignment",
                             "line": 108,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 124,
                             "functionName": "height",
                             "line": 113,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1124,
+                            "durationMicroseconds": 605,
                             "functionName": "model",
                             "line": 114,
                             "message": "Cannot access value for name controller"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 79,
                             "functionName": "currentIndex",
                             "line": 115,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 67,
                             "functionName": "onActivated",
                             "line": 116,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 58,
                             "functionName": "onActivated",
                             "line": 116,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 396,
+                            "durationMicroseconds": 176,
                             "functionName": "minimumWidth",
                             "line": 111,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 165,
                             "functionName": "maximumWidth",
                             "line": 112,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 97,
                             "functionName": "alignment",
                             "line": 117,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 128,
                             "functionName": "verticalCenter",
                             "line": 121,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 72,
                             "functionName": "model",
                             "line": 123,
                             "message": "Cannot retrieve a non-object type by ID: chartController"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 805,
+                            "durationMicroseconds": 543,
                             "functionName": "text",
                             "line": 125,
                             "message": "Cannot access value for name modelData"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 91,
                             "functionName": "color",
                             "line": 126,
                             "message": "Cannot access value for name chartView"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 121,
                             "functionName": "pointSize",
                             "line": 127,
                             "message": ""

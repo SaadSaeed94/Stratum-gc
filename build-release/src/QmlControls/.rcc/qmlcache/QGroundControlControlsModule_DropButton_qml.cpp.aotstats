@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 1033,
+                            "durationMicroseconds": 487,
                             "functionName": "z",
                             "line": 9,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 13945,
+                            "durationMicroseconds": 8181,
                             "functionName": "radius",
                             "line": 14,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 94,
                             "functionName": "dropDirection",
                             "line": 15,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 761,
+                            "durationMicroseconds": 451,
                             "functionName": "topMargin",
                             "line": 18,
                             "message": "Cannot access value for name mainWindow"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 177,
                             "functionName": "width",
                             "line": 21,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 128,
                             "functionName": "height",
                             "line": 22,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 62,
                             "functionName": "_arrowBaseWidth",
                             "line": 30,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 117,
                             "functionName": "_arrowPointHeight",
                             "line": 31,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 164,
                             "functionName": "_dropCornerRadius",
                             "line": 32,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 113,
                             "functionName": "_dropCornerRadiusX2",
                             "line": 33,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 59,
                             "functionName": "_dropMargin",
                             "line": 34,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 107,
                             "functionName": "_dropMarginX2",
                             "line": 35,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 165,
                             "functionName": "_viewportMaxLeft",
                             "line": 37,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 650,
+                            "durationMicroseconds": 338,
                             "functionName": "_viewportMaxRight",
                             "line": 38,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 487,
+                            "durationMicroseconds": 261,
                             "functionName": "_viewportMaxTop",
                             "line": 39,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 622,
+                            "durationMicroseconds": 391,
                             "functionName": "_viewportMaxBottom",
                             "line": 40,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 129,
                             "functionName": "onButtonGroupChanged",
                             "line": 47,
                             "message": "Cannot access value for name buttonGroup"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 82,
                             "functionName": "hideDropDown",
                             "line": 53,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 3837,
+                            "durationMicroseconds": 2152,
                             "functionName": "_calcPositions",
                             "line": 57,
                             "message": "Cannot load property width from QQuickLoader::item with type QObject."
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 85,
                             "functionName": "x",
                             "line": 148,
                             "message": "Cannot access value for name _viewportMaxLeft"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 31,
                             "functionName": "y",
                             "line": 149,
                             "message": "Cannot access value for name _viewportMaxTop"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 69,
                             "functionName": "width",
                             "line": 150,
                             "message": "Cannot access value for name _viewportMaxRight"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 50,
                             "functionName": "height",
                             "line": 151,
                             "message": "Cannot access value for name _viewportMaxBottom"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 152,
                             "message": "Cannot access value for name checked"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 58,
                             "functionName": "onClicked",
                             "line": 153,
                             "message": "Cannot find name checked"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 475,
+                            "durationMicroseconds": 280,
                             "functionName": "radius",
                             "line": 161,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 638,
+                            "durationMicroseconds": 397,
                             "functionName": "onClicked",
                             "line": 162,
                             "message": "method _calcPositions cannot be resolved."
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 38,
                             "functionName": "visible",
                             "line": 170,
                             "message": "Cannot access value for name checked"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 625,
+                            "durationMicroseconds": 353,
                             "functionName": "arrowPoint",
                             "line": 176,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 522,
+                            "durationMicroseconds": 461,
                             "functionName": "arrowBase1",
                             "line": 177,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 474,
+                            "durationMicroseconds": 251,
                             "functionName": "arrowBase2",
                             "line": 178,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 2326,
+                            "durationMicroseconds": 1346,
                             "functionName": "onPaint",
                             "line": 180,
                             "message": "Cannot access value for name dropDirection"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 149,
                             "functionName": "fill",
                             "line": 174,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 55,
                             "functionName": "x",
                             "line": 222,
                             "message": "Cannot access value for name _dropMargin"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 33,
                             "functionName": "y",
                             "line": 223,
                             "message": "Cannot access value for name _dropMargin"

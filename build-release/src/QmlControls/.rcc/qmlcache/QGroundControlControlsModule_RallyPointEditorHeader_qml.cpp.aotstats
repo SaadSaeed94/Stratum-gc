@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 864,
+                            "durationMicroseconds": 492,
                             "functionName": "height",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 240,
                             "functionName": "radius",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 476,
+                            "durationMicroseconds": 264,
                             "functionName": "color",
                             "line": 11,
                             "message": "Cannot access value for name qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 13503,
+                            "durationMicroseconds": 7347,
                             "functionName": "_margin",
                             "line": 15,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 355,
+                            "durationMicroseconds": 188,
                             "functionName": "_radius",
                             "line": 16,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 67,
                             "functionName": "margins",
                             "line": 20,
                             "message": "Cannot access value for name _margin"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 170,
                             "functionName": "left",
                             "line": 21,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 124,
                             "functionName": "top",
                             "line": 22,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 81,
                             "functionName": "height",
                             "line": 32,
                             "message": "Cannot access value for name _margin"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 371,
+                            "durationMicroseconds": 214,
                             "functionName": "color",
                             "line": 33,
                             "message": "Cannot access value for name qgcPal"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 35,
                             "functionName": "radius",
                             "line": 34,
                             "message": "Cannot access value for name _radius"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 33,
                             "functionName": "margins",
                             "line": 28,
                             "message": "Cannot access value for name _margin"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 162,
                             "functionName": "left",
                             "line": 29,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 127,
                             "functionName": "right",
                             "line": 30,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 133,
                             "functionName": "top",
                             "line": 31,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 113,
                             "functionName": "wrapMode",
                             "line": 42,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 48,
                             "functionName": "margins",
                             "line": 38,
                             "message": "Cannot access value for name _margin"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 140,
                             "functionName": "top",
                             "line": 39,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 124,
                             "functionName": "left",
                             "line": 40,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 116,
                             "functionName": "right",
                             "line": 41,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 106,
                             "functionName": "pointSize",
                             "line": 43,
                             "message": ""

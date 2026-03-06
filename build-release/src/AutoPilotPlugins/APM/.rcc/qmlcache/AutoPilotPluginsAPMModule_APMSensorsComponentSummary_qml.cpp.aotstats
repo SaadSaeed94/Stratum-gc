@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 304,
+                            "durationMicroseconds": 153,
                             "functionName": "fill",
                             "line": 14,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 22,
                             "functionName": "factPanelController",
                             "line": 20,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 49,
                             "functionName": "fill",
                             "line": 24,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 27,
                             "functionName": "model",
                             "line": 32,
                             "message": "Cannot load property length from APMSensorParams::rgCompassAvailable with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 79,
                             "functionName": "width",
                             "line": 35,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 2881,
+                            "durationMicroseconds": 1031,
                             "functionName": "text",
                             "line": 39,
                             "message": "Cannot access value for name sensorParams"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 114,
                             "functionName": "horizontalAlignment",
                             "line": 63,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 62,
                             "functionName": "alignment",
                             "line": 64,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 62,
                             "functionName": "valueText",
                             "line": 73,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 23,
                             "functionName": "model",
                             "line": 77,
                             "message": "Cannot load property length from APMSensorParams::rgInsId with type QVariant."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 97,
                             "functionName": "right",
                             "line": 80,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 477,
+                            "durationMicroseconds": 199,
                             "functionName": "valueText",
                             "line": 86,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 18,
                             "functionName": "model",
                             "line": 90,
                             "message": "Cannot load property length from APMSensorParams::rgBaroId with type QVariant."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 78,
                             "functionName": "right",
                             "line": 93,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 521,
+                            "durationMicroseconds": 306,
                             "functionName": "telemetryFailure",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 619,
+                            "durationMicroseconds": 419,
                             "functionName": "_unhealthySensors",
                             "line": 10,
                             "message": "Cannot access value for name globals"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1229,
+                            "durationMicroseconds": 1059,
                             "functionName": "_allCheckedSensors",
                             "line": 11,
                             "message": "Cannot access value for name Vehicle"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 157,
                             "functionName": "on_UnhealthySensorsChanged",
                             "line": 19,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 2042,
+                            "durationMicroseconds": 1499,
                             "functionName": "updateTelemetryTextFailure",
                             "line": 23,
                             "message": "Cannot access value for name Vehicle"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 165,
                             "functionName": "onCompleted",
                             "line": 21,
                             "message": ""

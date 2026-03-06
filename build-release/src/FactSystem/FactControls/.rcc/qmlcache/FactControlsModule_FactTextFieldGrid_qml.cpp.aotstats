@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 11,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 65,
                             "functionName": "rows",
                             "line": 12,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml)::factList with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 11,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 176,
                             "functionName": "flow",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 105,
                             "functionName": "model",
                             "line": 16,
                             "message": "Cannot load property factList from (component in /home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml)::parent with type QQuickItem."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 1408,
+                            "durationMicroseconds": 643,
                             "functionName": "text",
                             "line": 19,
                             "message": "Cannot access value for name factLabels"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 83,
                             "functionName": "model",
                             "line": 32,
                             "message": "Cannot load property factList from (component in /home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml)::parent with type QQuickItem."

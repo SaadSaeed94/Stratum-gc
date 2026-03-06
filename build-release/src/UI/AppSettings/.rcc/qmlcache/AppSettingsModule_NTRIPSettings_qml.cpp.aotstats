@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 582,
+                            "durationMicroseconds": 370,
                             "functionName": "_settingsManager",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 38,
                             "functionName": "_ntrip",
                             "line": 11,
                             "message": "Cannot load property ntripSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/NTRIPSettings.qml)::_settingsManager with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 17,
                             "message": "Cannot access value for name _ntrip"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 590,
+                            "durationMicroseconds": 345,
                             "functionName": "visible",
                             "line": 29,
                             "message": "Cannot access value for name _ntrip"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 46,
                             "functionName": "enabled",
                             "line": 33,
                             "message": "Cannot access value for name _enabled"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 1495,
+                            "durationMicroseconds": 838,
                             "functionName": "text",
                             "line": 40,
                             "message": "Cannot access value for name NTRIPManager"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 350,
+                            "durationMicroseconds": 219,
                             "functionName": "wrapMode",
                             "line": 47,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 4527,
+                            "durationMicroseconds": 2592,
                             "functionName": "color",
                             "line": 48,
                             "message": "Cannot access value for name NTRIPManager"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 90,
                             "functionName": "label",
                             "line": 64,
                             "message": "Cannot access value for name _ntrip"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 51,
                             "functionName": "visible",
                             "line": 66,
                             "message": "Cannot access value for name _ntrip"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 10972,
+                            "durationMicroseconds": 7296,
                             "functionName": "textFieldPreferredWidth",
                             "line": 67,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 94,
                             "functionName": "label",
                             "line": 72,
                             "message": "Cannot access value for name _ntrip"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 74,
                             "message": "Cannot access value for name _ntrip"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 183,
                             "functionName": "textFieldPreferredWidth",
                             "line": 75,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 52,
                             "functionName": "label",
                             "line": 80,
                             "message": "Cannot access value for name _ntrip"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 82,
                             "message": "Cannot access value for name _ntrip"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 163,
                             "functionName": "textFieldPreferredWidth",
                             "line": 83,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 51,
                             "functionName": "label",
                             "line": 88,
                             "message": "Cannot access value for name _ntrip"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 90,
                             "message": "Cannot access value for name _ntrip"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 303,
+                            "durationMicroseconds": 153,
                             "functionName": "textFieldPreferredWidth",
                             "line": 92,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 59,
                             "functionName": "label",
                             "line": 97,
                             "message": "Cannot access value for name _ntrip"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 99,
                             "message": "Cannot access value for name _ntrip"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 163,
                             "functionName": "textFieldPreferredWidth",
                             "line": 100,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 58,
                             "functionName": "label",
                             "line": 105,
                             "message": "Cannot access value for name _ntrip"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 107,
                             "message": "Cannot access value for name _ntrip"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 153,
                             "functionName": "textFieldPreferredWidth",
                             "line": 108,
                             "message": ""

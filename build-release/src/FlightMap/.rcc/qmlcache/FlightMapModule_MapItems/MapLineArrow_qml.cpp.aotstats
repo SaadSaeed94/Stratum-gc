@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 576,
+                            "durationMicroseconds": 339,
                             "functionName": "fromCoord",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 182,
                             "functionName": "toCoord",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 98,
                             "functionName": "_map",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 535,
+                            "durationMicroseconds": 287,
                             "functionName": "_updateArrowDetails",
                             "line": 20,
                             "message": "Cannot load property isValid from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/MapLineArrow.qml)::fromCoord with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 119,
                             "functionName": "onFromCoordChanged",
                             "line": 31,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 77,
                             "functionName": "onToCoordChanged",
                             "line": 32,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 52,
                             "functionName": "x",
                             "line": 35,
                             "message": "Cannot access value for name _arrowSize"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 36,
                             "functionName": "width",
                             "line": 37,
                             "message": "Cannot access value for name _arrowSize"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 24,
                             "functionName": "height",
                             "line": 38,
                             "message": "Cannot access value for name _arrowSize"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 390,
+                            "durationMicroseconds": 221,
                             "functionName": "onPaint",
                             "line": 40,
                             "message": "Cannot access value for name arrowColor"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 34,
                             "functionName": "angle",
                             "line": 57,
                             "message": "Cannot access value for name _arrowHeading"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 42,
                             "functionName": "x",
                             "line": 55,
                             "message": "Cannot access value for name width"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 480,
+                            "durationMicroseconds": 216,
                             "functionName": "_gpsRef",
                             "line": 10,
                             "message": "Cannot load property qmlBackend from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DModel.qml)::viewer3DManager with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 797,
+                            "durationMicroseconds": 444,
                             "functionName": "_viewer3DEnabled",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 172,
                             "functionName": "rotateCamera",
                             "line": 23,
                             "message": "Cannot load property x from call to method vector2d, returning QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 6337,
+                            "durationMicroseconds": 3382,
                             "functionName": "moveCamera",
                             "line": 33,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 894,
+                            "durationMicroseconds": 482,
                             "functionName": "on_Viewer3DEnabledChanged",
                             "line": 67,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 555,
+                            "durationMicroseconds": 296,
                             "functionName": "on_GpsRefChanged",
                             "line": 75,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 143,
                             "functionName": "camera",
                             "line": 81,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 650,
+                            "durationMicroseconds": 328,
                             "functionName": "onViewer3DManagerChanged",
                             "line": 207,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 116,
                             "functionName": "backgroundMode",
                             "line": 90,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 15454,
+                            "durationMicroseconds": 8199,
                             "functionName": "width",
                             "line": 100,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 375,
+                            "durationMicroseconds": 179,
                             "functionName": "bottom",
                             "line": 96,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 135,
                             "functionName": "horizontalCenter",
                             "line": 97,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 108,
                             "functionName": "margins",
                             "line": 98,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 94,
                             "functionName": "target",
                             "line": 105,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 113,
                             "functionName": "value",
                             "line": 107,
                             "message": "Cannot load property textureDownloadProgress from QQuick3DLoader::item with type QObject."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 15,
-                            "durationMicroseconds": 387,
+                            "durationMicroseconds": 203,
                             "functionName": "when",
                             "line": 108,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 53,
                             "functionName": "textureDownloadProgress",
                             "line": 115,
                             "message": "Cannot retrieve a non-object type by ID: _terrainTextureManager"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 566,
+                            "durationMicroseconds": 293,
                             "functionName": "scale",
                             "line": 120,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 568,
+                            "durationMicroseconds": 280,
                             "functionName": "scale",
                             "line": 142,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 59,
                             "functionName": "textureData",
                             "line": 154,
                             "message": "Cannot retrieve a non-object type by ID: _terrainTextureManager"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 104,
                             "functionName": "sourceComponent",
                             "line": 180,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 615,
+                            "durationMicroseconds": 303,
                             "functionName": "model",
                             "line": 186,
                             "message": "Cannot access value for name QGroundControl"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 418,
+                            "durationMicroseconds": 240,
                             "functionName": "_vehicle",
                             "line": 189,
                             "message": "Cannot access value for name object"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 113,
                             "functionName": "_backendQml",
                             "line": 190,
                             "message": "Cannot access value for name viewer3DManager"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 21,
                             "functionName": "_planMasterController",
                             "line": 191,
                             "message": "Cannot retrieve a non-object type by ID: masterController"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 72,
                             "functionName": "onCompleted",
                             "line": 195,
                             "message": "Cannot access value for name object"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 125,
                             "functionName": "sourceComponent",
                             "line": 204,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 358,
+                            "durationMicroseconds": 188,
                             "functionName": "acceptedModifiers",
                             "line": 220,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 156,
                             "functionName": "acceptedButtons",
                             "line": 221,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 50,
                             "functionName": "enabled",
                             "line": 222,
                             "message": "Cannot access value for name isViewer3DOpen"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1140,
+                            "durationMicroseconds": 591,
                             "functionName": "onCentroidChanged",
                             "line": 224,
                             "message": "method moveCamera cannot be resolved."
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 1874,
+                            "durationMicroseconds": 981,
                             "functionName": "onActiveChanged",
                             "line": 231,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 168,
                             "functionName": "acceptedModifiers",
                             "line": 247,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 129,
                             "functionName": "acceptedButtons",
                             "line": 248,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 423,
+                            "durationMicroseconds": 229,
                             "functionName": "acceptedDevices",
                             "line": 249,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 62,
                             "functionName": "enabled",
                             "line": 250,
                             "message": "Cannot access value for name isViewer3DOpen"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1167,
+                            "durationMicroseconds": 608,
                             "functionName": "onCentroidChanged",
                             "line": 252,
                             "message": "method rotateCamera cannot be resolved."
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 1887,
+                            "durationMicroseconds": 975,
                             "functionName": "onActiveChanged",
                             "line": 259,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 84,
                             "functionName": "enabled",
                             "line": 276,
                             "message": "Cannot access value for name isViewer3DOpen"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1139,
+                            "durationMicroseconds": 612,
                             "functionName": "onCentroidChanged",
                             "line": 278,
                             "message": "method rotateCamera cannot be resolved."
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 1929,
+                            "durationMicroseconds": 1027,
                             "functionName": "onActiveChanged",
                             "line": 285,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 598,
+                            "durationMicroseconds": 324,
                             "functionName": "onActiveScaleChanged",
                             "line": 294,
                             "message": "method zoomCamera cannot be resolved."
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 174,
                             "functionName": "orientation",
                             "line": 303,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 435,
+                            "durationMicroseconds": 247,
                             "functionName": "acceptedDevices",
                             "line": 305,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 56,
                             "functionName": "enabled",
                             "line": 306,
                             "message": "Cannot access value for name isViewer3DOpen"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 404,
+                            "durationMicroseconds": 233,
                             "functionName": "onWheel",
                             "line": 308,
                             "message": "method zoomCamera cannot be resolved."
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 75,
                             "functionName": "onWheel",
                             "line": 308,
                             "message": ""

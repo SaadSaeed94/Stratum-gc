@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 993,
+                            "durationMicroseconds": 286,
                             "functionName": "compassPrimaryFactAvailable",
                             "line": 11,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 57,
                             "functionName": "compass1Primary",
                             "line": 13,
                             "message": "Cannot access value for name compassPrimaryFact"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 30,
                             "functionName": "compass2Primary",
                             "line": 14,
                             "message": "Cannot access value for name compassPrimaryFact"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 22,
                             "functionName": "compass3Primary",
                             "line": 15,
                             "message": "Cannot access value for name compassPrimaryFact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 461,
+                            "durationMicroseconds": 141,
                             "functionName": "rgCompassPrimary",
                             "line": 16,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 42,
                             "functionName": "rgCompassId",
                             "line": 21,
                             "message": "Cannot access value for name compass1Id"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 426,
+                            "durationMicroseconds": 132,
                             "functionName": "compassPrioFactsAvailable",
                             "line": 23,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 25,
                             "functionName": "rgCompassPrio",
                             "line": 27,
                             "message": "Cannot access value for name compassPrio1Fact"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 18,
                             "functionName": "compass1Available",
                             "line": 29,
                             "message": "Cannot access value for name compass1Id"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 15,
                             "functionName": "compass2Available",
                             "line": 30,
                             "message": "Cannot access value for name compass2Id"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 14,
                             "functionName": "compass3Available",
                             "line": 31,
                             "message": "Cannot access value for name compass3Id"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 421,
+                            "durationMicroseconds": 128,
                             "functionName": "rgCompassAvailable",
                             "line": 32,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 437,
+                            "durationMicroseconds": 119,
                             "functionName": "compass1RotParamAvailable",
                             "line": 34,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 369,
+                            "durationMicroseconds": 116,
                             "functionName": "compass2RotParamAvailable",
                             "line": 35,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 381,
+                            "durationMicroseconds": 112,
                             "functionName": "compass3RotParamAvailable",
                             "line": 36,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 391,
+                            "durationMicroseconds": 125,
                             "functionName": "rgCompassRotParamAvailable",
                             "line": 37,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 32,
                             "functionName": "rgCompassRotFact",
                             "line": 42,
                             "message": "Cannot access value for name compass1RotFact"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 393,
+                            "durationMicroseconds": 123,
                             "functionName": "compass1UseParamAvailable",
                             "line": 44,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 359,
+                            "durationMicroseconds": 110,
                             "functionName": "compass2UseParamAvailable",
                             "line": 45,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 359,
+                            "durationMicroseconds": 112,
                             "functionName": "compass3UseParamAvailable",
                             "line": 46,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 415,
+                            "durationMicroseconds": 124,
                             "functionName": "rgCompassUseParamAvailable",
                             "line": 47,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 30,
                             "functionName": "rgCompassUseFact",
                             "line": 52,
                             "message": "Cannot access value for name compass1UseFact"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 34,
                             "functionName": "compass1Use",
                             "line": 54,
                             "message": "Cannot access value for name compass1UseFact"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 20,
                             "functionName": "compass2Use",
                             "line": 55,
                             "message": "Cannot access value for name compass2UseFact"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 19,
                             "functionName": "compass3Use",
                             "line": 56,
                             "message": "Cannot access value for name compass3UseFact"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 401,
+                            "durationMicroseconds": 123,
                             "functionName": "compass1ExternalParamAvailable",
                             "line": 58,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 361,
+                            "durationMicroseconds": 108,
                             "functionName": "compass2ExternalParamAvailable",
                             "line": 59,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 360,
+                            "durationMicroseconds": 108,
                             "functionName": "compass3ExternalParamAvailable",
                             "line": 60,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 419,
+                            "durationMicroseconds": 135,
                             "functionName": "rgCompassExternalParamAvailable",
                             "line": 61,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 21,
                             "functionName": "compass1External",
                             "line": 67,
                             "message": "Cannot access value for name compass1ExternalFact"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 20,
                             "functionName": "compass2External",
                             "line": 68,
                             "message": "Cannot access value for name compass2ExternalFact"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 15,
                             "functionName": "compass3External",
                             "line": 69,
                             "message": "Cannot access value for name compass3ExternalFact"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 124,
                             "functionName": "rgCompassExternal",
                             "line": 70,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 75,
                             "functionName": "compass1Calibrated",
                             "line": 82,
                             "message": "Cannot access value for name compass1OfsXFact"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 61,
                             "functionName": "compass2Calibrated",
                             "line": 83,
                             "message": "Cannot access value for name compass2OfsXFact"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 57,
                             "functionName": "compass3Calibrated",
                             "line": 84,
                             "message": "Cannot access value for name compass3OfsXFact"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 454,
+                            "durationMicroseconds": 138,
                             "functionName": "rgCompassCalibrated",
                             "line": 85,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 396,
+                            "durationMicroseconds": 124,
                             "functionName": "ins1IdParamAvailable",
                             "line": 90,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 381,
+                            "durationMicroseconds": 111,
                             "functionName": "ins2IdParamAvailable",
                             "line": 91,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 120,
                             "functionName": "ins3IdParamAvailable",
                             "line": 92,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 30,
                             "functionName": "rgInsId",
                             "line": 97,
                             "message": "Cannot access value for name ins1Id"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 113,
                             "functionName": "baroIdAvailable",
                             "line": 99,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 28,
                             "functionName": "rgBaroId",
                             "line": 104,
                             "message": "Cannot access value for name baro1Id"

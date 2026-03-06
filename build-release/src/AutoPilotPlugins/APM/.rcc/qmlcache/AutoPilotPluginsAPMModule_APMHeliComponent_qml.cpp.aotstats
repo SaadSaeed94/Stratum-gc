@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 193,
                             "functionName": "pageComponent",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 87,
                             "functionName": "width",
                             "line": 18,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 111,
                             "functionName": "spacing",
                             "line": 19,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 12693,
+                            "durationMicroseconds": 4983,
                             "functionName": "_margins",
                             "line": 25,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 99,
                             "functionName": "_showIcon",
                             "line": 26,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 105,
                             "functionName": "text",
                             "line": 276,
                             "message": "Cannot access value for name _hSvMan"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 34,
                             "functionName": "text",
                             "line": 282,
                             "message": "Cannot access value for name _hSwType"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 31,
                             "functionName": "text",
                             "line": 288,
                             "message": "Cannot access value for name _hSwColDir"
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 31,
                             "functionName": "text",
                             "line": 294,
                             "message": "Cannot access value for name _hSwLinSvo"
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 30,
                             "functionName": "text",
                             "line": 300,
                             "message": "Cannot access value for name _hFlybarMode"
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 27,
                             "functionName": "text",
                             "line": 306,
                             "message": "Cannot access value for name _hCycMax"
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 309,
                             "message": "Cannot access value for name _hColMax"
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 30,
                             "functionName": "text",
                             "line": 312,
                             "message": "Cannot access value for name _hColAngMax"
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 315,
                             "message": "Cannot access value for name _hColMin"
@@ -824,7 +824,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 28,
                             "functionName": "text",
                             "line": 318,
                             "message": "Cannot access value for name _hColAngMin"
@@ -840,7 +840,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 321,
                             "message": "Cannot access value for name _hColZeroThrst"
@@ -856,7 +856,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 29,
                             "functionName": "text",
                             "line": 324,
                             "message": "Cannot access value for name _hColLandMin"
@@ -872,7 +872,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 27,
                             "functionName": "text",
                             "line": 335,
                             "message": "Cannot access value for name _hRscMode"
@@ -888,7 +888,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 28,
                             "functionName": "text",
                             "line": 341,
                             "message": "Cannot access value for name _hRscCritical"
@@ -904,7 +904,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 33,
                             "functionName": "text",
                             "line": 344,
                             "message": "Cannot access value for name _hRscRampTime"
@@ -920,7 +920,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 347,
                             "message": "Cannot access value for name _hRscRunupTime"
@@ -936,7 +936,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 564,
+                            "durationMicroseconds": 35,
                             "functionName": "text",
                             "line": 350,
                             "message": "Cannot access value for name _hRscCldwnTime"
@@ -952,7 +952,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 31,
                             "functionName": "text",
                             "line": 353,
                             "message": "Cannot access value for name _hRscSetpoint"
@@ -968,7 +968,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 41,
                             "functionName": "text",
                             "line": 356,
                             "message": "Cannot access value for name _hRscIdle"
@@ -984,7 +984,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 33,
                             "functionName": "text",
                             "line": 359,
                             "message": "Cannot access value for name _hRscThrcrv0"
@@ -1000,7 +1000,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 35,
                             "functionName": "text",
                             "line": 362,
                             "message": "Cannot access value for name _hRscThrcrv25"
@@ -1016,7 +1016,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 31,
                             "functionName": "text",
                             "line": 365,
                             "message": "Cannot access value for name _hRscThrcrv50"
@@ -1032,7 +1032,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 35,
                             "functionName": "text",
                             "line": 368,
                             "message": "Cannot access value for name _hRscThrcrv75"
@@ -1048,7 +1048,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 371,
                             "message": "Cannot access value for name _hRscThrcrv100"
@@ -1064,7 +1064,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 29,
                             "functionName": "text",
                             "line": 382,
                             "message": "Cannot access value for name _hRscGovComp"
@@ -1080,7 +1080,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 31,
                             "functionName": "text",
                             "line": 385,
                             "message": "Cannot access value for name _hRscGovDroop"
@@ -1096,7 +1096,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 33,
                             "functionName": "text",
                             "line": 388,
                             "message": "Cannot access value for name _hRscGovFf"
@@ -1112,7 +1112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 28,
                             "functionName": "text",
                             "line": 391,
                             "message": "Cannot access value for name _hRscGovRange"
@@ -1128,7 +1128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 30,
                             "functionName": "text",
                             "line": 394,
                             "message": "Cannot access value for name _hRscGovRpm"
@@ -1144,7 +1144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 28,
                             "functionName": "text",
                             "line": 397,
                             "message": "Cannot access value for name _hRscGovTorque"
@@ -1160,7 +1160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 33,
                             "functionName": "text",
                             "line": 411,
                             "message": "Cannot access value for name _imStbCol1"
@@ -1176,7 +1176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 414,
                             "message": "Cannot access value for name _imStbCol2"
@@ -1192,7 +1192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 35,
                             "functionName": "text",
                             "line": 417,
                             "message": "Cannot access value for name _imStbCol3"
@@ -1208,7 +1208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 36,
                             "functionName": "text",
                             "line": 420,
                             "message": "Cannot access value for name _imStbCol4"
@@ -1224,7 +1224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 28,
                             "functionName": "text",
                             "line": 426,
                             "message": "Cannot access value for name _hTailType"
@@ -1240,7 +1240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 432,
                             "message": "Cannot access value for name _hTailSpeed"
@@ -1256,7 +1256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 31,
                             "functionName": "text",
                             "line": 435,
                             "message": "Cannot access value for name _hGyrGain"
@@ -1272,7 +1272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 32,
                             "functionName": "text",
                             "line": 438,
                             "message": "Cannot access value for name _hGyrGainAcro"
@@ -1288,7 +1288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 39,
                             "functionName": "text",
                             "line": 441,
                             "message": "Cannot access value for name _hColYaw"

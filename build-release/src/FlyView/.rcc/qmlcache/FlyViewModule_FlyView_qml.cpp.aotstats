@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 70,
                             "functionName": "planController",
                             "line": 26,
                             "message": "Cannot retrieve a non-object type by ID: _planController"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 182,
                             "functionName": "guidedController",
                             "line": 27,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 177,
                             "functionName": "_mainWindowIsMap",
                             "line": 42,
                             "message": "Cannot load property fullState from FlyViewMap::pipState with type QQuickItem."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 324,
                             "functionName": "_isFullWindowItemDark",
                             "line": 43,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 481,
+                            "durationMicroseconds": 444,
                             "functionName": "_activeVehicle",
                             "line": 44,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 46,
+                            "durationMicroseconds": 51,
                             "functionName": "_missionController",
                             "line": 45,
                             "message": "Cannot retrieve a non-object type by ID: _planController"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 41,
                             "functionName": "_geoFenceController",
                             "line": 46,
                             "message": "Cannot retrieve a non-object type by ID: _planController"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 35,
+                            "durationMicroseconds": 40,
                             "functionName": "_rallyPointController",
                             "line": 47,
                             "message": "Cannot retrieve a non-object type by ID: _planController"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 8326,
+                            "durationMicroseconds": 7861,
                             "functionName": "_margins",
                             "line": 48,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 134,
                             "functionName": "_guidedController",
                             "line": 49,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 107,
                             "functionName": "_guidedValueSlider",
                             "line": 50,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 114,
                             "functionName": "_widgetLayer",
                             "line": 51,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 201,
                             "functionName": "_toolsMargin",
                             "line": 52,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 422,
+                            "durationMicroseconds": 390,
                             "functionName": "_centerViewport",
                             "line": 53,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 193,
                             "functionName": "_rightPanelWidth",
                             "line": 54,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 118,
                             "functionName": "_mapControl",
                             "line": 55,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 187,
                             "functionName": "_widgetMargin",
                             "line": 56,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 543,
+                            "durationMicroseconds": 502,
                             "functionName": "_pipItemZorder",
                             "line": 59,
                             "message": "Cannot access value for name QGroundControl"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 418,
+                            "durationMicroseconds": 420,
                             "functionName": "_calcCenterViewPort",
                             "line": 61,
                             "message": "Cannot access value for name toolstrip"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 175,
                             "functionName": "dropMainStatusIndicatorTool",
                             "line": 66,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 52,
                             "functionName": "onCompleted",
                             "line": 39,
                             "message": "method start cannot be resolved."
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 143,
                             "functionName": "topEdgeLeftInset",
                             "line": 72,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 84,
                             "functionName": "topEdgeCenterInset",
                             "line": 73,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 100,
                             "functionName": "topEdgeRightInset",
                             "line": 74,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 136,
                             "functionName": "leftEdgeBottomInset",
                             "line": 75,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 131,
                             "functionName": "bottomEdgeLeftInset",
                             "line": 76,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 451,
+                            "durationMicroseconds": 434,
                             "functionName": "z",
                             "line": 93,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 317,
                             "functionName": "_activeVehicle",
                             "line": 103,
                             "message": "Cannot access value for name QGroundControl"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 393,
+                            "durationMicroseconds": 342,
                             "functionName": "_hasVehicle",
                             "line": 104,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 206,
                             "functionName": "left",
                             "line": 89,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 173,
                             "functionName": "top",
                             "line": 90,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 188,
                             "functionName": "bottom",
                             "line": 91,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 183,
                             "functionName": "top",
                             "line": 127,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 251,
                             "functionName": "topMargin",
                             "line": 128,
                             "message": ""
@@ -296,129 +296,105 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 165,
                             "functionName": "horizontalCenter",
                             "line": 129,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 328,
+                            "functionName": "color",
+                            "line": 137,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 284,
                             "functionName": "opacity",
                             "line": 140,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 308,
+                            "functionName": "color",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 82,
+                            "durationMicroseconds": 134,
+                            "functionName": "type",
+                            "line": 142,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 111,
                             "functionName": "centerIn",
-                            "line": 143,
+                            "line": 145,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 205,
                             "functionName": "horizontalCenter",
-                            "line": 150,
+                            "line": 152,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 170,
                             "functionName": "bottom",
-                            "line": 151,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 128,
-                            "functionName": "pointSize",
-                            "line": 154,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 30,
-                            "durationMicroseconds": 119,
-                            "functionName": "enabled",
-                            "line": 160,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 32,
-                            "durationMicroseconds": 542,
-                            "functionName": "onClicked",
-                            "line": 161,
-                            "message": "Cannot access value for name globals"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 35,
-                            "durationMicroseconds": 91,
-                            "functionName": "fill",
-                            "line": 159,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 26,
-                            "durationMicroseconds": 232,
-                            "functionName": "opacity",
-                            "line": 173,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 39,
-                            "durationMicroseconds": 79,
-                            "functionName": "centerIn",
-                            "line": 176,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 47,
-                            "durationMicroseconds": 149,
-                            "functionName": "horizontalCenter",
-                            "line": 183,
+                            "line": 153,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
                             "durationMicroseconds": 160,
-                            "functionName": "bottom",
-                            "line": 184,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 129,
                             "functionName": "pointSize",
-                            "line": 187,
+                            "line": 156,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 159,
                             "functionName": "enabled",
-                            "line": 193,
+                            "line": 162,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 332,
+                            "functionName": "onPressed",
+                            "line": 163,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 301,
+                            "functionName": "onReleased",
+                            "line": 164,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 523,
                             "functionName": "onClicked",
-                            "line": 194,
+                            "line": 165,
                             "message": "Cannot access value for name globals"
                         },
                         {
@@ -426,159 +402,199 @@
                             "column": 35,
                             "durationMicroseconds": 105,
                             "functionName": "fill",
-                            "line": 192,
+                            "line": 161,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 291,
+                            "functionName": "color",
+                            "line": 174,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 242,
                             "functionName": "opacity",
-                            "line": 206,
+                            "line": 177,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 310,
+                            "functionName": "color",
+                            "line": 175,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 82,
+                            "durationMicroseconds": 135,
+                            "functionName": "type",
+                            "line": 179,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 106,
                             "functionName": "centerIn",
-                            "line": 209,
+                            "line": 182,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 213,
                             "functionName": "horizontalCenter",
-                            "line": 216,
+                            "line": 189,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 165,
                             "functionName": "bottom",
-                            "line": 217,
+                            "line": 190,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 152,
                             "functionName": "pointSize",
-                            "line": 220,
+                            "line": 193,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 167,
                             "functionName": "enabled",
-                            "line": 226,
+                            "line": 199,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 328,
+                            "functionName": "onPressed",
+                            "line": 200,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 293,
+                            "functionName": "onReleased",
+                            "line": 201,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 515,
+                            "durationMicroseconds": 498,
                             "functionName": "onClicked",
-                            "line": 227,
+                            "line": 202,
                             "message": "Cannot access value for name globals"
                         },
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 101,
                             "functionName": "fill",
-                            "line": 225,
+                            "line": 198,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 280,
+                            "functionName": "color",
+                            "line": 211,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 230,
                             "functionName": "opacity",
-                            "line": 239,
+                            "line": 214,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 295,
+                            "functionName": "color",
+                            "line": 212,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 82,
+                            "durationMicroseconds": 133,
+                            "functionName": "type",
+                            "line": 216,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 110,
                             "functionName": "centerIn",
-                            "line": 242,
+                            "line": 219,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 189,
                             "functionName": "horizontalCenter",
-                            "line": 248,
+                            "line": 226,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 165,
                             "functionName": "bottom",
-                            "line": 249,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 143,
-                            "functionName": "pointSize",
-                            "line": 252,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 32,
-                            "durationMicroseconds": 99,
-                            "functionName": "onClicked",
-                            "line": 260,
-                            "message": "Cannot retrieve a non-object type by ID: standoffdialog"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 35,
-                            "durationMicroseconds": 93,
-                            "functionName": "fill",
-                            "line": 257,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 39,
-                            "durationMicroseconds": 80,
-                            "functionName": "centerIn",
-                            "line": 276,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 47,
-                            "durationMicroseconds": 158,
-                            "functionName": "horizontalCenter",
-                            "line": 283,
+                            "line": 227,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
                             "durationMicroseconds": 156,
-                            "functionName": "bottom",
-                            "line": 284,
+                            "functionName": "pointSize",
+                            "line": 230,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 119,
-                            "functionName": "pointSize",
-                            "line": 287,
+                            "column": 30,
+                            "durationMicroseconds": 175,
+                            "functionName": "enabled",
+                            "line": 236,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 310,
+                            "functionName": "onPressed",
+                            "line": 237,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 284,
+                            "functionName": "onReleased",
+                            "line": 238,
                             "message": ""
                         },
                         {
@@ -586,39 +602,223 @@
                             "column": 32,
                             "durationMicroseconds": 512,
                             "functionName": "onClicked",
-                            "line": 293,
-                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                            "line": 239,
+                            "message": "Cannot access value for name globals"
                         },
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 100,
                             "functionName": "fill",
-                            "line": 292,
+                            "line": 235,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 23,
-                            "durationMicroseconds": 114,
-                            "functionName": "fillMode",
-                            "line": 305,
+                            "column": 24,
+                            "durationMicroseconds": 276,
+                            "functionName": "color",
+                            "line": 248,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 230,
+                            "functionName": "opacity",
+                            "line": 251,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 293,
+                            "functionName": "color",
+                            "line": 249,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 82,
+                            "durationMicroseconds": 127,
+                            "functionName": "type",
+                            "line": 253,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 113,
+                            "functionName": "centerIn",
+                            "line": 256,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 186,
                             "functionName": "horizontalCenter",
-                            "line": 301,
+                            "line": 262,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 181,
+                            "functionName": "bottom",
+                            "line": 263,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 149,
+                            "functionName": "pointSize",
+                            "line": 266,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 336,
+                            "functionName": "onPressed",
+                            "line": 273,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 284,
+                            "functionName": "onReleased",
+                            "line": 274,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 87,
+                            "functionName": "onClicked",
+                            "line": 275,
+                            "message": "Cannot retrieve a non-object type by ID: standoffdialog"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 147,
+                            "functionName": "fill",
+                            "line": 271,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 319,
+                            "functionName": "color",
+                            "line": 284,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 285,
+                            "functionName": "color",
+                            "line": 285,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 82,
+                            "durationMicroseconds": 130,
+                            "functionName": "type",
+                            "line": 288,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 103,
+                            "functionName": "centerIn",
+                            "line": 291,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 185,
+                            "functionName": "horizontalCenter",
+                            "line": 298,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 183,
+                            "functionName": "bottom",
+                            "line": 299,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 159,
+                            "functionName": "pointSize",
+                            "line": 302,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 345,
+                            "functionName": "onPressed",
+                            "line": 308,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 302,
+                            "functionName": "onReleased",
+                            "line": 309,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 463,
+                            "functionName": "onClicked",
+                            "line": 310,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 101,
+                            "functionName": "fill",
+                            "line": 307,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 135,
+                            "functionName": "fillMode",
+                            "line": 322,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 185,
+                            "functionName": "horizontalCenter",
+                            "line": 318,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 163,
                             "functionName": "bottom",
-                            "line": 302,
+                            "line": 319,
                             "message": ""
                         },
                         {
@@ -626,15 +826,15 @@
                             "column": 12,
                             "durationMicroseconds": 0,
                             "functionName": "z",
-                            "line": 319,
+                            "line": 336,
                             "message": "Could not find property \"z\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 132,
                             "functionName": "vehicle",
-                            "line": 321,
+                            "line": 338,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
@@ -642,15 +842,15 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 318,
+                            "line": 335,
                             "message": "Could not find property \"centerIn\"."
                         },
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 105,
                             "functionName": "fill",
-                            "line": 324,
+                            "line": 341,
                             "message": ""
                         },
                         {
@@ -658,7 +858,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "inputMethodHints",
-                            "line": 334,
+                            "line": 351,
                             "message": "Could not find property \"inputMethodHints\"."
                         },
                         {
@@ -666,7 +866,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "inputMethodHints",
-                            "line": 343,
+                            "line": 360,
                             "message": "Could not find property \"inputMethodHints\"."
                         },
                         {
@@ -674,7 +874,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "inputMethodHints",
-                            "line": 352,
+                            "line": 369,
                             "message": "Could not find property \"inputMethodHints\"."
                         },
                         {
@@ -682,7 +882,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 360,
+                            "line": 377,
                             "message": "Could not find property \"model\"."
                         },
                         {
@@ -690,7 +890,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 370,
+                            "line": 387,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
@@ -698,415 +898,415 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 414,
+                            "line": 417,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 124,
                             "functionName": "fill",
-                            "line": 436,
+                            "line": 433,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 58,
                             "functionName": "leftMargin",
-                            "line": 437,
+                            "line": 434,
                             "message": "Cannot access value for name _leftGutter"
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 34,
+                            "durationMicroseconds": 74,
                             "functionName": "planMasterController",
-                            "line": 441,
+                            "line": 438,
                             "message": "Cannot retrieve a non-object type by ID: _planController"
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 323,
                             "functionName": "rightPanelWidth",
+                            "line": 439,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 152,
+                            "functionName": "pipView",
+                            "line": 440,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 85,
+                            "functionName": "pipMode",
+                            "line": 441,
+                            "message": "Cannot access value for name _mainWindowIsMap"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 175,
+                            "functionName": "toolInsets",
                             "line": 442,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 99,
-                            "functionName": "pipView",
-                            "line": 443,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 53,
-                            "functionName": "pipMode",
-                            "line": 444,
-                            "message": "Cannot access value for name _mainWindowIsMap"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 146,
-                            "functionName": "toolInsets",
-                            "line": 445,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 182,
                             "functionName": "enabled",
-                            "line": 447,
+                            "line": 444,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 113,
                             "functionName": "pipView",
-                            "line": 452,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 117,
-                            "functionName": "item1",
-                            "line": 461,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 550,
-                            "functionName": "item2",
-                            "line": 462,
-                            "message": "Cannot access value for name QGroundControl"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 1235,
-                            "functionName": "show",
-                            "line": 463,
-                            "message": "Cannot access value for name QGroundControl"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 382,
-                            "functionName": "z",
-                            "line": 465,
-                            "message": "Cannot access value for name QGroundControl"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 48,
-                            "durationMicroseconds": 401,
-                            "functionName": "leftEdgeBottomInset",
-                            "line": 467,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 48,
-                            "durationMicroseconds": 357,
-                            "functionName": "bottomEdgeLeftInset",
-                            "line": 468,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 185,
-                            "functionName": "left",
-                            "line": 457,
+                            "line": 449,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
                             "durationMicroseconds": 152,
-                            "functionName": "bottom",
+                            "functionName": "item1",
                             "line": 458,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 57,
-                            "functionName": "margins",
+                            "durationMicroseconds": 540,
+                            "functionName": "item2",
                             "line": 459,
-                            "message": "Cannot access value for name _toolsMargin"
+                            "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 1276,
+                            "functionName": "show",
+                            "line": 460,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 418,
                             "functionName": "z",
-                            "line": 479,
-                            "message": "Cannot access value for name _fullItemZorder"
+                            "line": 462,
+                            "message": "Cannot access value for name QGroundControl"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 48,
+                            "durationMicroseconds": 370,
+                            "functionName": "leftEdgeBottomInset",
+                            "line": 464,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 48,
+                            "durationMicroseconds": 368,
+                            "functionName": "bottomEdgeLeftInset",
+                            "line": 465,
+                            "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 129,
-                            "functionName": "parentToolInsets",
-                            "line": 480,
+                            "durationMicroseconds": 202,
+                            "functionName": "left",
+                            "line": 454,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 176,
+                            "functionName": "bottom",
+                            "line": 455,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 65,
+                            "functionName": "margins",
+                            "line": 456,
+                            "message": "Cannot access value for name _toolsMargin"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 85,
+                            "functionName": "z",
+                            "line": 476,
+                            "message": "Cannot access value for name _fullItemZorder"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 135,
+                            "functionName": "parentToolInsets",
+                            "line": 477,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 46,
                             "functionName": "mapControl",
-                            "line": 481,
+                            "line": 478,
                             "message": "Cannot access value for name _mapControl"
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 507,
+                            "durationMicroseconds": 465,
                             "functionName": "visible",
-                            "line": 482,
+                            "line": 479,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 136,
                             "functionName": "isViewer3DOpen",
-                            "line": 483,
+                            "line": 480,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 170,
+                            "functionName": "top",
+                            "line": 470,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
                             "durationMicroseconds": 149,
-                            "functionName": "top",
-                            "line": 473,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 144,
                             "functionName": "bottom",
-                            "line": 474,
+                            "line": 471,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 172,
                             "functionName": "left",
-                            "line": 475,
+                            "line": 472,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 501,
+                            "durationMicroseconds": 493,
                             "functionName": "right",
-                            "line": 476,
+                            "line": 473,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 62,
                             "functionName": "margins",
-                            "line": 477,
+                            "line": 474,
                             "message": "Cannot access value for name _widgetMargin"
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 67,
                             "functionName": "topMargin",
-                            "line": 478,
+                            "line": 475,
                             "message": "Cannot access value for name _widgetMargin"
                         },
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 64,
                             "functionName": "z",
-                            "line": 489,
+                            "line": 486,
                             "message": "Cannot access value for name _fullItemZorder"
                         },
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 136,
                             "functionName": "parentToolInsets",
-                            "line": 490,
+                            "line": 487,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 34,
+                            "durationMicroseconds": 45,
                             "functionName": "mapControl",
-                            "line": 491,
+                            "line": 488,
                             "message": "Cannot access value for name _mapControl"
                         },
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 308,
                             "functionName": "visible",
-                            "line": 492,
+                            "line": 489,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 132,
                             "functionName": "fill",
-                            "line": 488,
+                            "line": 485,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 233,
                             "functionName": "z",
-                            "line": 501,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 128,
-                            "functionName": "insetsToView",
-                            "line": 502,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 197,
-                            "functionName": "top",
-                            "line": 497,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 147,
-                            "functionName": "bottom",
                             "line": 498,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 146,
-                            "functionName": "left",
+                            "durationMicroseconds": 142,
+                            "functionName": "insetsToView",
                             "line": 499,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 494,
+                            "durationMicroseconds": 558,
+                            "functionName": "top",
+                            "line": 494,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 178,
+                            "functionName": "bottom",
+                            "line": 495,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 180,
+                            "functionName": "left",
+                            "line": 496,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 490,
                             "functionName": "right",
-                            "line": 500,
+                            "line": 497,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 84,
                             "functionName": "missionController",
-                            "line": 508,
+                            "line": 505,
                             "message": "Cannot access value for name _missionController"
                         },
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 32,
+                            "durationMicroseconds": 39,
                             "functionName": "guidedValueSlider",
-                            "line": 509,
+                            "line": 506,
                             "message": "Cannot access value for name _guidedValueSlider"
                         },
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 541,
+                            "durationMicroseconds": 540,
                             "functionName": "z",
-                            "line": 518,
+                            "line": 515,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 180,
                             "functionName": "right",
+                            "line": 511,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 145,
+                            "functionName": "top",
+                            "line": 512,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 132,
+                            "functionName": "bottom",
+                            "line": 513,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 114,
+                            "functionName": "topMargin",
                             "line": 514,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 33,
-                            "durationMicroseconds": 146,
-                            "functionName": "top",
-                            "line": 515,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 33,
-                            "durationMicroseconds": 123,
-                            "functionName": "bottom",
-                            "line": 516,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 33,
-                            "durationMicroseconds": 109,
-                            "functionName": "topMargin",
-                            "line": 517,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 107,
                             "functionName": "fill",
-                            "line": 524,
+                            "line": 521,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 2903,
+                            "durationMicroseconds": 2602,
                             "functionName": "activationStartTimestamp",
-                            "line": 529,
+                            "line": 526,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 475,
+                            "durationMicroseconds": 396,
                             "functionName": "activationApproval",
-                            "line": 530,
+                            "line": 527,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 129,
                             "functionName": "flightID",
-                            "line": 531,
+                            "line": 528,
                             "message": ""
                         },
                         {
@@ -1114,47 +1314,47 @@
                             "column": 9,
                             "durationMicroseconds": 0,
                             "functionName": "onActivationTriggered",
-                            "line": 534,
+                            "line": 531,
                             "message": "Functions without type annotations won't be compiled"
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 111,
                             "functionName": "fill",
-                            "line": 532,
+                            "line": 529,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 61,
                             "functionName": "guidedValueSlider",
-                            "line": 544,
+                            "line": 541,
                             "message": "Cannot access value for name _guidedValueSlider"
                         },
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 32,
+                            "durationMicroseconds": 37,
                             "functionName": "utmspSliderTrigger",
-                            "line": 545,
+                            "line": 542,
                             "message": "Cannot access value for name utmspSendActTrigger"
                         },
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 400,
+                            "durationMicroseconds": 372,
                             "functionName": "visible",
-                            "line": 546,
+                            "line": 543,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 37,
+                            "durationMicroseconds": 48,
                             "functionName": "leftMargin",
-                            "line": 547,
+                            "line": 544,
                             "message": "Cannot access value for name _leftGutter"
                         }
                     ],

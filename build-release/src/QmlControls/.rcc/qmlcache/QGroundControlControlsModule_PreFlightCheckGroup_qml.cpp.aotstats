@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 12347,
+                            "durationMicroseconds": 7976,
                             "functionName": "spacing",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 405,
+                            "durationMicroseconds": 291,
                             "functionName": "onPassedChanged",
                             "line": 17,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PreFlightCheckGroup.qml)::parent with type QQuickItem does not have a property groupPassedChanged for calling"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 2413,
+                            "durationMicroseconds": 1360,
                             "functionName": "reset",
                             "line": 31,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1818,
+                            "durationMicroseconds": 1098,
                             "functionName": "onCompleted",
                             "line": 19,
                             "message": "Cannot access value for name _checked"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 426,
+                            "durationMicroseconds": 272,
                             "functionName": "color",
                             "line": 42,
                             "message": "Cannot access value for name failed"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 475,
+                            "durationMicroseconds": 280,
                             "functionName": "spacing",
                             "line": 47,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 96,
                             "functionName": "visible",
                             "line": 48,
                             "message": "Cannot retrieve a non-object type by ID: header"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 1865,
+                            "durationMicroseconds": 947,
                             "functionName": "buttonPassedChanged",
                             "line": 50,
                             "message": "Cannot load property passed from conversion to QVariant."

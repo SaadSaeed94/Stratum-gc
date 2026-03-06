@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 214,
                             "functionName": "spacing",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 12327,
+                            "durationMicroseconds": 7526,
                             "functionName": "_margin",
                             "line": 15,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 406,
+                            "durationMicroseconds": 222,
                             "functionName": "_fieldWidth",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1618,
+                            "durationMicroseconds": 1096,
                             "functionName": "_vehicle",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 519,
+                            "durationMicroseconds": 329,
                             "functionName": "onCompleted",
                             "line": 19,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 60,
                             "functionName": "spacing",
                             "line": 28,
                             "message": "Cannot access value for name _margin"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 71,
                             "functionName": "model",
                             "line": 33,
                             "message": "Cannot access value for name cameraCalc"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 128,
                             "functionName": "onModelChanged",
                             "line": 34,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 71,
                             "functionName": "onActivated",
                             "line": 35,
                             "message": "Cannot access value for name cameraCalc"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 69,
                             "functionName": "onActivated",
                             "line": 35,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 116,
                             "functionName": "selectCurrentBrand",
                             "line": 42,
                             "message": "Cannot access value for name cameraCalc"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 51,
                             "functionName": "target",
                             "line": 38,
                             "message": "Cannot access value for name cameraCalc"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 178,
                             "functionName": "onCameraBrandChanged",
                             "line": 39,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 74,
                             "functionName": "model",
                             "line": 50,
                             "message": "Cannot access value for name cameraCalc"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 114,
                             "functionName": "visible",
                             "line": 51,
                             "message": "Cannot access value for name cameraCalc"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 118,
                             "functionName": "onModelChanged",
                             "line": 52,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 69,
                             "functionName": "onActivated",
                             "line": 53,
                             "message": "Cannot access value for name cameraCalc"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 77,
                             "functionName": "onActivated",
                             "line": 53,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 97,
                             "functionName": "selectCurrentModel",
                             "line": 60,
                             "message": "Cannot access value for name cameraCalc"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 45,
                             "functionName": "target",
                             "line": 56,
                             "message": "Cannot access value for name cameraCalc"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 163,
                             "functionName": "onCameraModelChanged",
                             "line": 57,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 51,
                             "functionName": "spacing",
                             "line": 68,
                             "message": "Cannot access value for name _margin"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 69,
                             "message": "Cannot access value for name cameraCalc"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 46,
                             "functionName": "spacing",
                             "line": 73,
                             "message": "Cannot access value for name _margin"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 60,
                             "functionName": "visible",
                             "line": 74,
                             "message": "Cannot access value for name cameraCalc"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 157,
                             "functionName": "alignment",
                             "line": 72,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 56,
                             "functionName": "spacing",
                             "line": 95,
                             "message": "Cannot access value for name _margin"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 53,
                             "functionName": "enabled",
                             "line": 96,
                             "message": "Cannot access value for name cameraCalc"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 43,
                             "functionName": "spacing",
                             "line": 100,
                             "message": "Cannot access value for name _margin"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 594,
+                            "durationMicroseconds": 411,
                             "functionName": "preferredWidth",
                             "line": 104,
                             "message": "Cannot access value for name _root"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 548,
+                            "durationMicroseconds": 333,
                             "functionName": "preferredWidth",
                             "line": 108,
                             "message": "Cannot access value for name _root"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 48,
                             "functionName": "spacing",
                             "line": 115,
                             "message": "Cannot access value for name _margin"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 99,
                             "functionName": "preferredWidth",
                             "line": 119,
                             "message": "Cannot access value for name _root"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 86,
                             "functionName": "preferredWidth",
                             "line": 123,
                             "message": "Cannot access value for name _root"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 45,
                             "functionName": "spacing",
                             "line": 130,
                             "message": "Cannot access value for name _margin"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 99,
                             "functionName": "preferredWidth",
                             "line": 134,
                             "message": "Cannot access value for name _root"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 87,
                             "functionName": "preferredWidth",
                             "line": 138,
                             "message": "Cannot access value for name _root"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 49,
                             "functionName": "spacing",
                             "line": 145,
                             "message": "Cannot access value for name _margin"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 88,
                             "functionName": "preferredWidth",
                             "line": 151,
                             "message": "Cannot access value for name _root"

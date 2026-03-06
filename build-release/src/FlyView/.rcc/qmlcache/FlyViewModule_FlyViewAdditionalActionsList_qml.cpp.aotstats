@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 609,
+                            "durationMicroseconds": 400,
                             "functionName": "anyActionAvailable",
                             "line": 6,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewAdditionalActionsList.qml)::model with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 607,
+                            "durationMicroseconds": 352,
                             "functionName": "model",
                             "line": 15,
                             "message": "Cannot load property startMissionTitle from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewAdditionalActionsList.qml)::guidedController with type QVariant."

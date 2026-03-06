@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 397,
+                            "durationMicroseconds": 254,
                             "functionName": "height",
                             "line": 26,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 107,
                             "functionName": "width",
                             "line": 27,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 332,
+                            "durationMicroseconds": 138,
                             "functionName": "left",
                             "line": 23,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 96,
                             "functionName": "verticalCenter",
                             "line": 24,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 162,
                             "functionName": "leftMargin",
                             "line": 25,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 142,
                             "functionName": "textColor",
                             "line": 36,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 127,
                             "functionName": "textColor",
                             "line": 43,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 297,
+                            "durationMicroseconds": 120,
                             "functionName": "textColor",
                             "line": 50,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 118,
                             "functionName": "textColor",
                             "line": 57,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 122,
                             "functionName": "textColor",
                             "line": 64,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 116,
                             "functionName": "textColor",
                             "line": 71,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 124,
                             "functionName": "textColor",
                             "line": 78,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 105,
                             "functionName": "textColor",
                             "line": 85,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 380,
+                            "durationMicroseconds": 155,
                             "functionName": "textColor",
                             "line": 92,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 216,
+                            "durationMicroseconds": 97,
                             "functionName": "height",
                             "line": 104,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 48,
                             "functionName": "width",
                             "line": 105,
                             "message": "Cannot access value for name _linethickness"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 117,
                             "functionName": "top",
                             "line": 101,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 104,
                             "functionName": "left",
                             "line": 102,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 44,
                             "functionName": "leftMargin",
                             "line": 103,
                             "message": "Cannot access value for name insetsToView"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 86,
                             "functionName": "height",
                             "line": 113,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 30,
                             "functionName": "width",
                             "line": 114,
                             "message": "Cannot access value for name _linethickness"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 278,
+                            "durationMicroseconds": 121,
                             "functionName": "top",
                             "line": 110,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 113,
                             "functionName": "left",
                             "line": 111,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 40,
                             "functionName": "leftMargin",
                             "line": 112,
                             "message": "Cannot access value for name insetsToView"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 95,
                             "functionName": "height",
                             "line": 122,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 28,
                             "functionName": "width",
                             "line": 123,
                             "message": "Cannot access value for name _linethickness"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 130,
                             "functionName": "top",
                             "line": 119,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 117,
                             "functionName": "right",
                             "line": 120,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 40,
                             "functionName": "rightMargin",
                             "line": 121,
                             "message": "Cannot access value for name insetsToView"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 108,
                             "functionName": "height",
                             "line": 131,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 29,
                             "functionName": "width",
                             "line": 132,
                             "message": "Cannot access value for name _linethickness"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 136,
                             "functionName": "top",
                             "line": 128,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 114,
                             "functionName": "right",
                             "line": 129,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 38,
                             "functionName": "rightMargin",
                             "line": 130,
                             "message": "Cannot access value for name insetsToView"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 28,
                             "functionName": "height",
                             "line": 140,
                             "message": "Cannot access value for name _linethickness"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 101,
                             "functionName": "width",
                             "line": 141,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 127,
                             "functionName": "top",
                             "line": 137,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 108,
                             "functionName": "left",
                             "line": 138,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 38,
                             "functionName": "topMargin",
                             "line": 139,
                             "message": "Cannot access value for name insetsToView"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 30,
                             "functionName": "height",
                             "line": 149,
                             "message": "Cannot access value for name _linethickness"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 111,
                             "functionName": "width",
                             "line": 150,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 131,
                             "functionName": "top",
                             "line": 146,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 120,
                             "functionName": "left",
                             "line": 147,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 44,
                             "functionName": "topMargin",
                             "line": 148,
                             "message": "Cannot access value for name insetsToView"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 28,
                             "functionName": "height",
                             "line": 158,
                             "message": "Cannot access value for name _linethickness"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 104,
                             "functionName": "width",
                             "line": 159,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 159,
                             "functionName": "bottom",
                             "line": 155,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 127,
                             "functionName": "left",
                             "line": 156,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 46,
                             "functionName": "bottomMargin",
                             "line": 157,
                             "message": "Cannot access value for name insetsToView"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 31,
                             "functionName": "height",
                             "line": 167,
                             "message": "Cannot access value for name _linethickness"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 106,
                             "functionName": "width",
                             "line": 168,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 129,
                             "functionName": "bottom",
                             "line": 164,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 122,
                             "functionName": "left",
                             "line": 165,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 40,
                             "functionName": "bottomMargin",
                             "line": 166,
                             "message": "Cannot access value for name insetsToView"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 40,
                             "functionName": "x",
                             "line": 173,
                             "message": "Cannot access value for name insetsToView"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 32,
                             "functionName": "y",
                             "line": 174,
                             "message": "Cannot access value for name insetsToView"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 101,
                             "functionName": "width",
                             "line": 175,
                             "message": "Cannot access value for name insetsToView"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 85,
                             "functionName": "height",
                             "line": 176,
                             "message": "Cannot access value for name insetsToView"

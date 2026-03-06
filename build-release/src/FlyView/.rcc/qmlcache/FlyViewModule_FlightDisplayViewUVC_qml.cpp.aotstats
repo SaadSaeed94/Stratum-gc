@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 369,
+                            "durationMicroseconds": 259,
                             "functionName": "width",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 120,
                             "functionName": "height",
                             "line": 9,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 567,
+                            "durationMicroseconds": 353,
                             "functionName": "color",
                             "line": 10,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 13,
                             "message": "Cannot load property isUvc from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlightDisplayViewUVC.qml)::_videoManager with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 533,
+                            "durationMicroseconds": 319,
                             "functionName": "_videoManager",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 2183,
+                            "durationMicroseconds": 1567,
                             "functionName": "adjustAspectRatio",
                             "line": 17,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 104,
                             "functionName": "centerIn",
                             "line": 12,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 86,
                             "functionName": "videoOutput",
                             "line": 58,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 106,
                             "functionName": "cameraDevice",
                             "line": 43,
                             "message": "Cannot access value for name _videoManager"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 39,
                             "functionName": "active",
                             "line": 44,
                             "message": "Cannot access value for name _videoManager"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 451,
+                            "durationMicroseconds": 272,
                             "functionName": "onCameraDeviceChanged",
                             "line": 46,
                             "message": "method adjustAspectRatio cannot be resolved."
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 410,
+                            "durationMicroseconds": 257,
                             "functionName": "onActiveChanged",
                             "line": 52,
                             "message": "method adjustAspectRatio cannot be resolved."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 139,
                             "functionName": "fillMode",
                             "line": 64,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 82,
                             "functionName": "fill",
                             "line": 63,
                             "message": ""

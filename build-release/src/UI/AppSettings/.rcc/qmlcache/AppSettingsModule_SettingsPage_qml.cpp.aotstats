@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 182,
                             "functionName": "contentWidth",
                             "line": 17,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 88,
                             "functionName": "contentHeight",
                             "line": 18,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 61,
                             "functionName": "fill",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 671,
+                            "durationMicroseconds": 316,
                             "functionName": "x",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 11761,
+                            "durationMicroseconds": 5250,
                             "functionName": "width",
                             "line": 23,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 84,
                             "functionName": "spacing",
                             "line": 24,
                             "message": ""

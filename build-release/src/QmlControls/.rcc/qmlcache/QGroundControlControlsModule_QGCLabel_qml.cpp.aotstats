@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 106,
                             "functionName": "color",
                             "line": 10,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 17497,
+                            "durationMicroseconds": 10769,
                             "functionName": "pointSize",
                             "line": 8,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 131,
                             "functionName": "family",
                             "line": 9,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 397,
+                            "durationMicroseconds": 223,
                             "functionName": "showText",
                             "line": 8,
                             "message": "Cannot load property _showText from ."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 180,
                             "functionName": "fill",
                             "line": 7,
                             "message": ""

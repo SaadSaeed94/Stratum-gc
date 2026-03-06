@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 1522,
+                            "durationMicroseconds": 894,
                             "functionName": "isSatelliteMap",
                             "line": 19,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 968,
+                            "durationMicroseconds": 641,
                             "functionName": "gcsPosition",
                             "line": 20,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 807,
+                            "durationMicroseconds": 555,
                             "functionName": "gcsHeading",
                             "line": 21,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 754,
+                            "durationMicroseconds": 527,
                             "functionName": "_activeVehicle",
                             "line": 28,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 132,
                             "functionName": "_activeVehicleCoordinate",
                             "line": 29,
                             "message": "Cannot load property coordinate from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/FlightMap.qml)::_activeVehicle with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 843,
+                            "durationMicroseconds": 630,
                             "functionName": "_possiblyCenterToVehiclePosition",
                             "line": 44,
                             "message": "Cannot load property isValid from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/FlightMap.qml)::_activeVehicleCoordinate with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 773,
+                            "durationMicroseconds": 537,
                             "functionName": "centerToSpecifiedLocation",
                             "line": 52,
                             "message": "Cannot access value for name mainWindow"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 1380,
+                            "durationMicroseconds": 879,
                             "functionName": "onGcsPositionChanged",
                             "line": 66,
                             "message": "Cannot load property isValid from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/FlightMap.qml)::gcsPosition with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 3808,
+                            "durationMicroseconds": 2495,
                             "functionName": "updateActiveMapType",
                             "line": 76,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 142,
                             "functionName": "on_ActiveVehicleCoordinateChanged",
                             "line": 88,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 445,
+                            "durationMicroseconds": 284,
                             "functionName": "onMapReadyChanged",
                             "line": 90,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 78,
                             "functionName": "onCoordinateChanged",
                             "line": 61,
                             "message": "Cannot access value for name coordinate"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 117,
                             "functionName": "target",
                             "line": 98,
                             "message": "Cannot access value for name QGroundControl"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 93,
                             "functionName": "onRawValueChanged",
                             "line": 99,
                             "message": "method updateActiveMapType cannot be resolved."
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 115,
                             "functionName": "target",
                             "line": 103,
                             "message": "Cannot access value for name QGroundControl"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 91,
                             "functionName": "onRawValueChanged",
                             "line": 104,
                             "message": "method updateActiveMapType cannot be resolved."
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 1076,
+                            "durationMicroseconds": 645,
                             "functionName": "onActiveChanged",
                             "line": 119,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 69,
                             "functionName": "onScaleChanged",
                             "line": 124,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 1719,
+                            "durationMicroseconds": 1080,
                             "functionName": "acceptedDevices",
                             "line": 135,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 160,
                             "functionName": "rotationScale",
                             "line": 137,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 144,
                             "functionName": "onPressed",
                             "line": 157,
                             "message": "Cannot load property x from conversion to QVariant."
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 80,
                             "functionName": "onPressed",
                             "line": 157,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 631,
+                            "durationMicroseconds": 410,
                             "functionName": "onGestureStarted",
                             "line": 165,
                             "message": "method mapPanStart cannot be resolved."
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 75,
                             "functionName": "onGestureStarted",
                             "line": 165,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 852,
+                            "durationMicroseconds": 581,
                             "functionName": "onUpdated",
                             "line": 171,
                             "message": "Cannot load property x from conversion to QVariant."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 90,
                             "functionName": "onUpdated",
                             "line": 171,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 1550,
+                            "durationMicroseconds": 1033,
                             "functionName": "onReleased",
                             "line": 183,
                             "message": "Cannot load property x from conversion to QVariant."
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 85,
                             "functionName": "onReleased",
                             "line": 183,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 113,
                             "functionName": "fill",
                             "line": 147,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 734,
+                            "durationMicroseconds": 413,
                             "functionName": "onTriggered",
                             "line": 201,
                             "message": "method mapPressAndHold cannot be resolved."
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 306,
+                            "durationMicroseconds": 197,
                             "functionName": "acceptedButtons",
                             "line": 212,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 978,
+                            "durationMicroseconds": 619,
                             "functionName": "onPressed",
                             "line": 215,
                             "message": "method mapRightClicked cannot be resolved."
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 74,
                             "functionName": "onPressed",
                             "line": 215,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 103,
                             "functionName": "fill",
                             "line": 211,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 69,
                             "functionName": "visible",
                             "line": 226,
                             "message": "Cannot access value for name gcsPosition"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 36,
                             "functionName": "coordinate",
                             "line": 227,
                             "message": "Cannot access value for name gcsPosition"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 370,
+                            "durationMicroseconds": 223,
                             "functionName": "x",
                             "line": 224,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 315,
+                            "durationMicroseconds": 227,
                             "functionName": "y",
                             "line": 225,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 114,
                             "functionName": "source",
                             "line": 231,
                             "message": "Cannot access value for name gcsHeading"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 144,
                             "functionName": "fillMode",
                             "line": 234,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 12003,
+                            "durationMicroseconds": 7926,
                             "functionName": "height",
                             "line": 235,
                             "message": "Cannot access value for name gcsHeading"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 155,
                             "functionName": "height",
                             "line": 236,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 154,
                             "functionName": "angle",
                             "line": 240,
                             "message": "Cannot access value for name gcsHeading"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 385,
+                            "durationMicroseconds": 237,
                             "functionName": "x",
                             "line": 238,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 310,
+                            "durationMicroseconds": 206,
                             "functionName": "y",
                             "line": 239,
                             "message": ""

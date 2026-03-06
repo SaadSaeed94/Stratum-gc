@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 122,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 50,
                             "functionName": "fill",
                             "line": 22,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 428,
+                            "durationMicroseconds": 145,
                             "functionName": "valueText",
                             "line": 26,
                             "message": "Cannot access value for name mapRollFact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 104,
                             "functionName": "valueText",
                             "line": 31,
                             "message": "Cannot access value for name mapPitchFact"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 102,
                             "functionName": "valueText",
                             "line": 36,
                             "message": "Cannot access value for name mapYawFact"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 116,
                             "functionName": "valueText",
                             "line": 41,
                             "message": "Cannot access value for name mapThrottleFact"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 104,
                             "functionName": "valueText",
                             "line": 46,
                             "message": "Cannot access value for name mapFlapsFact"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 36,
                             "functionName": "visible",
                             "line": 47,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 98,
                             "functionName": "valueText",
                             "line": 52,
                             "message": "Cannot access value for name mapAux1Fact"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 95,
                             "functionName": "valueText",
                             "line": 57,
                             "message": "Cannot access value for name mapAux2Fact"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 85,
                             "functionName": "interactive",
                             "line": 17,
                             "message": "Cannot load property interactive from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml)::mapPolyline with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 163,
                             "functionName": "_instructionText",
                             "line": 23,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 420,
                             "functionName": "_zorderDragHandle",
                             "line": 24,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 513,
+                            "durationMicroseconds": 382,
                             "functionName": "_zorderSplitHandle",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 133,
                             "functionName": "_savedVertices",
                             "line": 26,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 752,
+                            "durationMicroseconds": 531,
                             "functionName": "_addCommonVisuals",
                             "line": 31,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 877,
+                            "durationMicroseconds": 613,
                             "functionName": "_addInteractiveVisuals",
                             "line": 37,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 423,
+                            "durationMicroseconds": 326,
                             "functionName": "_defaultPolylineVertices",
                             "line": 44,
                             "message": "Cannot load property centerViewport from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml)::mapControl with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 997,
+                            "durationMicroseconds": 719,
                             "functionName": "_resetPolyline",
                             "line": 53,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 599,
+                            "durationMicroseconds": 416,
                             "functionName": "_saveCurrentVertices",
                             "line": 62,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml)::mapPolyline with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 786,
+                            "durationMicroseconds": 593,
                             "functionName": "_restorePreviousVertices",
                             "line": 69,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml)::_savedVertices with type QVariant."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 582,
+                            "durationMicroseconds": 424,
                             "functionName": "onInteractiveChanged",
                             "line": 78,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 65,
                             "functionName": "target",
                             "line": 87,
                             "message": "Cannot access value for name mapPolyline"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 374,
+                            "durationMicroseconds": 263,
                             "functionName": "onCompleted",
                             "line": 99,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 43,
                             "functionName": "onDestruction",
                             "line": 105,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml)::mapPolyline with type QVariant does not have a property traceMode for writing"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 750,
+                            "durationMicroseconds": 530,
                             "functionName": "onAcceptedForLoad",
                             "line": 117,
                             "message": "Cannot access value for name mapPolyline"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 86,
                             "functionName": "onAcceptedForLoad",
                             "line": 117,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 148,
                             "functionName": "onCoordinateChanged",
                             "line": 150,
                             "message": "Cannot access value for name mapPolyline"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 67,
                             "functionName": "path",
                             "line": 160,
                             "message": "Cannot access value for name mapPolyline"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 48,
                             "functionName": "visible",
                             "line": 161,
                             "message": "Cannot access value for name _root"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 43,
                             "functionName": "opacity",
                             "line": 162,
                             "message": "Cannot access value for name _root"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 42,
                             "functionName": "width",
                             "line": 158,
                             "message": "Cannot access value for name lineWidth"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 35,
                             "functionName": "color",
                             "line": 159,
                             "message": "Cannot access value for name lineColor"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 41,
                             "functionName": "z",
                             "line": 173,
                             "message": "Cannot access value for name _zorderSplitHandle"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 49,
                             "functionName": "opacity",
                             "line": 174,
                             "message": "Cannot access value for name _root"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 381,
+                            "durationMicroseconds": 281,
                             "functionName": "x",
                             "line": 171,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 314,
+                            "durationMicroseconds": 213,
                             "functionName": "y",
                             "line": 172,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 90,
                             "functionName": "onClicked",
                             "line": 179,
                             "message": "Cannot access value for name mapPolyline"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 54,
                             "functionName": "model",
                             "line": 188,
                             "message": "Cannot access value for name mapPolyline"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 60,
                             "functionName": "_vertices",
                             "line": 192,
                             "message": "Cannot access value for name mapPolyline"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 59,
                             "functionName": "opacity",
                             "line": 194,
                             "message": "Cannot access value for name _root"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 394,
+                            "durationMicroseconds": 282,
                             "functionName": "_setHandlePosition",
                             "line": 196,
                             "message": "Cannot access value for name index"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 499,
+                            "durationMicroseconds": 347,
                             "functionName": "onCompleted",
                             "line": 203,
                             "message": "Cannot access value for name index"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 439,
+                            "durationMicroseconds": 341,
                             "functionName": "onDestruction",
                             "line": 212,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 70,
                             "functionName": "mapControl",
                             "line": 226,
                             "message": "Cannot access value for name _root"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 40,
                             "functionName": "z",
                             "line": 228,
                             "message": "Cannot access value for name _zorderDragHandle"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 43,
                             "functionName": "opacity",
                             "line": 229,
                             "message": "Cannot access value for name _root"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 129,
                             "functionName": "onItemCoordinateChanged",
                             "line": 237,
                             "message": "Cannot access value for name mapPolyline"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 59,
                             "functionName": "onClicked",
                             "line": 244,
                             "message": "Cannot access value for name menu"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 141,
                             "functionName": "onCompleted",
                             "line": 235,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 53,
                             "functionName": "z",
                             "line": 258,
                             "message": "Cannot access value for name _zorderDragHandle"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 46,
                             "functionName": "opacity",
                             "line": 259,
                             "message": "Cannot access value for name _root"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 381,
+                            "durationMicroseconds": 260,
                             "functionName": "x",
                             "line": 256,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 225,
                             "functionName": "y",
                             "line": 257,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 11213,
+                            "durationMicroseconds": 7844,
                             "functionName": "width",
                             "line": 265,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 111,
                             "functionName": "height",
                             "line": 266,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 152,
                             "functionName": "radius",
                             "line": 267,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 363,
                             "functionName": "color",
                             "line": 268,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 493,
+                            "durationMicroseconds": 331,
                             "functionName": "color",
                             "line": 269,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 83,
                             "functionName": "model",
                             "line": 280,
                             "message": "Cannot access value for name mapPolyline"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 111,
                             "functionName": "_visuals",
                             "line": 283,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 61,
                             "functionName": "opacity",
                             "line": 285,
                             "message": "Cannot access value for name _root"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 831,
+                            "durationMicroseconds": 578,
                             "functionName": "onCompleted",
                             "line": 287,
                             "message": "Cannot access value for name dragHandleComponent"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 589,
+                            "durationMicroseconds": 446,
                             "functionName": "onDestruction",
                             "line": 298,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml)::_visuals with type QVariant."
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 81,
                             "functionName": "y",
                             "line": 314,
                             "message": "Cannot access value for name mapControl"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 479,
+                            "durationMicroseconds": 318,
                             "functionName": "z",
                             "line": 315,
                             "message": "Cannot access value for name QGroundControl"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 79,
                             "functionName": "availableWidth",
                             "line": 316,
                             "message": "Cannot access value for name mapControl"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 57,
                             "functionName": "horizontalCenter",
                             "line": 312,
                             "message": "Cannot access value for name mapControl"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 105,
                             "functionName": "horizontalCenterOffset",
                             "line": 313,
                             "message": "Cannot access value for name mapControl"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 637,
+                            "durationMicroseconds": 481,
                             "functionName": "z",
                             "line": 358,
                             "message": "Cannot access value for name QGroundControl"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 547,
+                            "durationMicroseconds": 399,
                             "functionName": "onClicked",
                             "line": 360,
                             "message": "Cannot access value for name _root"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 96,
                             "functionName": "onClicked",
                             "line": 360,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 52,
                             "functionName": "fill",
                             "line": 356,
                             "message": "Cannot access value for name mapControl"

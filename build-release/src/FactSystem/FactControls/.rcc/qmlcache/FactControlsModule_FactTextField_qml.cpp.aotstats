@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 85,
                             "functionName": "unitsLabel",
                             "line": 11,
                             "message": "Cannot access value for name fact"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 35,
                             "functionName": "numericValuesOnly",
                             "line": 14,
                             "message": "Cannot access value for name fact"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 548,
+                            "durationMicroseconds": 209,
                             "functionName": "_onEditingFinished",
                             "line": 22,
                             "message": "Cannot access value for name fact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 95,
                             "functionName": "onHelpClicked",
                             "line": 33,
                             "message": "Cannot access value for name mainWindow"

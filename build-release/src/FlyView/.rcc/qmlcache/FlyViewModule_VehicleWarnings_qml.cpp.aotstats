@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 402,
+                            "durationMicroseconds": 263,
                             "functionName": "height",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 109,
                             "functionName": "width",
                             "line": 9,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 539,
+                            "durationMicroseconds": 329,
                             "functionName": "color",
                             "line": 10,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 11738,
+                            "durationMicroseconds": 7127,
                             "functionName": "radius",
                             "line": 11,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 289,
+                            "durationMicroseconds": 165,
                             "functionName": "visible",
                             "line": 12,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 577,
+                            "durationMicroseconds": 325,
                             "functionName": "_activeVehicle",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 75,
                             "functionName": "_noGPSLockVisible",
                             "line": 15,
                             "message": "Cannot load property requiresGpsFix from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/VehicleWarnings.qml)::_activeVehicle with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 81,
                             "functionName": "_prearmErrorVisible",
                             "line": 16,
                             "message": "Cannot load property armed from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/VehicleWarnings.qml)::_activeVehicle with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 152,
                             "functionName": "margins",
                             "line": 7,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 108,
                             "functionName": "spacing",
                             "line": 20,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 47,
                             "functionName": "visible",
                             "line": 24,
                             "message": "Cannot access value for name _noGPSLockVisible"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 137,
                             "functionName": "horizontalCenter",
                             "line": 23,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 104,
                             "functionName": "pointSize",
                             "line": 26,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 49,
                             "functionName": "visible",
                             "line": 32,
                             "message": "Cannot access value for name _prearmErrorVisible"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 88,
                             "functionName": "text",
                             "line": 35,
                             "message": "Cannot access value for name _activeVehicle"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 147,
                             "functionName": "horizontalCenter",
                             "line": 31,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 104,
                             "functionName": "pointSize",
                             "line": 34,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 35,
                             "functionName": "visible",
                             "line": 40,
                             "message": "Cannot access value for name _prearmErrorVisible"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 163,
                             "functionName": "width",
                             "line": 41,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 108,
                             "functionName": "horizontalAlignment",
                             "line": 42,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 80,
                             "functionName": "wrapMode",
                             "line": 43,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 122,
                             "functionName": "horizontalCenter",
                             "line": 39,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 103,
                             "functionName": "pointSize",
                             "line": 45,
                             "message": ""

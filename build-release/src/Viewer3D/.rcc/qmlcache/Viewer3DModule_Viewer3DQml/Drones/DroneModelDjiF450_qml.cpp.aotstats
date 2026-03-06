@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 826,
+                            "durationMicroseconds": 438,
                             "functionName": "gpsRef",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 73,
                             "functionName": "roll",
                             "line": 13,
                             "message": "Cannot load property roll from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/DroneModelDjiF450.qml)::vehicle with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 39,
                             "functionName": "pitch",
                             "line": 14,
                             "message": "Cannot load property pitch from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/DroneModelDjiF450.qml)::vehicle with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 37,
                             "functionName": "heading",
                             "line": 15,
                             "message": "Cannot load property heading from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/DroneModelDjiF450.qml)::vehicle with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 106,
                             "functionName": "pose_y",
                             "line": 17,
                             "message": "Cannot retrieve a non-object type by ID: geo2Enu"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 85,
                             "functionName": "pose_z",
                             "line": 18,
                             "message": "Cannot load property altitudeRelative from (component in /home/saad-saeed/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/DroneModelDjiF450.qml)::vehicle with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 89,
                             "functionName": "pose_x",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: geo2Enu"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 15,
-                            "durationMicroseconds": 1102,
+                            "durationMicroseconds": 598,
                             "functionName": "rotation",
                             "line": 56,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method fromEulerAngles, returning QQuaternion -> call to method fromEulerAngles, returning QQuaternion"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 95,
                             "functionName": "text",
                             "line": 38,
                             "message": "Cannot access value for name vehicle"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 39,
                             "functionName": "duration",
                             "line": 63,
                             "message": "Cannot access value for name _angleAnimationDuration"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 124,
                             "functionName": "type",
                             "line": 60,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 12,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 112,
                             "functionName": "x",
                             "line": 68,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 12,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 101,
                             "functionName": "y",
                             "line": 69,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 12,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 90,
                             "functionName": "z",
                             "line": 70,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 40,
                             "functionName": "duration",
                             "line": 77,
                             "message": "Cannot access value for name _poseAnimationDuration"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 98,
                             "functionName": "type",
                             "line": 74,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 32,
                             "functionName": "duration",
                             "line": 86,
                             "message": "Cannot access value for name _poseAnimationDuration"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 88,
                             "functionName": "type",
                             "line": 83,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 31,
                             "functionName": "duration",
                             "line": 95,
                             "message": "Cannot access value for name _poseAnimationDuration"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 86,
                             "functionName": "type",
                             "line": 92,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 1271,
+                            "durationMicroseconds": 670,
                             "functionName": "rotation",
                             "line": 105,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method fromEulerAngles, returning QQuaternion -> call to method fromEulerAngles, returning QQuaternion"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 47,
                             "functionName": "duration",
                             "line": 112,
                             "message": "Cannot access value for name _angleAnimationDuration"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 100,
                             "functionName": "type",
                             "line": 109,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 560,
+                            "durationMicroseconds": 266,
                             "functionName": "eulerRotation",
                             "line": 124,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 869,
+                            "durationMicroseconds": 270,
                             "functionName": "position",
                             "line": 126,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 536,
+                            "durationMicroseconds": 251,
                             "functionName": "eulerRotation",
                             "line": 127,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 115,
                             "functionName": "flightMode",
                             "line": 170,
                             "message": "Cannot access value for name vehicle"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 87,
                             "functionName": "flightMode",
                             "line": 173,
                             "message": "Cannot access value for name vehicle"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 83,
                             "functionName": "flightMode",
                             "line": 177,
                             "message": "Cannot access value for name vehicle"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 86,
                             "functionName": "flightMode",
                             "line": 181,
                             "message": "Cannot access value for name vehicle"

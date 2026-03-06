@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 88,
                             "functionName": "_batt2MonitorAvailable",
                             "line": 15,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 33,
                             "functionName": "_batt1MonitorEnabled",
                             "line": 16,
                             "message": "Cannot access value for name _batt1Monitor"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 38,
                             "functionName": "_batt2MonitorEnabled",
                             "line": 17,
                             "message": "Cannot access value for name _batt2Monitor"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 26,
                             "functionName": "_battCapacityAvailable",
                             "line": 20,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 119,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 364,
+                            "durationMicroseconds": 59,
                             "functionName": "fill",
                             "line": 23,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 49,
                             "functionName": "valueText",
                             "line": 27,
                             "message": "Cannot access value for name _batt1Monitor"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 104,
                             "functionName": "valueText",
                             "line": 32,
                             "message": "Cannot access value for name _batt1MonitorEnabled"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 21,
                             "functionName": "visible",
                             "line": 33,
                             "message": "Cannot access value for name _batt1MonitorEnabled"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 61,
                             "functionName": "valueText",
                             "line": 38,
                             "message": "Cannot access value for name _batt2MonitorAvailable"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 19,
                             "functionName": "visible",
                             "line": 39,
                             "message": "Cannot access value for name _batt2MonitorAvailable"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 86,
                             "functionName": "valueText",
                             "line": 44,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 19,
                             "functionName": "visible",
                             "line": 45,
                             "message": "Cannot access value for name _batt2MonitorEnabled"

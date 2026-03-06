@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 11518,
+                            "durationMicroseconds": 6995,
                             "functionName": "spacing",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 172,
                             "functionName": "wrapMode",
                             "line": 21,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 127,
                             "functionName": "preferredWidth",
                             "line": 20,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 122,
                             "functionName": "spacing",
                             "line": 27,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 97,
                             "functionName": "_assignedButtonModel",
                             "line": 30,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 2171,
+                            "durationMicroseconds": 1387,
                             "functionName": "_rebuildAssignedButtonModel",
                             "line": 32,
                             "message": "Cannot access value for name joystick"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 156,
                             "functionName": "onCompleted",
                             "line": 42,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 51,
                             "functionName": "target",
                             "line": 43,
                             "message": "Cannot access value for name joystick"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 166,
                             "functionName": "onButtonActionsChanged",
                             "line": 43,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 56,
                             "functionName": "model",
                             "line": 51,
                             "message": "Cannot access value for name joystick"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 172,
                             "functionName": "onActivated",
                             "line": 53,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 57,
                             "functionName": "onActivated",
                             "line": 53,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 70,
                             "functionName": "model",
                             "line": 58,
                             "message": "Cannot access value for name joystick"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 95,
                             "functionName": "onActivated",
                             "line": 61,
                             "message": "Cannot access value for name joystick"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 65,
                             "functionName": "onActivated",
                             "line": 61,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 140,
                             "functionName": "_findCurrentButtonAction",
                             "line": 63,
                             "message": "Cannot access value for name joystick"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 114,
                             "functionName": "onCompleted",
                             "line": 71,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 110,
                             "functionName": "target",
                             "line": 72,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 56,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 166,
                             "functionName": "onSelectedButtonIndexChanged",
                             "line": 72,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 15,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 48,
                             "functionName": "rows",
                             "line": 92,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponentButtons.qml)::_assignedButtonModel with type QVariant."
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 157,
                             "functionName": "columnSpacing",
                             "line": 93,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 15,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 130,
                             "functionName": "flow",
                             "line": 95,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 125,
                             "functionName": "model",
                             "line": 98,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 770,
+                            "durationMicroseconds": 500,
                             "functionName": "text",
                             "line": 99,
                             "message": "Cannot access value for name buttonIndex"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 151,
                             "functionName": "model",
                             "line": 102,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 672,
+                            "durationMicroseconds": 424,
                             "functionName": "text",
                             "line": 103,
                             "message": "Cannot access value for name buttonAction"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 141,
                             "functionName": "model",
                             "line": 106,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 617,
+                            "durationMicroseconds": 349,
                             "functionName": "text",
                             "line": 107,
                             "message": "Cannot access value for name repeat"

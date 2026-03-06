@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 422,
+                            "durationMicroseconds": 244,
                             "functionName": "width",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 134,
                             "functionName": "_sliderType",
                             "line": 21,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 777,
+                            "durationMicroseconds": 507,
                             "functionName": "_unitsSettings",
                             "line": 24,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 357,
+                            "durationMicroseconds": 222,
                             "functionName": "_indicatorCenterPos",
                             "line": 25,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 653,
+                            "durationMicroseconds": 305,
                             "functionName": "_rgValueRanges",
                             "line": 28,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 384,
+                            "durationMicroseconds": 227,
                             "functionName": "_rgValidMajorTickSteps",
                             "line": 29,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 211,
                             "functionName": "_fullSliderValueRange",
                             "line": 30,
                             "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedValueSlider.qml)::_rgValueRanges with type QVariant (adjusted to QJSValue, stored as QJSValue)"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 144,
                             "functionName": "_halfSliderValueRange",
                             "line": 31,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 28375,
+                            "durationMicroseconds": 8082,
                             "functionName": "_majorTickWidth",
                             "line": 33,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 436,
+                            "durationMicroseconds": 196,
                             "functionName": "_majorTickPixelHeight",
                             "line": 34,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 173,
                             "functionName": "_tickValueRightMargin",
                             "line": 35,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 136,
                             "functionName": "_minorTickWidth",
                             "line": 36,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 155,
                             "functionName": "_sliderValuePerPixel",
                             "line": 37,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 134,
                             "functionName": "_minorTickValueStep",
                             "line": 40,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 547,
+                            "durationMicroseconds": 325,
                             "functionName": "_sliderValue",
                             "line": 42,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 427,
+                            "durationMicroseconds": 264,
                             "functionName": "_majorTicksVisibleAboveIndicator",
                             "line": 49,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 149,
                             "functionName": "_majorTickAdjustment",
                             "line": 50,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 3939,
+                            "durationMicroseconds": 528,
                             "functionName": "_majorTickMaxValue",
                             "line": 53,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 775,
+                            "durationMicroseconds": 477,
                             "functionName": "_majorTickMinValue",
                             "line": 54,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 339,
                             "functionName": "_firstTickPixelOffset",
                             "line": 57,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 369,
+                            "durationMicroseconds": 242,
                             "functionName": "_firstPixelValue",
                             "line": 58,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 3883,
+                            "durationMicroseconds": 516,
                             "functionName": "_sliderHeight",
                             "line": 61,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 590,
+                            "durationMicroseconds": 330,
                             "functionName": "_cMajorTicks",
                             "line": 63,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 849,
+                            "durationMicroseconds": 724,
                             "functionName": "_qgcPal",
                             "line": 65,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 68,
                             "functionName": "getOutputValue",
                             "line": 97,
                             "message": "function without return type annotation returns call to method parseFloat, returning QJSValue. This may prevent proper compilation to Cpp."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 128,
                             "functionName": "fill",
                             "line": 102,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 68,
                             "functionName": "color",
                             "line": 107,
                             "message": "Cannot access value for name _qgcPal"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 96,
                             "functionName": "fill",
                             "line": 106,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 108,
                             "functionName": "fill",
                             "line": 112,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 126,
                             "functionName": "horizontalAlignment",
                             "line": 117,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 56,
                             "functionName": "text",
                             "line": 119,
                             "message": "Cannot access value for name _displayText"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 139,
                             "functionName": "pointSize",
                             "line": 118,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 153,
                             "functionName": "contentWidth",
                             "line": 126,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 126,
                             "functionName": "contentHeight",
                             "line": 127,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 144,
                             "functionName": "flickableDirection",
                             "line": 128,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 368,
+                            "durationMicroseconds": 230,
                             "functionName": "onCompleted",
                             "line": 132,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 121,
                             "functionName": "from",
                             "line": 137,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 100,
                             "functionName": "to",
                             "line": 138,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 147,
                             "functionName": "type",
                             "line": 139,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 145,
                             "functionName": "width",
                             "line": 148,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 63,
                             "functionName": "height",
                             "line": 149,
                             "message": "Cannot access value for name _sliderHeight"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 49,
                             "functionName": "model",
                             "line": 153,
                             "message": "Cannot access value for name _cMajorTicks"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 80,
                             "functionName": "width",
                             "line": 156,
                             "message": "Cannot access value for name sliderContainer"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 127,
                             "functionName": "y",
                             "line": 158,
                             "message": "Cannot access value for name _majorTickPixelHeight"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 166,
                             "functionName": "opacity",
                             "line": 159,
                             "message": "Cannot access value for name _sliderMinVal"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 120,
                             "functionName": "tickValue",
                             "line": 161,
                             "message": "Cannot access value for name _majorTickMaxValue"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 50,
                             "functionName": "width",
                             "line": 165,
                             "message": "Cannot access value for name _majorTickWidth"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 55,
                             "functionName": "color",
                             "line": 167,
                             "message": "Cannot access value for name _qgcPal"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 163,
                             "functionName": "text",
                             "line": 174,
                             "message": "Cannot load property tickValue from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedValueSlider.qml)::parent with type QQuickItem."
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 59,
                             "functionName": "margins",
                             "line": 171,
                             "message": "Cannot access value for name _tickValueRightMargin"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 348,
+                            "durationMicroseconds": 230,
                             "functionName": "right",
                             "line": 172,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 182,
                             "functionName": "verticalCenter",
                             "line": 173,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 154,
                             "functionName": "pointSize",
                             "line": 175,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 67,
                             "functionName": "model",
                             "line": 182,
                             "message": "Cannot access value for name _cMajorTicks"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 154,
                             "functionName": "y",
                             "line": 185,
                             "message": "Cannot access value for name _majorTickPixelHeight"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 186,
                             "message": "Cannot access value for name _minorTickWidth"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 51,
                             "functionName": "color",
                             "line": 188,
                             "message": "Cannot access value for name _qgcPal"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 136,
                             "functionName": "opacity",
                             "line": 189,
                             "message": "Cannot access value for name _sliderMinVal"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 190,
                             "message": "Cannot access value for name index"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 123,
                             "functionName": "tickValue",
                             "line": 192,
                             "message": "Cannot access value for name _majorTickMaxValue"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 115,
                             "functionName": "y",
                             "line": 202,
                             "message": "Cannot access value for name _indicatorCenterPos"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 541,
+                            "durationMicroseconds": 467,
                             "functionName": "width",
                             "line": 203,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 104,
                             "functionName": "height",
                             "line": 204,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 377,
+                            "durationMicroseconds": 253,
                             "functionName": "indicatorValueMargins",
                             "line": 214,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 145,
                             "functionName": "indicatorHeight",
                             "line": 215,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 136,
                             "functionName": "pointerWidth",
                             "line": 216,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 652,
+                            "durationMicroseconds": 427,
                             "functionName": "minIndicatorWidth",
                             "line": 217,
                             "message": ""
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 122,
                             "functionName": "maxDigitsWidth",
                             "line": 218,
                             "message": ""
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 130,
                             "functionName": "intraTickDigitSpacing",
                             "line": 219,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 110,
                             "functionName": "maxMajorTickDisplayWidth",
                             "line": 220,
                             "message": "Cannot access value for name _majorTickWidth"
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 491,
+                            "durationMicroseconds": 370,
                             "functionName": "onPaint",
                             "line": 222,
                             "message": "Cannot access value for name _qgcPal"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 150,
                             "functionName": "pointSize",
                             "line": 210,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 50,
                             "functionName": "target",
                             "line": 242,
                             "message": "Cannot access value for name _qgcPal"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 179,
                             "functionName": "onPaletteChanged",
                             "line": 243,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 154,
                             "functionName": "horizontalAlignment",
                             "line": 253,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 119,
                             "functionName": "verticalAlignment",
                             "line": 254,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1304,
+                            "durationMicroseconds": 853,
                             "functionName": "text",
                             "line": 255,
                             "message": "Cannot access value for name _sliderValue"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 1577,
+                            "durationMicroseconds": 1119,
                             "functionName": "unitsString",
                             "line": 258,
                             "message": "Cannot access value for name _sliderType"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 199,
                             "functionName": "margins",
                             "line": 250,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 178,
                             "functionName": "right",
                             "line": 251,
                             "message": ""
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 167,
                             "functionName": "verticalCenter",
                             "line": 252,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 185,
                             "functionName": "pointSize",
                             "line": 256,
                             "message": ""
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1479,
+                            "durationMicroseconds": 1014,
                             "functionName": "onClicked",
                             "line": 265,
                             "message": "Cannot retrieve a non-object type by ID: sliderValueTextField"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 144,
                             "functionName": "fill",
                             "line": 264,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 300,
+                            "durationMicroseconds": 208,
                             "functionName": "unitsLabel",
                             "line": 277,
                             "message": ""
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 113,
                             "functionName": "target",
                             "line": 288,
                             "message": ""
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 56,
                             "functionName": "on_SliderValueChanged",
                             "line": 289,
                             "message": "Cannot retrieve a non-object type by ID: sliderValueTextField"
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 233,
                             "functionName": "bottom",
                             "line": 296,
                             "message": ""

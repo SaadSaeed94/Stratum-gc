@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 449,
+                            "durationMicroseconds": 176,
                             "functionName": "pageComponent",
                             "line": 13,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 503,
+                            "durationMicroseconds": 142,
                             "functionName": "onCompleted",
                             "line": 32,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 14041,
+                            "durationMicroseconds": 4839,
                             "functionName": "spacing",
                             "line": 35,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 1613,
+                            "durationMicroseconds": 488,
                             "functionName": "model",
                             "line": 42,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 28,
                             "functionName": "label",
                             "line": 49,
                             "message": "Cannot access value for name fact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 415,
+                            "durationMicroseconds": 135,
                             "functionName": "color",
                             "line": 59,
                             "message": "Cannot access value for name qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 373,
+                            "durationMicroseconds": 116,
                             "functionName": "spacing",
                             "line": 63,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 428,
+                            "durationMicroseconds": 134,
                             "functionName": "buttons",
                             "line": 93,
                             "message": "Cannot access value for name Dialog"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 64,
                             "functionName": "onAccepted",
                             "line": 95,
                             "message": "Cannot access value for name controller"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 472,
+                            "durationMicroseconds": 154,
                             "functionName": "spacing",
                             "line": 100,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 70,
                             "functionName": "wrapMode",
                             "line": 103,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 48,
                             "functionName": "wrapMode",
                             "line": 108,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 56,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 55,
                             "functionName": "bindMode",
                             "line": 115,
                             "message": "Cannot access value for name RadioComponentController"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 56,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 39,
                             "functionName": "bindMode",
                             "line": 121,
                             "message": "Cannot access value for name RadioComponentController"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 56,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 37,
                             "functionName": "bindMode",
                             "line": 128,
                             "message": "Cannot access value for name RadioComponentController"

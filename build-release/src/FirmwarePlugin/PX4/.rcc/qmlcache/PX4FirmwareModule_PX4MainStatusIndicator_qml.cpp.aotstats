@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 11196,
+                            "durationMicroseconds": 7460,
                             "functionName": "spacing",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 406,
+                            "durationMicroseconds": 228,
                             "functionName": "spacing",
                             "line": 20,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 388,
+                            "durationMicroseconds": 203,
                             "functionName": "preferredWidth",
                             "line": 35,
                             "message": ""

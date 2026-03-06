@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 433,
+                            "durationMicroseconds": 272,
                             "functionName": "width",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 67,
                             "functionName": "showIndicator",
                             "line": 13,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicator.qml)::_escs with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 563,
+                            "durationMicroseconds": 388,
                             "functionName": "_activeVehicle",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 72,
                             "functionName": "_escs",
                             "line": 16,
                             "message": "Cannot load property escs from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicator.qml)::_activeVehicle with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 151,
                             "functionName": "_motorCount",
                             "line": 19,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicator.qml)::_escs with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 139,
                             "functionName": "_onlineBitmask",
                             "line": 20,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicator.qml)::_escs with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 148,
                             "functionName": "_onlineMotorCount",
                             "line": 22,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 117,
                             "functionName": "_escHealthy",
                             "line": 23,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 542,
+                            "durationMicroseconds": 353,
                             "functionName": "_getOnlineMotorCount",
                             "line": 25,
                             "message": "function without return type annotation returns int. This may prevent proper compilation to Cpp."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1399,
+                            "durationMicroseconds": 850,
                             "functionName": "_getEscHealthStatus",
                             "line": 40,
                             "message": "function without return type annotation returns bool. This may prevent proper compilation to Cpp."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 131,
                             "functionName": "getEscStatusColor",
                             "line": 56,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 397,
+                            "durationMicroseconds": 232,
                             "functionName": "top",
                             "line": 9,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 165,
                             "functionName": "bottom",
                             "line": 10,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 13605,
+                            "durationMicroseconds": 8824,
                             "functionName": "spacing",
                             "line": 66,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 334,
+                            "durationMicroseconds": 216,
                             "functionName": "top",
                             "line": 64,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 158,
                             "functionName": "bottom",
                             "line": 65,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 96,
                             "functionName": "width",
                             "line": 70,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 120,
                             "functionName": "fillMode",
                             "line": 74,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 70,
                             "functionName": "color",
                             "line": 76,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 170,
                             "functionName": "top",
                             "line": 71,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 163,
                             "functionName": "bottom",
                             "line": 72,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 95,
                             "functionName": "height",
                             "line": 75,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 155,
                             "functionName": "verticalCenter",
                             "line": 81,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 65,
                             "functionName": "color",
                             "line": 86,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 70,
                             "functionName": "text",
                             "line": 87,
                             "message": "Cannot access value for name _onlineMotorCount"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 166,
                             "functionName": "horizontalCenter",
                             "line": 85,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 149,
                             "functionName": "pointSize",
                             "line": 88,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 1012,
+                            "durationMicroseconds": 628,
                             "functionName": "color",
                             "line": 92,
                             "message": "method getEscStatusColor cannot be resolved."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 120,
                             "functionName": "text",
                             "line": 93,
                             "message": "Cannot access value for name _escHealthy"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 158,
                             "functionName": "pointSize",
                             "line": 94,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 601,
+                            "durationMicroseconds": 420,
                             "functionName": "onClicked",
                             "line": 101,
                             "message": "Cannot access value for name mainWindow"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 310,
+                            "durationMicroseconds": 119,
                             "functionName": "fill",
                             "line": 100,
                             "message": ""

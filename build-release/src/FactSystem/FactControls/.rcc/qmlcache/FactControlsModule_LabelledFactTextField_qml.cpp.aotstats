@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 80,
                             "functionName": "label",
                             "line": 9,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 12230,
+                            "durationMicroseconds": 4670,
                             "functionName": "spacing",
                             "line": 17,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 54,
                             "functionName": "text",
                             "line": 21,
                             "message": "Cannot access value for name label"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 24,
                             "functionName": "visible",
                             "line": 22,
                             "message": "Cannot access value for name label"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 18,
                             "functionName": "preferredWidth",
                             "line": 27,
                             "message": "Cannot access value for name textFieldPreferredWidth"

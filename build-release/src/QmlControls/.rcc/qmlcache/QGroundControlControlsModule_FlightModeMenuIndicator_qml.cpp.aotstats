@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 10693,
+                            "durationMicroseconds": 7296,
                             "functionName": "fontPointSize",
                             "line": 15,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 565,
+                            "durationMicroseconds": 430,
                             "functionName": "activeVehicle",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 266,
                             "functionName": "_editFieldWidth",
                             "line": 18,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 157,
                             "functionName": "height",
                             "line": 27,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 207,
                             "functionName": "width",
                             "line": 31,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 201,
                             "functionName": "height",
                             "line": 32,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 139,
                             "functionName": "fillMode",
                             "line": 33,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 467,
+                            "durationMicroseconds": 287,
                             "functionName": "color",
                             "line": 35,
                             "message": "Cannot access value for name qgcPal"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 134,
                             "functionName": "alignment",
                             "line": 37,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 205,
                             "functionName": "preferredWidth",
                             "line": 41,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 181,
                             "functionName": "text",
                             "line": 46,
                             "message": "Cannot access value for name activeVehicle"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 54,
                             "functionName": "pointSize",
                             "line": 47,
                             "message": "Cannot access value for name fontPointSize"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 129,
                             "functionName": "alignment",
                             "line": 48,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 71,
                             "functionName": "onClicked",
                             "line": 52,
                             "message": "Cannot retrieve a non-object type by ID: indicatorDrawer"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 101,
                             "functionName": "fill",
                             "line": 51,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 499,
+                            "durationMicroseconds": 346,
                             "functionName": "color",
                             "line": 69,
                             "message": "Cannot access value for name QGroundControl"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 221,
                             "functionName": "spacing",
                             "line": 79,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 140,
                             "functionName": "margins",
                             "line": 75,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 194,
                             "functionName": "top",
                             "line": 76,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 151,
                             "functionName": "left",
                             "line": 77,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 141,
                             "functionName": "bottom",
                             "line": 78,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 140,
                             "functionName": "width",
                             "line": 85,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 125,
                             "functionName": "contentHeight",
                             "line": 86,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 150,
                             "functionName": "top",
                             "line": 83,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 150,
                             "functionName": "bottom",
                             "line": 84,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 347,
+                            "durationMicroseconds": 190,
                             "functionName": "spacing",
                             "line": 90,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 142,
                             "functionName": "model",
                             "line": 93,
                             "message": "Cannot access value for name activeVehicle"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 435,
+                            "durationMicroseconds": 274,
                             "functionName": "width",
                             "line": 110,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 217,
                             "functionName": "spacing",
                             "line": 111,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 64,
                             "functionName": "minimumWidth",
                             "line": 119,
                             "message": "Cannot access value for name _editFieldWidth"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 189,
                             "functionName": "visible",
                             "line": 125,
                             "message": "Cannot access value for name _mpcLandSpeedFact"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 47,
                             "functionName": "minimumWidth",
                             "line": 130,
                             "message": "Cannot access value for name _editFieldWidth"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 59,
                             "functionName": "visible",
                             "line": 136,
                             "message": "Cannot access value for name _precisionLandingFact"

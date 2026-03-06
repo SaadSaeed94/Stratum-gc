@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 12,
-                            "durationMicroseconds": 400,
+                            "durationMicroseconds": 273,
                             "functionName": "width",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 87,
                             "functionName": "_factValue",
                             "line": 14,
                             "message": "Cannot access value for name fact"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 60,
                             "functionName": "_range",
                             "line": 17,
                             "message": "Cannot access value for name fact"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 100,
                             "functionName": "_minIncrement",
                             "line": 18,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 46,
                             "functionName": "on_FactValueChanged",
                             "line": 21,
                             "message": "Cannot retrieve a non-object type by ID: slide"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 99,
                             "functionName": "onCompleted",
                             "line": 25,
                             "message": "Cannot retrieve a non-object type by ID: slide"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 67,
                             "functionName": "text",
                             "line": 36,
                             "message": "Cannot access value for name fact"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 90,
                             "functionName": "width",
                             "line": 42,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 448,
+                            "durationMicroseconds": 165,
                             "functionName": "spacing",
                             "line": 43,
                             "message": "Cannot access value for name _margins"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 385,
+                            "durationMicroseconds": 131,
                             "functionName": "spacing",
                             "line": 47,
                             "message": "Cannot access value for name _margins"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 38,
                             "functionName": "text",
                             "line": 50,
                             "message": "Cannot access value for name fact"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 11630,
+                            "durationMicroseconds": 4969,
                             "functionName": "pointSize",
                             "line": 52,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 355,
+                            "durationMicroseconds": 145,
                             "functionName": "verticalCenter",
                             "line": 53,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 79,
                             "functionName": "spacing",
                             "line": 58,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 82,
                             "functionName": "verticalCenter",
                             "line": 59,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 88,
                             "functionName": "verticalCenter",
                             "line": 63,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 61,
                             "functionName": "text",
                             "line": 76,
                             "message": "Cannot access value for name fact"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 98,
                             "functionName": "verticalCenter",
                             "line": 77,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 49,
                             "functionName": "text",
                             "line": 101,
                             "message": "Cannot access value for name fact"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 90,
                             "functionName": "width",
                             "line": 106,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 501,
+                            "durationMicroseconds": 225,
                             "functionName": "spacing",
                             "line": 107,
                             "message": "Cannot access value for name _margins"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 334,
+                            "durationMicroseconds": 132,
                             "functionName": "width",
                             "line": 111,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 76,
                             "functionName": "text",
                             "line": 112,
                             "message": "Cannot access value for name fact"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 132,
                             "functionName": "horizontalAlignment",
                             "line": 113,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 376,
+                            "durationMicroseconds": 162,
                             "functionName": "width",
                             "line": 133,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 72,
                             "functionName": "text",
                             "line": 134,
                             "message": "Cannot access value for name fact"

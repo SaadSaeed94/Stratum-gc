@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 565,
+                            "durationMicroseconds": 338,
                             "functionName": "buttons",
                             "line": 12,
                             "message": "Cannot access value for name Dialog"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 449,
+                            "durationMicroseconds": 301,
                             "functionName": "onAccepted",
                             "line": 16,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 183,
                             "functionName": "onDestruction",
                             "line": 18,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 13404,
+                            "durationMicroseconds": 7550,
                             "functionName": "spacing",
                             "line": 21,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 162,
                             "functionName": "wrapMode",
                             "line": 25,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 163,
                             "functionName": "text",
                             "line": 26,
                             "message": "Cannot access value for name paramController"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 831,
+                            "durationMicroseconds": 483,
                             "functionName": "preferredWidth",
                             "line": 24,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 96,
                             "functionName": "rows",
                             "line": 33,
                             "message": "Cannot access value for name paramController"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 63,
                             "functionName": "columns",
                             "line": 34,
                             "message": "Cannot access value for name paramController"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 123,
                             "functionName": "flow",
                             "line": 35,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 52,
                             "functionName": "visible",
                             "line": 36,
                             "message": "Cannot access value for name paramController"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 45,
                             "functionName": "model",
                             "line": 47,
                             "message": "Cannot access value for name paramController"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 158,
+                            "durationMicroseconds": 65,
                             "functionName": "model",
                             "line": 55,
                             "message": "Cannot access value for name paramController"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 104,
                             "functionName": "model",
                             "line": 59,
                             "message": "Cannot access value for name paramController"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 760,
+                            "durationMicroseconds": 472,
                             "functionName": "text",
                             "line": 60,
                             "message": "Cannot access value for name object"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 60,
                             "functionName": "model",
                             "line": 65,
                             "message": "Cannot access value for name paramController"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 534,
+                            "durationMicroseconds": 341,
                             "functionName": "text",
                             "line": 66,
                             "message": "Cannot access value for name object"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 47,
                             "functionName": "model",
                             "line": 71,
                             "message": "Cannot access value for name paramController"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 1168,
+                            "durationMicroseconds": 614,
                             "functionName": "text",
                             "line": 72,
                             "message": "Cannot access value for name object"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 49,
                             "functionName": "model",
                             "line": 77,
                             "message": "Cannot access value for name paramController"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 1776,
+                            "durationMicroseconds": 956,
                             "functionName": "text",
                             "line": 78,
                             "message": "Cannot access value for name object"

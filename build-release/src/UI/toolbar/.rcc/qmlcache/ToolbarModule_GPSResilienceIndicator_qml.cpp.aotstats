@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 350,
+                            "durationMicroseconds": 206,
                             "functionName": "width",
                             "line": 20,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 96,
                             "functionName": "visible",
                             "line": 23,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 656,
+                            "durationMicroseconds": 339,
                             "functionName": "_activeVehicle",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 66,
                             "functionName": "_gpsAggregate",
                             "line": 26,
                             "message": "Cannot load property gpsAggregate from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GPSResilienceIndicator.qml)::_activeVehicle with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 484,
+                            "durationMicroseconds": 293,
                             "functionName": "qgcPal",
                             "line": 28,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 479,
+                            "durationMicroseconds": 307,
                             "functionName": "showIndicator",
                             "line": 30,
                             "message": "Cannot load property authenticationState from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GPSResilienceIndicator.qml)::_gpsAggregate with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 191,
                             "functionName": "_authColor",
                             "line": 62,
                             "message": "Cannot load property colorGrey from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GPSResilienceIndicator.qml)::qgcPal with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 390,
+                            "durationMicroseconds": 239,
                             "functionName": "_interfColor",
                             "line": 72,
                             "message": "Cannot load property colorGrey from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GPSResilienceIndicator.qml)::qgcPal with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 376,
+                            "durationMicroseconds": 217,
                             "functionName": "top",
                             "line": 21,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 152,
                             "functionName": "bottom",
                             "line": 22,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 349,
+                            "durationMicroseconds": 211,
                             "functionName": "width",
                             "line": 39,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 332,
+                            "durationMicroseconds": 180,
                             "functionName": "height",
                             "line": 40,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 131,
                             "functionName": "fillMode",
                             "line": 43,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 538,
+                            "durationMicroseconds": 325,
                             "functionName": "color",
                             "line": 45,
                             "message": "method _authColor cannot be resolved."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 182,
                             "functionName": "visible",
                             "line": 46,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 105,
                             "functionName": "centerIn",
                             "line": 41,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 89,
                             "functionName": "height",
                             "line": 44,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 344,
+                            "durationMicroseconds": 197,
                             "functionName": "width",
                             "line": 52,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 210,
                             "functionName": "height",
                             "line": 53,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 113,
                             "functionName": "fillMode",
                             "line": 56,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 659,
+                            "durationMicroseconds": 393,
                             "functionName": "color",
                             "line": 58,
                             "message": "method _interfColor cannot be resolved."
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 583,
+                            "durationMicroseconds": 370,
                             "functionName": "visible",
                             "line": 59,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 109,
                             "functionName": "centerIn",
                             "line": 54,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 112,
                             "functionName": "height",
                             "line": 57,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 609,
+                            "durationMicroseconds": 427,
                             "functionName": "onClicked",
                             "line": 85,
                             "message": "Cannot access value for name mainWindow"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 101,
                             "functionName": "fill",
                             "line": 84,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 193,
                             "functionName": "showExpand",
                             "line": 91,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 58,
                             "functionName": "contentComponent",
                             "line": 92,
                             "message": "Cannot access value for name resilienceContent"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 13758,
+                            "durationMicroseconds": 9112,
                             "functionName": "spacing",
                             "line": 99,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 376,
+                            "durationMicroseconds": 255,
                             "functionName": "labelText",
                             "line": 108,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 210,
                             "functionName": "visible",
                             "line": 109,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 188,
                             "functionName": "labelText",
                             "line": 114,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 204,
                             "functionName": "visible",
                             "line": 115,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 187,
                             "functionName": "labelText",
                             "line": 120,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 285,
+                            "durationMicroseconds": 192,
                             "functionName": "visible",
                             "line": 121,
                             "message": "Cannot access value for name _gpsAggregate"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 931,
+                            "durationMicroseconds": 563,
                             "functionName": "visible",
                             "line": 129,
                             "message": "Cannot access value for name _activeVehicle"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 400,
+                            "durationMicroseconds": 239,
                             "functionName": "labelText",
                             "line": 137,
                             "message": "Cannot access value for name _activeVehicle"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 153,
                             "functionName": "visible",
                             "line": 138,
                             "message": "Cannot access value for name _activeVehicle"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 427,
+                            "durationMicroseconds": 221,
                             "functionName": "labelText",
                             "line": 142,
                             "message": "Cannot access value for name _activeVehicle"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 150,
                             "functionName": "visible",
                             "line": 143,
                             "message": "Cannot access value for name _activeVehicle"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 400,
+                            "durationMicroseconds": 216,
                             "functionName": "labelText",
                             "line": 147,
                             "message": "Cannot access value for name _activeVehicle"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 186,
                             "functionName": "visible",
                             "line": 148,
                             "message": "Cannot access value for name _activeVehicle"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 1026,
+                            "durationMicroseconds": 634,
                             "functionName": "visible",
                             "line": 156,
                             "message": "Cannot access value for name _activeVehicle"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 394,
+                            "durationMicroseconds": 254,
                             "functionName": "labelText",
                             "line": 164,
                             "message": "Cannot access value for name _activeVehicle"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 173,
                             "functionName": "visible",
                             "line": 165,
                             "message": "Cannot access value for name _activeVehicle"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 263,
                             "functionName": "labelText",
                             "line": 169,
                             "message": "Cannot access value for name _activeVehicle"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 170,
                             "functionName": "visible",
                             "line": 170,
                             "message": "Cannot access value for name _activeVehicle"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 354,
+                            "durationMicroseconds": 260,
                             "functionName": "labelText",
                             "line": 174,
                             "message": "Cannot access value for name _activeVehicle"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 162,
                             "functionName": "visible",
                             "line": 175,
                             "message": "Cannot access value for name _activeVehicle"

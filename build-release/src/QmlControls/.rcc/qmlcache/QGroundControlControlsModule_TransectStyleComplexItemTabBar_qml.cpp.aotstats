@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 684,
+                            "durationMicroseconds": 427,
                             "functionName": "onCompleted",
                             "line": 9,
                             "message": "Cannot access value for name QGroundControl"

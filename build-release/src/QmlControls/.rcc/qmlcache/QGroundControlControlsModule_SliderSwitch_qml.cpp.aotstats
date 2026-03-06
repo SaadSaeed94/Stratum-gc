@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 929,
+                            "durationMicroseconds": 525,
                             "functionName": "implicitWidth",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 184,
                             "functionName": "implicitHeight",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 126,
                             "functionName": "radius",
                             "line": 13,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 57,
                             "functionName": "color",
                             "line": 14,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 347,
+                            "durationMicroseconds": 195,
                             "functionName": "_diameter",
                             "line": 22,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 60,
                             "functionName": "_dragStartX",
                             "line": 23,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 435,
+                            "durationMicroseconds": 225,
                             "functionName": "_dragStopX",
                             "line": 24,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 136,
                             "functionName": "resetSpaceBarSliding",
                             "line": 40,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 1264,
+                            "durationMicroseconds": 665,
                             "functionName": "onSpacePressed",
                             "line": 26,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 61,
                             "functionName": "onSpacePressed",
                             "line": 26,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 836,
+                            "durationMicroseconds": 424,
                             "functionName": "onReleased",
                             "line": 33,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 51,
                             "functionName": "onReleased",
                             "line": 33,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 91,
                             "functionName": "x",
                             "line": 48,
                             "message": "Cannot access value for name _diameter"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 179,
                             "functionName": "width",
                             "line": 49,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 97,
                             "functionName": "horizontalAlignment",
                             "line": 51,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 35,
                             "functionName": "text",
                             "line": 52,
                             "message": "Cannot access value for name confirmText"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 49,
                             "functionName": "color",
                             "line": 53,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 129,
                             "functionName": "verticalCenter",
                             "line": 50,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 43,
                             "functionName": "x",
                             "line": 58,
                             "message": "Cannot access value for name _border"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 48,
+                            "durationMicroseconds": 26,
                             "functionName": "y",
                             "line": 59,
                             "message": "Cannot access value for name _border"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 26,
                             "functionName": "height",
                             "line": 60,
                             "message": "Cannot access value for name _diameter"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 24,
                             "functionName": "width",
                             "line": 61,
                             "message": "Cannot access value for name _diameter"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 32,
                             "functionName": "radius",
                             "line": 62,
                             "message": "Cannot access value for name _diameter"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 35,
                             "functionName": "color",
                             "line": 63,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 64,
                             "functionName": "reset",
                             "line": 91,
                             "message": "Cannot access value for name _border"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 447,
+                            "durationMicroseconds": 207,
                             "functionName": "width",
                             "line": 67,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 167,
                             "functionName": "height",
                             "line": 68,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 94,
                             "functionName": "fillMode",
                             "line": 70,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 41,
                             "functionName": "color",
                             "line": 73,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 78,
                             "functionName": "centerIn",
                             "line": 66,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 74,
                             "functionName": "height",
                             "line": 69,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 41,
                             "functionName": "from",
                             "line": 81,
                             "message": "Cannot access value for name _dragStartX"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 28,
                             "functionName": "to",
                             "line": 82,
                             "message": "Cannot access value for name _dragStopX"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 561,
+                            "durationMicroseconds": 250,
                             "functionName": "onFinished",
                             "line": 85,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 94,
                             "functionName": "fillItem",
                             "line": 100,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 109,
                             "functionName": "dragActive",
                             "line": 107,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 609,
+                            "durationMicroseconds": 291,
                             "functionName": "onDragActiveChanged",
                             "line": 109,
                             "message": "Cannot access value for name _dragStopX"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 14042,
+                            "durationMicroseconds": 7454,
                             "functionName": "leftMargin",
                             "line": 99,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 110,
                             "functionName": "target",
                             "line": 101,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 109,
                             "functionName": "axis",
                             "line": 102,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 59,
                             "functionName": "minimumX",
                             "line": 103,
                             "message": "Cannot access value for name _dragStartX"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 30,
                             "functionName": "maximumX",
                             "line": 104,
                             "message": "Cannot access value for name _dragStopX"

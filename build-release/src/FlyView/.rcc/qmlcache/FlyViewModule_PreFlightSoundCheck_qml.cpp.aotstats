@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 468,
+                            "durationMicroseconds": 289,
                             "functionName": "telemetryFailure",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 8922,
+                            "durationMicroseconds": 7025,
                             "functionName": "size",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 158,
                             "functionName": "_reticleSpacing",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 133,
                             "functionName": "_reticleSlot",
                             "line": 11,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 118,
                             "functionName": "_longDash",
                             "line": 12,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 106,
                             "functionName": "_shortDash",
                             "line": 13,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 157,
                             "functionName": "_fontSize",
                             "line": 14,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 58,
                             "functionName": "height",
                             "line": 16,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 51,
                             "functionName": "width",
                             "line": 17,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 138,
                             "functionName": "horizontalCenter",
                             "line": 18,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 108,
                             "functionName": "verticalCenter",
                             "line": 19,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 87,
                             "functionName": "height",
                             "line": 22,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 92,
                             "functionName": "width",
                             "line": 23,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 59,
                             "functionName": "spacing",
                             "line": 27,
                             "message": "Cannot access value for name _reticleSpacing"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 120,
                             "functionName": "horizontalCenter",
                             "line": 25,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 109,
                             "functionName": "verticalCenter",
                             "line": 26,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 264,
                             "functionName": "_pitch",
                             "line": 31,
                             "message": "Cannot access value for name modelData"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 103,
                             "functionName": "width",
                             "line": 33,
                             "message": "Cannot access value for name _longDash"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 38,
+                            "durationMicroseconds": 30,
                             "functionName": "height",
                             "line": 34,
                             "message": "Cannot access value for name _reticleHeight"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 120,
                             "functionName": "horizontalCenter",
                             "line": 32,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 46,
+                            "durationMicroseconds": 39,
                             "functionName": "text",
                             "line": 45,
                             "message": "Cannot access value for name _pitch"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 95,
                             "functionName": "visible",
                             "line": 47,
                             "message": "Cannot access value for name _pitch"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 120,
                             "functionName": "horizontalCenter",
                             "line": 39,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 40,
                             "functionName": "horizontalCenterOffset",
                             "line": 40,
                             "message": "Cannot access value for name _longDash"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 116,
                             "functionName": "verticalCenter",
                             "line": 41,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 36,
                             "functionName": "pointSize",
                             "line": 44,
                             "message": "Cannot access value for name _fontSize"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 34,
                             "functionName": "text",
                             "line": 56,
                             "message": "Cannot access value for name _pitch"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 90,
                             "functionName": "visible",
                             "line": 58,
                             "message": "Cannot access value for name _pitch"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 122,
                             "functionName": "horizontalCenter",
                             "line": 50,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 38,
                             "functionName": "horizontalCenterOffset",
                             "line": 51,
                             "message": "Cannot access value for name _longDash"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 104,
                             "functionName": "verticalCenter",
                             "line": 52,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 38,
+                            "durationMicroseconds": 39,
                             "functionName": "pointSize",
                             "line": 55,
                             "message": "Cannot access value for name _fontSize"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 98,
                             "functionName": "y",
                             "line": 64,
                             "message": "Cannot access value for name pitchAngle"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 30,
                             "functionName": "angle",
                             "line": 71,
                             "message": "Cannot access value for name rollAngle"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 32,
                             "functionName": "x",
                             "line": 69,
                             "message": "Cannot access value for name width"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 29,
                             "functionName": "y",
                             "line": 70,
                             "message": "Cannot access value for name height"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 649,
+                            "durationMicroseconds": 386,
                             "functionName": "_availableHeight",
                             "line": 10,
                             "message": "Cannot access value for name availableHeight"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 481,
+                            "durationMicroseconds": 255,
                             "functionName": "_availableWidth",
                             "line": 11,
                             "message": "Cannot access value for name availableWidth"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 11482,
+                            "durationMicroseconds": 6499,
                             "functionName": "spacing",
                             "line": 16,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 136,
                             "functionName": "textFormat",
                             "line": 19,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 174,
                             "functionName": "onLinkActivated",
                             "line": 21,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 48,
                             "functionName": "onLinkActivated",
                             "line": 21,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 58,
                             "functionName": "visible",
                             "line": 22,
                             "message": "Cannot access value for name _airmode"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 27,
                             "message": "Cannot access value for name _airmode"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 93,
                             "functionName": "textFormat",
                             "line": 36,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 143,
                             "functionName": "onLinkActivated",
                             "line": 38,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 42,
                             "functionName": "onLinkActivated",
                             "line": 38,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 39,
                             "functionName": "visible",
                             "line": 39,
                             "message": "Cannot access value for name _thrustModelFactor"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 35,
                             "functionName": "availableWidth",
                             "line": 49,
                             "message": "Cannot access value for name _availableWidth"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 58,
                             "functionName": "availableHeight",
                             "line": 50,
                             "message": "Cannot access value for name _availableHeight"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 530,
+                            "durationMicroseconds": 311,
                             "functionName": "tuningMode",
                             "line": 52,
                             "message": "Cannot access value for name Vehicle"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 542,
+                            "durationMicroseconds": 254,
                             "functionName": "axis",
                             "line": 54,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 289,
+                            "durationMicroseconds": 171,
                             "functionName": "plot",
                             "line": 61,
                             "message": "Cannot access value for name globals"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 134,
                             "functionName": "plot",
                             "line": 94,
                             "message": "Cannot access value for name globals"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 137,
                             "functionName": "plot",
                             "line": 127,
                             "message": "Cannot access value for name globals"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 357,
+                            "durationMicroseconds": 141,
                             "functionName": "height",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 346,
+                            "durationMicroseconds": 134,
                             "functionName": "width",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 55,
                             "functionName": "color",
                             "line": 11,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 62,
                             "functionName": "_adjustedDigitCount",
                             "line": 17,
                             "message": "Cannot load property initialValueAtPrecision from (component in /home/saad-saeed/qgroundcontrol/src/FactSystem/FactControls/FactValueSlider.qml)::_model with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 45,
                             "functionName": "_totalDigitCount",
                             "line": 18,
                             "message": "Cannot access value for name fact"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 28628,
+                            "durationMicroseconds": 5345,
                             "functionName": "_margins",
                             "line": 19,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 45,
                             "functionName": "_increment",
                             "line": 20,
                             "message": "Cannot access value for name fact"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 21,
                             "functionName": "_value",
                             "line": 21,
                             "message": "Cannot access value for name fact"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 18,
                             "functionName": "_decimalPlaces",
                             "line": 22,
                             "message": "Cannot access value for name fact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 35,
+                            "durationMicroseconds": 18,
                             "functionName": "_units",
                             "line": 23,
                             "message": "Cannot access value for name fact"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 101,
                             "functionName": "_prevValue",
                             "line": 24,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 90,
                             "functionName": "_nextValue",
                             "line": 25,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 734,
+                            "durationMicroseconds": 200,
                             "functionName": "_itemWidth",
                             "line": 26,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 1987,
+                            "durationMicroseconds": 75,
                             "functionName": "_itemHeight",
                             "line": 27,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 442,
+                            "durationMicroseconds": 128,
                             "functionName": "_totalSlots",
                             "line": 29,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 93,
                             "functionName": "_currentIndex",
                             "line": 30,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 50,
                             "functionName": "_currentRelativeIndex",
                             "line": 31,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 54,
                             "functionName": "_prevIncrementSlots",
                             "line": 32,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 49,
                             "functionName": "_nextIncrementSlots",
                             "line": 33,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 34,
                             "functionName": "_model",
                             "line": 35,
                             "message": "Cannot access value for name fact"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 38,
+                            "durationMicroseconds": 17,
                             "functionName": "_fact",
                             "line": 36,
                             "message": "Cannot access value for name fact"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 30,
                             "functionName": "firstVisibleIndex",
                             "line": 41,
                             "message": "function without return type annotation returns double. This may prevent proper compilation to Cpp."
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 5069,
+                            "durationMicroseconds": 279,
                             "functionName": "recalcRelativeIndex",
                             "line": 45,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1358,
+                            "durationMicroseconds": 462,
                             "functionName": "reset",
                             "line": 51,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 714,
+                            "durationMicroseconds": 244,
                             "functionName": "onCompleted",
                             "line": 58,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 37,
                             "functionName": "target",
                             "line": 64,
                             "message": "Cannot access value for name _fact"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 578,
+                            "durationMicroseconds": 195,
                             "functionName": "setFocus",
                             "line": 73,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 306,
+                            "durationMicroseconds": 111,
                             "functionName": "orientation",
                             "line": 80,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 92,
                             "functionName": "snapMode",
                             "line": 81,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 38,
                             "functionName": "model",
                             "line": 83,
                             "message": "Cannot access value for name _model"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 342,
+                            "durationMicroseconds": 142,
                             "functionName": "onMovementStarted",
                             "line": 109,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 2167,
+                            "durationMicroseconds": 868,
                             "functionName": "onMovementEnded",
                             "line": 111,
                             "message": "method firstVisibleIndex cannot be resolved."
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 81,
                             "functionName": "fill",
                             "line": 79,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 40,
                             "functionName": "width",
                             "line": 86,
                             "message": "Cannot access value for name _itemWidth"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 27,
                             "functionName": "height",
                             "line": 87,
                             "message": "Cannot access value for name _itemHeight"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 88,
                             "functionName": "verticalAlignment",
                             "line": 88,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 69,
                             "functionName": "horizontalAlignment",
                             "line": 89,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 734,
+                            "durationMicroseconds": 281,
                             "functionName": "text",
                             "line": 90,
                             "message": "Cannot access value for name value"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 38,
                             "functionName": "color",
                             "line": 91,
                             "message": "Cannot access value for name qgcPal"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 3171,
+                            "durationMicroseconds": 1198,
                             "functionName": "onClicked",
                             "line": 95,
                             "message": "Cannot access value for name valueListView"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 92,
                             "functionName": "fill",
                             "line": 94,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 52,
                             "functionName": "width",
                             "line": 119,
                             "message": "Cannot access value for name _itemWidth"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 22,
                             "functionName": "height",
                             "line": 120,
                             "message": "Cannot access value for name _itemHeight"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 43,
                             "functionName": "color",
                             "line": 121,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 126,
                             "message": "Cannot access value for name _itemWidth"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 21,
                             "functionName": "height",
                             "line": 127,
                             "message": "Cannot access value for name _itemHeight"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 25,
                             "functionName": "color",
                             "line": 129,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 360,
+                            "durationMicroseconds": 120,
                             "functionName": "right",
                             "line": 128,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 61,
                             "functionName": "x",
                             "line": 134,
                             "message": "Cannot access value for name _currentRelativeIndex"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 90,
                             "functionName": "y",
                             "line": 135,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 34,
                             "functionName": "width",
                             "line": 136,
                             "message": "Cannot access value for name _itemWidth"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 32,
                             "functionName": "height",
                             "line": 137,
                             "message": "Cannot access value for name _itemHeight"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 71,
                             "functionName": "width",
                             "line": 138,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 32,
                             "functionName": "color",
                             "line": 139,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 573,
+                            "durationMicroseconds": 292,
                             "functionName": "_settingsManager",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 442,
+                            "durationMicroseconds": 203,
                             "functionName": "_planViewSettings",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 31,
                             "functionName": "visible",
                             "line": 20,
                             "message": "Cannot access value for name fact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 23,
                             "functionName": "visible",
                             "line": 27,
                             "message": "Cannot access value for name fact"

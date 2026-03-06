@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 82,
                             "functionName": "label",
                             "line": 9,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 15846,
+                            "durationMicroseconds": 4408,
                             "functionName": "spacing",
                             "line": 15,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 3924,
+                            "durationMicroseconds": 50,
                             "functionName": "text",
                             "line": 19,
                             "message": "Cannot access value for name label"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 19,
                             "functionName": "preferredWidth",
                             "line": 24,
                             "message": "Cannot access value for name labelPreferredWidth"

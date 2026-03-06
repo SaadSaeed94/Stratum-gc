@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 327,
+                            "durationMicroseconds": 201,
                             "functionName": "width",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 306,
                             "functionName": "height",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 80,
                             "functionName": "color",
                             "line": 14,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 11977,
+                            "durationMicroseconds": 8689,
                             "functionName": "radius",
                             "line": 15,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 729,
+                            "durationMicroseconds": 467,
                             "functionName": "visible",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 564,
+                            "durationMicroseconds": 393,
                             "functionName": "_settingEnableMVPanel",
                             "line": 19,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 367,
                             "functionName": "_multipleVehicles",
                             "line": 20,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 462,
+                            "durationMicroseconds": 352,
                             "functionName": "vehicles",
                             "line": 21,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 445,
+                            "durationMicroseconds": 338,
                             "functionName": "selectedVehicles",
                             "line": 22,
                             "message": "Cannot access value for name QGroundControl"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 803,
+                            "durationMicroseconds": 487,
                             "functionName": "contentWidth",
                             "line": 23,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 1023,
+                            "durationMicroseconds": 584,
                             "functionName": "contentHeight",
                             "line": 27,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 430,
+                            "durationMicroseconds": 247,
                             "functionName": "minimumHeight",
                             "line": 31,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 136,
                             "functionName": "fill",
                             "line": 37,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 212,
                             "functionName": "spacing",
                             "line": 44,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 107,
                             "functionName": "fill",
                             "line": 42,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 305,
+                            "durationMicroseconds": 194,
                             "functionName": "margins",
                             "line": 43,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 192,
                             "functionName": "text",
                             "line": 48,
                             "message": "Cannot access value for name selectedVehicles"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 82,
                             "functionName": "visible",
                             "line": 64,
                             "message": "Cannot access value for name maximumHeight"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 103,
                             "functionName": "fill",
                             "line": 63,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 518,
+                            "durationMicroseconds": 335,
                             "functionName": "color",
                             "line": 72,
                             "message": "Cannot access value for name QGroundControl"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 188,
                             "functionName": "left",
                             "line": 67,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 154,
                             "functionName": "right",
                             "line": 68,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 144,
                             "functionName": "top",
                             "line": 69,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 130,
                             "functionName": "orientation",
                             "line": 76,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 59,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 160,
                             "functionName": "color",
                             "line": 77,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 59,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 160,
                             "functionName": "color",
                             "line": 81,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 493,
+                            "durationMicroseconds": 345,
                             "functionName": "color",
                             "line": 90,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 332,
+                            "durationMicroseconds": 165,
                             "functionName": "left",
                             "line": 85,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 144,
                             "functionName": "right",
                             "line": 86,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 141,
                             "functionName": "bottom",
                             "line": 87,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 70,
                             "functionName": "implicitHeight",
                             "line": 99,
                             "message": "Cannot retrieve a non-object type by ID: swipePages"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 45,
                             "functionName": "implicitWidth",
                             "line": 100,
                             "message": "Cannot retrieve a non-object type by ID: swipePages"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 615,
+                            "durationMicroseconds": 354,
                             "functionName": "implicitHeight",
                             "line": 112,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 557,
+                            "durationMicroseconds": 384,
                             "functionName": "implicitWidth",
                             "line": 113,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 335,
+                            "durationMicroseconds": 239,
                             "functionName": "spacing",
                             "line": 120,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 935,
+                            "durationMicroseconds": 714,
                             "functionName": "implicitHeight",
                             "line": 121,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 846,
+                            "durationMicroseconds": 589,
                             "functionName": "implicitWidth",
                             "line": 122,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 183,
                             "functionName": "right",
                             "line": 117,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 153,
                             "functionName": "left",
                             "line": 118,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 163,
                             "functionName": "verticalCenter",
                             "line": 119,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 164,
                             "functionName": "alignment",
                             "line": 126,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 135,
                             "functionName": "alignment",
                             "line": 131,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 147,
                             "functionName": "alignment",
                             "line": 150,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 138,
                             "functionName": "alignment",
                             "line": 155,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 56,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 279,
                             "functionName": "preferredWidth",
                             "line": 161,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 56,
-                            "durationMicroseconds": 413,
+                            "durationMicroseconds": 253,
                             "functionName": "preferredWidth",
                             "line": 170,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 56,
-                            "durationMicroseconds": 385,
+                            "durationMicroseconds": 2605,
                             "functionName": "preferredWidth",
                             "line": 179,
                             "message": ""
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 0,
                             "column": 56,
-                            "durationMicroseconds": 385,
+                            "durationMicroseconds": 419,
                             "functionName": "preferredWidth",
                             "line": 188,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 729,
+                            "durationMicroseconds": 450,
                             "functionName": "implicitHeight",
                             "line": 199,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 585,
+                            "durationMicroseconds": 360,
                             "functionName": "implicitWidth",
                             "line": 200,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 694,
+                            "durationMicroseconds": 467,
                             "functionName": "sourceComponent",
                             "line": 209,
                             "message": "Cannot access value for name globals"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 622,
+                            "durationMicroseconds": 365,
                             "functionName": "rightEdgeCenterInset",
                             "line": 211,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 181,
                             "functionName": "horizontalCenter",
                             "line": 208,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 390,
+                            "durationMicroseconds": 266,
                             "functionName": "height",
                             "line": 232,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 112,
                             "functionName": "width",
                             "line": 233,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 168,
                             "functionName": "radius",
                             "line": 234,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 759,
+                            "durationMicroseconds": 484,
                             "functionName": "color",
                             "line": 235,
                             "message": "Cannot access value for name model"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 452,
+                            "durationMicroseconds": 315,
                             "functionName": "opacity",
                             "line": 236,
                             "message": "Cannot access value for name model"

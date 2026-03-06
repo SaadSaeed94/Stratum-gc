@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 111,
                             "functionName": "autoStartSet",
                             "line": 16,
                             "message": "Cannot access value for name sysAutoStartFact"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 170,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 82,
                             "functionName": "fill",
                             "line": 19,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 89,
                             "functionName": "valueText",
                             "line": 22,
                             "message": "Cannot access value for name sysIdFact"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 94,
                             "functionName": "valueText",
                             "line": 26,
                             "message": "Cannot access value for name autoStartSet"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 85,
                             "functionName": "valueText",
                             "line": 30,
                             "message": "Cannot access value for name autoStartSet"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1874,
+                            "durationMicroseconds": 797,
                             "functionName": "valueText",
                             "line": 35,
                             "message": "Cannot access value for name globals"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 417,
+                            "durationMicroseconds": 153,
                             "functionName": "visible",
                             "line": 38,
                             "message": "Cannot access value for name globals"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1023,
+                            "durationMicroseconds": 416,
                             "functionName": "valueText",
                             "line": 40,
                             "message": "Cannot access value for name globals"

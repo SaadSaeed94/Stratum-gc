@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1892,
+                            "durationMicroseconds": 689,
                             "functionName": "calcLightOutValues",
                             "line": 35,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 119,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 74,
                             "functionName": "onCompleted",
                             "line": 29,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 33,
                             "functionName": "target",
                             "line": 49,
                             "message": "Cannot access value for name _rc5Function"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 17,
                             "functionName": "target",
                             "line": 50,
                             "message": "Cannot access value for name _rc6Function"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 14,
                             "functionName": "target",
                             "line": 51,
                             "message": "Cannot access value for name _rc7Function"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 13,
                             "functionName": "target",
                             "line": 52,
                             "message": "Cannot access value for name _rc8Function"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 14,
                             "functionName": "target",
                             "line": 53,
                             "message": "Cannot access value for name _rc9Function"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 16,
                             "functionName": "target",
                             "line": 54,
                             "message": "Cannot access value for name _rc10Function"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 15,
                             "functionName": "target",
                             "line": 55,
                             "message": "Cannot access value for name _rc11Function"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 27,
+                            "durationMicroseconds": 15,
                             "functionName": "target",
                             "line": 56,
                             "message": "Cannot access value for name _rc12Function"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 26,
+                            "durationMicroseconds": 14,
                             "functionName": "target",
                             "line": 57,
                             "message": "Cannot access value for name _rc13Function"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 14,
                             "functionName": "target",
                             "line": 58,
                             "message": "Cannot access value for name _rc14Function"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 20,
                             "functionName": "lights1Function",
                             "line": 80,
                             "message": "Cannot access value for name _rcFunctionRCIN9"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 16,
                             "functionName": "lights2Function",
                             "line": 81,
                             "message": "Cannot access value for name _rcFunctionRCIN10"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 92,
                             "functionName": "fill",
                             "line": 85,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 611,
+                            "durationMicroseconds": 204,
                             "functionName": "valueText",
                             "line": 89,
                             "message": "Cannot generate efficient code for lookup in QJSValue"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 1019,
+                            "durationMicroseconds": 174,
                             "functionName": "valueText",
                             "line": 94,
                             "message": "Cannot generate efficient code for lookup in QJSValue"

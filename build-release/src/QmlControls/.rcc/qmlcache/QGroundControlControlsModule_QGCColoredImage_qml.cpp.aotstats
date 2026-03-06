@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 415,
+                            "durationMicroseconds": 243,
                             "functionName": "width",
                             "line": 25,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 121,
                             "functionName": "height",
                             "line": 26,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 121,
                             "functionName": "fillMode",
                             "line": 34,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 72,
                             "functionName": "fill",
                             "line": 35,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 66,
                             "functionName": "height",
                             "line": 36,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 82,
                             "functionName": "source",
                             "line": 41,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 104,
                             "functionName": "color",
                             "line": 42,
                             "message": "Cannot load property color from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCColoredImage.qml)::parent with type QQuickItem."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 86,
                             "functionName": "fill",
                             "line": 40,
                             "message": ""

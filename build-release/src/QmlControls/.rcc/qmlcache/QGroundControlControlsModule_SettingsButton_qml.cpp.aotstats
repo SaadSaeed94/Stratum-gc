@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 417,
+                            "durationMicroseconds": 222,
                             "functionName": "textColor",
                             "line": 15,
                             "message": "Cannot access value for name checked"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 50,
                             "functionName": "color",
                             "line": 23,
                             "message": "Cannot access value for name qgcPal"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 1257,
+                            "durationMicroseconds": 615,
                             "functionName": "opacity",
                             "line": 24,
                             "message": "Cannot access value for name checked"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 14605,
+                            "durationMicroseconds": 7275,
                             "functionName": "radius",
                             "line": 25,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 136,
                             "functionName": "spacing",
                             "line": 29,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 79,
                             "functionName": "source",
                             "line": 32,
                             "message": "Cannot access value for name control"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 42,
                             "functionName": "color",
                             "line": 33,
                             "message": "Cannot access value for name control"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 278,
+                            "durationMicroseconds": 118,
                             "functionName": "width",
                             "line": 34,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 99,
                             "functionName": "height",
                             "line": 35,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 49,
                             "functionName": "text",
                             "line": 41,
                             "message": "Cannot access value for name control"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 33,
                             "functionName": "color",
                             "line": 42,
                             "message": "Cannot access value for name control"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 124,
                             "functionName": "horizontalAlignment",
                             "line": 43,
                             "message": ""

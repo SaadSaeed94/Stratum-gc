@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 13671,
+                            "durationMicroseconds": 7856,
                             "functionName": "_compIDWidth",
                             "line": 14,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 384,
+                            "durationMicroseconds": 201,
                             "functionName": "_hzWidth",
                             "line": 15,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 51,
                             "functionName": "_nameWidth",
                             "line": 16,
                             "message": "Cannot access value for name nameLabel"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 1038,
+                            "durationMicroseconds": 629,
                             "functionName": "color",
                             "line": 20,
                             "message": "Cannot access value for name checked"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 141,
                             "functionName": "fill",
                             "line": 19,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 133,
                             "functionName": "spacing",
                             "line": 28,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 56,
                             "functionName": "text",
                             "line": 31,
                             "message": "Cannot access value for name control"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1624,
+                            "durationMicroseconds": 932,
                             "functionName": "color",
                             "line": 32,
                             "message": "Cannot access value for name checked"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 154,
                             "functionName": "verticalAlignment",
                             "line": 33,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 959,
+                            "durationMicroseconds": 543,
                             "functionName": "minimumHeight",
                             "line": 34,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 61,
                             "functionName": "minimumWidth",
                             "line": 35,
                             "message": "Cannot access value for name _compIDWidth"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 48,
                             "functionName": "text",
                             "line": 39,
                             "message": "Cannot access value for name control"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1657,
+                            "durationMicroseconds": 948,
                             "functionName": "color",
                             "line": 40,
                             "message": "Cannot access value for name checked"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 155,
                             "functionName": "alignment",
                             "line": 42,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1683,
+                            "durationMicroseconds": 886,
                             "functionName": "color",
                             "line": 45,
                             "message": "Cannot access value for name checked"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 82,
                             "functionName": "text",
                             "line": 46,
                             "message": "Cannot access value for name messageHz"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 152,
                             "functionName": "horizontalAlignment",
                             "line": 47,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 56,
                             "functionName": "minimumWidth",
                             "line": 48,
                             "message": "Cannot access value for name _hzWidth"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 118,
                             "functionName": "alignment",
                             "line": 49,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 439,
+                            "durationMicroseconds": 247,
                             "functionName": "onCompleted",
                             "line": 53,
                             "message": "Cannot access value for name maxButtonWidth"

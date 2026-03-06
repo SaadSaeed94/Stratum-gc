@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 12044,
+                            "durationMicroseconds": 4585,
                             "functionName": "spacing",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 2037,
+                            "durationMicroseconds": 697,
                             "functionName": "onCompleted",
                             "line": 15,
                             "message": "Cannot load property checked from call to method itemAt, returning QQuickItem."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 57,
                             "functionName": "model",
                             "line": 26,
                             "message": "Cannot access value for name fact"

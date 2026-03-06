@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 115,
                             "functionName": "color",
                             "line": 8,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 411,
+                            "durationMicroseconds": 201,
                             "functionName": "maxWidth",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 482,
+                            "durationMicroseconds": 303,
                             "functionName": "implicitWidth",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 166,
                             "functionName": "implicitHeight",
                             "line": 17,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 245,
                             "functionName": "_scrollMarquee",
                             "line": 21,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 231,
                             "functionName": "_scrollWidth",
                             "line": 22,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 211,
                             "functionName": "_scrollDuration",
                             "line": 23,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 82,
                             "functionName": "_innerText2StartX",
                             "line": 25,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 161,
                             "functionName": "on_ScrollWidthChanged",
                             "line": 36,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 17036,
+                            "durationMicroseconds": 11135,
                             "functionName": "pointSize",
                             "line": 18,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 135,
                             "functionName": "family",
                             "line": 19,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 652,
+                            "durationMicroseconds": 418,
                             "functionName": "onCompleted",
                             "line": 28,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 639,
+                            "durationMicroseconds": 385,
                             "functionName": "onTriggered",
                             "line": 42,
                             "message": "Cannot access value for name _componentCompleted"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 192,
                             "functionName": "font",
                             "line": 64,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 142,
                             "functionName": "color",
                             "line": 65,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 125,
                             "functionName": "text",
                             "line": 67,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 51,
                             "functionName": "startX",
                             "line": 69,
                             "message": "Cannot access value for name _innerText1StartX"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 151,
                             "functionName": "verticalCenter",
                             "line": 63,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 122,
                             "functionName": "from",
                             "line": 73,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 71,
                             "functionName": "to",
                             "line": 74,
                             "message": "Cannot access value for name _scrollWidth"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 39,
                             "functionName": "duration",
                             "line": 75,
                             "message": "Cannot access value for name _scrollDuration"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 912,
+                            "durationMicroseconds": 538,
                             "functionName": "onFinished",
                             "line": 77,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 153,
                             "functionName": "font",
                             "line": 92,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 131,
                             "functionName": "color",
                             "line": 93,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 103,
                             "functionName": "text",
                             "line": 95,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 48,
                             "functionName": "visible",
                             "line": 96,
                             "message": "Cannot access value for name _scrollMarquee"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 35,
                             "functionName": "startX",
                             "line": 98,
                             "message": "Cannot access value for name _innerText2StartX"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 147,
                             "functionName": "verticalCenter",
                             "line": 91,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 121,
                             "functionName": "from",
                             "line": 102,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 70,
                             "functionName": "to",
                             "line": 103,
                             "message": "Cannot access value for name _scrollWidth"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 38,
                             "functionName": "duration",
                             "line": 104,
                             "message": "Cannot access value for name _scrollDuration"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 145,
                             "functionName": "font",
                             "line": 110,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 105,
                             "functionName": "text",
                             "line": 112,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 152,
                             "functionName": "font",
                             "line": 118,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 15,
-                            "durationMicroseconds": 489,
+                            "durationMicroseconds": 308,
                             "functionName": "position",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 1326,
+                            "durationMicroseconds": 742,
                             "functionName": "onFlightModeChanged",
                             "line": 38,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 602,
+                            "durationMicroseconds": 327,
                             "functionName": "pivot",
                             "line": 26,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 82,
                             "functionName": "running",
                             "line": 29,
                             "message": "Cannot access value for name flightMode"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 109,
                             "functionName": "target",
                             "line": 30,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 103,
                             "functionName": "loops",
                             "line": 35,
                             "message": ""

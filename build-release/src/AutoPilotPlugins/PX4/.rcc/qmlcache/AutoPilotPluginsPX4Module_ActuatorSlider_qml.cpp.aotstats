@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 97,
                             "functionName": "snap",
                             "line": 14,
                             "message": "Cannot load property defaultValue from (component in /home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorSlider.qml)::channel with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 44,
                             "functionName": "span",
                             "line": 15,
                             "message": "Cannot load property max from (component in /home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorSlider.qml)::channel with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 437,
+                            "durationMicroseconds": 185,
                             "functionName": "snapRange",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 73,
                             "functionName": "defaultVal",
                             "line": 17,
                             "message": "Cannot load property min from (component in /home/saad-saeed/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorSlider.qml)::channel with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 129,
                             "functionName": "stopTimer",
                             "line": 26,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 66,
                             "functionName": "stop",
                             "line": 30,
                             "message": "Cannot retrieve a non-object type by ID: channelSlider"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 104,
                             "functionName": "alignment",
                             "line": 22,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 547,
+                            "durationMicroseconds": 216,
                             "functionName": "onTriggered",
                             "line": 69,
                             "message": "Cannot retrieve a non-object type by ID: channelSlider"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 34,
                             "functionName": "onCompleted",
                             "line": 78,
                             "message": "Cannot find name blockUpdates"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 39,
                             "functionName": "text",
                             "line": 86,
                             "message": "Cannot access value for name channel"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 83,
                             "functionName": "width",
                             "line": 87,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 65,
                             "functionName": "height",
                             "line": 88,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 113,
                             "functionName": "horizontalCenter",
                             "line": 85,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 140,
                             "functionName": "y",
                             "line": 91,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 160,
                             "functionName": "pageComponent",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 17,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 19,
                             "functionName": "height",
                             "line": 18,
                             "message": "Cannot access value for name availableHeight"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 43,
                             "functionName": "_rcMapFltmodeExists",
                             "line": 22,
                             "message": "Cannot retrieve a non-object type by ID: controller"

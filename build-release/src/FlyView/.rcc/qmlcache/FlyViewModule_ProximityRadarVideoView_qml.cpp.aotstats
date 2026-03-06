@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 404,
+                            "durationMicroseconds": 252,
                             "functionName": "visible",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 569,
+                            "durationMicroseconds": 353,
                             "functionName": "_minlength",
                             "line": 17,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 427,
+                            "durationMicroseconds": 290,
                             "functionName": "_ratio",
                             "line": 18,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 106,
                             "functionName": "fill",
                             "line": 11,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 126,
                             "functionName": "vehicle",
                             "line": 22,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 160,
                             "functionName": "onRotationValueChanged",
                             "line": 23,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 5577,
+                            "durationMicroseconds": 3007,
                             "functionName": "onPaint",
                             "line": 31,
                             "message": "Cannot access value for name _minlength"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 160,
                             "functionName": "fill",
                             "line": 28,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 91,
                             "functionName": "fill",
                             "line": 52,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 45,
                             "functionName": "model",
                             "line": 55,
                             "message": "Cannot load property length from ProximityRadarValues::rgRotationValues with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 88,
                             "functionName": "x",
                             "line": 58,
                             "message": "Cannot access value for name _sectorViewEllipsoid"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 60,
                             "functionName": "y",
                             "line": 59,
                             "message": "Cannot access value for name _sectorViewEllipsoid"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 70,
                             "functionName": "text",
                             "line": 60,
                             "message": "Cannot access value for name proximityValues"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 92,
                             "functionName": "visible",
                             "line": 62,
                             "message": "Cannot access value for name proximityValues"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 539,
+                            "durationMicroseconds": 309,
                             "functionName": "x",
                             "line": 65,
                             "message": "Cannot access value for name index"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 475,
+                            "durationMicroseconds": 264,
                             "functionName": "y",
                             "line": 66,
                             "message": "Cannot access value for name index"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 55,
                             "functionName": "xScale",
                             "line": 73,
                             "message": "Cannot access value for name _minlength"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 41,
                             "functionName": "yScale",
                             "line": 74,
                             "message": "Cannot access value for name _minlength"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 458,
+                            "durationMicroseconds": 308,
                             "functionName": "x",
                             "line": 71,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 192,
                             "functionName": "y",
                             "line": 72,
                             "message": ""

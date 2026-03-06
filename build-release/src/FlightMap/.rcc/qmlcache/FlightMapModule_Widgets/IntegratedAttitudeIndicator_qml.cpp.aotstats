@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 481,
+                            "durationMicroseconds": 282,
                             "functionName": "implicitWidth",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 75,
                             "functionName": "implicitHeight",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 18940,
+                            "durationMicroseconds": 11789,
                             "functionName": "compassRadius",
                             "line": 12,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 355,
+                            "durationMicroseconds": 234,
                             "functionName": "attitudeSize",
                             "line": 15,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 209,
                             "functionName": "attitudeSpacing",
                             "line": 16,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 352,
+                            "durationMicroseconds": 225,
                             "functionName": "_totalRadius",
                             "line": 18,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 455,
+                            "durationMicroseconds": 289,
                             "functionName": "_attitudeRadius",
                             "line": 19,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 371,
+                            "durationMicroseconds": 245,
                             "functionName": "_maxRadians",
                             "line": 21,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 177,
                             "functionName": "_zeroAttitudeRadians",
                             "line": 22,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 707,
+                            "durationMicroseconds": 428,
                             "functionName": "_clampedAngleDegrees",
                             "line": 23,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 165,
                             "functionName": "_attitudeAnglePercent",
                             "line": 24,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 606,
+                            "durationMicroseconds": 512,
                             "functionName": "qgcPal",
                             "line": 26,
                             "message": "Cannot access value for name QGroundControl"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 183,
                             "functionName": "on_AttitudeAnglePercentChanged",
                             "line": 28,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 888,
+                            "durationMicroseconds": 341,
                             "functionName": "onPaint",
                             "line": 34,
                             "message": "Cannot access value for name qgcPal"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 126,
                             "functionName": "fill",
                             "line": 32,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 103,
                             "functionName": "visible",
                             "line": 51,
                             "message": "Cannot access value for name attitudeAngleDegrees"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 55,
                             "functionName": "startRollRadiansRaw",
                             "line": 53,
                             "message": "Cannot access value for name _zeroAttitudeRadians"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 94,
                             "functionName": "endRollRadiansRaw",
                             "line": 54,
                             "message": "Cannot access value for name _zeroAttitudeRadians"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 453,
+                            "durationMicroseconds": 249,
                             "functionName": "startRollRadiansOrdered",
                             "line": 55,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 378,
+                            "durationMicroseconds": 219,
                             "functionName": "endRollRadiansOrdered",
                             "line": 56,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 348,
+                            "durationMicroseconds": 220,
                             "functionName": "onPaint",
                             "line": 58,
                             "message": "Cannot access value for name qgcPal"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 118,
                             "functionName": "fill",
                             "line": 50,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 305,
+                            "durationMicroseconds": 193,
                             "functionName": "onPaint",
                             "line": 75,
                             "message": "Cannot access value for name qgcPal"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 108,
                             "functionName": "fill",
                             "line": 73,
                             "message": ""

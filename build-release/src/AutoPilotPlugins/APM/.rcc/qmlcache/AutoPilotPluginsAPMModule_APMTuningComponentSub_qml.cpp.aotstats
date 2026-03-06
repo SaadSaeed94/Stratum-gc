@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 221,
                             "functionName": "pageComponent",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 76,
                             "functionName": "width",
                             "line": 16,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 102,
                             "functionName": "spacing",
                             "line": 17,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 10918,
+                            "durationMicroseconds": 7088,
                             "functionName": "_margins",
                             "line": 23,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 77,
                             "functionName": "spacing",
                             "line": 26,
                             "message": "Cannot access value for name _margins"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 103,
                             "functionName": "visible",
                             "line": 52,
                             "message": "Cannot retrieve a non-object type by ID: atcButton"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 81,
                             "functionName": "height",
                             "line": 55,
                             "message": "Cannot access value for name _margins"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 41,
                             "functionName": "color",
                             "line": 56,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 177,
                             "functionName": "left",
                             "line": 53,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 126,
                             "functionName": "right",
                             "line": 54,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 191,
                             "functionName": "width",
                             "line": 60,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 65,
                             "functionName": "spacing",
                             "line": 65,
                             "message": "Cannot access value for name _margins"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 57,
                             "functionName": "margins",
                             "line": 61,
                             "message": "Cannot access value for name _margins"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 162,
                             "functionName": "left",
                             "line": 62,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 129,
                             "functionName": "right",
                             "line": 63,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 121,
                             "functionName": "top",
                             "line": 64,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 108,
                             "functionName": "visible",
                             "line": 88,
                             "message": "Cannot retrieve a non-object type by ID: posButton"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 87,
                             "functionName": "height",
                             "line": 91,
                             "message": "Cannot access value for name _margins"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 42,
                             "functionName": "color",
                             "line": 92,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 211,
                             "functionName": "left",
                             "line": 89,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 145,
                             "functionName": "right",
                             "line": 90,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 80,
                             "functionName": "spacing",
                             "line": 101,
                             "message": "Cannot access value for name _margins"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 53,
                             "functionName": "margins",
                             "line": 97,
                             "message": "Cannot access value for name _margins"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 169,
                             "functionName": "left",
                             "line": 98,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 136,
                             "functionName": "right",
                             "line": 99,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 147,
                             "functionName": "top",
                             "line": 100,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 80,
                             "functionName": "spacing",
                             "line": 124,
                             "message": "Cannot access value for name _margins"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 56,
                             "functionName": "margins",
                             "line": 120,
                             "message": "Cannot access value for name _margins"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 304,
+                            "durationMicroseconds": 189,
                             "functionName": "left",
                             "line": 121,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 174,
                             "functionName": "right",
                             "line": 122,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 143,
                             "functionName": "top",
                             "line": 123,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 677,
+                            "durationMicroseconds": 438,
                             "functionName": "sourceComponent",
                             "line": 148,
                             "message": "Cannot access value for name globals"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 238,
                             "functionName": "left",
                             "line": 144,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 139,
                             "functionName": "right",
                             "line": 145,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 142,
                             "functionName": "top",
                             "line": 146,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 114,
                             "functionName": "visible",
                             "line": 154,
                             "message": "Cannot retrieve a non-object type by ID: navButton"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 93,
                             "functionName": "height",
                             "line": 157,
                             "message": "Cannot access value for name _margins"
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 40,
                             "functionName": "color",
                             "line": 158,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 297,
+                            "durationMicroseconds": 192,
                             "functionName": "left",
                             "line": 155,
                             "message": ""
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 169,
                             "functionName": "right",
                             "line": 156,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 74,
                             "functionName": "spacing",
                             "line": 168,
                             "message": "Cannot access value for name _margins"
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 58,
                             "functionName": "margins",
                             "line": 164,
                             "message": "Cannot access value for name _margins"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 181,
                             "functionName": "left",
                             "line": 165,
                             "message": ""
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 150,
                             "functionName": "right",
                             "line": 166,
                             "message": ""
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 142,
                             "functionName": "top",
                             "line": 167,
                             "message": ""
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 96,
                             "functionName": "spacing",
                             "line": 192,
                             "message": "Cannot access value for name _margins"
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 64,
                             "functionName": "margins",
                             "line": 188,
                             "message": "Cannot access value for name _margins"
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 242,
                             "functionName": "left",
                             "line": 189,
                             "message": ""
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 150,
                             "functionName": "right",
                             "line": 190,
                             "message": ""
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 138,
                             "functionName": "top",
                             "line": 191,
                             "message": ""
@@ -920,7 +920,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 691,
+                            "durationMicroseconds": 463,
                             "functionName": "sourceComponent",
                             "line": 215,
                             "message": "Cannot access value for name globals"
@@ -928,7 +928,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 221,
                             "functionName": "left",
                             "line": 211,
                             "message": ""
@@ -936,7 +936,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 129,
                             "functionName": "right",
                             "line": 212,
                             "message": ""
@@ -944,7 +944,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 126,
                             "functionName": "top",
                             "line": 213,
                             "message": ""

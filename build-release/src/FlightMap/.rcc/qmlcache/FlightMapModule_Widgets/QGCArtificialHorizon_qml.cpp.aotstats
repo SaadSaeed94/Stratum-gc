@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 596,
+                            "durationMicroseconds": 397,
                             "functionName": "angularScale",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 132,
                             "functionName": "fill",
                             "line": 8,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 217,
                             "functionName": "width",
                             "line": 14,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 187,
                             "functionName": "height",
                             "line": 15,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 101,
                             "functionName": "centerIn",
                             "line": 16,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 98,
                             "functionName": "fill",
                             "line": 19,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 502,
+                            "durationMicroseconds": 345,
                             "functionName": "color",
                             "line": 23,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method hsla, returning QVariant -> QColor stored as QVariant"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 438,
+                            "durationMicroseconds": 280,
                             "functionName": "color",
                             "line": 24,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method hsla, returning QVariant -> QColor stored as QVariant"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 212,
                             "functionName": "height",
                             "line": 29,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 172,
                             "functionName": "left",
                             "line": 31,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 149,
                             "functionName": "right",
                             "line": 32,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 216,
+                            "durationMicroseconds": 144,
                             "functionName": "bottom",
                             "line": 33,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 439,
+                            "durationMicroseconds": 285,
                             "functionName": "color",
                             "line": 38,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method hsla, returning QVariant -> QColor stored as QVariant"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 436,
+                            "durationMicroseconds": 292,
                             "functionName": "color",
                             "line": 39,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method hsla, returning QVariant -> QColor stored as QVariant"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 71,
                             "functionName": "angle",
                             "line": 49,
                             "message": "Cannot access value for name rollAngle"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 202,
                             "functionName": "x",
                             "line": 47,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 181,
                             "functionName": "y",
                             "line": 48,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 60,
                             "functionName": "y",
                             "line": 44,
                             "message": "Cannot access value for name angularScale"

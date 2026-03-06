@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 624,
+                            "durationMicroseconds": 379,
                             "functionName": "width",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 181,
                             "functionName": "height",
                             "line": 9,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 88,
                             "functionName": "radius",
                             "line": 10,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 71,
                             "functionName": "color",
                             "line": 11,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 81,
                             "functionName": "extraValuesWidth",
                             "line": 14,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 534,
+                            "durationMicroseconds": 358,
                             "functionName": "_defaultWidth",
                             "line": 16,
                             "message": "Cannot access value for name mainWindow"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 13626,
+                            "durationMicroseconds": 8814,
                             "functionName": "_maxWidth",
                             "line": 17,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 296,
                             "functionName": "_innerRadius",
                             "line": 18,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 159,
                             "functionName": "_outerRadius",
                             "line": 19,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 222,
                             "functionName": "_spacing",
                             "line": 20,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 210,
                             "functionName": "_topBottomMargin",
                             "line": 21,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 118,
                             "functionName": "fill",
                             "line": 23,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 371,
+                            "durationMicroseconds": 205,
                             "functionName": "size",
                             "line": 31,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 358,
                             "functionName": "vehicle",
                             "line": 32,
                             "message": "Cannot access value for name globals"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 143,
                             "functionName": "leftMargin",
                             "line": 29,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 157,
                             "functionName": "left",
                             "line": 30,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 146,
                             "functionName": "verticalCenter",
                             "line": 33,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 208,
                             "functionName": "size",
                             "line": 40,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 684,
+                            "durationMicroseconds": 416,
                             "functionName": "vehicle",
                             "line": 41,
                             "message": "Cannot access value for name globals"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 135,
                             "functionName": "leftMargin",
                             "line": 38,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 156,
                             "functionName": "left",
                             "line": 39,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 161,
                             "functionName": "verticalCenter",
                             "line": 42,
                             "message": ""

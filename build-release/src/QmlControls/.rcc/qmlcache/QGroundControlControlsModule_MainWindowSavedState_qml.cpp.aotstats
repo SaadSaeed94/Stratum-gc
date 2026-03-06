@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 17004,
+                            "durationMicroseconds": 9960,
                             "functionName": "_enabled",
                             "line": 12,
                             "message": "Cannot load property fakeMobile from ScreenTools."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 1421,
+                            "durationMicroseconds": 865,
                             "functionName": "_setDefaultDesktopWindowSize",
                             "line": 25,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1891,
+                            "durationMicroseconds": 1067,
                             "functionName": "saveSettings",
                             "line": 69,
                             "message": "Cannot access value for name ApplicationWindow"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 2220,
+                            "durationMicroseconds": 1324,
                             "functionName": "onCompleted",
                             "line": 30,
                             "message": "Cannot load property fakeMobile from ScreenTools."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 58,
                             "functionName": "target",
                             "line": 54,
                             "message": "Cannot access value for name window"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 93,
                             "functionName": "onXChanged",
                             "line": 55,
                             "message": "Cannot access value for name _enabled"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 75,
                             "functionName": "onYChanged",
                             "line": 56,
                             "message": "Cannot access value for name _enabled"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 66,
                             "functionName": "onWidthChanged",
                             "line": 57,
                             "message": "Cannot access value for name _enabled"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 61,
                             "functionName": "onHeightChanged",
                             "line": 58,
                             "message": "Cannot access value for name _enabled"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 66,
                             "functionName": "onVisibilityChanged",
                             "line": 59,
                             "message": "Cannot access value for name _enabled"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 99,
                             "functionName": "onTriggered",
                             "line": 66,
                             "message": "method saveSettings cannot be resolved."

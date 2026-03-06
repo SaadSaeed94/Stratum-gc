@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 14,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 172,
                             "functionName": "buttons",
                             "line": 11,
                             "message": "Cannot access value for name Dialog"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 5255,
+                            "durationMicroseconds": 3069,
                             "functionName": "onCompleted",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 13247,
+                            "durationMicroseconds": 7456,
                             "functionName": "spacing",
                             "line": 67,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 132,
                             "functionName": "pointSize",
                             "line": 71,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 192,
                             "functionName": "radius",
                             "line": 82,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 2277,
+                            "durationMicroseconds": 1089,
                             "functionName": "color",
                             "line": 83,
                             "message": "Cannot access value for name pressed"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 594,
+                            "durationMicroseconds": 332,
                             "functionName": "text",
                             "line": 91,
                             "message": "Cannot access value for name modeName"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 2842,
+                            "durationMicroseconds": 1619,
                             "functionName": "color",
                             "line": 92,
                             "message": "Cannot access value for name pressed"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 434,
+                            "durationMicroseconds": 273,
                             "functionName": "width",
                             "line": 96,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 468,
+                            "durationMicroseconds": 267,
                             "functionName": "text",
                             "line": 97,
                             "message": "Cannot access value for name help"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 475,
+                            "durationMicroseconds": 260,
                             "functionName": "wrapMode",
                             "line": 98,
                             "message": "Cannot access value for name Label"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 50,
                             "functionName": "color",
                             "line": 100,
                             "message": "Cannot access value for name modeNameLabel"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 146,
                             "functionName": "pointSize",
                             "line": 99,
                             "message": ""

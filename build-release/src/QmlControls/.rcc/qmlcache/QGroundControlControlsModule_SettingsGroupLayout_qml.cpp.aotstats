@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 451,
+                            "durationMicroseconds": 271,
                             "functionName": "spacing",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 274,
                             "functionName": "implicitWidth",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 440,
+                            "durationMicroseconds": 252,
                             "functionName": "implicitHeight",
                             "line": 11,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 715,
+                            "durationMicroseconds": 391,
                             "functionName": "defaultBorderColor",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 89,
                             "functionName": "outerBorderColor",
                             "line": 18,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 13350,
+                            "durationMicroseconds": 7358,
                             "functionName": "defaultHeadingPointSize",
                             "line": 20,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 91,
                             "functionName": "headingPointSize",
                             "line": 21,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 327,
+                            "durationMicroseconds": 190,
                             "functionName": "_margins",
                             "line": 28,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 2107,
+                            "durationMicroseconds": 1196,
                             "functionName": "_ySortedChildren",
                             "line": 31,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 71,
                             "functionName": "visible",
                             "line": 43,
                             "message": "Cannot access value for name heading"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 35,
                             "functionName": "leftMargin",
                             "line": 40,
                             "message": "Cannot access value for name _margins"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 34,
                             "functionName": "text",
                             "line": 46,
                             "message": "Cannot access value for name heading"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 33,
                             "functionName": "pointSize",
                             "line": 47,
                             "message": "Cannot access value for name headingPointSize"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 46,
                             "functionName": "text",
                             "line": 53,
                             "message": "Cannot access value for name headingDescription"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 158,
                             "functionName": "wrapMode",
                             "line": 54,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 56,
                             "message": "Cannot access value for name headingDescription"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 135,
                             "functionName": "pointSize",
                             "line": 55,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 133,
                             "functionName": "implicitWidth",
                             "line": 63,
                             "message": "Cannot access value for name showBorder"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 91,
                             "functionName": "implicitHeight",
                             "line": 64,
                             "message": "Cannot access value for name showBorder"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 366,
+                            "durationMicroseconds": 194,
                             "functionName": "radius",
                             "line": 68,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 43,
                             "functionName": "color",
                             "line": 66,
                             "message": "Cannot access value for name outerBorderColor"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 67,
                             "message": "Cannot access value for name showBorder"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 95,
                             "functionName": "model",
                             "line": 71,
                             "message": "Cannot access value for name showDividers"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 84,
                             "functionName": "x",
                             "line": 74,
                             "message": "Cannot access value for name showBorder"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 148,
                             "functionName": "y",
                             "line": 75,
                             "message": "Cannot load property y from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/SettingsGroupLayout.qml)::_contentItem with type QVariant."
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 95,
                             "functionName": "width",
                             "line": 76,
                             "message": "Cannot access value for name showBorder"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 553,
+                            "durationMicroseconds": 309,
                             "functionName": "color",
                             "line": 78,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 154,
                             "functionName": "visible",
                             "line": 79,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 68,
                             "functionName": "_contentItem",
                             "line": 81,
                             "message": "Cannot access value for name _ySortedChildren"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 1246,
+                            "durationMicroseconds": 713,
                             "functionName": "_isContentItemVisible",
                             "line": 87,
                             "message": "Cannot load property visible from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/SettingsGroupLayout.qml)::_contentItem with type QVariant."
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 158,
+                            "durationMicroseconds": 101,
                             "functionName": "x",
                             "line": 107,
                             "message": "Cannot access value for name showBorder"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 71,
                             "functionName": "y",
                             "line": 108,
                             "message": "Cannot access value for name showBorder"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 96,
                             "functionName": "width",
                             "line": 109,
                             "message": "Cannot access value for name showBorder"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 79,
                             "functionName": "spacing",
                             "line": 110,
                             "message": "Cannot access value for name _margins"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 232,
                             "functionName": "state",
                             "line": 6,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 175,
                             "functionName": "_viewControl",
                             "line": 19,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 82,
                             "functionName": "name",
                             "line": 55,
                             "message": "Cannot access value for name windowState"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 48,
                             "functionName": "target",
                             "line": 58,
                             "message": "Cannot access value for name _viewControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 1,
                             "column": 33,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 31,
                             "functionName": "top",
                             "line": 59,
                             "message": "Skipped code generation for binding for property of type QQmlScriptString; nothing to do."

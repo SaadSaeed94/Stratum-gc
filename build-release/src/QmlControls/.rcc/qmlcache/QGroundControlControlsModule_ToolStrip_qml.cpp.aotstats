@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 536,
+                            "durationMicroseconds": 316,
                             "functionName": "color",
                             "line": 9,
                             "message": "Cannot access value for name qgcPal"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 13212,
+                            "durationMicroseconds": 7830,
                             "functionName": "width",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 937,
+                            "durationMicroseconds": 517,
                             "functionName": "height",
                             "line": 13,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 185,
                             "functionName": "radius",
                             "line": 14,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 123,
                             "functionName": "fontSize",
                             "line": 18,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 86,
                             "functionName": "_dropPanel",
                             "line": 20,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
                             "line": 33,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 113,
                             "functionName": "contentHeight",
                             "line": 40,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 101,
                             "functionName": "flickableDirection",
                             "line": 41,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 370,
+                            "durationMicroseconds": 183,
                             "functionName": "margins",
                             "line": 38,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 76,
                             "functionName": "fill",
                             "line": 39,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 178,
                             "functionName": "spacing",
                             "line": 48,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 147,
                             "functionName": "left",
                             "line": 46,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 304,
+                            "durationMicroseconds": 123,
                             "functionName": "right",
                             "line": 47,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 490,
+                            "durationMicroseconds": 240,
                             "functionName": "radius",
                             "line": 60,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 154,
                             "functionName": "fontPointSize",
                             "line": 61,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 122,
                             "functionName": "toolStripAction",
                             "line": 62,
                             "message": "Cannot access value for name modelData"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 39,
                             "functionName": "dropPanel",
                             "line": 63,
                             "message": "Cannot access value for name _dropPanel"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 193,
                             "functionName": "onDropped",
                             "line": 64,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 72,
                             "functionName": "onDropped",
                             "line": 64,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 116,
                             "functionName": "toolStrip",
                             "line": 86,
                             "message": ""

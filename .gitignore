@@ -28,6 +28,7 @@ tags
 # ------------------------------------------------------------------------------
 build/
 cmake-build-*/
+build-*/
 out/
 CMakeFiles
 CMakeLists.txt.user*

@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 114,
                             "functionName": "visible",
                             "line": 17,
                             "message": "Cannot access value for name batt1Monitor"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 107,
                             "functionName": "label",
                             "line": 27,
                             "message": "Cannot access value for name disabledString"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 70,
                             "functionName": "label",
                             "line": 36,
                             "message": "Cannot access value for name disabledString"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 49,
                             "functionName": "visible",
                             "line": 47,
                             "message": "Cannot access value for name batt1Monitor"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 73,
                             "functionName": "label",
                             "line": 57,
                             "message": "Cannot access value for name disabledString"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 60,
                             "functionName": "label",
                             "line": 66,
                             "message": "Cannot access value for name disabledString"

@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 86,
                             "functionName": "message",
                             "line": 6,
                             "message": "Cannot load property landMessage from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionLand.qml)::_guidedController with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 35,
                             "functionName": "actionID",
                             "line": 10,
                             "message": "Cannot load property actionLand from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionLand.qml)::_guidedController with type QVariant."

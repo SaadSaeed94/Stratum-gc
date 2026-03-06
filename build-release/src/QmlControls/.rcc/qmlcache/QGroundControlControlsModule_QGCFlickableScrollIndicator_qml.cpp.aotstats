@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 93,
                             "functionName": "color",
                             "line": 9,
                             "message": "Cannot load property indicatorColor from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCFlickableScrollIndicator.qml)::_flickable with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 140,
                             "functionName": "opacity",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 64,
                             "functionName": "visible",
                             "line": 11,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 14214,
+                            "durationMicroseconds": 8337,
                             "functionName": "state",
                             "line": 12,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 98,
                             "functionName": "orientation",
                             "line": 15,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 604,
+                            "durationMicroseconds": 92,
                             "functionName": "_flickable",
                             "line": 23,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 478,
+                            "durationMicroseconds": 275,
                             "functionName": "onVisibleChanged",
                             "line": 66,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 440,
+                            "durationMicroseconds": 240,
                             "functionName": "onHeightChanged",
                             "line": 67,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 412,
+                            "durationMicroseconds": 222,
                             "functionName": "onWidthChanged",
                             "line": 68,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 100,
                             "functionName": "target",
                             "line": 48,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 1,
                             "column": 37,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 29,
                             "functionName": "bottom",
                             "line": 49,
                             "message": "Skipped code generation for binding for property of type QQmlScriptString; nothing to do."

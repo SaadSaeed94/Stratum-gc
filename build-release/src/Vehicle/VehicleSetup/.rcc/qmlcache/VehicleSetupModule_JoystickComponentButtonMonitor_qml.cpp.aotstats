@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 14090,
+                            "durationMicroseconds": 7521,
                             "functionName": "spacing",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 717,
+                            "durationMicroseconds": 388,
                             "functionName": "_joystick",
                             "line": 14,
                             "message": "Cannot access value for name joystickManager"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 47,
                             "functionName": "target",
                             "line": 19,
                             "message": "Cannot access value for name _joystick"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 43,
                             "functionName": "model",
                             "line": 30,
                             "message": "Cannot access value for name _joystick"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 472,
+                            "durationMicroseconds": 242,
                             "functionName": "implicitWidth",
                             "line": 33,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 82,
                             "functionName": "implicitHeight",
                             "line": 34,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 117,
                             "functionName": "color",
                             "line": 37,
                             "message": "Cannot access value for name qgcPal"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 37,
                             "functionName": "color",
                             "line": 36,
                             "message": "Cannot access value for name qgcPal"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 133,
                             "functionName": "color",
                             "line": 43,
                             "message": "Cannot access value for name pressed"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 143,
                             "functionName": "horizontalAlignment",
                             "line": 44,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 106,
                             "functionName": "verticalAlignment",
                             "line": 45,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 561,
+                            "durationMicroseconds": 384,
                             "functionName": "text",
                             "line": 46,
                             "message": "Cannot access value for name modelData"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 113,
                             "functionName": "fill",
                             "line": 42,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 1740,
+                            "durationMicroseconds": 1018,
                             "functionName": "source",
                             "line": 15,
                             "message": "Cannot access value for name globals"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 505,
+                            "durationMicroseconds": 284,
                             "functionName": "width",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 154,
                             "functionName": "height",
                             "line": 17,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 122,
                             "functionName": "fillMode",
                             "line": 19,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 86,
                             "functionName": "centerIn",
                             "line": 20,
                             "message": ""

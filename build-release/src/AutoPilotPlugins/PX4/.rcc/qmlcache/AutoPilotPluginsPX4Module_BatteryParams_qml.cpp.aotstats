@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 799,
+                            "durationMicroseconds": 255,
                             "functionName": "battNumCellsAvailable",
                             "line": 25,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 630,
+                            "durationMicroseconds": 144,
                             "functionName": "battHighVoltAvailable",
                             "line": 26,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 568,
+                            "durationMicroseconds": 138,
                             "functionName": "battLowVoltAvailable",
                             "line": 27,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 611,
+                            "durationMicroseconds": 133,
                             "functionName": "battVoltLoadDropAvailable",
                             "line": 28,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 713,
+                            "durationMicroseconds": 133,
                             "functionName": "battVoltageDividerAvailable",
                             "line": 29,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 529,
+                            "durationMicroseconds": 144,
                             "functionName": "battAmpsPerVoltAvailable",
                             "line": 30,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"

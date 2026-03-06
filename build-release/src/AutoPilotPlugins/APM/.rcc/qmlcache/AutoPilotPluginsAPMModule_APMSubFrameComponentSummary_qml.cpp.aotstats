@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 162,
                             "functionName": "frameName",
                             "line": 15,
                             "message": "Cannot access value for name frameFact"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 125,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 53,
                             "functionName": "fill",
                             "line": 39,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 466,
+                            "durationMicroseconds": 200,
                             "functionName": "valueText",
                             "line": 43,
                             "message": "method frameName cannot be resolved."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1842,
+                            "durationMicroseconds": 690,
                             "functionName": "valueText",
                             "line": 48,
                             "message": "Cannot access value for name globals"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 717,
+                            "durationMicroseconds": 289,
                             "functionName": "valueText",
                             "line": 53,
                             "message": "Cannot access value for name globals"

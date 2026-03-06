@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 77,
                             "functionName": "actionID",
                             "line": 9,
                             "message": "Cannot load property actionRTL from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionRTL.qml)::_guidedController with type QVariant."

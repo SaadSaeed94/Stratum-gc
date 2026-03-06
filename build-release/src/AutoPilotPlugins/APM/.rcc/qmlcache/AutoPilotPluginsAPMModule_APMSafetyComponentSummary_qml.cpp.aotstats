@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 81,
                             "functionName": "_batt2MonitorAvailable",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 40,
                             "functionName": "_batt1MonitorEnabled",
                             "line": 20,
                             "message": "Cannot access value for name _batt1Monitor"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 41,
                             "functionName": "_batt2MonitorEnabled",
                             "line": 21,
                             "message": "Cannot access value for name _batt2Monitor"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 33,
                             "functionName": "_batt1FSCritActAvailable",
                             "line": 27,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 26,
                             "functionName": "_roverFirmware",
                             "line": 29,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 114,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 75,
                             "functionName": "fill",
                             "line": 33,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 416,
+                            "durationMicroseconds": 169,
                             "functionName": "valueText",
                             "line": 37,
                             "message": "Cannot access value for name _armingCheckFact"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 50,
                             "functionName": "valueText",
                             "line": 53,
                             "message": "Cannot access value for name fact"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 40,
                             "functionName": "visible",
                             "line": 54,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 44,
                             "functionName": "valueText",
                             "line": 61,
                             "message": "Cannot access value for name fact"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 31,
                             "functionName": "visible",
                             "line": 62,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 38,
                             "functionName": "valueText",
                             "line": 69,
                             "message": "Cannot access value for name fact"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 30,
                             "functionName": "visible",
                             "line": 70,
                             "message": "Cannot access value for name _roverFirmware"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 41,
                             "functionName": "valueText",
                             "line": 77,
                             "message": "Cannot access value for name fact"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 25,
                             "functionName": "visible",
                             "line": 78,
                             "message": "Cannot access value for name _roverFirmware"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 40,
                             "functionName": "valueText",
                             "line": 85,
                             "message": "Cannot access value for name fact"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 25,
                             "functionName": "visible",
                             "line": 86,
                             "message": "Cannot access value for name _roverFirmware"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 61,
                             "functionName": "valueText",
                             "line": 93,
                             "message": "Cannot access value for name _batt1MonitorEnabled"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 23,
                             "functionName": "visible",
                             "line": 94,
                             "message": "Cannot access value for name _batt1MonitorEnabled"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 62,
                             "functionName": "valueText",
                             "line": 99,
                             "message": "Cannot access value for name _batt1FSCritActAvailable"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 36,
                             "functionName": "visible",
                             "line": 100,
                             "message": "Cannot access value for name _batt1FSCritActAvailable"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 59,
                             "functionName": "valueText",
                             "line": 105,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 22,
                             "functionName": "visible",
                             "line": 106,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 59,
                             "functionName": "valueText",
                             "line": 111,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 22,
                             "functionName": "visible",
                             "line": 112,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 547,
+                            "durationMicroseconds": 234,
                             "functionName": "valueText",
                             "line": 117,
                             "message": "Cannot access value for name _copterFenceEnable"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 37,
                             "functionName": "visible",
                             "line": 133,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 105,
                             "functionName": "valueText",
                             "line": 138,
                             "message": "Cannot access value for name _copterFenceAction"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 66,
                             "functionName": "visible",
                             "line": 141,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 117,
                             "functionName": "valueText",
                             "line": 146,
                             "message": "Cannot access value for name fact"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 32,
                             "functionName": "visible",
                             "line": 147,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 106,
                             "functionName": "valueText",
                             "line": 154,
                             "message": "Cannot access value for name fact"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 32,
                             "functionName": "visible",
                             "line": 155,
                             "message": "Cannot retrieve a non-object type by ID: controller"

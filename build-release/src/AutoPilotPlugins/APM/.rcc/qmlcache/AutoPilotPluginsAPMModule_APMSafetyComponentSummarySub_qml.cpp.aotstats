@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 631,
+                            "durationMicroseconds": 256,
                             "functionName": "_firmware34",
                             "line": 11,
                             "message": "Cannot access value for name globals"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 136,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 48,
                             "functionName": "fill",
                             "line": 39,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 536,
+                            "durationMicroseconds": 190,
                             "functionName": "valueText",
                             "line": 43,
                             "message": "Cannot access value for name _armingCheck"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 29,
                             "functionName": "valueText",
                             "line": 54,
                             "message": "Cannot access value for name _failsafeGCSEnable"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 26,
                             "functionName": "valueText",
                             "line": 58,
                             "message": "Cannot access value for name _failsafeLeakEnable"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 23,
                             "functionName": "visible",
                             "line": 61,
                             "message": "Cannot access value for name _firmware34"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 74,
                             "functionName": "valueText",
                             "line": 63,
                             "message": "Cannot access value for name _firmware34"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 21,
                             "functionName": "visible",
                             "line": 76,
                             "message": "Cannot access value for name _firmware34"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 50,
                             "functionName": "valueText",
                             "line": 78,
                             "message": "Cannot access value for name _firmware34"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 22,
                             "functionName": "visible",
                             "line": 81,
                             "message": "Cannot access value for name _firmware34"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 45,
                             "functionName": "valueText",
                             "line": 83,
                             "message": "Cannot access value for name _firmware34"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 24,
                             "functionName": "valueText",
                             "line": 87,
                             "message": "Cannot access value for name _failsafeTemperatureEnable"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 23,
                             "functionName": "valueText",
                             "line": 91,
                             "message": "Cannot access value for name _failsafePressureEnable"

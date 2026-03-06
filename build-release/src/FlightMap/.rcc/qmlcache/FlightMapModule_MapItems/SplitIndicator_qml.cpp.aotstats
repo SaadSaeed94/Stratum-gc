@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 11642,
+                            "durationMicroseconds": 8562,
                             "functionName": "width",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 114,
                             "functionName": "height",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 158,
                             "functionName": "radius",
                             "line": 11,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 141,
                             "functionName": "color",
                             "line": 12,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 65,
                             "functionName": "color",
                             "line": 26,
                             "message": "Cannot access value for name indicatorColor"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 239,
                             "functionName": "margins",
                             "line": 21,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 161,
                             "functionName": "top",
                             "line": 22,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 152,
                             "functionName": "bottom",
                             "line": 23,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 147,
                             "functionName": "horizontalCenter",
                             "line": 24,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 61,
                             "functionName": "color",
                             "line": 35,
                             "message": "Cannot access value for name indicatorColor"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 206,
                             "functionName": "margins",
                             "line": 30,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 162,
                             "functionName": "left",
                             "line": 31,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 138,
                             "functionName": "right",
                             "line": 32,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 133,
                             "functionName": "verticalCenter",
                             "line": 33,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 113,
                             "functionName": "fillItem",
                             "line": 39,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 183,
                             "functionName": "onClicked",
                             "line": 40,
                             "message": ""

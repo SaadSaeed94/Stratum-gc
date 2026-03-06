@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 195,
                             "functionName": "fill",
                             "line": 17,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 469,
+                            "durationMicroseconds": 298,
                             "functionName": "color",
                             "line": 23,
                             "message": "Cannot access value for name qgcPal"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 122,
                             "functionName": "fill",
                             "line": 21,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 11961,
+                            "durationMicroseconds": 7479,
                             "functionName": "margins",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 1083,
+                            "durationMicroseconds": 667,
                             "functionName": "color",
                             "line": 28,
                             "message": "Cannot access value for name index"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 805,
+                            "durationMicroseconds": 487,
                             "functionName": "height",
                             "line": 29,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 70,
                             "functionName": "width",
                             "line": 30,
                             "message": "Cannot access value for name listView"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 956,
+                            "durationMicroseconds": 340,
                             "functionName": "text",
                             "line": 34,
                             "message": "Cannot access value for name display"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 137,
                             "functionName": "width",
                             "line": 35,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 115,
                             "functionName": "wrapMode",
                             "line": 36,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 147,
                             "functionName": "verticalCenter",
                             "line": 37,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1593,
+                            "durationMicroseconds": 964,
                             "functionName": "model",
                             "line": 50,
                             "message": "Cannot access value for name debugMessageModel"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 145,
                             "functionName": "delegate",
                             "line": 51,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 407,
+                            "durationMicroseconds": 262,
                             "functionName": "scrollToEnd",
                             "line": 53,
                             "message": "Cannot access value for name listViewLoadCompleted"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 184,
                             "functionName": "top",
                             "line": 44,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 150,
                             "functionName": "left",
                             "line": 45,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 124,
                             "functionName": "right",
                             "line": 46,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 81,
                             "functionName": "bottom",
                             "line": 47,
                             "message": "Cannot retrieve a non-object type by ID: followTail"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 115,
                             "functionName": "bottomMargin",
                             "line": 48,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 93,
                             "functionName": "onCompleted",
                             "line": 61,
                             "message": "Cannot find name listViewLoadCompleted"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 113,
                             "functionName": "target",
                             "line": 67,
                             "message": "Cannot access value for name debugMessageModel"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 942,
+                            "durationMicroseconds": 429,
                             "functionName": "folder",
                             "line": 74,
                             "message": "Cannot access value for name QGroundControl"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 614,
+                            "durationMicroseconds": 349,
                             "functionName": "nameFilters",
                             "line": 75,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 686,
+                            "durationMicroseconds": 427,
                             "functionName": "onAcceptedForSave",
                             "line": 77,
                             "message": "Cannot access value for name debugMessageModel"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 78,
                             "functionName": "onAcceptedForSave",
                             "line": 77,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 102,
                             "functionName": "target",
                             "line": 84,
                             "message": "Cannot access value for name debugMessageModel"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 43,
                             "functionName": "onWriteStarted",
                             "line": 85,
                             "message": "Cannot retrieve a non-object type by ID: writeButton"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 826,
+                            "durationMicroseconds": 516,
                             "functionName": "visible",
                             "line": 103,
                             "message": "Cannot access value for name QGroundControl"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 85,
                             "functionName": "left",
                             "line": 99,
                             "message": "Cannot retrieve a non-object type by ID: writeButton"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 175,
                             "functionName": "leftMargin",
                             "line": 100,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 168,
                             "functionName": "verticalCenter",
                             "line": 101,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1514,
+                            "durationMicroseconds": 763,
                             "functionName": "visible",
                             "line": 112,
                             "message": "Cannot access value for name QGroundControl"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 245,
                             "functionName": "left",
                             "line": 108,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 206,
                             "functionName": "leftMargin",
                             "line": 109,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 145,
                             "functionName": "bottom",
                             "line": 110,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 139,
                             "functionName": "buttons",
                             "line": 147,
                             "message": "Cannot access value for name Dialog"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 51,
                             "functionName": "width",
                             "line": 150,
                             "message": "Cannot access value for name maxContentAvailableWidth"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 334,
+                            "durationMicroseconds": 236,
                             "functionName": "spacing",
                             "line": 158,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 221,
                             "functionName": "spacing",
                             "line": 180,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 672,
+                            "durationMicroseconds": 401,
                             "functionName": "model",
                             "line": 183,
                             "message": "Cannot access value for name QGroundControl"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 133,
                             "functionName": "maximumHeight",
                             "line": 187,
                             "message": "Cannot access value for name visible"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 392,
+                            "durationMicroseconds": 237,
                             "functionName": "spacing",
                             "line": 205,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 95,
                             "functionName": "visible",
                             "line": 206,
                             "message": "Cannot retrieve a non-object type by ID: searchText"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 562,
+                            "durationMicroseconds": 344,
                             "functionName": "model",
                             "line": 209,
                             "message": "Cannot access value for name QGroundControl"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 225,
                             "functionName": "spacing",
                             "line": 212,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 119,
                             "functionName": "spacing",
                             "line": 215,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 836,
+                            "durationMicroseconds": 518,
                             "functionName": "text",
                             "line": 219,
                             "message": "Cannot access value for name object"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 140,
                             "functionName": "horizontalAlignment",
                             "line": 220,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 565,
+                            "durationMicroseconds": 365,
                             "functionName": "visible",
                             "line": 221,
                             "message": "Cannot access value for name object"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 148,
                             "functionName": "preferredWidth",
                             "line": 218,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 1686,
+                            "durationMicroseconds": 700,
                             "functionName": "onClicked",
                             "line": 225,
                             "message": "Cannot access value for name object"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 130,
                             "functionName": "fill",
                             "line": 224,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 928,
+                            "durationMicroseconds": 484,
                             "functionName": "model",
                             "line": 238,
                             "message": "Cannot access value for name object"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 462,
+                            "durationMicroseconds": 253,
                             "functionName": "spacing",
                             "line": 254,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 89,
                             "functionName": "visible",
                             "line": 255,
                             "message": "Cannot retrieve a non-object type by ID: searchText"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 558,
+                            "durationMicroseconds": 343,
                             "functionName": "model",
                             "line": 258,
                             "message": "Cannot access value for name QGroundControl"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 123,
                             "functionName": "maximumHeight",
                             "line": 262,
                             "message": "Cannot access value for name visible"

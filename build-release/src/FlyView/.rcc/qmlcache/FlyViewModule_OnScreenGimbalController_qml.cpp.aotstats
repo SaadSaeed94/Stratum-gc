@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 741,
+                            "durationMicroseconds": 466,
                             "functionName": "activeVehicle",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 78,
                             "functionName": "gimbalController",
                             "line": 16,
                             "message": "Cannot load property gimbalController from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::activeVehicle with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 55,
                             "functionName": "activeGimbal",
                             "line": 17,
                             "message": "Cannot load property activeGimbal from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::gimbalController with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 371,
+                            "durationMicroseconds": 250,
                             "functionName": "gimbalAvailable",
                             "line": 18,
                             "message": "Cannot generate efficient code for incomparable types void and (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::activeGimbal with type QVariant (adjusted to QVariant)"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 556,
+                            "durationMicroseconds": 375,
                             "functionName": "gimbalControllerSettings",
                             "line": 19,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 91,
                             "functionName": "shouldProcessClicks",
                             "line": 21,
                             "message": "Cannot load property EnableOnScreenControl from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 108,
                             "functionName": "clickControl",
                             "line": 23,
                             "message": "Cannot load property ControlType from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 2006,
+                            "durationMicroseconds": 1195,
                             "functionName": "clickAndPoint",
                             "line": 35,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 220,
                             "functionName": "pressControl",
                             "line": 48,
                             "message": "Cannot load property ControlType from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 103,
                             "functionName": "releaseControl",
                             "line": 61,
                             "message": "Cannot load property ControlType from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 140,
                             "functionName": "fill",
                             "line": 8,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 713,
+                            "durationMicroseconds": 440,
                             "functionName": "onTriggered",
                             "line": 78,
                             "message": "Cannot access value for name screenX"

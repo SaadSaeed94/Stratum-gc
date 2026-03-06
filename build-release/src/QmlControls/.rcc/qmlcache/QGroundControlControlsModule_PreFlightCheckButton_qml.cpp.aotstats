@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 746,
+                            "durationMicroseconds": 460,
                             "functionName": "passed",
                             "line": 23,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 566,
+                            "durationMicroseconds": 325,
                             "functionName": "failed",
                             "line": 24,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 473,
+                            "durationMicroseconds": 262,
                             "functionName": "_manualState",
                             "line": 26,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 82,
                             "functionName": "_telemetryState",
                             "line": 27,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 13256,
+                            "durationMicroseconds": 7604,
                             "functionName": "_horizontalPadding",
                             "line": 28,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 614,
+                            "durationMicroseconds": 333,
                             "functionName": "_verticalPadding",
                             "line": 29,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 192,
                             "functionName": "_stateFlagWidth",
                             "line": 30,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 1477,
+                            "durationMicroseconds": 851,
                             "functionName": "_text",
                             "line": 40,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 2257,
+                            "durationMicroseconds": 1103,
                             "functionName": "_color",
                             "line": 44,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 580,
+                            "durationMicroseconds": 356,
                             "functionName": "_updateTelemetryState",
                             "line": 78,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 119,
                             "functionName": "onTelemetryFailureChanged",
                             "line": 87,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 78,
                             "functionName": "onAllowTelemetryFailureOverrideChanged",
                             "line": 88,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 158,
+                            "durationMicroseconds": 73,
                             "functionName": "onPassedChanged",
                             "line": 106,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 597,
+                            "durationMicroseconds": 320,
                             "functionName": "callButtonPassedChanged",
                             "line": 109,
                             "message": "Cannot access value for name parent"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 1035,
+                            "durationMicroseconds": 528,
                             "functionName": "reset",
                             "line": 115,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 507,
+                            "durationMicroseconds": 271,
                             "functionName": "color",
                             "line": 59,
                             "message": "Cannot access value for name qgcPal"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 192,
                             "functionName": "color",
                             "line": 60,
                             "message": "Cannot access value for name qgcPal"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 38,
                             "functionName": "color",
                             "line": 63,
                             "message": "Cannot access value for name _color"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 30,
                             "functionName": "width",
                             "line": 67,
                             "message": "Cannot access value for name _stateFlagWidth"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 324,
+                            "durationMicroseconds": 192,
                             "functionName": "left",
                             "line": 64,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 128,
                             "functionName": "top",
                             "line": 65,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 115,
                             "functionName": "bottom",
                             "line": 66,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 146,
                             "functionName": "wrapMode",
                             "line": 72,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 104,
                             "functionName": "horizontalAlignment",
                             "line": 73,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 707,
+                            "durationMicroseconds": 401,
                             "functionName": "color",
                             "line": 74,
                             "message": "Cannot access value for name qgcPal"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 36,
                             "functionName": "text",
                             "line": 75,
                             "message": "Cannot access value for name _text"

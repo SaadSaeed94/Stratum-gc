@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 666,
+                            "durationMicroseconds": 404,
                             "functionName": "onActivated",
                             "line": 12,
                             "message": "Cannot generate efficient code for lookup in QJSValue"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 68,
                             "functionName": "onActivated",
                             "line": 12,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 18703,
+                            "durationMicroseconds": 10840,
                             "functionName": "onCompleted",
                             "line": 38,
                             "message": "Cannot access value for name QGroundControl"

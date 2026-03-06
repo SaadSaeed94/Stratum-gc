@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 181,
                             "functionName": "buttons",
                             "line": 41,
                             "message": "Cannot access value for name Dialog"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 150,
                             "functionName": "maxContentAvailableWidth",
                             "line": 48,
                             "message": "Cannot access value for name mainWindow"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 160,
                             "functionName": "maxContentAvailableHeight",
                             "line": 49,
                             "message": "Cannot access value for name mainWindow"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 177,
                             "functionName": "headerMinWidth",
                             "line": 51,
                             "message": "Cannot retrieve a non-object type by ID: rejectButton"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 137,
                             "functionName": "_qgcPal",
                             "line": 56,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 13189,
+                            "durationMicroseconds": 8003,
                             "functionName": "_frameSize",
                             "line": 57,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 405,
+                            "durationMicroseconds": 230,
                             "functionName": "_contentMargin",
                             "line": 58,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 101,
                             "functionName": "_acceptAllowed",
                             "line": 59,
                             "message": "Cannot retrieve a non-object type by ID: acceptButton"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 61,
                             "functionName": "_rejectAllowed",
                             "line": 60,
                             "message": "Cannot retrieve a non-object type by ID: rejectButton"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 509,
+                            "durationMicroseconds": 299,
                             "functionName": "_accept",
                             "line": 93,
                             "message": "Cannot access value for name mainWindow"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 596,
+                            "durationMicroseconds": 378,
                             "functionName": "_reject",
                             "line": 104,
                             "message": "Cannot access value for name Dialog"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 46,
                             "functionName": "disableAcceptButton",
                             "line": 184,
                             "message": "Cannot retrieve a non-object type by ID: acceptButton"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 699,
+                            "durationMicroseconds": 429,
                             "functionName": "width",
                             "line": 64,
                             "message": "Cannot access value for name mainWindow"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 549,
+                            "durationMicroseconds": 356,
                             "functionName": "height",
                             "line": 65,
                             "message": "Cannot access value for name mainWindow"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 1531,
+                            "durationMicroseconds": 1002,
                             "functionName": "onClicked",
                             "line": 67,
                             "message": "Cannot access value for name closePolicy"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 491,
+                            "durationMicroseconds": 308,
                             "functionName": "onCompleted",
                             "line": 74,
                             "message": "Cannot access value for name contentChildren"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 85,
                             "functionName": "x",
                             "line": 189,
                             "message": "Cannot access value for name _contentMargin"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 131,
                             "functionName": "y",
                             "line": 190,
                             "message": "Cannot access value for name _contentMargin"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 73,
                             "functionName": "width",
                             "line": 191,
                             "message": "Cannot access value for name _contentMargin"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 61,
                             "functionName": "height",
                             "line": 192,
                             "message": "Cannot access value for name _contentMargin"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 51,
                             "functionName": "color",
                             "line": 193,
                             "message": "Cannot access value for name _qgcPal"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 74,
                             "functionName": "radius",
                             "line": 194,
                             "message": "Cannot retrieve a non-object type by ID: root"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 55,
                             "functionName": "color",
                             "line": 196,
                             "message": "Cannot access value for name _qgcPal"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 47,
                             "functionName": "x",
                             "line": 202,
                             "message": "Cannot access value for name _contentMargin"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 35,
                             "functionName": "y",
                             "line": 203,
                             "message": "Cannot access value for name _contentMargin"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 48,
+                            "durationMicroseconds": 33,
                             "functionName": "spacing",
                             "line": 204,
                             "message": "Cannot access value for name _contentMargin"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 165,
                             "functionName": "centerIn",
                             "line": 201,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 54,
                             "functionName": "spacing",
                             "line": 209,
                             "message": "Cannot access value for name _contentMargin"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 40,
                             "functionName": "text",
                             "line": 214,
                             "message": "Cannot retrieve a non-object type by ID: root"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 147,
                             "functionName": "verticalAlignment",
                             "line": 216,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 153,
                             "functionName": "pointSize",
                             "line": 215,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 85,
                             "functionName": "minimumWidth",
                             "line": 222,
                             "message": "Cannot access value for name height"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 55,
                             "functionName": "minimumWidth",
                             "line": 229,
                             "message": "Cannot access value for name height"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 66,
                             "functionName": "color",
                             "line": 237,
                             "message": "Cannot access value for name _qgcPal"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 78,
                             "functionName": "totalContentWidth",
                             "line": 239,
                             "message": "Cannot access value for name _contentMargin"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 68,
                             "functionName": "totalContentHeight",
                             "line": 240,
                             "message": "Cannot access value for name _contentMargin"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 684,
+                            "durationMicroseconds": 455,
                             "functionName": "maxAvailableWidth",
                             "line": 241,
                             "message": "Cannot access value for name mainWindow"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 610,
+                            "durationMicroseconds": 361,
                             "functionName": "maxAvailableHeight",
                             "line": 242,
                             "message": "Cannot access value for name mainWindow"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 543,
+                            "durationMicroseconds": 301,
                             "functionName": "preferredWidth",
                             "line": 235,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 435,
+                            "durationMicroseconds": 276,
                             "functionName": "preferredHeight",
                             "line": 236,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 380,
+                            "durationMicroseconds": 221,
                             "functionName": "contentWidth",
                             "line": 247,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 237,
                             "functionName": "contentHeight",
                             "line": 248,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 77,
                             "functionName": "margins",
                             "line": 245,
                             "message": "Cannot access value for name _contentMargin"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 120,
                             "functionName": "fill",
                             "line": 246,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 691,
+                            "durationMicroseconds": 426,
                             "functionName": "onPressed",
                             "line": 254,
                             "message": "Cannot access value for name _rejectAllowed"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 81,
                             "functionName": "onPressed",
                             "line": 254,
                             "message": ""

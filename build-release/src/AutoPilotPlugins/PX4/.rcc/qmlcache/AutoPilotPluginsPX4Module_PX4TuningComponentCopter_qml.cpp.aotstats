@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 225,
                             "functionName": "pageComponent",
                             "line": 10,
                             "message": ""

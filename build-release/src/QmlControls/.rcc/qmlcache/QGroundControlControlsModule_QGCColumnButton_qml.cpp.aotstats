@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 103,
                             "functionName": "width",
                             "line": 13,
                             "message": "Cannot access value for name control"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 32,
                             "functionName": "height",
                             "line": 14,
                             "message": "Cannot access value for name control"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 36,
                             "functionName": "radius",
                             "line": 15,
                             "message": "Cannot access value for name backRadius"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 1127,
+                            "durationMicroseconds": 591,
                             "functionName": "color",
                             "line": 18,
                             "message": "Cannot access value for name _showHighlight"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 51,
                             "functionName": "width",
                             "line": 16,
                             "message": "Cannot access value for name showBorder"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 295,
+                            "durationMicroseconds": 154,
                             "functionName": "color",
                             "line": 17,
                             "message": "Cannot access value for name qgcPal"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 96,
                             "functionName": "implicitWidth",
                             "line": 25,
                             "message": "Cannot access value for name textLabel"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 106,
                             "functionName": "implicitHeight",
                             "line": 26,
                             "message": "Cannot access value for name iconSource"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 170,
                             "functionName": "fill",
                             "line": 28,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 52,
                             "functionName": "source",
                             "line": 35,
                             "message": "Cannot access value for name control"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 391,
+                            "durationMicroseconds": 224,
                             "functionName": "color",
                             "line": 36,
                             "message": "Cannot access value for name qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 138,
                             "functionName": "fillMode",
                             "line": 37,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 70,
                             "functionName": "visible",
                             "line": 40,
                             "message": "Cannot access value for name control"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 66,
                             "functionName": "maximumHeight",
                             "line": 33,
                             "message": "Cannot access value for name textLabelContainer"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 124,
                             "functionName": "alignment",
                             "line": 34,
                             "message": "Cannot access value for name control"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 106,
                             "functionName": "height",
                             "line": 38,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 66,
                             "functionName": "width",
                             "line": 39,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 66,
                             "functionName": "visible",
                             "line": 46,
                             "message": "Cannot access value for name control"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 113,
                             "functionName": "alignment",
                             "line": 45,
                             "message": "Cannot access value for name icon"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 142,
                             "functionName": "preferredWidth",
                             "line": 47,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 47,
                             "functionName": "preferredHeight",
                             "line": 48,
                             "message": "Cannot access value for name textLabel"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 46,
                             "functionName": "text",
                             "line": 51,
                             "message": "Cannot access value for name control"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1739,
+                            "durationMicroseconds": 996,
                             "functionName": "color",
                             "line": 54,
                             "message": "Cannot access value for name _showHighlight"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 60,
                             "functionName": "family",
                             "line": 52,
                             "message": "Cannot access value for name control"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 44,
                             "functionName": "pointSize",
                             "line": 53,
                             "message": "Cannot access value for name control"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 112,
                             "functionName": "baseline",
                             "line": 55,
                             "message": "Cannot access value for name iconSource"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 67,
                             "functionName": "centerIn",
                             "line": 56,
                             "message": "Cannot access value for name iconSource"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 179,
                             "functionName": "horizontalCenter",
                             "line": 57,
                             "message": ""

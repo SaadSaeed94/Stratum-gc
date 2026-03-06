@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 104,
                             "functionName": "_dummy",
                             "line": 12,
                             "message": "Cannot load property polygons from (component in /home/saad-saeed/qgroundcontrol/src/UTMSP/dummy/UTMSPMapVisuals.qml)::myGeoFenceController with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 48,
                             "functionName": "model",
                             "line": 15,
                             "message": "Cannot access value for name _dummy"

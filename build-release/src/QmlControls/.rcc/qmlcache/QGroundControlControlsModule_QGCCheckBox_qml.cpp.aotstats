@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 89,
                             "functionName": "textColor",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 11866,
+                            "durationMicroseconds": 7627,
                             "functionName": "textFontPointSize",
                             "line": 21,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 86,
                             "functionName": "_noText",
                             "line": 24,
                             "message": "Cannot access value for name text"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 111,
                             "functionName": "onButtonGroupChanged",
                             "line": 28,
                             "message": "Cannot access value for name buttonGroup"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 83,
                             "functionName": "onCompleted",
                             "line": 13,
                             "message": "Cannot find name rightPadding"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 95,
                             "functionName": "leftPadding",
                             "line": 37,
                             "message": "Cannot access value for name control"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 155,
                             "functionName": "verticalAlignment",
                             "line": 38,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 43,
                             "functionName": "text",
                             "line": 39,
                             "message": "Cannot access value for name control"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 31,
                             "functionName": "color",
                             "line": 43,
                             "message": "Cannot access value for name control"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 35,
                             "functionName": "pointSize",
                             "line": 40,
                             "message": "Cannot access value for name textFontPointSize"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 28,
                             "functionName": "bold",
                             "line": 41,
                             "message": "Cannot access value for name control"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 135,
                             "functionName": "family",
                             "line": 42,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 136,
                             "functionName": "implicitWidth",
                             "line": 47,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 71,
                             "functionName": "implicitHeight",
                             "line": 48,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 61,
                             "functionName": "x",
                             "line": 49,
                             "message": "Cannot access value for name control"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 550,
+                            "durationMicroseconds": 330,
                             "functionName": "y",
                             "line": 50,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 79,
                             "functionName": "color",
                             "line": 51,
                             "message": "Cannot access value for name control"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 113,
                             "functionName": "radius",
                             "line": 54,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 103,
                             "functionName": "opacity",
                             "line": 55,
                             "message": "Cannot access value for name control"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 40,
                             "functionName": "color",
                             "line": 52,
                             "message": "Cannot access value for name qgcPal"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 43,
                             "functionName": "color",
                             "line": 59,
                             "message": "Cannot access value for name qgcPal"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 57,
                             "functionName": "opacity",
                             "line": 60,
                             "message": "Cannot access value for name control"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 104,
                             "functionName": "radius",
                             "line": 61,
                             "message": "Cannot load property radius from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCCheckBox.qml)::parent with type QQuickItem."
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 99,
                             "functionName": "fill",
                             "line": 58,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 50,
                             "functionName": "color",
                             "line": 66,
                             "message": "Cannot access value for name qgcPal"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 119,
                             "functionName": "fillMode",
                             "line": 68,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 359,
+                            "durationMicroseconds": 213,
                             "functionName": "width",
                             "line": 69,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 71,
                             "functionName": "height",
                             "line": 70,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 39,
                             "functionName": "visible",
                             "line": 72,
                             "message": "Cannot access value for name control"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 78,
                             "functionName": "height",
                             "line": 71,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 73,
                             "functionName": "centerIn",
                             "line": 73,
                             "message": ""

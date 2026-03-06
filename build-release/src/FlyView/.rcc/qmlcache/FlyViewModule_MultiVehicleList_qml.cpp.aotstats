@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 11774,
+                            "durationMicroseconds": 7615,
                             "functionName": "_margin",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 366,
+                            "durationMicroseconds": 240,
                             "functionName": "_widgetHeight",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 466,
+                            "durationMicroseconds": 328,
                             "functionName": "_guidedController",
                             "line": 13,
                             "message": "Cannot access value for name globals"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 503,
+                            "durationMicroseconds": 361,
                             "functionName": "_activeVehicle",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 422,
+                            "durationMicroseconds": 335,
                             "functionName": "selectedVehicles",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 184,
                             "functionName": "implicitHeight",
                             "line": 18,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 908,
+                            "durationMicroseconds": 601,
                             "functionName": "armAvailable",
                             "line": 20,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/MultiVehicleList.qml)::selectedVehicles with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 751,
+                            "durationMicroseconds": 502,
                             "functionName": "disarmAvailable",
                             "line": 31,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/MultiVehicleList.qml)::selectedVehicles with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1333,
+                            "durationMicroseconds": 794,
                             "functionName": "startAvailable",
                             "line": 41,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/MultiVehicleList.qml)::selectedVehicles with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1146,
+                            "durationMicroseconds": 728,
                             "functionName": "pauseAvailable",
                             "line": 51,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/MultiVehicleList.qml)::selectedVehicles with type QVariant."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 2217,
+                            "durationMicroseconds": 1484,
                             "functionName": "selectAll",
                             "line": 77,
                             "message": "Cannot access value for name QGroundControl"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 530,
+                            "durationMicroseconds": 408,
                             "functionName": "deselectAll",
                             "line": 88,
                             "message": "Cannot access value for name QGroundControl"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 435,
+                            "durationMicroseconds": 255,
                             "functionName": "spacing",
                             "line": 108,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 170,
                             "functionName": "orientation",
                             "line": 109,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 1555,
+                            "durationMicroseconds": 1050,
                             "functionName": "model",
                             "line": 110,
                             "message": "Cannot access value for name QGroundControl"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 549,
+                            "durationMicroseconds": 329,
                             "functionName": "cacheBuffer",
                             "line": 111,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 167,
                             "functionName": "_cacheBuffer",
                             "line": 114,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 195,
                             "functionName": "left",
                             "line": 104,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 163,
                             "functionName": "right",
                             "line": 105,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 142,
                             "functionName": "top",
                             "line": 106,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 153,
                             "functionName": "bottom",
                             "line": 107,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 86,
                             "functionName": "width",
                             "line": 117,
                             "message": "Cannot access value for name vehicleList"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 76,
                             "functionName": "height",
                             "line": 118,
                             "message": "Cannot access value for name _margin"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 1061,
+                            "durationMicroseconds": 671,
                             "functionName": "color",
                             "line": 119,
                             "message": "Cannot access value for name QGroundControl"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 43,
                             "functionName": "radius",
                             "line": 120,
                             "message": "Cannot access value for name _margin"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 211,
                             "functionName": "_vehicle",
                             "line": 124,
                             "message": "Cannot access value for name object"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 566,
+                            "durationMicroseconds": 406,
                             "functionName": "width",
                             "line": 121,
                             "message": "Cannot load property id from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/MultiVehicleList.qml)::_vehicle with type QVariant."
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 303,
+                            "durationMicroseconds": 229,
                             "functionName": "color",
                             "line": 122,
                             "message": "Cannot access value for name qgcPal"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 739,
+                            "durationMicroseconds": 509,
                             "functionName": "onClicked",
                             "line": 128,
                             "message": "Cannot access value for name _vehicle"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 132,
                             "functionName": "fill",
                             "line": 127,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 58,
                             "functionName": "spacing",
                             "line": 134,
                             "message": "Cannot access value for name _margin"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 104,
                             "functionName": "centerIn",
                             "line": 133,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 57,
                             "functionName": "spacing",
                             "line": 139,
                             "message": "Cannot access value for name _margin"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 181,
                             "functionName": "horizontalCenter",
                             "line": 137,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 63,
                             "functionName": "margins",
                             "line": 138,
                             "message": "Cannot access value for name _margin"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 91,
                             "functionName": "compassRadius",
                             "line": 143,
                             "message": "Cannot access value for name _widgetHeight"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 393,
+                            "durationMicroseconds": 248,
                             "functionName": "attitudeSize",
                             "line": 145,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 186,
                             "functionName": "attitudeSpacing",
                             "line": 146,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 54,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 59,
                             "functionName": "vehicle",
                             "line": 148,
                             "message": "Cannot access value for name _vehicle"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 670,
+                            "durationMicroseconds": 499,
                             "functionName": "color",
                             "line": 154,
                             "message": "Cannot access value for name qgcPal"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 172,
                             "functionName": "pointSize",
                             "line": 153,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 136,
                             "functionName": "alignment",
                             "line": 155,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 138,
                             "functionName": "text",
                             "line": 159,
                             "message": "Cannot access value for name _vehicle"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 602,
+                            "durationMicroseconds": 395,
                             "functionName": "color",
                             "line": 161,
                             "message": "Cannot access value for name qgcPal"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 140,
                             "functionName": "pointSize",
                             "line": 160,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 123,
                             "functionName": "alignment",
                             "line": 162,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 625,
+                            "durationMicroseconds": 404,
                             "functionName": "color",
                             "line": 168,
                             "message": "Cannot access value for name qgcPal"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 147,
                             "functionName": "pointSize",
                             "line": 167,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 121,
                             "functionName": "alignment",
                             "line": 169,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 65,
                             "functionName": "spacing",
                             "line": 173,
                             "message": "Cannot access value for name _margin"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 224,
                             "functionName": "rightMargin",
                             "line": 174,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 123,
                             "functionName": "alignment",
                             "line": 175,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 707,
+                            "durationMicroseconds": 447,
                             "functionName": "color",
                             "line": 180,
                             "message": "Cannot access value for name qgcPal"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 53,
                             "functionName": "currentVehicle",
                             "line": 181,
                             "message": "Cannot access value for name _vehicle"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 115,
                             "functionName": "alignment",
                             "line": 178,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 545,
+                            "durationMicroseconds": 131,
                             "functionName": "pointSize",
                             "line": 179,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 187,
                             "functionName": "text",
                             "line": 186,
                             "message": "Cannot access value for name _vehicle"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 676,
+                            "durationMicroseconds": 408,
                             "functionName": "color",
                             "line": 187,
                             "message": "Cannot access value for name qgcPal"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 137,
                             "functionName": "alignment",
                             "line": 185,
                             "message": ""
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 110,
                             "functionName": "width",
                             "line": 194,
                             "message": "Cannot access value for name vehicleList"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 131,
                             "functionName": "height",
                             "line": 195,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 114,
                             "functionName": "contentWidth",
                             "line": 196,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 133,
                             "functionName": "contentHeight",
                             "line": 197,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 193,
                             "functionName": "horizontalCenter",
                             "line": 193,
                             "message": ""

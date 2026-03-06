@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 203,
                             "functionName": "totalToolInsets",
                             "line": 22,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 79,
                             "functionName": "leftEdgeTopInset",
                             "line": 28,
                             "message": "Cannot access value for name parentToolInsets"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 38,
                             "functionName": "leftEdgeCenterInset",
                             "line": 29,
                             "message": "Cannot access value for name parentToolInsets"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 31,
                             "functionName": "leftEdgeBottomInset",
                             "line": 30,
                             "message": "Cannot access value for name parentToolInsets"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 31,
                             "functionName": "rightEdgeTopInset",
                             "line": 31,
                             "message": "Cannot access value for name parentToolInsets"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 32,
                             "functionName": "rightEdgeCenterInset",
                             "line": 32,
                             "message": "Cannot access value for name parentToolInsets"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 25,
                             "functionName": "rightEdgeBottomInset",
                             "line": 33,
                             "message": "Cannot access value for name parentToolInsets"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 32,
                             "functionName": "topEdgeLeftInset",
                             "line": 34,
                             "message": "Cannot access value for name parentToolInsets"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 25,
                             "functionName": "topEdgeCenterInset",
                             "line": 35,
                             "message": "Cannot access value for name parentToolInsets"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 30,
                             "functionName": "topEdgeRightInset",
                             "line": 36,
                             "message": "Cannot access value for name parentToolInsets"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 30,
                             "functionName": "bottomEdgeLeftInset",
                             "line": 37,
                             "message": "Cannot access value for name parentToolInsets"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 27,
                             "functionName": "bottomEdgeCenterInset",
                             "line": 38,
                             "message": "Cannot access value for name parentToolInsets"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 27,
                             "functionName": "bottomEdgeRightInset",
                             "line": 39,
                             "message": "Cannot access value for name parentToolInsets"

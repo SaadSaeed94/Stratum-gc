@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 116,
                             "functionName": "_is3DViewOpen",
                             "line": 13,
                             "message": "Cannot access value for name viewer3DWindow"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 63,
                             "functionName": "_viewer3DEnabled",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 197,
                             "functionName": "on_Is3DViewOpenChanged",
                             "line": 28,
                             "message": "Cannot access value for name view3DIcon"

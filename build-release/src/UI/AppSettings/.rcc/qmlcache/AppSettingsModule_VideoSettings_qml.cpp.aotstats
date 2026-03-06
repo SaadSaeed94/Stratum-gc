@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 702,
+                            "durationMicroseconds": 470,
                             "functionName": "_settingsManager",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 538,
+                            "durationMicroseconds": 375,
                             "functionName": "_videoManager",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 43,
                             "functionName": "_videoSettings",
                             "line": 12,
                             "message": "Cannot load property videoSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_settingsManager with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 37,
                             "functionName": "_videoSource",
                             "line": 13,
                             "message": "Cannot load property videoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 34,
+                            "durationMicroseconds": 27,
                             "functionName": "_isGST",
                             "line": 14,
                             "message": "Cannot load property gstreamerEnabled from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoManager with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 28,
+                            "durationMicroseconds": 24,
                             "functionName": "_isStreamSource",
                             "line": 15,
                             "message": "Cannot load property isStreamSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoManager with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 73,
                             "functionName": "_isUDP264",
                             "line": 16,
                             "message": "Cannot load property udp264VideoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 55,
                             "functionName": "_isUDP265",
                             "line": 17,
                             "message": "Cannot load property udp265VideoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 51,
                             "functionName": "_isRTSP",
                             "line": 18,
                             "message": "Cannot load property rtspVideoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 49,
                             "functionName": "_isTCP",
                             "line": 19,
                             "message": "Cannot load property tcpVideoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 48,
                             "functionName": "_isMPEGTS",
                             "line": 20,
                             "message": "Cannot load property mpegtsVideoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 30,
+                            "durationMicroseconds": 26,
                             "functionName": "_videoAutoStreamConfig",
                             "line": 21,
                             "message": "Cannot load property autoStreamConfigured from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoManager with type QVariant."
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 32,
                             "functionName": "_videoSourceDisabled",
                             "line": 22,
                             "message": "Cannot load property disabledVideoSource from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 11379,
+                            "durationMicroseconds": 7590,
                             "functionName": "_urlFieldWidth",
                             "line": 23,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 402,
+                            "durationMicroseconds": 259,
                             "functionName": "_requiresUDPUrl",
                             "line": 24,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 216,
+                            "durationMicroseconds": 125,
                             "functionName": "headingDescription",
                             "line": 29,
                             "message": "Cannot access value for name _videoAutoStreamConfig"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 52,
                             "functionName": "enabled",
                             "line": 30,
                             "message": "Cannot access value for name _videoAutoStreamConfig"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 49,
                             "functionName": "visible",
                             "line": 37,
                             "message": "Cannot access value for name fact"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 214,
                             "functionName": "visible",
                             "line": 44,
                             "message": "Cannot access value for name _videoSourceDisabled"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 50,
                             "functionName": "textFieldPreferredWidth",
                             "line": 48,
                             "message": "Cannot access value for name _urlFieldWidth"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 107,
                             "functionName": "visible",
                             "line": 51,
                             "message": "Cannot access value for name _isRTSP"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 47,
                             "functionName": "textFieldPreferredWidth",
                             "line": 57,
                             "message": "Cannot access value for name _urlFieldWidth"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 113,
                             "functionName": "visible",
                             "line": 59,
                             "message": "Cannot access value for name _isTCP"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 52,
                             "functionName": "textFieldPreferredWidth",
                             "line": 64,
                             "message": "Cannot access value for name _urlFieldWidth"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 105,
                             "functionName": "visible",
                             "line": 67,
                             "message": "Cannot access value for name _requiresUDPUrl"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 74,
                             "message": "Cannot access value for name _videoSourceDisabled"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 155,
                             "functionName": "visible",
                             "line": 80,
                             "message": "Cannot access value for name _videoAutoStreamConfig"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 51,
                             "functionName": "label",
                             "line": 99,
                             "message": "Cannot access value for name fact"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 34,
                             "functionName": "visible",
                             "line": 101,
                             "message": "Cannot access value for name fact"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 63,
                             "functionName": "visible",
                             "line": 114,
                             "message": "Cannot access value for name _videoSettings"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 42,
                             "functionName": "visible",
                             "line": 128,
                             "message": "Cannot access value for name fact"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 62,
                             "functionName": "enabled",
                             "line": 129,
                             "message": "Cannot access value for name _videoSettings"

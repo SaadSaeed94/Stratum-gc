@@ -37,7 +37,7 @@ RowLayout {
         property string _commLostText:      qsTr("LOST-COM")
         property string _readyToFlyText:    qsTr("Ready")
         property string _notReadyToFlyText: qsTr("Not Ready")
-        property string _disconnectedText:  qsTr("Disconnected - Click to manually connect")
+        property string _disconnectedText:  qsTr("Stratum — Connect Vehicle")
         property string _armedText:         qsTr("Armed")
         property string _flyingText:        qsTr("Flying")
         property string _landingText:       qsTr("Landing")

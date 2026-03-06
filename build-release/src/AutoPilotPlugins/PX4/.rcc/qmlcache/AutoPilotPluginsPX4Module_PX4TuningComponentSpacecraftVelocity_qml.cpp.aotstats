@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 603,
+                            "durationMicroseconds": 404,
                             "functionName": "_availableHeight",
                             "line": 10,
                             "message": "Cannot access value for name availableHeight"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 460,
+                            "durationMicroseconds": 300,
                             "functionName": "_availableWidth",
                             "line": 11,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 53,
                             "functionName": "availableWidth",
                             "line": 15,
                             "message": "Cannot access value for name _availableWidth"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 81,
                             "functionName": "availableHeight",
                             "line": 16,
                             "message": "Cannot access value for name _availableHeight"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 315,
                             "functionName": "tuningMode",
                             "line": 61,
                             "message": "Cannot access value for name Vehicle"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 15,
-                            "durationMicroseconds": 405,
+                            "durationMicroseconds": 258,
                             "functionName": "axis",
                             "line": 63,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 228,
                             "functionName": "plot",
                             "line": 21,
                             "message": "Cannot access value for name globals"

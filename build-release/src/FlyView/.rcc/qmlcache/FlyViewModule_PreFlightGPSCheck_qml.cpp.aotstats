@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 471,
+                            "durationMicroseconds": 292,
                             "functionName": "telemetryFailure",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 657,
+                            "durationMicroseconds": 436,
                             "functionName": "telemetryTextFailure",
                             "line": 9,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 491,
+                            "durationMicroseconds": 271,
                             "functionName": "allowTelemetryFailureOverride",
                             "line": 12,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 622,
+                            "durationMicroseconds": 383,
                             "functionName": "_3dLock",
                             "line": 17,
                             "message": "Cannot access value for name globals"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 508,
+                            "durationMicroseconds": 314,
                             "functionName": "_satCount",
                             "line": 18,
                             "message": "Cannot access value for name globals"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 138,
                             "functionName": "_3dLockFailure",
                             "line": 19,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 487,
+                            "durationMicroseconds": 313,
                             "functionName": "_satCountFailure",
                             "line": 20,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 959,
+                            "durationMicroseconds": 641,
                             "functionName": "_satCountFailureText",
                             "line": 21,
                             "message": ""

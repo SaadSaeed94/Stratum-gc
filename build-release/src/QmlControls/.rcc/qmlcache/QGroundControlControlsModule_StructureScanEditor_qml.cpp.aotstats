@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 991,
+                            "durationMicroseconds": 591,
                             "functionName": "height",
                             "line": 14,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 691,
+                            "durationMicroseconds": 367,
                             "functionName": "width",
                             "line": 15,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 49,
                             "functionName": "color",
                             "line": 16,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 424,
+                            "durationMicroseconds": 217,
                             "functionName": "radius",
                             "line": 17,
                             "message": "Cannot access value for name _radius"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 12452,
+                            "durationMicroseconds": 7968,
                             "functionName": "_margin",
                             "line": 23,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 367,
+                            "durationMicroseconds": 239,
                             "functionName": "_fieldWidth",
                             "line": 24,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1735,
+                            "durationMicroseconds": 1183,
                             "functionName": "_vehicle",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 330,
                             "functionName": "_cameraMinTriggerInterval",
                             "line": 26,
                             "message": "Cannot access value for name missionItem"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 472,
+                            "durationMicroseconds": 299,
                             "functionName": "polygonCaptureStarted",
                             "line": 28,
                             "message": "Cannot access value for name missionItem"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 66,
                             "functionName": "polygonAdjustStarted",
                             "line": 42,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 40,
                             "functionName": "polygonAdjustFinished",
                             "line": 43,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 58,
                             "functionName": "margins",
                             "line": 49,
                             "message": "Cannot access value for name _margin"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 376,
+                            "durationMicroseconds": 217,
                             "functionName": "top",
                             "line": 50,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 158,
                             "functionName": "left",
                             "line": 51,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 145,
                             "functionName": "right",
                             "line": 52,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 138,
                             "functionName": "wrapMode",
                             "line": 57,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 109,
                             "functionName": "horizontalAlignment",
                             "line": 58,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 1602,
+                            "durationMicroseconds": 967,
                             "functionName": "visible",
                             "line": 60,
                             "message": "Cannot access value for name missionItem"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 61,
                             "functionName": "spacing",
                             "line": 65,
                             "message": "Cannot access value for name _margin"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 344,
+                            "durationMicroseconds": 367,
                             "functionName": "visible",
                             "line": 66,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 138,
                             "functionName": "onCompleted",
                             "line": 72,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 66,
                             "functionName": "spacing",
                             "line": 80,
                             "message": "Cannot access value for name _margin"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 351,
+                            "durationMicroseconds": 203,
                             "functionName": "visible",
                             "line": 81,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 135,
                             "functionName": "wrapMode",
                             "line": 86,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 152,
                             "functionName": "pointSize",
                             "line": 87,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 142,
                             "functionName": "text",
                             "line": 92,
                             "message": "Cannot access value for name _cameraMinTriggerInterval"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 150,
                             "functionName": "wrapMode",
                             "line": 93,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 60,
                             "functionName": "color",
                             "line": 94,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1757,
+                            "durationMicroseconds": 1082,
                             "functionName": "visible",
                             "line": 95,
                             "message": "Cannot access value for name missionItem"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 617,
+                            "durationMicroseconds": 402,
                             "functionName": "cameraCalc",
                             "line": 100,
                             "message": "Cannot access value for name missionItem"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 61,
                             "functionName": "spacing",
                             "line": 115,
                             "message": "Cannot access value for name _margin"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 67,
                             "functionName": "visible",
                             "line": 116,
                             "message": "Cannot retrieve a non-object type by ID: scanHeader"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 55,
                             "functionName": "columnSpacing",
                             "line": 120,
                             "message": "Cannot access value for name _margin"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 45,
                             "functionName": "rowSpacing",
                             "line": 121,
                             "message": "Cannot access value for name _margin"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 631,
+                            "durationMicroseconds": 375,
                             "functionName": "model",
                             "line": 127,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 303,
+                            "durationMicroseconds": 180,
                             "functionName": "altitudeMode",
                             "line": 143,
                             "message": "Cannot access value for name QGroundControl"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 138,
                             "functionName": "altitudeMode",
                             "line": 150,
                             "message": "Cannot access value for name QGroundControl"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 831,
+                            "durationMicroseconds": 518,
                             "functionName": "visible",
                             "line": 156,
                             "message": "Cannot access value for name missionItem"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 500,
+                            "durationMicroseconds": 228,
                             "functionName": "height",
                             "line": 166,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 137,
                             "functionName": "columnSpacing",
                             "line": 184,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 81,
                             "functionName": "visible",
                             "line": 185,
                             "message": "Cannot retrieve a non-object type by ID: statsHeader"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 860,
+                            "durationMicroseconds": 510,
                             "functionName": "text",
                             "line": 188,
                             "message": "Cannot access value for name missionItem"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 1633,
+                            "durationMicroseconds": 939,
                             "functionName": "text",
                             "line": 191,
                             "message": "Cannot access value for name missionItem"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 2346,
+                            "durationMicroseconds": 1478,
                             "functionName": "text",
                             "line": 194,
                             "message": "Cannot access value for name QGroundControl"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 2291,
+                            "durationMicroseconds": 2194,
                             "functionName": "text",
                             "line": 197,
                             "message": "Cannot access value for name QGroundControl"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 832,
+                            "durationMicroseconds": 468,
                             "functionName": "text",
                             "line": 200,
                             "message": "Cannot access value for name missionItem"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 895,
+                            "durationMicroseconds": 488,
                             "functionName": "text",
                             "line": 203,
                             "message": "Cannot access value for name missionItem"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 1546,
+                            "durationMicroseconds": 932,
                             "functionName": "text",
                             "line": 206,
                             "message": "Cannot access value for name missionItem"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 66,
                             "functionName": "spacing",
                             "line": 212,
                             "message": "Cannot access value for name _margin"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 423,
+                            "durationMicroseconds": 241,
                             "functionName": "visible",
                             "line": 213,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 560,
+                            "durationMicroseconds": 356,
                             "functionName": "cameraCalc",
                             "line": 217,
                             "message": "Cannot access value for name missionItem"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 757,
+                            "durationMicroseconds": 428,
                             "functionName": "activeVehicle",
                             "line": 12,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 61,
                             "functionName": "_escs",
                             "line": 16,
                             "message": "Cannot load property escs from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/EscIndicatorPage.qml)::activeVehicle with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 922,
+                            "durationMicroseconds": 525,
                             "functionName": "_onlineBitmask",
                             "line": 17,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 12776,
+                            "durationMicroseconds": 7589,
                             "functionName": "spacing",
                             "line": 29,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 208,
                             "functionName": "rowSpacing",
                             "line": 37,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 172,
                             "functionName": "columnSpacing",
                             "line": 38,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 2727,
+                            "durationMicroseconds": 1529,
                             "functionName": "labelText",
                             "line": 43,
                             "message": "Cannot access value for name _escs"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1069,
+                            "durationMicroseconds": 594,
                             "functionName": "labelText",
                             "line": 55,
                             "message": "Cannot access value for name _escs"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 39,
                             "functionName": "model",
                             "line": 67,
                             "message": "Cannot access value for name _escs"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 741,
+                            "durationMicroseconds": 420,
                             "functionName": "heading",
                             "line": 70,
                             "message": "Cannot access value for name object"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 302,
                             "functionName": "headingPointSize",
                             "line": 71,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1269,
+                            "durationMicroseconds": 752,
                             "functionName": "outerBorderColor",
                             "line": 72,
                             "message": "Cannot access value for name QGroundControl"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 56,
-                            "durationMicroseconds": 663,
+                            "durationMicroseconds": 381,
                             "functionName": "_isThisMotorHealthy",
                             "line": 74,
                             "message": "Cannot access value for name index"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 429,
+                            "durationMicroseconds": 250,
                             "functionName": "columnSpacing",
                             "line": 78,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 146,
                             "functionName": "flow",
                             "line": 79,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1321,
+                            "durationMicroseconds": 747,
                             "functionName": "labelText",
                             "line": 88,
                             "message": "Cannot access value for name object"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 80,
                             "functionName": "indexModel",
                             "line": 9,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 21,
                             "functionName": "model",
                             "line": 11,
                             "message": "Cannot access value for name fact"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 31,
                             "functionName": "currentIndex",
                             "line": 13,
                             "message": "Cannot access value for name fact"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 489,
+                            "durationMicroseconds": 140,
                             "functionName": "onModelChanged",
                             "line": 15,
                             "message": "Cannot generate efficient code for LoadClosure"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 36,
                             "functionName": "onActivated",
                             "line": 26,
                             "message": "Cannot access value for name fact"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 21,
                             "functionName": "onActivated",
                             "line": 26,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 108,
                             "functionName": "unitsLabel",
                             "line": 9,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 41,
                             "functionName": "extraUnitsLabel",
                             "line": 10,
                             "message": "Cannot access value for name fact"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 86,
                             "functionName": "altitudeMode",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 150,
                             "functionName": "onAltitudeModeChanged",
                             "line": 18,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 100,
                             "functionName": "updateAltitudeModeExtraUnits",
                             "line": 20,
                             "message": "Cannot access value for name QGroundControl"

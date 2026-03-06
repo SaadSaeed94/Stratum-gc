@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 627,
+                            "durationMicroseconds": 415,
                             "functionName": "_settingsManager",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 32,
                             "functionName": "_appSettings",
                             "line": 15,
                             "message": "Cannot load property appSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 38,
+                            "durationMicroseconds": 19,
                             "functionName": "_mapsSettings",
                             "line": 16,
                             "message": "Cannot load property mapsSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 520,
+                            "durationMicroseconds": 293,
                             "functionName": "_mapEngineManager",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 1379,
+                            "durationMicroseconds": 751,
                             "functionName": "_currentlyImportOrExporting",
                             "line": 18,
                             "message": "Cannot load property importAction from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_mapEngineManager with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 11092,
+                            "durationMicroseconds": 7262,
                             "functionName": "_largeTextFieldWidth",
                             "line": 19,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 116,
                             "functionName": "fill",
                             "line": 34,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 464,
+                            "durationMicroseconds": 301,
                             "functionName": "onCompleted",
                             "line": 36,
                             "message": "Cannot access value for name QGroundControl"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 43,
                             "functionName": "target",
                             "line": 41,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 143,
                             "functionName": "onErrorMessageChanged",
                             "line": 42,
                             "message": "Cannot access value for name mainWindow"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 60,
                             "functionName": "model",
                             "line": 50,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 189,
                             "functionName": "onActivated",
                             "line": 52,
                             "message": "Cannot access value for name _mapProviderFact"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 87,
                             "functionName": "onActivated",
                             "line": 52,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 128,
                             "functionName": "onCompleted",
                             "line": 57,
                             "message": "Cannot access value for name _mapProviderFact"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 97,
                             "functionName": "model",
                             "line": 66,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 67,
                             "functionName": "onActivated",
                             "line": 68,
                             "message": "Cannot access value for name _mapTypeFact"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 56,
                             "functionName": "onActivated",
                             "line": 68,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 114,
                             "functionName": "onCompleted",
                             "line": 70,
                             "message": "Cannot access value for name _mapTypeFact"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 47,
                             "functionName": "model",
                             "line": 79,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 69,
                             "functionName": "onActivated",
                             "line": 81,
                             "message": "Cannot access value for name _elevationProviderFact"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 61,
                             "functionName": "onActivated",
                             "line": 81,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 110,
                             "functionName": "onCompleted",
                             "line": 83,
                             "message": "Cannot access value for name _elevationProviderFact"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 302,
                             "functionName": "model",
                             "line": 97,
                             "message": "Cannot access value for name QGroundControl"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 206,
                             "functionName": "tileSet",
                             "line": 100,
                             "message": "Cannot access value for name object"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 195,
                             "functionName": "enabled",
                             "line": 101,
                             "message": "Cannot access value for name object"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 459,
+                            "durationMicroseconds": 267,
                             "functionName": "onClicked",
                             "line": 102,
                             "message": "Cannot access value for name offlineMapEditorComponent"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 52,
                             "functionName": "enabled",
                             "line": 109,
                             "message": "Cannot access value for name _currentlyImportOrExporting"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 94,
                             "functionName": "onClicked",
                             "line": 110,
                             "message": "Type call to method createObject, returning QObject does not have a property addNewSet for calling"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 477,
+                            "durationMicroseconds": 319,
                             "functionName": "visible",
                             "line": 116,
                             "message": "Cannot access value for name QGroundControl"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 44,
                             "functionName": "enabled",
                             "line": 117,
                             "message": "Cannot access value for name _currentlyImportOrExporting"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1074,
+                            "durationMicroseconds": 650,
                             "functionName": "onClicked",
                             "line": 118,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 511,
+                            "durationMicroseconds": 297,
                             "functionName": "visible",
                             "line": 127,
                             "message": "Cannot access value for name QGroundControl"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 46,
                             "functionName": "enabled",
                             "line": 128,
                             "message": "Cannot access value for name _currentlyImportOrExporting"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 525,
+                            "durationMicroseconds": 284,
                             "functionName": "onClicked",
                             "line": 129,
                             "message": "Cannot access value for name mainWindow"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 183,
                             "functionName": "spacing",
                             "line": 133,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 46,
                             "functionName": "visible",
                             "line": 134,
                             "message": "Cannot access value for name _currentlyImportOrExporting"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1027,
+                            "durationMicroseconds": 619,
                             "functionName": "text",
                             "line": 138,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 47,
                             "functionName": "textFieldPreferredWidth",
                             "line": 156,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 46,
                             "functionName": "textFieldPreferredWidth",
                             "line": 162,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 39,
                             "functionName": "textFieldPreferredWidth",
                             "line": 168,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 37,
                             "functionName": "textFieldPreferredWidth",
                             "line": 174,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 35,
                             "functionName": "textFieldPreferredWidth",
                             "line": 180,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 40,
                             "functionName": "textFieldPreferredWidth",
                             "line": 191,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 37,
                             "functionName": "textFieldPreferredWidth",
                             "line": 197,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 37,
                             "functionName": "textFieldPreferredWidth",
                             "line": 209,
                             "message": "Cannot access value for name _largeTextFieldWidth"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 47,
                             "functionName": "folder",
                             "line": 230,
                             "message": "Cannot access value for name _appSettings"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 529,
+                            "durationMicroseconds": 371,
                             "functionName": "nameFilters",
                             "line": 231,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 48,
                             "functionName": "defaultSuffix",
                             "line": 232,
                             "message": "Cannot access value for name _appSettings"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 58,
                             "functionName": "onAcceptedForSave",
                             "line": 234,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 64,
                             "functionName": "onAcceptedForSave",
                             "line": 234,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 55,
                             "functionName": "onAcceptedForLoad",
                             "line": 239,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 40,
                             "functionName": "onAcceptedForLoad",
                             "line": 239,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 335,
+                            "durationMicroseconds": 185,
                             "functionName": "buttons",
                             "line": 250,
                             "message": "Cannot access value for name Dialog"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 154,
                             "functionName": "onAccepted",
                             "line": 252,
                             "message": "method close cannot be resolved."
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 219,
                             "functionName": "spacing",
                             "line": 259,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 60,
                             "functionName": "model",
                             "line": 262,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 160,
                             "functionName": "buttons",
                             "line": 279,
                             "message": "Cannot access value for name Dialog"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 153,
                             "functionName": "onAccepted",
                             "line": 281,
                             "message": "method close cannot be resolved."
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 212,
                             "functionName": "spacing",
                             "line": 288,
                             "message": ""
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 54,
                             "functionName": "text",
                             "line": 309,
                             "message": "Cannot access value for name _mapEngineManager"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 100,
                             "functionName": "buttons",
                             "line": 310,
                             "message": "Cannot access value for name Dialog"
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 104,
                             "functionName": "fill",
                             "line": 320,
                             "message": ""

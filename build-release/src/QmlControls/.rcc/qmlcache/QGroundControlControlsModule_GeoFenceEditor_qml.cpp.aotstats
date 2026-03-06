@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 844,
+                            "durationMicroseconds": 546,
                             "functionName": "height",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 115,
                             "functionName": "radius",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 486,
+                            "durationMicroseconds": 348,
                             "functionName": "color",
                             "line": 14,
                             "message": "Cannot access value for name qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 12852,
+                            "durationMicroseconds": 8348,
                             "functionName": "_editFieldWidth",
                             "line": 19,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 233,
                             "functionName": "_margin",
                             "line": 20,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 190,
                             "functionName": "_radius",
                             "line": 21,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 76,
                             "functionName": "margins",
                             "line": 25,
                             "message": "Cannot access value for name _margin"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 199,
                             "functionName": "left",
                             "line": 26,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 156,
                             "functionName": "top",
                             "line": 27,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 125,
                             "functionName": "leftMargin",
                             "line": 29,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 116,
                             "functionName": "height",
                             "line": 38,
                             "message": "Cannot access value for name _margin"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 429,
+                            "durationMicroseconds": 273,
                             "functionName": "color",
                             "line": 39,
                             "message": "Cannot access value for name qgcPal"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 40,
                             "functionName": "radius",
                             "line": 40,
                             "message": "Cannot access value for name _radius"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 46,
+                            "durationMicroseconds": 39,
                             "functionName": "margins",
                             "line": 34,
                             "message": "Cannot access value for name _margin"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 169,
                             "functionName": "left",
                             "line": 35,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 163,
                             "functionName": "right",
                             "line": 36,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 153,
                             "functionName": "top",
                             "line": 37,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 62,
                             "functionName": "spacing",
                             "line": 48,
                             "message": "Cannot access value for name _margin"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 45,
                             "functionName": "margins",
                             "line": 44,
                             "message": "Cannot access value for name _margin"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 194,
                             "functionName": "top",
                             "line": 45,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 180,
                             "functionName": "left",
                             "line": 46,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 162,
                             "functionName": "right",
                             "line": 47,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 150,
                             "functionName": "wrapMode",
                             "line": 53,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 153,
                             "functionName": "text",
                             "line": 55,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 186,
                             "functionName": "left",
                             "line": 51,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 177,
                             "functionName": "right",
                             "line": 52,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 146,
                             "functionName": "pointSize",
                             "line": 54,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 60,
                             "functionName": "spacing",
                             "line": 63,
                             "message": "Cannot access value for name _margin"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 64,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 189,
                             "functionName": "left",
                             "line": 61,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 174,
                             "functionName": "right",
                             "line": 62,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 68,
                             "functionName": "model",
                             "line": 67,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 66,
                             "functionName": "width",
                             "line": 70,
                             "message": "Cannot access value for name fenceColumn"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 91,
                             "functionName": "height",
                             "line": 71,
                             "message": "Cannot retrieve a non-object type by ID: textField"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 441,
+                            "durationMicroseconds": 296,
                             "functionName": "showCombo",
                             "line": 73,
                             "message": "Cannot access value for name modelData"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 683,
+                            "durationMicroseconds": 472,
                             "functionName": "text",
                             "line": 78,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 73,
                             "functionName": "baseline",
                             "line": 77,
                             "message": "Cannot retrieve a non-object type by ID: textField"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 64,
                             "functionName": "width",
                             "line": 93,
                             "message": "Cannot access value for name _editFieldWidth"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 104,
                             "functionName": "visible",
                             "line": 96,
                             "message": "Cannot load property showCombo from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GeoFenceEditor.qml)::parent with type QQuickItem."
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 204,
                             "functionName": "right",
                             "line": 92,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 193,
                             "functionName": "visible",
                             "line": 143,
                             "message": "Cannot retrieve a non-object type by ID: polygonSection"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 493,
+                            "durationMicroseconds": 192,
                             "functionName": "flow",
                             "line": 149,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 169,
                             "functionName": "visible",
                             "line": 150,
                             "message": "Cannot retrieve a non-object type by ID: polygonSection"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 131,
                             "functionName": "alignment",
                             "line": 155,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 68,
                             "functionName": "model",
                             "line": 159,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 177,
                             "functionName": "alignment",
                             "line": 164,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 132,
                             "functionName": "alignment",
                             "line": 171,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 65,
                             "functionName": "model",
                             "line": 175,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 103,
                             "functionName": "_interactive",
                             "line": 181,
                             "message": "Cannot access value for name object"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 70,
                             "functionName": "on_InteractiveChanged",
                             "line": 183,
                             "message": "Cannot find name checked"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 148,
                             "functionName": "alignment",
                             "line": 179,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 128,
                             "functionName": "alignment",
                             "line": 195,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 69,
                             "functionName": "model",
                             "line": 199,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 156,
                             "functionName": "alignment",
                             "line": 203,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 192,
                             "functionName": "visible",
                             "line": 218,
                             "message": "Cannot retrieve a non-object type by ID: circleSection"
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 154,
                             "functionName": "flow",
                             "line": 225,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 166,
                             "functionName": "visible",
                             "line": 226,
                             "message": "Cannot retrieve a non-object type by ID: polygonSection"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 363,
+                            "durationMicroseconds": 211,
                             "functionName": "left",
                             "line": 222,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 169,
                             "functionName": "right",
                             "line": 223,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 141,
                             "functionName": "alignment",
                             "line": 231,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 72,
                             "functionName": "model",
                             "line": 235,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 144,
                             "functionName": "alignment",
                             "line": 240,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 131,
                             "functionName": "alignment",
                             "line": 247,
                             "message": ""
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 69,
                             "functionName": "model",
                             "line": 251,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 109,
                             "functionName": "_interactive",
                             "line": 257,
                             "message": "Cannot access value for name object"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 68,
                             "functionName": "on_InteractiveChanged",
                             "line": 259,
                             "message": "Cannot find name checked"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 141,
                             "functionName": "alignment",
                             "line": 255,
                             "message": ""
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 131,
                             "functionName": "alignment",
                             "line": 271,
                             "message": ""
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 70,
                             "functionName": "model",
                             "line": 275,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 162,
                             "functionName": "alignment",
                             "line": 280,
                             "message": ""
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 138,
                             "functionName": "alignment",
                             "line": 287,
                             "message": ""
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 74,
                             "functionName": "model",
                             "line": 291,
                             "message": "Cannot access value for name myGeoFenceController"
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 146,
                             "functionName": "alignment",
                             "line": 295,
                             "message": ""
@@ -864,7 +864,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 85,
                             "functionName": "spacing",
                             "line": 329,
                             "message": "Cannot access value for name _margin"
@@ -872,7 +872,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 182,
                             "functionName": "visible",
                             "line": 330,
                             "message": "Cannot retrieve a non-object type by ID: breachReturnSection"
@@ -880,7 +880,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 386,
+                            "durationMicroseconds": 232,
                             "functionName": "left",
                             "line": 327,
                             "message": ""
@@ -888,7 +888,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 180,
                             "functionName": "right",
                             "line": 328,
                             "message": ""

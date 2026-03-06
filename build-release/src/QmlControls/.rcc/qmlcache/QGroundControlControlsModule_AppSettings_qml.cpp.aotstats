@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 112,
                             "functionName": "color",
                             "line": 11,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 801,
+                            "durationMicroseconds": 404,
                             "functionName": "z",
                             "line": 12,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 12660,
+                            "durationMicroseconds": 8158,
                             "functionName": "_defaultTextHeight",
                             "line": 14,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 161,
                             "functionName": "_defaultTextWidth",
                             "line": 15,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 166,
                             "functionName": "_horizontalMargin",
                             "line": 16,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 143,
                             "functionName": "_verticalMargin",
                             "line": 17,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 119,
                             "functionName": "fill",
                             "line": 35,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1088,
+                            "durationMicroseconds": 720,
                             "functionName": "onCompleted",
                             "line": 40,
                             "message": "Cannot access value for name globals"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 173,
                             "functionName": "width",
                             "line": 56,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 84,
                             "functionName": "contentHeight",
                             "line": 62,
                             "message": "Cannot access value for name _verticalMargin"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 144,
                             "functionName": "flickableDirection",
                             "line": 63,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 58,
                             "functionName": "topMargin",
                             "line": 57,
                             "message": "Cannot access value for name _verticalMargin"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 169,
                             "functionName": "top",
                             "line": 58,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 151,
                             "functionName": "bottom",
                             "line": 59,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 47,
                             "functionName": "leftMargin",
                             "line": 60,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 146,
                             "functionName": "left",
                             "line": 61,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 207,
                             "functionName": "height",
                             "line": 75,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 1184,
+                            "durationMicroseconds": 516,
                             "functionName": "onCompleted",
                             "line": 96,
                             "message": "Cannot access value for name globals"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 136,
                             "functionName": "model",
                             "line": 117,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 163,
                             "functionName": "sourceComponent",
                             "line": 121,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 511,
+                            "durationMicroseconds": 341,
                             "functionName": "modelName",
                             "line": 123,
                             "message": "Cannot access value for name name"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 381,
+                            "durationMicroseconds": 281,
                             "functionName": "modelIconUrl",
                             "line": 124,
                             "message": "Cannot access value for name iconUrl"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 209,
                             "functionName": "modelUrl",
                             "line": 125,
                             "message": "Cannot access value for name url"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 424,
+                            "durationMicroseconds": 300,
                             "functionName": "modelPageVisible",
                             "line": 126,
                             "message": "Cannot access value for name pageVisible"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 960,
+                            "durationMicroseconds": 670,
                             "functionName": "_sourceComponent",
                             "line": 128,
                             "message": "Cannot access value for name name"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 64,
                             "functionName": "color",
                             "line": 151,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 47,
                             "functionName": "topMargin",
                             "line": 144,
                             "message": "Cannot access value for name _verticalMargin"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 32,
                             "functionName": "bottomMargin",
                             "line": 145,
                             "message": "Cannot access value for name _verticalMargin"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 33,
                             "functionName": "leftMargin",
                             "line": 146,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 208,
                             "functionName": "left",
                             "line": 147,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 178,
                             "functionName": "top",
                             "line": 148,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 175,
                             "functionName": "bottom",
                             "line": 149,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 64,
                             "functionName": "leftMargin",
                             "line": 157,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 34,
                             "functionName": "rightMargin",
                             "line": 158,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 33,
                             "functionName": "topMargin",
                             "line": 159,
                             "message": "Cannot access value for name _verticalMargin"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 37,
                             "functionName": "bottomMargin",
                             "line": 160,
                             "message": "Cannot access value for name _verticalMargin"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 191,
                             "functionName": "left",
                             "line": 161,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 160,
                             "functionName": "right",
                             "line": 162,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 172,
                             "functionName": "top",
                             "line": 163,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 152,
                             "functionName": "bottom",
                             "line": 164,
                             "message": ""

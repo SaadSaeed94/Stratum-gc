@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 169,
                             "functionName": "pageComponent",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 61,
                             "functionName": "width",
                             "line": 17,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 56,
                             "functionName": "_atcInputTCAvailable",
                             "line": 21,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 10064,
+                            "durationMicroseconds": 5242,
                             "functionName": "_margins",
                             "line": 46,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 1189,
+                            "durationMicroseconds": 605,
                             "functionName": "calcAutoTuneChannel",
                             "line": 59,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 72,
                             "functionName": "onCompleted",
                             "line": 50,
                             "message": "Cannot find name showAdvanced"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 31,
                             "functionName": "target",
                             "line": 87,
                             "message": "Cannot access value for name _ch7Opt"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 23,
                             "functionName": "target",
                             "line": 88,
                             "message": "Cannot access value for name _ch8Opt"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 25,
                             "functionName": "target",
                             "line": 89,
                             "message": "Cannot access value for name _ch9Opt"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 21,
                             "functionName": "target",
                             "line": 90,
                             "message": "Cannot access value for name _ch10Opt"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 21,
                             "functionName": "target",
                             "line": 91,
                             "message": "Cannot access value for name _ch11Opt"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 24,
                             "functionName": "target",
                             "line": 92,
                             "message": "Cannot access value for name _ch12Opt"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 28,
                             "functionName": "spacing",
                             "line": 96,
                             "message": "Cannot access value for name _margins"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 97,
                             "message": "Cannot access value for name advanced"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 117,
                             "functionName": "onValueChanged",
                             "line": 113,
                             "message": "Cannot access value for name _rateRollI"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 48,
                             "functionName": "onValueChanged",
                             "line": 134,
                             "message": "Cannot access value for name _rateClimbI"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 36,
                             "functionName": "from",
                             "line": 146,
                             "message": "Cannot access value for name _atcInputTC"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 26,
                             "functionName": "to",
                             "line": 147,
                             "message": "Cannot access value for name _atcInputTC"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 28,
                             "functionName": "majorTickStepSize",
                             "line": 148,
                             "message": "Cannot access value for name _atcInputTC"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 28,
                             "functionName": "spacing",
                             "line": 188,
                             "message": "Cannot access value for name _margins"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 34,
                             "functionName": "spacing",
                             "line": 195,
                             "message": "Cannot access value for name _margins"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 377,
+                            "durationMicroseconds": 203,
                             "functionName": "width",
                             "line": 203,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1098,
+                            "durationMicroseconds": 542,
                             "functionName": "model",
                             "line": 205,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 56,
                             "functionName": "currentIndex",
                             "line": 206,
                             "message": "Cannot access value for name _autoTuneSwitchChannelIndex"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 798,
+                            "durationMicroseconds": 373,
                             "functionName": "onActivated",
                             "line": 208,
                             "message": "method setChannelAutoTuneOption cannot be resolved."
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 46,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 56,
                             "functionName": "onActivated",
                             "line": 208,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 98,
                             "functionName": "spacing",
                             "line": 225,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 136,
                             "functionName": "width",
                             "line": 229,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 78,
                             "functionName": "spacing",
                             "line": 236,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 68,
                             "functionName": "sourceComponent",
                             "line": 259,
                             "message": "Cannot access value for name advanced"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 565,
+                            "durationMicroseconds": 261,
                             "functionName": "tuningMode",
                             "line": 384,
                             "message": "Cannot access value for name Vehicle"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 430,
+                            "durationMicroseconds": 213,
                             "functionName": "axis",
                             "line": 386,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 375,
+                            "durationMicroseconds": 148,
                             "functionName": "plot",
                             "line": 270,
                             "message": "Cannot access value for name globals"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 316,
+                            "durationMicroseconds": 124,
                             "functionName": "plot",
                             "line": 311,
                             "message": "Cannot access value for name globals"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 123,
                             "functionName": "plot",
                             "line": 352,
                             "message": "Cannot access value for name globals"

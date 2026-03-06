@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 142,
                             "functionName": "_activeVehicle",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 198,
                             "functionName": "_useChecklist",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"

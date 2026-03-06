@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 390,
+                            "durationMicroseconds": 252,
                             "functionName": "imageSource",
                             "line": 14,
                             "message": "Cannot load property showAlternateIcon from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/ToolStripHoverButton.qml)::toolStripAction with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 135,
                             "functionName": "toolStripAction",
                             "line": 19,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 68,
                             "functionName": "dropPanel",
                             "line": 20,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 105,
                             "functionName": "imageScale",
                             "line": 27,
                             "message": "Cannot access value for name text"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 43,
                             "functionName": "contentMargins",
                             "line": 28,
                             "message": "Cannot access value for name innerText"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 180,
                             "functionName": "_currentContentColor",
                             "line": 30,
                             "message": "Cannot access value for name checked"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 170,
                             "functionName": "_currentContentColorSecondary",
                             "line": 31,
                             "message": "Cannot access value for name checked"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 144,
                             "functionName": "fill",
                             "line": 57,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 40,
                             "functionName": "margins",
                             "line": 58,
                             "message": "Cannot access value for name contentMargins"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 89,
                             "functionName": "centerIn",
                             "line": 61,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 102,
                             "functionName": "height",
                             "line": 66,
                             "message": "Cannot access value for name contentLayoutItem"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 71,
                             "functionName": "width",
                             "line": 67,
                             "message": "Cannot access value for name contentLayoutItem"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 130,
                             "functionName": "fillMode",
                             "line": 70,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 48,
                             "functionName": "source",
                             "line": 75,
                             "message": "Cannot access value for name control"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 606,
+                            "durationMicroseconds": 364,
                             "functionName": "visible",
                             "line": 76,
                             "message": "Cannot access value for name modelData"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 108,
                             "functionName": "height",
                             "line": 72,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 74,
                             "functionName": "width",
                             "line": 73,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 162,
                             "functionName": "horizontalCenter",
                             "line": 74,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 109,
                             "functionName": "height",
                             "line": 81,
                             "message": "Cannot access value for name contentLayoutItem"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 67,
                             "functionName": "width",
                             "line": 82,
                             "message": "Cannot access value for name contentLayoutItem"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 35,
                             "functionName": "color",
                             "line": 85,
                             "message": "Cannot access value for name _currentContentColor"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 117,
                             "functionName": "fillMode",
                             "line": 86,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 542,
+                            "durationMicroseconds": 323,
                             "functionName": "visible",
                             "line": 91,
                             "message": "Cannot access value for name modelData"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 87,
                             "functionName": "height",
                             "line": 88,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 67,
                             "functionName": "width",
                             "line": 89,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 136,
                             "functionName": "horizontalCenter",
                             "line": 90,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 499,
+                            "durationMicroseconds": 291,
                             "functionName": "source",
                             "line": 95,
                             "message": "Cannot access value for name modelData"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 103,
                             "functionName": "height",
                             "line": 96,
                             "message": "Cannot access value for name contentLayoutItem"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 76,
                             "functionName": "width",
                             "line": 97,
                             "message": "Cannot access value for name contentLayoutItem"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 42,
                             "functionName": "color",
                             "line": 100,
                             "message": "Cannot access value for name _currentContentColorSecondary"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 122,
                             "functionName": "fillMode",
                             "line": 101,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 295,
                             "functionName": "visible",
                             "line": 106,
                             "message": "Cannot access value for name modelData"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 90,
                             "functionName": "height",
                             "line": 103,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 67,
                             "functionName": "width",
                             "line": 104,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 148,
                             "functionName": "horizontalCenter",
                             "line": 105,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 59,
                             "functionName": "text",
                             "line": 112,
                             "message": "Cannot access value for name control"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 40,
                             "functionName": "color",
                             "line": 113,
                             "message": "Cannot access value for name _currentContentColor"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 63,
                             "functionName": "opacity",
                             "line": 116,
                             "message": "Cannot access value for name innerImage"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 152,
                             "functionName": "horizontalCenter",
                             "line": 114,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 97,
                             "functionName": "bold",
                             "line": 115,
                             "message": "Cannot access value for name innerImage"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 196,
                             "functionName": "color",
                             "line": 123,
                             "message": "Cannot access value for name control"

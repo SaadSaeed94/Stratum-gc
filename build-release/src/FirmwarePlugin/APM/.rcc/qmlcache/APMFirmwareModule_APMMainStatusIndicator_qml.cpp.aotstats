@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 11603,
+                            "durationMicroseconds": 6962,
                             "functionName": "spacing",
                             "line": 10,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 387,
+                            "durationMicroseconds": 248,
                             "functionName": "preferredWidth",
                             "line": 26,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 86,
                             "functionName": "model",
                             "line": 39,
                             "message": "Cannot access value for name fact"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 11,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 69,
                             "functionName": "text",
                             "line": 12,
                             "message": "Cannot access value for name fact"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 1667,
+                            "durationMicroseconds": 542,
                             "functionName": "busTypes",
                             "line": 15,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 5457,
+                            "durationMicroseconds": 1637,
                             "functionName": "compassTypes",
                             "line": 25,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 9759,
+                            "durationMicroseconds": 3097,
                             "functionName": "imuTypes",
                             "line": 51,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 5600,
+                            "durationMicroseconds": 1946,
                             "functionName": "baroTypes",
                             "line": 90,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 2380,
+                            "durationMicroseconds": 705,
                             "functionName": "airspeedTypes",
                             "line": 117,
                             "message": ""

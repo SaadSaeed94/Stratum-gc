@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 652,
+                            "durationMicroseconds": 435,
                             "functionName": "clickRect",
                             "line": 23,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 332,
                             "functionName": "dropViewPort",
                             "line": 24,
                             "message": "Cannot access value for name parent"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 71,
                             "functionName": "_qgcPal",
                             "line": 26,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 12551,
+                            "durationMicroseconds": 7434,
                             "functionName": "_innerMargin",
                             "line": 27,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 206,
                             "functionName": "_arrowPointWidth",
                             "line": 28,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 77,
                             "functionName": "_arrowPointPositionY",
                             "line": 29,
                             "message": "Cannot access value for name height"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 382,
+                            "durationMicroseconds": 316,
                             "functionName": "implicitWidth",
                             "line": 59,
                             "message": "Cannot access value for name contentItem"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 248,
                             "functionName": "implicitHeight",
                             "line": 60,
                             "message": "Cannot access value for name contentItem"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 91,
                             "functionName": "x",
                             "line": 63,
                             "message": "Cannot access value for name _dropRight"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 217,
                             "functionName": "radius",
                             "line": 64,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 62,
                             "functionName": "width",
                             "line": 65,
                             "message": "Cannot access value for name _arrowPointWidth"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 144,
                             "functionName": "height",
                             "line": 66,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 46,
                             "functionName": "color",
                             "line": 67,
                             "message": "Cannot access value for name _qgcPal"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 127,
                             "functionName": "x",
                             "line": 72,
                             "message": "Cannot access value for name _dropRight"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 57,
                             "functionName": "y",
                             "line": 73,
                             "message": "Cannot access value for name _arrowPointPositionY"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 32,
+                            "durationMicroseconds": 28,
                             "functionName": "width",
                             "line": 74,
                             "message": "Cannot access value for name _arrowPointWidth"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 31,
                             "functionName": "height",
                             "line": 75,
                             "message": "Cannot access value for name _arrowPointWidth"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 617,
+                            "durationMicroseconds": 379,
                             "functionName": "onPaint",
                             "line": 77,
                             "message": "Cannot access value for name _dropRight"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 50,
                             "functionName": "sourceComponent",
                             "line": 93,
                             "message": "Cannot access value for name _root"

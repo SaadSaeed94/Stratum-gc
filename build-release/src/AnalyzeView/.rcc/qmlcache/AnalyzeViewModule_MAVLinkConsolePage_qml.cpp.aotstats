@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 331,
+                            "durationMicroseconds": 159,
                             "functionName": "pageComponent",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 13077,
+                            "durationMicroseconds": 4666,
                             "functionName": "_separateCommandInput",
                             "line": 18,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 58,
                             "functionName": "height",
                             "line": 26,
                             "message": "Cannot access value for name availableHeight"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 21,
                             "functionName": "width",
                             "line": 27,
                             "message": "Cannot access value for name availableWidth"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 1056,
+                            "durationMicroseconds": 380,
                             "functionName": "scrollToBottom",
                             "line": 30,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 69,
                             "functionName": "getCommand",
                             "line": 36,
                             "message": "Cannot access value for name textConsole"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 66,
                             "functionName": "getCommandAndClear",
                             "line": 38,
                             "message": "Cannot access value for name textConsole"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 601,
+                            "durationMicroseconds": 190,
                             "functionName": "pasteFromClipboard",
                             "line": 44,
                             "message": "Cannot access value for name textConsole"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 20,
                             "functionName": "target",
                             "line": 62,
                             "message": "Cannot access value for name conController"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 1263,
+                            "durationMicroseconds": 403,
                             "functionName": "onTriggered",
                             "line": 76,
                             "message": "method getCommand cannot be resolved."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 27,
                             "functionName": "contentWidth",
                             "line": 101,
                             "message": "Cannot access value for name textConsole"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 20,
                             "functionName": "contentHeight",
                             "line": 102,
                             "message": "Cannot access value for name textConsole"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 469,
+                            "durationMicroseconds": 150,
                             "functionName": "onCompleted",
                             "line": 119,
                             "message": "Cannot access value for name root"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 449,
+                            "durationMicroseconds": 158,
                             "functionName": "color",
                             "line": 128,
                             "message": "Cannot access value for name qgcPal"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 14189,
+                            "durationMicroseconds": 4822,
                             "functionName": "onPressed",
                             "line": 130,
                             "message": "method scrollToBottom cannot be resolved."
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 94,
                             "functionName": "onPressed",
                             "line": 130,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 36,
                             "functionName": "visible",
                             "line": 230,
                             "message": "Cannot access value for name _separateCommandInput"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 456,
+                            "durationMicroseconds": 150,
                             "functionName": "sendCommand",
                             "line": 239,
                             "message": "Cannot access value for name conController"

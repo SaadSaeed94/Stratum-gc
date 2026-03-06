@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 12,
-                            "durationMicroseconds": 411,
+                            "durationMicroseconds": 265,
                             "functionName": "width",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 160,
                             "functionName": "text",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 147,
                             "functionName": "text",
                             "line": 19,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 952,
+                            "durationMicroseconds": 616,
                             "functionName": "color",
                             "line": 20,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 148,
                             "functionName": "elide",
                             "line": 21,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 127,
                             "functionName": "horizontalAlignment",
                             "line": 22,
                             "message": ""

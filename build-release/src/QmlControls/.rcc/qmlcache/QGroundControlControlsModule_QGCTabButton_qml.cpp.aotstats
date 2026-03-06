@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 12709,
+                            "durationMicroseconds": 7130,
                             "functionName": "pointSize",
                             "line": 22,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 133,
                             "functionName": "showBorder",
                             "line": 23,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 127,
                             "functionName": "backRadius",
                             "line": 24,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 154,
                             "functionName": "_showHighlight",
                             "line": 27,
                             "message": "Cannot access value for name enabled"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 135,
                             "functionName": "_horizontalPadding",
                             "line": 28,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 529,
+                            "durationMicroseconds": 297,
                             "functionName": "_verticalPadding",
                             "line": 29,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 64,
                             "functionName": "_showIcon",
                             "line": 30,
                             "message": "Cannot retrieve a non-object type by ID: control"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 122,
                             "functionName": "implicitWidth",
                             "line": 36,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 94,
                             "functionName": "implicitHeight",
                             "line": 37,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 115,
                             "functionName": "color",
                             "line": 41,
                             "message": "Cannot access value for name _showHighlight"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 48,
                             "functionName": "width",
                             "line": 39,
                             "message": "Cannot access value for name showBorder"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 31,
                             "functionName": "color",
                             "line": 40,
                             "message": "Cannot access value for name qgcPal"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 86,
                             "functionName": "implicitWidth",
                             "line": 45,
                             "message": "Cannot access value for name _showIcon"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 80,
                             "functionName": "implicitHeight",
                             "line": 46,
                             "message": "Cannot access value for name _showIcon"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 54,
                             "functionName": "baselineOffset",
                             "line": 47,
                             "message": "Cannot access value for name text"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 42,
                             "functionName": "source",
                             "line": 52,
                             "message": "Cannot access value for name control"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 712,
+                            "durationMicroseconds": 398,
                             "functionName": "height",
                             "line": 53,
                             "message": "Cannot generate efficient code for incomparable types QString and (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCTabButton.qml)::source with type QUrl"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 79,
                             "functionName": "width",
                             "line": 54,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 113,
                             "functionName": "color",
                             "line": 55,
                             "message": "Cannot access value for name _showHighlight"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 117,
                             "functionName": "fillMode",
                             "line": 56,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 58,
                             "message": "Cannot access value for name _showIcon"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 81,
                             "functionName": "centerIn",
                             "line": 51,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 69,
                             "functionName": "height",
                             "line": 57,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 46,
                             "functionName": "text",
                             "line": 65,
                             "message": "Cannot access value for name control"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 106,
                             "functionName": "color",
                             "line": 68,
                             "message": "Cannot access value for name _showHighlight"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 69,
                             "message": "Cannot access value for name _showIcon"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 90,
                             "functionName": "centerIn",
                             "line": 63,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 33,
                             "functionName": "pointSize",
                             "line": 66,
                             "message": "Cannot access value for name control"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 118,
                             "functionName": "family",
                             "line": 67,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 170,
                             "functionName": "pageComponent",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 56,
                             "functionName": "width",
                             "line": 17,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 425,
+                            "durationMicroseconds": 192,
                             "functionName": "height",
                             "line": 18,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 175,
                             "functionName": "color",
                             "line": 19,
                             "message": "Cannot access value for name qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 11674,
+                            "durationMicroseconds": 4612,
                             "functionName": "columnSpacing",
                             "line": 29,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 91,
                             "functionName": "rowSpacing",
                             "line": 30,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 115,
                             "functionName": "left",
                             "line": 25,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 114,
                             "functionName": "verticalCenter",
                             "line": 26,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 76,
                             "functionName": "margins",
                             "line": 27,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 922,
+                            "durationMicroseconds": 392,
                             "functionName": "visible",
                             "line": 33,
                             "message": "Cannot access value for name QGroundControl"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 393,
+                            "durationMicroseconds": 157,
                             "functionName": "preferredWidth",
                             "line": 39,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 811,
+                            "durationMicroseconds": 302,
                             "functionName": "visible",
                             "line": 50,
                             "message": "Cannot access value for name QGroundControl"

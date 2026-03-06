@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 161,
                             "functionName": "onButtonGroupChanged",
                             "line": 12,
                             "message": "Cannot access value for name buttonGroup"

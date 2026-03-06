@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 84,
                             "functionName": "visible",
                             "line": 12,
                             "message": "Cannot load property multiRotor from (component in /home/saad-saeed/qgroundcontrol/src/FirmwarePlugin/APM/APMFlightModeIndicator.qml)::activeVehicle with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 603,
+                            "durationMicroseconds": 377,
                             "functionName": "activeVehicle",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 11200,
+                            "durationMicroseconds": 7409,
                             "functionName": "spacing",
                             "line": 21,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 833,
+                            "durationMicroseconds": 331,
                             "functionName": "model",
                             "line": 32,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 131,
                             "functionName": "setCurrentIndex",
                             "line": 34,
                             "message": "Cannot access value for name rtlAltFact"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 96,
                             "functionName": "onActivated",
                             "line": 44,
                             "message": "Cannot access value for name rtlAltFact"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 57,
                             "functionName": "onActivated",
                             "line": 44,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 90,
                             "functionName": "onCompleted",
                             "line": 42,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 30,
                             "functionName": "target",
                             "line": 53,
                             "message": "Cannot access value for name rtlAltFact"

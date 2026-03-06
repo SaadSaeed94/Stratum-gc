@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 340,
+                            "durationMicroseconds": 147,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 75,
                             "functionName": "fill",
                             "line": 19,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 375,
+                            "durationMicroseconds": 178,
                             "functionName": "valueText",
                             "line": 23,
                             "message": "Cannot access value for name mapRollFact"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 118,
                             "functionName": "valueText",
                             "line": 28,
                             "message": "Cannot access value for name mapPitchFact"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 109,
                             "functionName": "valueText",
                             "line": 33,
                             "message": "Cannot access value for name mapYawFact"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 109,
                             "functionName": "valueText",
                             "line": 38,
                             "message": "Cannot access value for name mapThrottleFact"

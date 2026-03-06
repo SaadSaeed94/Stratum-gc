@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 811,
+                            "durationMicroseconds": 479,
                             "functionName": "color",
                             "line": 5,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
                             "line": 4,
                             "message": ""

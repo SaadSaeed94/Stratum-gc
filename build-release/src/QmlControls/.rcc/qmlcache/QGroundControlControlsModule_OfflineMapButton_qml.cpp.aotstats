@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 195,
                             "functionName": "_showHighlight",
                             "line": 25,
                             "message": "Cannot access value for name checked"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 167,
                             "functionName": "_showBorder",
                             "line": 26,
                             "message": "Cannot access value for name qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 801,
+                            "durationMicroseconds": 507,
                             "functionName": "color",
                             "line": 14,
                             "message": "Cannot access value for name _showHighlight"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 187,
                             "functionName": "fill",
                             "line": 13,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 78,
                             "functionName": "width",
                             "line": 15,
                             "message": "Cannot access value for name _showBorder"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 358,
+                            "durationMicroseconds": 220,
                             "functionName": "color",
                             "line": 16,
                             "message": "Cannot access value for name qgcPal"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 128,
                             "functionName": "centerIn",
                             "line": 35,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 13006,
+                            "durationMicroseconds": 7897,
                             "functionName": "margins",
                             "line": 36,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 101,
                             "functionName": "text",
                             "line": 38,
                             "message": "Cannot access value for name mapButton"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 61,
                             "functionName": "width",
                             "line": 39,
                             "message": "Cannot access value for name mapButton"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 1304,
+                            "durationMicroseconds": 828,
                             "functionName": "color",
                             "line": 40,
                             "message": "Cannot access value for name _showHighlight"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 168,
                             "functionName": "wrapMode",
                             "line": 41,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 197,
                             "functionName": "verticalCenter",
                             "line": 43,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 90,
                             "functionName": "width",
                             "line": 47,
                             "message": "Cannot access value for name mapButton"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 167,
                             "functionName": "horizontalAlignment",
                             "line": 48,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 1297,
+                            "durationMicroseconds": 783,
                             "functionName": "color",
                             "line": 50,
                             "message": "Cannot access value for name _showHighlight"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 192,
                             "functionName": "text",
                             "line": 51,
                             "message": "Cannot access value for name mapButton"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 203,
                             "functionName": "verticalCenter",
                             "line": 49,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 381,
+                            "durationMicroseconds": 217,
                             "functionName": "width",
                             "line": 54,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 78,
                             "functionName": "width",
                             "line": 58,
                             "message": "Cannot access value for name sizeLabel"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 63,
                             "functionName": "height",
                             "line": 59,
                             "message": "Cannot access value for name sizeLabel"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 183,
                             "functionName": "radius",
                             "line": 60,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 80,
                             "functionName": "color",
                             "line": 61,
                             "message": "Cannot access value for name complete"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 76,
                             "functionName": "opacity",
                             "line": 62,
                             "message": "Cannot access value for name sizeLabel"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 172,
                             "functionName": "verticalCenter",
                             "line": 63,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 193,
                             "functionName": "width",
                             "line": 66,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 70,
                             "functionName": "width",
                             "line": 70,
                             "message": "Cannot access value for name sizeLabel"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 48,
                             "functionName": "height",
                             "line": 71,
                             "message": "Cannot access value for name sizeLabel"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 125,
                             "functionName": "fillMode",
                             "line": 75,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 978,
+                            "durationMicroseconds": 635,
                             "functionName": "color",
                             "line": 76,
                             "message": "Cannot access value for name _showHighlight"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 112,
                             "functionName": "height",
                             "line": 72,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 166,
                             "functionName": "verticalCenter",
                             "line": 77,
                             "message": ""

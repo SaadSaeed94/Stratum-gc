@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 12184,
+                            "durationMicroseconds": 7441,
                             "functionName": "width",
                             "line": 15,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 308,
                             "functionName": "height",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 177,
                             "functionName": "radius",
                             "line": 18,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 61,
                             "functionName": "color",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 140,
                             "functionName": "visible",
                             "line": 21,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 15,
-                            "durationMicroseconds": 421,
+                            "durationMicroseconds": 239,
                             "functionName": "opacity",
                             "line": 22,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 176,
                             "functionName": "verticalCenter",
                             "line": 31,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 121,
                             "functionName": "right",
                             "line": 32,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 121,
                             "functionName": "left",
                             "line": 33,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 131,
                             "functionName": "text",
                             "line": 49,
                             "message": "Cannot access value for name progressText"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 45,
                             "functionName": "color",
                             "line": 50,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 104,
                             "functionName": "horizontalAlignment",
                             "line": 53,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 126,
                             "functionName": "horizontalCenter",
                             "line": 48,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 92,
                             "functionName": "pointSize",
                             "line": 52,
                             "message": ""

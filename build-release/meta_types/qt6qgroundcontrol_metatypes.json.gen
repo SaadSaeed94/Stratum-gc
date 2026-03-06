@@ -19817,19 +19817,59 @@
                         "access": "public",
                         "arguments": [
                             {
-                                "name": "coord",
-                                "type": "QGeoCoordinate"
+                                "name": "lat",
+                                "type": "double"
+                            },
+                            {
+                                "name": "lon",
+                                "type": "double"
+                            },
+                            {
+                                "name": "distance",
+                                "type": "double"
+                            },
+                            {
+                                "name": "height",
+                                "type": "double"
+                            },
+                            {
+                                "name": "speed",
+                                "type": "double"
+                            },
+                            {
+                                "name": "direction",
+                                "type": "int"
                             }
                         ],
                         "index": 156,
                         "lineNumber": 404,
-                        "name": "doSetHome",
+                        "name": "sendStandoffCommand",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 157,
-                        "lineNumber": 406,
+                        "lineNumber": 407,
+                        "name": "cancelStandoffCommand",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "coord",
+                                "type": "QGeoCoordinate"
+                            }
+                        ],
+                        "index": 158,
+                        "lineNumber": 410,
+                        "name": "doSetHome",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 159,
+                        "lineNumber": 412,
                         "name": "sendSetupSigning",
                         "returnType": "void"
                     },
@@ -19841,16 +19881,16 @@
                                 "type": "QString"
                             }
                         ],
-                        "index": 158,
-                        "lineNumber": 408,
+                        "index": 160,
+                        "lineNumber": 414,
                         "name": "expandedToolbarIndicatorSource",
                         "returnType": "QVariant"
                     },
                     {
                         "access": "public",
-                        "index": 159,
+                        "index": 161,
                         "isConst": true,
-                        "lineNumber": 443,
+                        "lineNumber": 449,
                         "name": "vehicleClassInternalName",
                         "returnType": "QString"
                     },
@@ -19898,8 +19938,8 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 160,
-                        "lineNumber": 635,
+                        "index": 162,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -19943,9 +19983,9 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 161,
+                        "index": 163,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -19985,9 +20025,9 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 162,
+                        "index": 164,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -20023,9 +20063,9 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 163,
+                        "index": 165,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -20057,9 +20097,9 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 164,
+                        "index": 166,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -20087,9 +20127,9 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 165,
+                        "index": 167,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -20113,9 +20153,9 @@
                                 "type": "double"
                             }
                         ],
-                        "index": 166,
+                        "index": 168,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
@@ -20135,16 +20175,16 @@
                                 "type": "bool"
                             }
                         ],
-                        "index": 167,
+                        "index": 169,
                         "isCloned": true,
-                        "lineNumber": 635,
+                        "lineNumber": 641,
                         "name": "sendCommand",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
-                        "index": 168,
-                        "lineNumber": 1306,
+                        "index": 170,
+                        "lineNumber": 1312,
                         "name": "flashBootloader",
                         "returnType": "void"
                     },
@@ -20156,15 +20196,15 @@
                                 "type": "bool"
                             }
                         ],
-                        "index": 169,
-                        "lineNumber": 1309,
+                        "index": 171,
+                        "lineNumber": 1315,
                         "name": "motorInterlock",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
-                        "index": 170,
-                        "lineNumber": 1316,
+                        "index": 172,
+                        "lineNumber": 1322,
                         "name": "startTimerRevertAllowTakeover",
                         "returnType": "void"
                     },
@@ -20180,8 +20220,8 @@
                                 "type": "int"
                             }
                         ],
-                        "index": 171,
-                        "lineNumber": 1317,
+                        "index": 173,
+                        "lineNumber": 1323,
                         "name": "requestOperatorControl",
                         "returnType": "void"
                     },
@@ -20193,30 +20233,30 @@
                                 "type": "bool"
                             }
                         ],
-                        "index": 172,
+                        "index": 174,
                         "isCloned": true,
-                        "lineNumber": 1317,
+                        "lineNumber": 1323,
                         "name": "requestOperatorControl",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
-                        "index": 173,
-                        "lineNumber": 1369,
+                        "index": 175,
+                        "lineNumber": 1375,
                         "name": "resetAllMessages",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
-                        "index": 174,
-                        "lineNumber": 1370,
+                        "index": 176,
+                        "lineNumber": 1376,
                         "name": "resetErrorLevelMessages",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
-                        "index": 175,
-                        "lineNumber": 1371,
+                        "index": 177,
+                        "lineNumber": 1377,
                         "name": "clearMessages",
                         "returnType": "void"
                     }
@@ -22256,7 +22296,7 @@
                         "designable": true,
                         "final": false,
                         "index": 139,
-                        "lineNumber": 1324,
+                        "lineNumber": 1330,
                         "name": "sysidInControl",
                         "notify": "gcsControlStatusChanged",
                         "read": "sysidInControl",
@@ -22271,7 +22311,7 @@
                         "designable": true,
                         "final": false,
                         "index": 140,
-                        "lineNumber": 1325,
+                        "lineNumber": 1331,
                         "name": "gcsControlStatusFlags_SystemManager",
                         "notify": "gcsControlStatusChanged",
                         "read": "gcsControlStatusFlags_SystemManager",
@@ -22286,7 +22326,7 @@
                         "designable": true,
                         "final": false,
                         "index": 141,
-                        "lineNumber": 1326,
+                        "lineNumber": 1332,
                         "name": "gcsControlStatusFlags_TakeoverAllowed",
                         "notify": "gcsControlStatusChanged",
                         "read": "gcsControlStatusFlags_TakeoverAllowed",
@@ -22301,7 +22341,7 @@
                         "designable": true,
                         "final": false,
                         "index": 142,
-                        "lineNumber": 1327,
+                        "lineNumber": 1333,
                         "name": "firstControlStatusReceived",
                         "notify": "gcsControlStatusChanged",
                         "read": "firstControlStatusReceived",
@@ -22316,7 +22356,7 @@
                         "designable": true,
                         "final": false,
                         "index": 143,
-                        "lineNumber": 1328,
+                        "lineNumber": 1334,
                         "name": "operatorControlTakeoverTimeoutMsecs",
                         "read": "operatorControlTakeoverTimeoutMsecs",
                         "required": false,
@@ -22330,7 +22370,7 @@
                         "designable": true,
                         "final": false,
                         "index": 144,
-                        "lineNumber": 1329,
+                        "lineNumber": 1335,
                         "name": "requestOperatorControlRemainingMsecs",
                         "read": "requestOperatorControlRemainingMsecs",
                         "required": false,
@@ -22344,7 +22384,7 @@
                         "designable": true,
                         "final": false,
                         "index": 145,
-                        "lineNumber": 1330,
+                        "lineNumber": 1336,
                         "name": "sendControlRequestAllowed",
                         "notify": "sendControlRequestAllowedChanged",
                         "read": "sendControlRequestAllowed",
@@ -22359,7 +22399,7 @@
                         "designable": true,
                         "final": false,
                         "index": 146,
-                        "lineNumber": 1359,
+                        "lineNumber": 1365,
                         "name": "messageTypeNone",
                         "notify": "messageTypeChanged",
                         "read": "messageTypeNone",
@@ -22374,7 +22414,7 @@
                         "designable": true,
                         "final": false,
                         "index": 147,
-                        "lineNumber": 1360,
+                        "lineNumber": 1366,
                         "name": "messageTypeNormal",
                         "notify": "messageTypeChanged",
                         "read": "messageTypeNormal",
@@ -22389,7 +22429,7 @@
                         "designable": true,
                         "final": false,
                         "index": 148,
-                        "lineNumber": 1361,
+                        "lineNumber": 1367,
                         "name": "messageTypeWarning",
                         "notify": "messageTypeChanged",
                         "read": "messageTypeWarning",
@@ -22404,7 +22444,7 @@
                         "designable": true,
                         "final": false,
                         "index": 149,
-                        "lineNumber": 1362,
+                        "lineNumber": 1368,
                         "name": "messageTypeError",
                         "notify": "messageTypeChanged",
                         "read": "messageTypeError",
@@ -22419,7 +22459,7 @@
                         "designable": true,
                         "final": false,
                         "index": 150,
-                        "lineNumber": 1363,
+                        "lineNumber": 1369,
                         "name": "messageCount",
                         "notify": "messageCountChanged",
                         "read": "messageCount",
@@ -22434,7 +22474,7 @@
                         "designable": true,
                         "final": false,
                         "index": 151,
-                        "lineNumber": 1364,
+                        "lineNumber": 1370,
                         "name": "formattedMessages",
                         "notify": "formattedMessagesChanged",
                         "read": "formattedMessages",
@@ -22449,7 +22489,7 @@
                         "designable": true,
                         "final": false,
                         "index": 152,
-                        "lineNumber": 1409,
+                        "lineNumber": 1415,
                         "name": "flowImageIndex",
                         "notify": "flowImageIndexChanged",
                         "read": "flowImageIndex",
@@ -22464,7 +22504,7 @@
                         "designable": true,
                         "final": false,
                         "index": 153,
-                        "lineNumber": 1427,
+                        "lineNumber": 1433,
                         "name": "mavlinkLogManager",
                         "notify": "mavlinkLogManagerChanged",
                         "read": "mavlinkLogManager",
@@ -22479,7 +22519,7 @@
                         "designable": true,
                         "final": false,
                         "index": 154,
-                        "lineNumber": 1446,
+                        "lineNumber": 1452,
                         "name": "cameraManager",
                         "notify": "cameraManagerChanged",
                         "read": "cameraManager",
@@ -22494,7 +22534,7 @@
                         "designable": true,
                         "final": false,
                         "index": 155,
-                        "lineNumber": 1447,
+                        "lineNumber": 1453,
                         "name": "staticCameraList",
                         "read": "staticCameraList",
                         "required": false,
@@ -22515,7 +22555,7 @@
                             }
                         ],
                         "index": 0,
-                        "lineNumber": 803,
+                        "lineNumber": 809,
                         "name": "coordinateChanged",
                         "returnType": "void"
                     },
@@ -22528,7 +22568,7 @@
                             }
                         ],
                         "index": 1,
-                        "lineNumber": 804,
+                        "lineNumber": 810,
                         "name": "mavlinkMessageReceived",
                         "returnType": "void"
                     },
@@ -22541,14 +22581,14 @@
                             }
                         ],
                         "index": 2,
-                        "lineNumber": 805,
+                        "lineNumber": 811,
                         "name": "homePositionChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 3,
-                        "lineNumber": 806,
+                        "lineNumber": 812,
                         "name": "armedPositionChanged",
                         "returnType": "void"
                     },
@@ -22561,7 +22601,7 @@
                             }
                         ],
                         "index": 4,
-                        "lineNumber": 807,
+                        "lineNumber": 813,
                         "name": "armedChanged",
                         "returnType": "void"
                     },
@@ -22574,7 +22614,7 @@
                             }
                         ],
                         "index": 5,
-                        "lineNumber": 808,
+                        "lineNumber": 814,
                         "name": "flightModeChanged",
                         "returnType": "void"
                     },
@@ -22587,7 +22627,7 @@
                             }
                         ],
                         "index": 6,
-                        "lineNumber": 809,
+                        "lineNumber": 815,
                         "name": "flyingChanged",
                         "returnType": "void"
                     },
@@ -22600,7 +22640,7 @@
                             }
                         ],
                         "index": 7,
-                        "lineNumber": 810,
+                        "lineNumber": 816,
                         "name": "landingChanged",
                         "returnType": "void"
                     },
@@ -22613,14 +22653,14 @@
                             }
                         ],
                         "index": 8,
-                        "lineNumber": 811,
+                        "lineNumber": 817,
                         "name": "guidedModeChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 9,
-                        "lineNumber": 812,
+                        "lineNumber": 818,
                         "name": "inFwdFlightChanged",
                         "returnType": "void"
                     },
@@ -22633,7 +22673,7 @@
                             }
                         ],
                         "index": 10,
-                        "lineNumber": 813,
+                        "lineNumber": 819,
                         "name": "vtolInFwdFlightChanged",
                         "returnType": "void"
                     },
@@ -22646,7 +22686,7 @@
                             }
                         ],
                         "index": 11,
-                        "lineNumber": 814,
+                        "lineNumber": 820,
                         "name": "prearmErrorChanged",
                         "returnType": "void"
                     },
@@ -22659,7 +22699,7 @@
                             }
                         ],
                         "index": 12,
-                        "lineNumber": 815,
+                        "lineNumber": 821,
                         "name": "soloFirmwareChanged",
                         "returnType": "void"
                     },
@@ -22672,7 +22712,7 @@
                             }
                         ],
                         "index": 13,
-                        "lineNumber": 816,
+                        "lineNumber": 822,
                         "name": "defaultCruiseSpeedChanged",
                         "returnType": "void"
                     },
@@ -22685,28 +22725,28 @@
                             }
                         ],
                         "index": 14,
-                        "lineNumber": 817,
+                        "lineNumber": 823,
                         "name": "defaultHoverSpeedChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 15,
-                        "lineNumber": 818,
+                        "lineNumber": 824,
                         "name": "firmwareTypeChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 16,
-                        "lineNumber": 819,
+                        "lineNumber": 825,
                         "name": "vehicleTypeChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 17,
-                        "lineNumber": 820,
+                        "lineNumber": 826,
                         "name": "hobbsMeterChanged",
                         "returnType": "void"
                     },
@@ -22719,7 +22759,7 @@
                             }
                         ],
                         "index": 18,
-                        "lineNumber": 821,
+                        "lineNumber": 827,
                         "name": "capabilitiesKnownChanged",
                         "returnType": "void"
                     },
@@ -22732,7 +22772,7 @@
                             }
                         ],
                         "index": 19,
-                        "lineNumber": 822,
+                        "lineNumber": 828,
                         "name": "initialPlanRequestCompleteChanged",
                         "returnType": "void"
                     },
@@ -22745,14 +22785,14 @@
                             }
                         ],
                         "index": 20,
-                        "lineNumber": 823,
+                        "lineNumber": 829,
                         "name": "capabilityBitsChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 21,
-                        "lineNumber": 824,
+                        "lineNumber": 830,
                         "name": "toolIndicatorsChanged",
                         "returnType": "void"
                     },
@@ -22777,28 +22817,28 @@
                             }
                         ],
                         "index": 22,
-                        "lineNumber": 825,
+                        "lineNumber": 831,
                         "name": "calibrationEventReceived",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 23,
-                        "lineNumber": 826,
+                        "lineNumber": 832,
                         "name": "checkListStateChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 24,
-                        "lineNumber": 827,
+                        "lineNumber": 833,
                         "name": "longitudeChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 25,
-                        "lineNumber": 828,
+                        "lineNumber": 834,
                         "name": "currentConfigChanged",
                         "returnType": "void"
                     },
@@ -22811,7 +22851,7 @@
                             }
                         ],
                         "index": 26,
-                        "lineNumber": 829,
+                        "lineNumber": 835,
                         "name": "rcRSSIChanged",
                         "returnType": "void"
                     },
@@ -22824,7 +22864,7 @@
                             }
                         ],
                         "index": 27,
-                        "lineNumber": 830,
+                        "lineNumber": 836,
                         "name": "telemetryRRSSIChanged",
                         "returnType": "void"
                     },
@@ -22837,7 +22877,7 @@
                             }
                         ],
                         "index": 28,
-                        "lineNumber": 831,
+                        "lineNumber": 837,
                         "name": "telemetryLRSSIChanged",
                         "returnType": "void"
                     },
@@ -22850,7 +22890,7 @@
                             }
                         ],
                         "index": 29,
-                        "lineNumber": 832,
+                        "lineNumber": 838,
                         "name": "telemetryRXErrorsChanged",
                         "returnType": "void"
                     },
@@ -22863,7 +22903,7 @@
                             }
                         ],
                         "index": 30,
-                        "lineNumber": 833,
+                        "lineNumber": 839,
                         "name": "telemetryFixedChanged",
                         "returnType": "void"
                     },
@@ -22876,7 +22916,7 @@
                             }
                         ],
                         "index": 31,
-                        "lineNumber": 834,
+                        "lineNumber": 840,
                         "name": "telemetryTXBufferChanged",
                         "returnType": "void"
                     },
@@ -22889,7 +22929,7 @@
                             }
                         ],
                         "index": 32,
-                        "lineNumber": 835,
+                        "lineNumber": 841,
                         "name": "telemetryLNoiseChanged",
                         "returnType": "void"
                     },
@@ -22902,21 +22942,21 @@
                             }
                         ],
                         "index": 33,
-                        "lineNumber": 836,
+                        "lineNumber": 842,
                         "name": "telemetryRNoiseChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 34,
-                        "lineNumber": 837,
+                        "lineNumber": 843,
                         "name": "autoDisarmChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 35,
-                        "lineNumber": 838,
+                        "lineNumber": 844,
                         "name": "flightModesChanged",
                         "returnType": "void"
                     },
@@ -22929,7 +22969,7 @@
                             }
                         ],
                         "index": 36,
-                        "lineNumber": 839,
+                        "lineNumber": 845,
                         "name": "sensorsPresentBitsChanged",
                         "returnType": "void"
                     },
@@ -22942,7 +22982,7 @@
                             }
                         ],
                         "index": 37,
-                        "lineNumber": 840,
+                        "lineNumber": 846,
                         "name": "sensorsEnabledBitsChanged",
                         "returnType": "void"
                     },
@@ -22955,7 +22995,7 @@
                             }
                         ],
                         "index": 38,
-                        "lineNumber": 841,
+                        "lineNumber": 847,
                         "name": "sensorsHealthBitsChanged",
                         "returnType": "void"
                     },
@@ -22968,7 +23008,7 @@
                             }
                         ],
                         "index": 39,
-                        "lineNumber": 842,
+                        "lineNumber": 848,
                         "name": "sensorsUnhealthyBitsChanged",
                         "returnType": "void"
                     },
@@ -22981,7 +23021,7 @@
                             }
                         ],
                         "index": 40,
-                        "lineNumber": 843,
+                        "lineNumber": 849,
                         "name": "orbitActiveChanged",
                         "returnType": "void"
                     },
@@ -22994,7 +23034,7 @@
                             }
                         ],
                         "index": 41,
-                        "lineNumber": 844,
+                        "lineNumber": 850,
                         "name": "readyToFlyAvailableChanged",
                         "returnType": "void"
                     },
@@ -23007,7 +23047,7 @@
                             }
                         ],
                         "index": 42,
-                        "lineNumber": 845,
+                        "lineNumber": 851,
                         "name": "readyToFlyChanged",
                         "returnType": "void"
                     },
@@ -23020,49 +23060,49 @@
                             }
                         ],
                         "index": 43,
-                        "lineNumber": 846,
+                        "lineNumber": 852,
                         "name": "allSensorsHealthyChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 44,
-                        "lineNumber": 847,
+                        "lineNumber": 853,
                         "name": "requiresGpsFixChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 45,
-                        "lineNumber": 848,
+                        "lineNumber": 854,
                         "name": "haveMRSpeedLimChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 46,
-                        "lineNumber": 849,
+                        "lineNumber": 855,
                         "name": "haveFWSpeedLimChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 47,
-                        "lineNumber": 850,
+                        "lineNumber": 856,
                         "name": "hasGripperChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 48,
-                        "lineNumber": 852,
+                        "lineNumber": 858,
                         "name": "firmwareVersionChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 49,
-                        "lineNumber": 853,
+                        "lineNumber": 859,
                         "name": "firmwareCustomVersionChanged",
                         "returnType": "void"
                     },
@@ -23075,14 +23115,14 @@
                             }
                         ],
                         "index": 50,
-                        "lineNumber": 854,
+                        "lineNumber": 860,
                         "name": "gitHashChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 51,
-                        "lineNumber": 855,
+                        "lineNumber": 861,
                         "name": "vehicleUIDChanged",
                         "returnType": "void"
                     },
@@ -23095,7 +23135,7 @@
                             }
                         ],
                         "index": 52,
-                        "lineNumber": 856,
+                        "lineNumber": 862,
                         "name": "loadProgressChanged",
                         "returnType": "void"
                     },
@@ -23108,7 +23148,7 @@
                             }
                         ],
                         "index": 53,
-                        "lineNumber": 860,
+                        "lineNumber": 866,
                         "name": "rcChannelsChanged",
                         "returnType": "void"
                     },
@@ -23121,7 +23161,7 @@
                             }
                         ],
                         "index": 54,
-                        "lineNumber": 863,
+                        "lineNumber": 869,
                         "name": "remoteControlRSSIChanged",
                         "returnType": "void"
                     },
@@ -23158,7 +23198,7 @@
                             }
                         ],
                         "index": 55,
-                        "lineNumber": 866,
+                        "lineNumber": 872,
                         "name": "mavlinkLogData",
                         "returnType": "void"
                     },
@@ -23187,7 +23227,7 @@
                             }
                         ],
                         "index": 56,
-                        "lineNumber": 874,
+                        "lineNumber": 880,
                         "name": "mavCommandResult",
                         "returnType": "void"
                     },
@@ -23216,28 +23256,28 @@
                             }
                         ],
                         "index": 57,
-                        "lineNumber": 877,
+                        "lineNumber": 883,
                         "name": "mavlinkSerialControl",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 58,
-                        "lineNumber": 879,
+                        "lineNumber": 885,
                         "name": "mavlinkStatusChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 59,
-                        "lineNumber": 880,
+                        "lineNumber": 886,
                         "name": "mavlinkSigningChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 60,
-                        "lineNumber": 882,
+                        "lineNumber": 888,
                         "name": "isROIEnabledChanged",
                         "returnType": "void"
                     },
@@ -23250,14 +23290,14 @@
                             }
                         ],
                         "index": 61,
-                        "lineNumber": 883,
+                        "lineNumber": 889,
                         "name": "roiCoordChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 62,
-                        "lineNumber": 884,
+                        "lineNumber": 890,
                         "name": "initialConnectComplete",
                         "returnType": "void"
                     },
@@ -23270,7 +23310,7 @@
                             }
                         ],
                         "index": 63,
-                        "lineNumber": 886,
+                        "lineNumber": 892,
                         "name": "sensorsParametersResetAck",
                         "returnType": "void"
                     },
@@ -23299,7 +23339,7 @@
                             }
                         ],
                         "index": 64,
-                        "lineNumber": 888,
+                        "lineNumber": 894,
                         "name": "logEntry",
                         "returnType": "void"
                     },
@@ -23324,7 +23364,7 @@
                             }
                         ],
                         "index": 65,
-                        "lineNumber": 889,
+                        "lineNumber": 895,
                         "name": "logData",
                         "returnType": "void"
                     },
@@ -23345,14 +23385,14 @@
                             }
                         ],
                         "index": 66,
-                        "lineNumber": 1286,
+                        "lineNumber": 1292,
                         "name": "mavlinkMsgIntervalsChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 67,
-                        "lineNumber": 1351,
+                        "lineNumber": 1357,
                         "name": "gcsControlStatusChanged",
                         "returnType": "void"
                     },
@@ -23373,7 +23413,7 @@
                             }
                         ],
                         "index": 68,
-                        "lineNumber": 1352,
+                        "lineNumber": 1358,
                         "name": "requestOperatorControlReceived",
                         "returnType": "void"
                     },
@@ -23386,7 +23426,7 @@
                             }
                         ],
                         "index": 69,
-                        "lineNumber": 1353,
+                        "lineNumber": 1359,
                         "name": "sendControlRequestAllowedChanged",
                         "returnType": "void"
                     },
@@ -23415,49 +23455,49 @@
                             }
                         ],
                         "index": 70,
-                        "lineNumber": 1383,
+                        "lineNumber": 1389,
                         "name": "textMessageReceived",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 71,
-                        "lineNumber": 1385,
+                        "lineNumber": 1391,
                         "name": "messagesReceivedChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 72,
-                        "lineNumber": 1386,
+                        "lineNumber": 1392,
                         "name": "messagesSentChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 73,
-                        "lineNumber": 1387,
+                        "lineNumber": 1393,
                         "name": "messagesLostChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 74,
-                        "lineNumber": 1388,
+                        "lineNumber": 1394,
                         "name": "messageTypeChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 75,
-                        "lineNumber": 1389,
+                        "lineNumber": 1395,
                         "name": "messageCountChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 76,
-                        "lineNumber": 1390,
+                        "lineNumber": 1396,
                         "name": "formattedMessagesChanged",
                         "returnType": "void"
                     },
@@ -23470,28 +23510,28 @@
                             }
                         ],
                         "index": 77,
-                        "lineNumber": 1391,
+                        "lineNumber": 1397,
                         "name": "newFormattedMessage",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 78,
-                        "lineNumber": 1415,
+                        "lineNumber": 1421,
                         "name": "flowImageIndexChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 79,
-                        "lineNumber": 1433,
+                        "lineNumber": 1439,
                         "name": "mavlinkLogManagerChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
                         "index": 80,
-                        "lineNumber": 1454,
+                        "lineNumber": 1460,
                         "name": "cameraManagerChanged",
                         "returnType": "void"
                     }
@@ -23506,7 +23546,7 @@
                             }
                         ],
                         "index": 81,
-                        "lineNumber": 797,
+                        "lineNumber": 803,
                         "name": "setVtolInFwdFlight",
                         "returnType": "void"
                     },
@@ -23519,7 +23559,7 @@
                             }
                         ],
                         "index": 82,
-                        "lineNumber": 798,
+                        "lineNumber": 804,
                         "name": "_offlineFirmwareTypeSettingChanged",
                         "returnType": "void"
                     },
@@ -23532,7 +23572,7 @@
                             }
                         ],
                         "index": 83,
-                        "lineNumber": 799,
+                        "lineNumber": 805,
                         "name": "_offlineVehicleTypeSettingChanged",
                         "returnType": "void"
                     },
@@ -23545,7 +23585,7 @@
                             }
                         ],
                         "index": 84,
-                        "lineNumber": 800,
+                        "lineNumber": 806,
                         "name": "sendGripperAction",
                         "returnType": "void"
                     },
@@ -23562,14 +23602,14 @@
                             }
                         ],
                         "index": 85,
-                        "lineNumber": 892,
+                        "lineNumber": 898,
                         "name": "_mavlinkMessageReceived",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 86,
-                        "lineNumber": 893,
+                        "lineNumber": 899,
                         "name": "_sendMessageMultipleNext",
                         "returnType": "void"
                     },
@@ -23582,7 +23622,7 @@
                             }
                         ],
                         "index": 87,
-                        "lineNumber": 894,
+                        "lineNumber": 900,
                         "name": "_parametersReady",
                         "returnType": "void"
                     },
@@ -23595,7 +23635,7 @@
                             }
                         ],
                         "index": 88,
-                        "lineNumber": 895,
+                        "lineNumber": 901,
                         "name": "_remoteControlRSSIChanged",
                         "returnType": "void"
                     },
@@ -23608,7 +23648,7 @@
                             }
                         ],
                         "index": 89,
-                        "lineNumber": 896,
+                        "lineNumber": 902,
                         "name": "_handleFlightModeChanged",
                         "returnType": "void"
                     },
@@ -23621,7 +23661,7 @@
                             }
                         ],
                         "index": 90,
-                        "lineNumber": 897,
+                        "lineNumber": 903,
                         "name": "_announceArmedChanged",
                         "returnType": "void"
                     },
@@ -23634,7 +23674,7 @@
                             }
                         ],
                         "index": 91,
-                        "lineNumber": 898,
+                        "lineNumber": 904,
                         "name": "_offlineCruiseSpeedSettingChanged",
                         "returnType": "void"
                     },
@@ -23647,91 +23687,91 @@
                             }
                         ],
                         "index": 92,
-                        "lineNumber": 899,
+                        "lineNumber": 905,
                         "name": "_offlineHoverSpeedSettingChanged",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 93,
-                        "lineNumber": 900,
+                        "lineNumber": 906,
                         "name": "_prearmErrorTimeout",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 94,
-                        "lineNumber": 901,
+                        "lineNumber": 907,
                         "name": "_firstMissionLoadComplete",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 95,
-                        "lineNumber": 902,
+                        "lineNumber": 908,
                         "name": "_firstGeoFenceLoadComplete",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 96,
-                        "lineNumber": 903,
+                        "lineNumber": 909,
                         "name": "_firstRallyPointLoadComplete",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 97,
-                        "lineNumber": 904,
+                        "lineNumber": 910,
                         "name": "_sendMavCommandResponseTimeoutCheck",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 98,
-                        "lineNumber": 905,
+                        "lineNumber": 911,
                         "name": "_clearCameraTriggerPoints",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 99,
-                        "lineNumber": 906,
+                        "lineNumber": 912,
                         "name": "_updateDistanceHeadingHome",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 100,
-                        "lineNumber": 907,
+                        "lineNumber": 913,
                         "name": "_updateMissionItemIndex",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 101,
-                        "lineNumber": 908,
+                        "lineNumber": 914,
                         "name": "_updateHeadingToNextWP",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 102,
-                        "lineNumber": 909,
+                        "lineNumber": 915,
                         "name": "_updateDistanceHeadingGCS",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 103,
-                        "lineNumber": 910,
+                        "lineNumber": 916,
                         "name": "_updateHomepoint",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 104,
-                        "lineNumber": 911,
+                        "lineNumber": 917,
                         "name": "_updateHobbsMeter",
                         "returnType": "void"
                     },
@@ -23744,14 +23784,14 @@
                             }
                         ],
                         "index": 105,
-                        "lineNumber": 912,
+                        "lineNumber": 918,
                         "name": "_vehicleParamLoaded",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 106,
-                        "lineNumber": 913,
+                        "lineNumber": 919,
                         "name": "_sendQGCTimeToVehicle",
                         "returnType": "void"
                     },
@@ -23780,21 +23820,21 @@
                             }
                         ],
                         "index": 107,
-                        "lineNumber": 914,
+                        "lineNumber": 920,
                         "name": "_mavlinkMessageStatus",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 108,
-                        "lineNumber": 915,
+                        "lineNumber": 921,
                         "name": "_orbitTelemetryTimeout",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 109,
-                        "lineNumber": 916,
+                        "lineNumber": 922,
                         "name": "_updateFlightTime",
                         "returnType": "void"
                     },
@@ -23807,7 +23847,7 @@
                             }
                         ],
                         "index": 110,
-                        "lineNumber": 917,
+                        "lineNumber": 923,
                         "name": "_gotProgressUpdate",
                         "returnType": "void"
                     },
@@ -23824,7 +23864,7 @@
                             }
                         ],
                         "index": 111,
-                        "lineNumber": 918,
+                        "lineNumber": 924,
                         "name": "_doSetHomeTerrainReceived",
                         "returnType": "void"
                     },
@@ -23841,7 +23881,7 @@
                             }
                         ],
                         "index": 112,
-                        "lineNumber": 919,
+                        "lineNumber": 925,
                         "name": "_roiTerrainReceived",
                         "returnType": "void"
                     },
@@ -23862,14 +23902,14 @@
                             }
                         ],
                         "index": 113,
-                        "lineNumber": 920,
+                        "lineNumber": 926,
                         "name": "_sendROICommand",
                         "returnType": "void"
                     },
                     {
                         "access": "private",
                         "index": 114,
-                        "lineNumber": 921,
+                        "lineNumber": 927,
                         "name": "_updateAltAboveTerrain",
                         "returnType": "void"
                     },
@@ -23886,7 +23926,7 @@
                             }
                         ],
                         "index": 115,
-                        "lineNumber": 922,
+                        "lineNumber": 928,
                         "name": "_altitudeAboveTerrainReceived",
                         "returnType": "void"
                     },
@@ -23911,7 +23951,7 @@
                             }
                         ],
                         "index": 116,
-                        "lineNumber": 1396,
+                        "lineNumber": 1402,
                         "name": "_textMessageReceived",
                         "returnType": "void"
                     },
@@ -23924,7 +23964,7 @@
                             }
                         ],
                         "index": 117,
-                        "lineNumber": 1397,
+                        "lineNumber": 1403,
                         "name": "_errorMessageReceived",
                         "returnType": "void"
                     }

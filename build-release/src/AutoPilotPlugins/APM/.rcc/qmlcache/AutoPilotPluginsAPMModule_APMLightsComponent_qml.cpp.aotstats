@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 345,
+                            "durationMicroseconds": 167,
                             "functionName": "pageComponent",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 82,
                             "functionName": "spacing",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 54,
                             "functionName": "width",
                             "line": 17,
                             "message": "Cannot access value for name availableWidth"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 847,
+                            "durationMicroseconds": 287,
                             "functionName": "_activeVehicle",
                             "line": 21,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 633,
+                            "durationMicroseconds": 221,
                             "functionName": "_oldFW",
                             "line": 22,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 69,
-                            "durationMicroseconds": 12746,
+                            "durationMicroseconds": 4533,
                             "functionName": "_margins",
                             "line": 38,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 1963,
+                            "durationMicroseconds": 641,
                             "functionName": "calcLightOutValues",
                             "line": 52,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 1708,
+                            "durationMicroseconds": 553,
                             "functionName": "calcCurrentStep",
                             "line": 81,
                             "message": "Cannot access value for name _stepSize"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 332,
+                            "durationMicroseconds": 133,
                             "functionName": "onCompleted",
                             "line": 45,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 34,
                             "functionName": "target",
                             "line": 109,
                             "message": "Cannot access value for name _rc5Function"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 16,
                             "functionName": "target",
                             "line": 110,
                             "message": "Cannot access value for name _rc6Function"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 15,
                             "functionName": "target",
                             "line": 111,
                             "message": "Cannot access value for name _rc7Function"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 17,
                             "functionName": "target",
                             "line": 112,
                             "message": "Cannot access value for name _rc8Function"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 16,
                             "functionName": "target",
                             "line": 113,
                             "message": "Cannot access value for name _rc9Function"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 16,
                             "functionName": "target",
                             "line": 114,
                             "message": "Cannot access value for name _rc10Function"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 28,
                             "functionName": "target",
                             "line": 115,
                             "message": "Cannot access value for name _rc11Function"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 33,
                             "functionName": "target",
                             "line": 116,
                             "message": "Cannot access value for name _rc12Function"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 20,
                             "functionName": "target",
                             "line": 117,
                             "message": "Cannot access value for name _rc13Function"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 25,
                             "functionName": "target",
                             "line": 118,
                             "message": "Cannot access value for name _rc14Function"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 122,
                             "functionName": "onCompleted",
                             "line": 137,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 636,
+                            "durationMicroseconds": 211,
                             "functionName": "width",
                             "line": 151,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 449,
+                            "durationMicroseconds": 173,
                             "functionName": "height",
                             "line": 152,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 79,
                             "functionName": "width",
                             "line": 164,
                             "message": "Cannot access value for name _margins"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 65,
                             "functionName": "height",
                             "line": 165,
                             "message": "Cannot access value for name _margins"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 468,
+                            "durationMicroseconds": 152,
                             "functionName": "color",
                             "line": 166,
                             "message": "Cannot access value for name qgcPal"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 24,
                             "functionName": "topMargin",
                             "line": 162,
                             "message": "Cannot access value for name _margins"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 104,
                             "functionName": "top",
                             "line": 163,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 34,
                             "functionName": "margins",
                             "line": 170,
                             "message": "Cannot access value for name _margins"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 106,
                             "functionName": "right",
                             "line": 171,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 82,
                             "functionName": "baseline",
                             "line": 172,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 431,
+                            "durationMicroseconds": 151,
                             "functionName": "width",
                             "line": 181,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 36,
                             "functionName": "model",
                             "line": 182,
                             "message": "Cannot access value for name lightsOutModel"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1233,
+                            "durationMicroseconds": 406,
                             "functionName": "currentIndex",
                             "line": 184,
                             "message": "Cannot access value for name lights1OutIndex"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 2040,
+                            "durationMicroseconds": 555,
                             "functionName": "onActivated",
                             "line": 186,
                             "message": "Cannot access value for name lightsOutModel"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 46,
                             "functionName": "onActivated",
                             "line": 186,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 46,
                             "functionName": "margins",
                             "line": 178,
                             "message": "Cannot access value for name _margins"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 136,
                             "functionName": "top",
                             "line": 179,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 100,
                             "functionName": "left",
                             "line": 180,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 32,
                             "functionName": "margins",
                             "line": 191,
                             "message": "Cannot access value for name _margins"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 63,
                             "functionName": "right",
                             "line": 192,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 64,
                             "functionName": "baseline",
                             "line": 193,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 58,
                             "functionName": "width",
                             "line": 202,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 28,
                             "functionName": "model",
                             "line": 203,
                             "message": "Cannot access value for name lightsOutModel"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1221,
+                            "durationMicroseconds": 392,
                             "functionName": "currentIndex",
                             "line": 205,
                             "message": "Cannot access value for name lights2OutIndex"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 2166,
+                            "durationMicroseconds": 585,
                             "functionName": "onActivated",
                             "line": 207,
                             "message": "Cannot access value for name lightsOutModel"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 61,
                             "functionName": "onActivated",
                             "line": 207,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 40,
                             "functionName": "margins",
                             "line": 199,
                             "message": "Cannot access value for name _margins"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 118,
                             "functionName": "top",
                             "line": 200,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 73,
                             "functionName": "left",
                             "line": 201,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 33,
                             "functionName": "margins",
                             "line": 212,
                             "message": "Cannot access value for name _margins"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 76,
                             "functionName": "left",
                             "line": 213,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 68,
                             "functionName": "baseline",
                             "line": 214,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 84,
                             "functionName": "width",
                             "line": 223,
                             "message": ""
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 879,
+                            "durationMicroseconds": 283,
                             "functionName": "model",
                             "line": 224,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1251,
+                            "durationMicroseconds": 360,
                             "functionName": "currentIndex",
                             "line": 225,
                             "message": "Cannot access value for name lightsSteps"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 1111,
+                            "durationMicroseconds": 335,
                             "functionName": "onActivated",
                             "line": 227,
                             "message": "method calcStepSize cannot be resolved."
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 60,
                             "functionName": "onActivated",
                             "line": 227,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 46,
                             "functionName": "margins",
                             "line": 220,
                             "message": "Cannot access value for name _margins"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 350,
+                            "durationMicroseconds": 123,
                             "functionName": "top",
                             "line": 221,
                             "message": ""
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 77,
                             "functionName": "left",
                             "line": 222,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 58,
                             "functionName": "sourceComponent",
                             "line": 235,
                             "message": ""
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 58,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 30,
                             "functionName": "lights1Function",
                             "line": 239,
                             "message": "Cannot access value for name _rcFunctionRCIN9"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 58,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 21,
                             "functionName": "lights2Function",
                             "line": 240,
                             "message": "Cannot access value for name _rcFunctionRCIN10"

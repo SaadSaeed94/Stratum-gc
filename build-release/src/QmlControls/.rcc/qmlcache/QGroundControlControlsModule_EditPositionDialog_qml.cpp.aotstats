@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 327,
+                            "durationMicroseconds": 196,
                             "functionName": "buttons",
                             "line": 13,
                             "message": "Cannot access value for name Dialog"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 11217,
+                            "durationMicroseconds": 6787,
                             "functionName": "_margin",
                             "line": 18,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 180,
                             "functionName": "_textFieldWidth",
                             "line": 19,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 42,
                             "functionName": "_showGeographic",
                             "line": 20,
                             "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 30,
+                            "durationMicroseconds": 23,
                             "functionName": "_showUTM",
                             "line": 21,
                             "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 27,
+                            "durationMicroseconds": 22,
                             "functionName": "_showMGRS",
                             "line": 22,
                             "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 28,
+                            "durationMicroseconds": 23,
                             "functionName": "_showVehicle",
                             "line": 23,
                             "message": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 39,
                             "functionName": "onCompleted",
                             "line": 28,
                             "message": "method initValues cannot be resolved."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 39,
                             "functionName": "spacing",
                             "line": 32,
                             "message": "Cannot access value for name _margin"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 702,
+                            "durationMicroseconds": 441,
                             "functionName": "model",
                             "line": 38,
                             "message": "Cannot access value for name showSetPositionFromVehicle"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 41,
                             "functionName": "textFieldPreferredWidth",
                             "line": 46,
                             "message": "Cannot access value for name _textFieldWidth"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 30,
                             "functionName": "visible",
                             "line": 48,
                             "message": "Cannot access value for name _showGeographic"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 30,
                             "functionName": "textFieldPreferredWidth",
                             "line": 54,
                             "message": "Cannot access value for name _textFieldWidth"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 28,
                             "functionName": "visible",
                             "line": 56,
                             "message": "Cannot access value for name _showGeographic"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 31,
                             "functionName": "visible",
                             "line": 62,
                             "message": "Cannot access value for name _showGeographic"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 139,
                             "functionName": "onClicked",
                             "line": 63,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 35,
                             "functionName": "textFieldPreferredWidth",
                             "line": 72,
                             "message": "Cannot access value for name _textFieldWidth"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 29,
                             "functionName": "visible",
                             "line": 74,
                             "message": "Cannot access value for name _showUTM"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 38,
                             "functionName": "visible",
                             "line": 82,
                             "message": "Cannot access value for name _showUTM"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 35,
                             "functionName": "textFieldPreferredWidth",
                             "line": 88,
                             "message": "Cannot access value for name _textFieldWidth"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 90,
                             "message": "Cannot access value for name _showUTM"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 37,
                             "functionName": "textFieldPreferredWidth",
                             "line": 96,
                             "message": "Cannot access value for name _textFieldWidth"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 30,
                             "functionName": "visible",
                             "line": 98,
                             "message": "Cannot access value for name _showUTM"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 36,
                             "functionName": "visible",
                             "line": 104,
                             "message": "Cannot access value for name _showUTM"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 143,
                             "functionName": "onClicked",
                             "line": 105,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 44,
                             "functionName": "visible",
                             "line": 114,
                             "message": "Cannot access value for name _showMGRS"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 35,
                             "functionName": "textFieldPreferredWidth",
                             "line": 115,
                             "message": "Cannot access value for name _textFieldWidth"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 37,
                             "functionName": "visible",
                             "line": 122,
                             "message": "Cannot access value for name _showMGRS"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 120,
                             "functionName": "onClicked",
                             "line": 123,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 41,
                             "functionName": "visible",
                             "line": 132,
                             "message": "Cannot access value for name _showVehicle"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 108,
                             "functionName": "onClicked",
                             "line": 133,
                             "message": "Cannot retrieve a non-object type by ID: controller"

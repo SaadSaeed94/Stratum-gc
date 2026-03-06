@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 414,
+                            "durationMicroseconds": 296,
                             "functionName": "width",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 72,
                             "functionName": "showIndicator",
                             "line": 15,
                             "message": "Cannot load property gimbals from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 411,
                             "functionName": "activeVehicle",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 36,
                             "functionName": "gimbalController",
                             "line": 18,
                             "message": "Cannot load property gimbalController from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::activeVehicle with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 27,
                             "functionName": "gimbals",
                             "line": 19,
                             "message": "Cannot load property gimbals from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 29,
+                            "durationMicroseconds": 24,
                             "functionName": "activeGimbal",
                             "line": 20,
                             "message": "Cannot load property activeGimbal from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 46,
                             "functionName": "multiGimbalSetup",
                             "line": 21,
                             "message": "Cannot load property gimbals from (component in /home/saad-saeed/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 655,
+                            "durationMicroseconds": 488,
                             "functionName": "joystickButtonsAvailable",
                             "line": 22,
                             "message": "Cannot access value for name joystickManager"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 595,
+                            "durationMicroseconds": 382,
                             "functionName": "showAzimuth",
                             "line": 23,
                             "message": "Cannot access value for name QGroundControl"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 11340,
+                            "durationMicroseconds": 7733,
                             "functionName": "margins",
                             "line": 25,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 394,
+                            "durationMicroseconds": 247,
                             "functionName": "panelRadius",
                             "line": 26,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 179,
                             "functionName": "buttonHeight",
                             "line": 27,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 149,
                             "functionName": "squareButtonPadding",
                             "line": 28,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 181,
                             "functionName": "separatorHeight",
                             "line": 29,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 688,
+                            "durationMicroseconds": 434,
                             "functionName": "_gimbalControllerSettings",
                             "line": 32,
                             "message": "Cannot access value for name QGroundControl"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 673,
+                            "durationMicroseconds": 487,
                             "functionName": "_updateJoystickEnabled",
                             "line": 34,
                             "message": "Cannot access value for name joystickManager"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 208,
                             "functionName": "top",
                             "line": 11,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 153,
                             "functionName": "bottom",
                             "line": 12,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 102,
                             "functionName": "target",
                             "line": 39,
                             "message": "Cannot access value for name joystickManager"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 103,
                             "functionName": "onJoystickEnabledChanged",
                             "line": 40,
                             "message": "method _updateJoystickEnabled cannot be resolved."
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 234,
                             "functionName": "spacing",
                             "line": 49,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 168,
                             "functionName": "top",
                             "line": 47,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 149,
                             "functionName": "bottom",
                             "line": 48,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 160,
                             "functionName": "top",
                             "line": 52,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 144,
                             "functionName": "bottom",
                             "line": 53,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 95,
                             "functionName": "width",
                             "line": 59,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 278,
+                            "durationMicroseconds": 167,
                             "functionName": "height",
                             "line": 60,
                             "message": "Cannot access value for name multiGimbalSetup"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 118,
                             "functionName": "fillMode",
                             "line": 62,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 59,
                             "functionName": "color",
                             "line": 64,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 150,
                             "functionName": "horizontalCenter",
                             "line": 58,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 90,
                             "functionName": "height",
                             "line": 63,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 139,
                             "functionName": "text",
                             "line": 72,
                             "message": "Cannot access value for name activeGimbal"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 51,
                             "functionName": "color",
                             "line": 73,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 74,
                             "message": "Cannot access value for name multiGimbalSetup"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 163,
                             "functionName": "horizontalCenter",
                             "line": 70,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 127,
                             "functionName": "pointSize",
                             "line": 71,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 63,
                             "functionName": "columnSpacing",
                             "line": 84,
                             "message": "Cannot access value for name margins"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 201,
                             "functionName": "verticalCenter",
                             "line": 80,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 468,
+                            "durationMicroseconds": 298,
                             "functionName": "text",
                             "line": 89,
                             "message": "Cannot access value for name activeGimbal"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 92,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 135,
                             "functionName": "pointSize",
                             "line": 88,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 125,
                             "functionName": "alignment",
                             "line": 94,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 173,
                             "functionName": "text",
                             "line": 99,
                             "message": "Cannot access value for name activeGimbal"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 50,
                             "functionName": "color",
                             "line": 100,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 3369,
+                            "durationMicroseconds": 133,
                             "functionName": "pointSize",
                             "line": 98,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 605,
+                            "durationMicroseconds": 357,
                             "functionName": "text",
                             "line": 105,
                             "message": "Cannot access value for name activeGimbal"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 89,
                             "functionName": "color",
                             "line": 110,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 296,
+                            "durationMicroseconds": 153,
                             "functionName": "pointSize",
                             "line": 104,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 689,
+                            "durationMicroseconds": 435,
                             "functionName": "onClicked",
                             "line": 117,
                             "message": "Cannot access value for name mainWindow"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 115,
                             "functionName": "fill",
                             "line": 116,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 57,
                             "functionName": "contentComponent",
                             "line": 126,
                             "message": "Cannot access value for name gimbalContentComponent"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 40,
                             "functionName": "expandedComponent",
                             "line": 127,
                             "message": "Cannot access value for name gimbalExpandedComponent"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 447,
+                            "durationMicroseconds": 206,
                             "functionName": "spacing",
                             "line": 135,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 60,
                             "functionName": "visible",
                             "line": 139,
                             "message": "Cannot access value for name multiGimbalSetup"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 58,
                             "functionName": "visible",
                             "line": 144,
                             "message": "Cannot access value for name multiGimbalSetup"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 160,
                             "functionName": "onCurrentIndexChanged",
                             "line": 145,
                             "message": "Cannot access value for name gimbalController"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 5522,
+                            "durationMicroseconds": 1464,
                             "functionName": "_updateComboModel",
                             "line": 147,
                             "message": "Cannot access value for name gimbals"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 156,
                             "functionName": "onCompleted",
                             "line": 161,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 62,
                             "functionName": "target",
                             "line": 163,
                             "message": "Cannot access value for name gimbals"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 552,
+                            "durationMicroseconds": 328,
                             "functionName": "spacing",
                             "line": 237,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 132,
                             "functionName": "visible",
                             "line": 253,
                             "message": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 2304,
+                            "durationMicroseconds": 179,
                             "functionName": "visible",
                             "line": 259,
                             "message": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 170,
                             "functionName": "visible",
                             "line": 265,
                             "message": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 299,
+                            "durationMicroseconds": 196,
                             "functionName": "visible",
                             "line": 271,
                             "message": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 139,
                             "functionName": "enabled",
                             "line": 295,
                             "message": "Cannot access value for name joystickButtonsAvailable"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 50,
                             "functionName": "target",
                             "line": 322,
                             "message": "Cannot access value for name gimbalController"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 692,
+                            "durationMicroseconds": 416,
                             "functionName": "onShowAcquireGimbalControlPopup",
                             "line": 323,
                             "message": "Cannot access value for name mainWindow"

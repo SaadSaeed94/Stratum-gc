@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 189,
                             "functionName": "model",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1124,
+                            "durationMicroseconds": 640,
                             "functionName": "onCompleted",
                             "line": 20,
                             "message": "Cannot access value for name object"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 578,
+                            "durationMicroseconds": 329,
                             "functionName": "onDestruction",
                             "line": 35,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"

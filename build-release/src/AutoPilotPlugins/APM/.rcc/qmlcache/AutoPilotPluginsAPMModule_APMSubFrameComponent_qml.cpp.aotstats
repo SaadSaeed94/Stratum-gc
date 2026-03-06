@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 153,
                             "functionName": "pageComponent",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 623,
+                            "durationMicroseconds": 249,
                             "functionName": "_oldFW",
                             "line": 14,
                             "message": "Cannot access value for name globals"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 521,
+                            "durationMicroseconds": 191,
                             "functionName": "_hasSensibledefaults",
                             "line": 15,
                             "message": "Cannot access value for name globals"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 65,
                             "functionName": "frameModelSelected",
                             "line": 17,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 42,
                             "functionName": "width",
                             "line": 50,
                             "message": "Cannot access value for name availableWidth"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 13199,
+                            "durationMicroseconds": 5294,
                             "functionName": "_minW",
                             "line": 54,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 71,
                             "functionName": "_boxWidth",
                             "line": 55,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 87,
                             "functionName": "_boxSpace",
                             "line": 56,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 83,
                             "functionName": "onWidthChanged",
                             "line": 58,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 2553,
+                            "durationMicroseconds": 912,
                             "functionName": "computeDimensions",
                             "line": 64,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 94,
                             "functionName": "onCompleted",
                             "line": 62,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 96,
                             "functionName": "width",
                             "line": 126,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 48,
                             "functionName": "spacing",
                             "line": 127,
                             "message": "Cannot access value for name _boxSpace"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 82,
                             "functionName": "model",
                             "line": 130,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 40,
                             "functionName": "width",
                             "line": 133,
                             "message": "Cannot access value for name _boxWidth"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 349,
+                            "durationMicroseconds": 134,
                             "functionName": "height",
                             "line": 134,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 45,
                             "functionName": "color",
                             "line": 135,
                             "message": "Cannot access value for name qgcPal"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 812,
+                            "durationMicroseconds": 299,
                             "functionName": "text",
                             "line": 139,
                             "message": "Cannot access value for name subFrameModel"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 765,
+                            "durationMicroseconds": 255,
                             "functionName": "color",
                             "line": 148,
                             "message": "Cannot access value for name subFrameModel"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 418,
+                            "durationMicroseconds": 128,
                             "functionName": "topMargin",
                             "line": 143,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 289,
+                            "durationMicroseconds": 95,
                             "functionName": "top",
                             "line": 144,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 97,
                             "functionName": "bottom",
                             "line": 145,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 85,
                             "functionName": "left",
                             "line": 146,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 81,
                             "functionName": "right",
                             "line": 147,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 77,
                             "functionName": "fillMode",
                             "line": 156,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 757,
+                            "durationMicroseconds": 303,
                             "functionName": "source",
                             "line": 159,
                             "message": "Cannot access value for name subFrameModel"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 278,
+                            "durationMicroseconds": 87,
                             "functionName": "margins",
                             "line": 151,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 91,
                             "functionName": "top",
                             "line": 152,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 78,
                             "functionName": "bottom",
                             "line": 153,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 74,
                             "functionName": "left",
                             "line": 154,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 83,
                             "functionName": "right",
                             "line": 155,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 46,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 88,
                             "functionName": "cursorShape",
                             "line": 164,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 2131,
+                            "durationMicroseconds": 788,
                             "functionName": "onClicked",
                             "line": 165,
                             "message": "Cannot access value for name subFrameModel"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 80,
                             "functionName": "fill",
                             "line": 163,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 69,
                             "functionName": "buttons",
                             "line": 189,
                             "message": "Cannot access value for name Dialog"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 60,
                             "functionName": "width",
                             "line": 194,
                             "message": "Cannot retrieve a non-object type by ID: firstButton"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 82,
                             "functionName": "wrapMode",
                             "line": 195,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 80,
                             "functionName": "text",
                             "line": 196,
                             "message": "Cannot access value for name frameModelSelected"

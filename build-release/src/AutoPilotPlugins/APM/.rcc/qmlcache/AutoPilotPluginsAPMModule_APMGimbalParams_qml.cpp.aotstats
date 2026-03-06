@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 310,
+                            "durationMicroseconds": 163,
                             "functionName": "instanceCount",
                             "line": 13,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 110,
                             "functionName": "_instanceCount",
                             "line": 38,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1443,
+                            "durationMicroseconds": 526,
                             "functionName": "onCompleted",
                             "line": 49,
                             "message": "Cannot access value for name defaultModeFact"

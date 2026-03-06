@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 668,
+                            "durationMicroseconds": 553,
                             "functionName": "setWaypointMessage",
                             "line": 70,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 432,
+                            "durationMicroseconds": 315,
                             "functionName": "setFlightModeMessage",
                             "line": 78,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 2441,
+                            "durationMicroseconds": 1514,
                             "functionName": "_activeVehicle",
                             "line": 113,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1863,
+                            "durationMicroseconds": 1231,
                             "functionName": "_flyViewSettings",
                             "line": 114,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1859,
+                            "durationMicroseconds": 1220,
                             "functionName": "_unitsConversion",
                             "line": 115,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 3768,
+                            "durationMicroseconds": 2548,
                             "functionName": "_useChecklist",
                             "line": 116,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1908,
+                            "durationMicroseconds": 1334,
                             "functionName": "_enforceChecklist",
                             "line": 117,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1787,
+                            "durationMicroseconds": 1061,
                             "functionName": "_checklistPassed",
                             "line": 118,
                             "message": "Cannot load property checkListState from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 127,
                             "functionName": "_canArm",
                             "line": 119,
                             "message": "Cannot load property healthAndArmingCheckReport from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 105,
                             "functionName": "_canTakeoff",
                             "line": 120,
                             "message": "Cannot load property healthAndArmingCheckReport from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 97,
                             "functionName": "_canStartMission",
                             "line": 121,
                             "message": "Cannot load property healthAndArmingCheckReport from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 45,
                             "functionName": "_initialConnectComplete",
                             "line": 122,
                             "message": "Cannot load property initialConnectComplete from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 664,
+                            "durationMicroseconds": 357,
                             "functionName": "showEmergenyStop",
                             "line": 124,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 432,
+                            "durationMicroseconds": 250,
                             "functionName": "showArm",
                             "line": 125,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 191,
                             "functionName": "showForceArm",
                             "line": 126,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 400,
+                            "durationMicroseconds": 262,
                             "functionName": "showDisarm",
                             "line": 127,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 95,
                             "functionName": "showRTL",
                             "line": 128,
                             "message": "Cannot load property guidedModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 71,
                             "functionName": "showTakeoff",
                             "line": 129,
                             "message": "Cannot load property takeoffVehicleSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 97,
                             "functionName": "showLand",
                             "line": 130,
                             "message": "Cannot load property guidedModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 786,
+                            "durationMicroseconds": 475,
                             "functionName": "showStartMission",
                             "line": 131,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 1175,
+                            "durationMicroseconds": 673,
                             "functionName": "showContinueMission",
                             "line": 132,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 103,
                             "functionName": "showPause",
                             "line": 133,
                             "message": "Cannot load property pauseVehicleSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 71,
                             "functionName": "showChangeAlt",
                             "line": 134,
                             "message": "Cannot load property guidedModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 113,
                             "functionName": "showChangeLoiterRadius",
                             "line": 135,
                             "message": "Cannot load property guidedModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 97,
                             "functionName": "showChangeSpeed",
                             "line": 136,
                             "message": "Cannot load property guidedModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 173,
                             "functionName": "showOrbit",
                             "line": 137,
                             "message": "Cannot load property homePosition from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 426,
+                            "durationMicroseconds": 255,
                             "functionName": "showROI",
                             "line": 138,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 375,
+                            "durationMicroseconds": 224,
                             "functionName": "showLandAbort",
                             "line": 139,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 164,
                             "functionName": "showGotoLocation",
                             "line": 140,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 102,
                             "functionName": "showSetHome",
                             "line": 141,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1933,
+                            "durationMicroseconds": 1229,
                             "functionName": "showSetEstimatorOrigin",
                             "line": 142,
                             "message": "Cannot load property sensorsPresentBits from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 340,
+                            "durationMicroseconds": 169,
                             "functionName": "showChangeHeading",
                             "line": 143,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 354,
+                            "durationMicroseconds": 179,
                             "functionName": "changeSpeedTitle",
                             "line": 145,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 289,
+                            "durationMicroseconds": 161,
                             "functionName": "changeSpeedMessage",
                             "line": 146,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 1407,
+                            "durationMicroseconds": 891,
                             "functionName": "showResumeMission",
                             "line": 149,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 52,
                             "functionName": "guidedUIVisible",
                             "line": 151,
                             "message": "Cannot load property visible from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::confirmDialog with type QVariant."
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 2254,
+                            "durationMicroseconds": 1435,
                             "functionName": "_corePlugin",
                             "line": 153,
                             "message": "Cannot access value for name QGroundControl"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1926,
+                            "durationMicroseconds": 1182,
                             "functionName": "_corePluginOptions",
                             "line": 154,
                             "message": "Cannot access value for name QGroundControl"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 19907,
+                            "durationMicroseconds": 12085,
                             "functionName": "_guidedActionsEnabled",
                             "line": 155,
                             "message": "Cannot load property guidedActionsRequireRCRSSI from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_corePluginOptions with type QVariant."
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 67,
                             "functionName": "_flightMode",
                             "line": 156,
                             "message": "Cannot load property flightMode from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 35,
+                            "durationMicroseconds": 28,
                             "functionName": "_missionAvailable",
                             "line": 157,
                             "message": "Cannot load property containsItems from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::missionController with type QVariant."
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 1071,
+                            "durationMicroseconds": 412,
                             "functionName": "_missionActive",
                             "line": 158,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 66,
                             "functionName": "_vehicleArmed",
                             "line": 159,
                             "message": "Cannot load property armed from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 47,
                             "functionName": "_vehicleFlying",
                             "line": 160,
                             "message": "Cannot load property flying from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 42,
                             "functionName": "_vehicleLanding",
                             "line": 161,
                             "message": "Cannot load property landing from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 38,
+                            "durationMicroseconds": 25,
                             "functionName": "_missionItemCount",
                             "line": 166,
                             "message": "Cannot load property missionItemCount from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::missionController with type QVariant."
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 24,
                             "functionName": "_currentMissionIndex",
                             "line": 167,
                             "message": "Cannot load property currentMissionIndex from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::missionController with type QVariant."
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 30,
+                            "durationMicroseconds": 23,
                             "functionName": "_resumeMissionIndex",
                             "line": 168,
                             "message": "Cannot load property resumeMissionIndex from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::missionController with type QVariant."
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 37,
                             "functionName": "_hideEmergenyStop",
                             "line": 169,
                             "message": "Cannot load property flyView from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_corePluginOptions with type QVariant."
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 35,
                             "functionName": "_hideOrbit",
                             "line": 170,
                             "message": "Cannot load property flyView from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_corePluginOptions with type QVariant."
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 46,
+                            "durationMicroseconds": 33,
                             "functionName": "_hideROI",
                             "line": 171,
                             "message": "Cannot load property flyView from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_corePluginOptions with type QVariant."
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 90,
                             "functionName": "_rcRSSIAvailable",
                             "line": 173,
                             "message": "Cannot load property rcRSSI from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 57,
                             "functionName": "_fixedWingOnApproach",
                             "line": 174,
                             "message": "Cannot load property fixedWing from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 40,
                             "functionName": "_vehicleInFwdFlight",
                             "line": 175,
                             "message": "Cannot load property inFwdFlight from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 85,
                             "functionName": "_speedLimitsAvailable",
                             "line": 176,
                             "message": "Cannot load property haveFWSpeedLimits from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 39,
                             "functionName": "__guidedModeSupported",
                             "line": 179,
                             "message": "Cannot load property guidedModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 162,
                             "functionName": "__pauseVehicleSupported",
                             "line": 180,
                             "message": "Cannot load property pauseVehicleSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 53,
                             "functionName": "__roiSupported",
                             "line": 181,
                             "message": "Cannot load property roiModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 51,
                             "functionName": "__orbitSupported",
                             "line": 182,
                             "message": "Cannot load property orbitModeSupported from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 123,
                             "functionName": "__flightMode",
                             "line": 183,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 107,
                             "functionName": "_customController",
                             "line": 189,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 2211,
+                            "durationMicroseconds": 1425,
                             "functionName": "_isGuidedActionsControllerLogEnabled",
                             "line": 191,
                             "message": "Cannot access value for name QGroundControl"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 516151,
+                            "durationMicroseconds": 240118,
                             "functionName": "_outputState",
                             "line": 195,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 135,
                             "functionName": "on_ActiveVehicleChanged",
                             "line": 237,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 87,
                             "functionName": "on_VehicleArmedChanged",
                             "line": 240,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 77,
                             "functionName": "on_VehicleInRTLModeChanged",
                             "line": 241,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 73,
                             "functionName": "on_VehiclePausedChanged",
                             "line": 242,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 72,
                             "functionName": "on__FlightModeChanged",
                             "line": 243,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 70,
                             "functionName": "on__GuidedModeSupportedChanged",
                             "line": 244,
                             "message": ""
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 77,
                             "functionName": "on__PauseVehicleSupportedChanged",
                             "line": 245,
                             "message": ""
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 71,
                             "functionName": "on__RoiSupportedChanged",
                             "line": 246,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 3297,
+                            "durationMicroseconds": 68,
                             "functionName": "on__OrbitSupportedChanged",
                             "line": 247,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 82,
                             "functionName": "on_MissionItemCountChanged",
                             "line": 248,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 70,
                             "functionName": "on_MissionActiveChanged",
                             "line": 249,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 741,
+                            "durationMicroseconds": 421,
                             "functionName": "on_CurrentMissionIndexChanged",
                             "line": 251,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 673,
+                            "durationMicroseconds": 445,
                             "functionName": "on_ResumeMissionIndexChanged",
                             "line": 256,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 729,
+                            "durationMicroseconds": 463,
                             "functionName": "onShowResumeMissionChanged",
                             "line": 261,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 3492,
+                            "durationMicroseconds": 234,
                             "functionName": "onShowStartMissionChanged",
                             "line": 267,
                             "message": "Cannot load property enableAutomaticMissionPopups from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_flyViewSettings with type QVariant."
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 382,
+                            "durationMicroseconds": 228,
                             "functionName": "onShowContinueMissionChanged",
                             "line": 277,
                             "message": "Cannot load property enableAutomaticMissionPopups from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_flyViewSettings with type QVariant."
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 843,
+                            "durationMicroseconds": 461,
                             "functionName": "onShowRTLChanged",
                             "line": 287,
                             "message": ""
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 720,
+                            "durationMicroseconds": 440,
                             "functionName": "onShowChangeAltChanged",
                             "line": 293,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 3678,
+                            "durationMicroseconds": 414,
                             "functionName": "onShowROIChanged",
                             "line": 299,
                             "message": ""
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 951,
+                            "durationMicroseconds": 426,
                             "functionName": "onShowOrbitChanged",
                             "line": 305,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 695,
+                            "durationMicroseconds": 523,
                             "functionName": "onShowGotoLocationChanged",
                             "line": 311,
                             "message": ""
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 412,
+                            "durationMicroseconds": 262,
                             "functionName": "onShowLandAbortChanged",
                             "line": 317,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 408,
+                            "durationMicroseconds": 255,
                             "functionName": "on_VehicleFlyingChanged",
                             "line": 323,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 3662,
+                            "durationMicroseconds": 335,
                             "functionName": "on_FlightModeChanged",
                             "line": 334,
                             "message": "Cannot load property pauseFlightMode from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::_activeVehicle with type QVariant."
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 366,
+                            "durationMicroseconds": 170,
                             "functionName": "armVehicleRequest",
                             "line": 353,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 151,
                             "functionName": "forceArmVehicleRequest",
                             "line": 357,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 570,
+                            "durationMicroseconds": 360,
                             "functionName": "disarmVehicleRequest",
                             "line": 361,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 77,
                             "functionName": "closeAll",
                             "line": 370,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/FlyView/GuidedActionsController.qml)::confirmDialog with type QVariant does not have a property visible for writing"
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 118,
                             "functionName": "onCompleted",
                             "line": 239,
                             "message": ""
@@ -768,7 +768,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 66,
                             "functionName": "target",
                             "line": 342,
                             "message": "Cannot access value for name missionController"
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 151,
                             "functionName": "onResumeMissionUploadFail",
                             "line": 343,
                             "message": "Cannot access value for name actionResumeMissionUploadFail"
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 156,
                             "functionName": "target",
                             "line": 347,
                             "message": "Cannot access value for name mainWindow"
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 104,
                             "functionName": "onArmVehicleRequest",
                             "line": 348,
                             "message": "method armVehicleRequest cannot be resolved."
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 108,
                             "functionName": "onForceArmVehicleRequest",
                             "line": 349,
                             "message": "method forceArmVehicleRequest cannot be resolved."
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 95,
                             "functionName": "onDisarmVehicleRequest",
                             "line": 350,
                             "message": "method disarmVehicleRequest cannot be resolved."

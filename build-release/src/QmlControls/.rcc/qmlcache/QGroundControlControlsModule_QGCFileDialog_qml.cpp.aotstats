@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 347,
+                            "durationMicroseconds": 202,
                             "functionName": "nameFilters",
                             "line": 17,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1140,
+                            "durationMicroseconds": 671,
                             "functionName": "openForLoad",
                             "line": 26,
                             "message": "Cannot access value for name mainWindow"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 803,
+                            "durationMicroseconds": 439,
                             "functionName": "openForSave",
                             "line": 38,
                             "message": "Cannot access value for name mainWindow"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 165,
                             "functionName": "close",
                             "line": 48,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 27169,
+                            "durationMicroseconds": 7731,
                             "functionName": "_margins",
                             "line": 53,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 640,
+                            "durationMicroseconds": 374,
                             "functionName": "_mobileDlg",
                             "line": 54,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 3373,
+                            "durationMicroseconds": 122,
                             "functionName": "onFolderChanged",
                             "line": 63,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 79,
                             "functionName": "onNameFiltersChanged",
                             "line": 64,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 943,
+                            "durationMicroseconds": 453,
                             "functionName": "_updateMobileShortPath",
                             "line": 66,
                             "message": "Cannot access value for name QGCFileDialogController"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 71961,
+                            "durationMicroseconds": 28988,
                             "functionName": "_setupFileExtensions",
                             "line": 72,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCFileDialog.qml)::nameFilters with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 348,
+                            "durationMicroseconds": 198,
                             "functionName": "onCompleted",
                             "line": 58,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 569,
+                            "durationMicroseconds": 267,
                             "functionName": "currentFolder",
                             "line": 94,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 710,
+                            "durationMicroseconds": 362,
                             "functionName": "nameFilters",
                             "line": 95,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 100,
                             "functionName": "title",
                             "line": 96,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 84,
                             "functionName": "defaultSuffix",
                             "line": 97,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 721,
+                            "durationMicroseconds": 362,
                             "functionName": "onAccepted",
                             "line": 99,
                             "message": "Cannot access value for name QGCFileDialogController"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 159,
                             "functionName": "onRejected",
                             "line": 107,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 432,
+                            "durationMicroseconds": 217,
                             "functionName": "currentFolder",
                             "line": 112,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 97,
                             "functionName": "title",
                             "line": 113,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 439,
+                            "durationMicroseconds": 222,
                             "functionName": "onAccepted",
                             "line": 115,
                             "message": "Cannot access value for name QGCFileDialogController"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 131,
                             "functionName": "onRejected",
                             "line": 116,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 50,
                             "functionName": "title",
                             "line": 124,
                             "message": "Cannot access value for name _root"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 113,
                             "functionName": "buttons",
                             "line": 125,
                             "message": "Cannot access value for name Dialog"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 374,
+                            "durationMicroseconds": 192,
                             "functionName": "width",
                             "line": 129,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 348,
+                            "durationMicroseconds": 182,
                             "functionName": "spacing",
                             "line": 130,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 88,
                             "functionName": "text",
                             "line": 132,
                             "message": "Cannot access value for name _mobileShortPath"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 885,
+                            "durationMicroseconds": 497,
                             "functionName": "model",
                             "line": 136,
                             "message": "Cannot access value for name QGCFileDialogController"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 481,
+                            "durationMicroseconds": 261,
                             "functionName": "text",
                             "line": 142,
                             "message": "Cannot access value for name modelData"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1309,
+                            "durationMicroseconds": 718,
                             "functionName": "onClicked",
                             "line": 144,
                             "message": "Cannot access value for name mobileFileOpenDialog"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1248,
+                            "durationMicroseconds": 697,
                             "functionName": "onHamburgerClicked",
                             "line": 149,
                             "message": "Cannot retrieve a non-object type by ID: hamburgerMenu"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 402,
+                            "durationMicroseconds": 221,
                             "functionName": "left",
                             "line": 140,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 125,
                             "functionName": "right",
                             "line": 141,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 60,
                             "functionName": "visible",
                             "line": 175,
                             "message": "Cannot load property length from QQuickRepeater::model with type QVariant."
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 50,
                             "functionName": "title",
                             "line": 186,
                             "message": "Cannot access value for name _root"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 382,
+                            "durationMicroseconds": 205,
                             "functionName": "buttons",
                             "line": 187,
                             "message": "Cannot access value for name Dialog"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 1519,
+                            "durationMicroseconds": 847,
                             "functionName": "onAccepted",
                             "line": 189,
                             "message": "Cannot retrieve a non-object type by ID: filenameTextField"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 445,
+                            "durationMicroseconds": 233,
                             "functionName": "width",
                             "line": 206,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 372,
+                            "durationMicroseconds": 183,
                             "functionName": "spacing",
                             "line": 207,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 119,
                             "functionName": "spacing",
                             "line": 212,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 335,
+                            "durationMicroseconds": 173,
                             "functionName": "left",
                             "line": 210,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 127,
                             "functionName": "right",
                             "line": 211,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 117,
                             "functionName": "wrapMode",
                             "line": 227,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 122,
                             "functionName": "text",
                             "line": 228,
                             "message": "Cannot retrieve a non-object type by ID: filenameTextField"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 56,
                             "functionName": "color",
                             "line": 230,
                             "message": "Cannot access value for name qgcPal"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 444,
+                            "durationMicroseconds": 147,
                             "functionName": "left",
                             "line": 225,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 124,
                             "functionName": "right",
                             "line": 226,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 1051,
+                            "durationMicroseconds": 535,
                             "functionName": "model",
                             "line": 241,
                             "message": "Cannot access value for name QGCFileDialogController"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 533,
+                            "durationMicroseconds": 254,
                             "functionName": "text",
                             "line": 247,
                             "message": "Cannot access value for name modelData"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1439,
+                            "durationMicroseconds": 730,
                             "functionName": "onClicked",
                             "line": 249,
                             "message": "Cannot access value for name mobileFileSaveDialog"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1435,
+                            "durationMicroseconds": 688,
                             "functionName": "onHamburgerClicked",
                             "line": 254,
                             "message": "Cannot retrieve a non-object type by ID: hamburgerMenu"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 417,
+                            "durationMicroseconds": 215,
                             "functionName": "left",
                             "line": 245,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 123,
                             "functionName": "right",
                             "line": 246,
                             "message": ""

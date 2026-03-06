@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 775,
+                            "durationMicroseconds": 463,
                             "functionName": "linkConfigs",
                             "line": 13,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 790,
+                            "durationMicroseconds": 321,
                             "functionName": "autoConnectSettings",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1087,
+                            "durationMicroseconds": 639,
                             "functionName": "onCompleted",
                             "line": 18,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MainStatusIndicatorOfflinePage.qml)::linkConfigs with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 61,
                             "functionName": "visible",
                             "line": 34,
                             "message": "Cannot access value for name noLinks"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 35,
                             "functionName": "model",
                             "line": 38,
                             "message": "Cannot access value for name linkConfigs"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 13400,
+                            "durationMicroseconds": 7630,
                             "functionName": "spacing",
                             "line": 58,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 1132,
+                            "durationMicroseconds": 646,
                             "functionName": "onClicked",
                             "line": 65,
                             "message": "Cannot access value for name mainWindow"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 69,
                             "functionName": "visible",
                             "line": 74,
                             "message": "Cannot access value for name autoConnectSettings"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 451,
+                            "durationMicroseconds": 266,
                             "functionName": "model",
                             "line": 79,
                             "message": "Cannot access value for name autoConnectSettings"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1244,
+                            "durationMicroseconds": 687,
                             "functionName": "names",
                             "line": 88,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"

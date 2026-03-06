@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 300,
+                            "durationMicroseconds": 185,
                             "functionName": "buttons",
                             "line": 12,
                             "message": "Cannot access value for name Dialog"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 148,
                             "functionName": "_activeVehicle",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 543,
+                            "durationMicroseconds": 367,
                             "functionName": "_useChecklist",
                             "line": 15,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 167,
                             "functionName": "_enforceChecklist",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 145,
                             "functionName": "_checklistComplete",
                             "line": 17,
                             "message": "Cannot load property checkListState from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewPreFlightChecklistPopup.qml)::_activeVehicle with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 176,
                             "functionName": "on_ActiveVehicleChanged",
                             "line": 19,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 752,
+                            "durationMicroseconds": 424,
                             "functionName": "_showPreFlightChecklistIfNeeded",
                             "line": 26,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 90,
                             "functionName": "target",
                             "line": 22,
                             "message": "Cannot access value for name mainWindow"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 373,
+                            "durationMicroseconds": 225,
                             "functionName": "onTriggered",
                             "line": 36,
                             "message": "Cannot access value for name _checklistComplete"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 323,
                             "functionName": "source",
                             "line": 47,
                             "message": "Cannot access value for name QGroundControl"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 165,
                             "functionName": "target",
                             "line": 53,
                             "message": ""

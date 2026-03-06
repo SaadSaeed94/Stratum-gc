@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 420,
+                            "durationMicroseconds": 241,
                             "functionName": "promptId",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 11844,
+                            "durationMicroseconds": 6826,
                             "functionName": "_margins",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 186,
                             "functionName": "_unitsSettings",
                             "line": 13,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 92,
                             "functionName": "_rgFacts",
                             "line": 14,
                             "message": "Cannot load property horizontalDistanceUnits from (component in /home/saad-saeed/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml)::_unitsSettings with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1030,
+                            "durationMicroseconds": 550,
                             "functionName": "_rgLabels",
                             "line": 15,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 791,
+                            "durationMicroseconds": 444,
                             "functionName": "onCompleted",
                             "line": 18,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml)::_rgFacts with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 300,
+                            "durationMicroseconds": 156,
                             "functionName": "spacing",
                             "line": 52,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 135,
                             "functionName": "wrapMode",
                             "line": 59,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 140,
                             "functionName": "preferredWidth",
                             "line": 58,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 503,
+                            "durationMicroseconds": 280,
                             "functionName": "color",
                             "line": 65,
                             "message": "Cannot access value for name qgcPal"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 81,
                             "functionName": "preferredHeight",
                             "line": 63,
                             "message": "Cannot access value for name _margins"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 53,
                             "functionName": "preferredWidth",
                             "line": 64,
                             "message": "Cannot access value for name _margins"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 45,
                             "functionName": "rows",
                             "line": 73,
                             "message": "Cannot access value for name _cVisibleFacts"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 131,
                             "functionName": "flow",
                             "line": 74,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 44,
                             "functionName": "margins",
                             "line": 70,
                             "message": "Cannot access value for name _margins"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 161,
                             "functionName": "top",
                             "line": 71,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 138,
                             "functionName": "left",
                             "line": 72,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 54,
                             "functionName": "model",
                             "line": 79,
                             "message": "Cannot access value for name _rgFacts"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 71,
                             "functionName": "text",
                             "line": 81,
                             "message": "Cannot access value for name _rgLabels"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 65,
                             "functionName": "visible",
                             "line": 82,
                             "message": "Cannot access value for name _rgFacts"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 987,
+                            "durationMicroseconds": 364,
                             "functionName": "model",
                             "line": 89,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1332,
+                            "durationMicroseconds": 744,
                             "functionName": "currentIndex",
                             "line": 90,
                             "message": "Cannot access value for name _unitsSettings"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 1174,
+                            "durationMicroseconds": 760,
                             "functionName": "onActivated",
                             "line": 91,
                             "message": "method changeSystemOfUnits cannot be resolved."
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 92,
                             "functionName": "onActivated",
                             "line": 91,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 68,
                             "functionName": "model",
                             "line": 96,
                             "message": "Cannot access value for name _rgFacts"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 83,
                             "functionName": "visible",
                             "line": 102,
                             "message": "Cannot access value for name _rgFacts"

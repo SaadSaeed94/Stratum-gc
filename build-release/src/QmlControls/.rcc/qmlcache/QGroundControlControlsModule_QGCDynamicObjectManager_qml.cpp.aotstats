@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 344,
+                            "durationMicroseconds": 213,
                             "functionName": "rgDynamicObjects",
                             "line": 10,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 56,
                             "functionName": "empty",
                             "line": 11,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCDynamicObjectManager.qml)::rgDynamicObjects with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 611,
+                            "durationMicroseconds": 338,
                             "functionName": "destroyObjects",
                             "line": 48,
                             "message": "Cannot load property length from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/QGCDynamicObjectManager.qml)::rgDynamicObjects with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 126,
                             "functionName": "onDestruction",
                             "line": 13,
                             "message": ""

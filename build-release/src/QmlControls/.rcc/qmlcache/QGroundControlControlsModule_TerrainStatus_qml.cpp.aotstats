@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 12836,
+                            "durationMicroseconds": 7372,
                             "functionName": "radius",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 78,
                             "functionName": "color",
                             "line": 10,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 340,
+                            "durationMicroseconds": 195,
                             "functionName": "_margins",
                             "line": 18,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 32,
                             "functionName": "_visualItems",
                             "line": 19,
                             "message": "Cannot load property visualItems from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TerrainStatus.qml)::missionController with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 138,
                             "functionName": "_altRange",
                             "line": 20,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 130,
                             "functionName": "_minAMSLAltitude",
                             "line": 22,
                             "message": "Cannot retrieve a non-object type by ID: terrainProfile"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 83,
                             "functionName": "_maxAMSLAltitude",
                             "line": 23,
                             "message": "Cannot retrieve a non-object type by ID: terrainProfile"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 60,
                             "functionName": "_missionTotalDistance",
                             "line": 24,
                             "message": "Cannot load property missionTotalDistance from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/TerrainStatus.qml)::missionController with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 561,
+                            "durationMicroseconds": 342,
                             "functionName": "_unitsConversion",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 162,
                             "functionName": "width",
                             "line": 32,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 101,
                             "functionName": "text",
                             "line": 34,
                             "message": "Cannot access value for name _unitsConversion"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 130,
                             "functionName": "horizontalAlignment",
                             "line": 35,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 90,
                             "functionName": "transformOrigin",
                             "line": 37,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 139,
                             "functionName": "top",
                             "line": 31,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 112,
                             "functionName": "pointSize",
                             "line": 33,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 155,
                             "functionName": "top",
                             "line": 42,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 122,
                             "functionName": "bottom",
                             "line": 43,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 109,
                             "functionName": "leftMargin",
                             "line": 44,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 112,
                             "functionName": "left",
                             "line": 45,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 111,
                             "functionName": "right",
                             "line": 46,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 176,
+                            "durationMicroseconds": 105,
                             "functionName": "height",
                             "line": 50,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 91,
                             "functionName": "width",
                             "line": 51,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 74,
                             "functionName": "fill",
                             "line": 55,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 139,
                             "functionName": "max",
                             "line": 67,
                             "message": "Cannot access value for name _unitsConversion"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 47,
                             "functionName": "labelsColor",
                             "line": 71,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 250,
                             "functionName": "gridLineColor",
                             "line": 73,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 152,
                             "functionName": "family",
                             "line": 69,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 105,
                             "functionName": "pointSize",
                             "line": 70,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 113,
                             "functionName": "min",
                             "line": 78,
                             "message": "Cannot access value for name _unitsConversion"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 79,
                             "functionName": "max",
                             "line": 79,
                             "message": "Cannot access value for name _unitsConversion"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 44,
                             "functionName": "labelsColor",
                             "line": 83,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 522,
+                            "durationMicroseconds": 275,
                             "functionName": "gridLineColor",
                             "line": 85,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 154,
                             "functionName": "family",
                             "line": 81,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 112,
                             "functionName": "pointSize",
                             "line": 82,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 113,
                             "functionName": "axisX",
                             "line": 90,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 95,
                             "functionName": "axisY",
                             "line": 91,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 111,
                             "functionName": "y",
                             "line": 94,
                             "message": "Cannot access value for name _unitsConversion"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 87,
                             "functionName": "x",
                             "line": 95,
                             "message": "Cannot access value for name _unitsConversion"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 121,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 74,
                             "functionName": "y",
                             "line": 95,
                             "message": "Cannot access value for name _unitsConversion"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 55,
                             "functionName": "model",
                             "line": 108,
                             "message": "Cannot access value for name missionController"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 699,
+                            "durationMicroseconds": 398,
                             "functionName": "visible",
                             "line": 113,
                             "message": "Cannot access value for name object"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 121,
                             "functionName": "fill",
                             "line": 112,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 71,
                             "functionName": "height",
                             "line": 117,
                             "message": "Cannot access value for name terrainProfile"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 46,
                             "functionName": "color",
                             "line": 119,
                             "message": "Cannot access value for name qgcPal"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 546,
+                            "durationMicroseconds": 324,
                             "functionName": "x",
                             "line": 120,
                             "message": "Cannot access value for name object"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 641,
+                            "durationMicroseconds": 394,
                             "functionName": "visible",
                             "line": 121,
                             "message": "Cannot access value for name object"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 696,
+                            "durationMicroseconds": 405,
                             "functionName": "checked",
                             "line": 127,
                             "message": "Cannot access value for name object"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 655,
+                            "durationMicroseconds": 355,
                             "functionName": "label",
                             "line": 128,
                             "message": "Cannot access value for name object"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 1793,
+                            "durationMicroseconds": 1028,
                             "functionName": "index",
                             "line": 129,
                             "message": "Cannot access value for name object"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 659,
+                            "durationMicroseconds": 381,
                             "functionName": "onClicked",
                             "line": 130,
                             "message": "Cannot access value for name root"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 415,
+                            "durationMicroseconds": 208,
                             "functionName": "horizontalCenter",
                             "line": 124,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 137,
                             "functionName": "bottom",
                             "line": 125,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 79,
                             "functionName": "height",
                             "line": 136,
                             "message": "Cannot access value for name terrainProfile"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 59,
                             "functionName": "color",
                             "line": 138,
                             "message": "Cannot access value for name qgcPal"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 587,
+                            "durationMicroseconds": 317,
                             "functionName": "x",
                             "line": 139,
                             "message": "Cannot access value for name object"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 137,
                             "functionName": "visible",
                             "line": 140,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 710,
+                            "durationMicroseconds": 430,
                             "functionName": "checked",
                             "line": 146,
                             "message": "Cannot access value for name object"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 593,
+                            "durationMicroseconds": 332,
                             "functionName": "index",
                             "line": 147,
                             "message": "Cannot access value for name object"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 747,
+                            "durationMicroseconds": 413,
                             "functionName": "onClicked",
                             "line": 148,
                             "message": "Cannot access value for name root"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 382,
+                            "durationMicroseconds": 195,
                             "functionName": "horizontalCenter",
                             "line": 143,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 132,
                             "functionName": "bottom",
                             "line": 144,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 76,
                             "functionName": "height",
                             "line": 154,
                             "message": "Cannot access value for name terrainProfile"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 46,
                             "functionName": "color",
                             "line": 156,
                             "message": "Cannot access value for name qgcPal"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 917,
+                            "durationMicroseconds": 505,
                             "functionName": "x",
                             "line": 157,
                             "message": "Cannot access value for name object"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 146,
                             "functionName": "visible",
                             "line": 158,
                             "message": ""
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 763,
+                            "durationMicroseconds": 420,
                             "functionName": "checked",
                             "line": 164,
                             "message": "Cannot access value for name object"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 616,
+                            "durationMicroseconds": 320,
                             "functionName": "index",
                             "line": 165,
                             "message": "Cannot access value for name object"
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 656,
+                            "durationMicroseconds": 368,
                             "functionName": "onClicked",
                             "line": 166,
                             "message": "Cannot access value for name root"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 201,
                             "functionName": "horizontalCenter",
                             "line": 161,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 128,
                             "functionName": "bottom",
                             "line": 162,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 515,
+                            "durationMicroseconds": 327,
                             "functionName": "x",
                             "line": 173,
                             "message": "Cannot access value for name object"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 535,
+                            "durationMicroseconds": 305,
                             "functionName": "width",
                             "line": 174,
                             "message": "Cannot access value for name object"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 158,
                             "functionName": "height",
                             "line": 175,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 757,
+                            "durationMicroseconds": 398,
                             "functionName": "visible",
                             "line": 178,
                             "message": "Cannot access value for name object"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 317,
+                            "durationMicroseconds": 179,
                             "functionName": "bottom",
                             "line": 172,
                             "message": ""
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 779,
+                            "durationMicroseconds": 423,
                             "functionName": "onClicked",
                             "line": 182,
                             "message": "Cannot access value for name root"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 121,
                             "functionName": "fill",
                             "line": 181,
                             "message": ""
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 757,
+                            "durationMicroseconds": 398,
                             "functionName": "text",
                             "line": 188,
                             "message": "Cannot access value for name object"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 0,
                             "column": 61,
-                            "durationMicroseconds": 405,
+                            "durationMicroseconds": 162,
                             "functionName": "horizontalCenter",
                             "line": 187,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 625,
+                            "durationMicroseconds": 352,
                             "functionName": "enabled",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1311,
+                            "durationMicroseconds": 722,
                             "functionName": "pageName",
                             "line": 16,
                             "message": "Cannot access value for name vehicleComponent"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1132,
+                            "durationMicroseconds": 579,
                             "functionName": "pageDescription",
                             "line": 17,
                             "message": "Cannot access value for name vehicleComponent"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 507,
+                            "durationMicroseconds": 242,
                             "functionName": "availableWidth",
                             "line": 18,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 180,
                             "functionName": "availableHeight",
                             "line": 19,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 935,
+                            "durationMicroseconds": 459,
                             "functionName": "_vehicleIsRover",
                             "line": 23,
                             "message": "Cannot access value for name globals"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 799,
+                            "durationMicroseconds": 382,
                             "functionName": "_vehicleArmed",
                             "line": 24,
                             "message": "Cannot access value for name globals"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 745,
+                            "durationMicroseconds": 387,
                             "functionName": "_vehicleFlying",
                             "line": 25,
                             "message": "Cannot access value for name globals"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1166,
+                            "durationMicroseconds": 581,
                             "functionName": "_disableDueToArmed",
                             "line": 26,
                             "message": "Cannot access value for name vehicleComponent"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1138,
+                            "durationMicroseconds": 569,
                             "functionName": "_disableDueToFlying",
                             "line": 28,
                             "message": "Cannot access value for name vehicleComponent"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 653,
+                            "durationMicroseconds": 337,
                             "functionName": "_disableReason",
                             "line": 29,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 13897,
+                            "durationMicroseconds": 7134,
                             "functionName": "_margins",
                             "line": 30,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 458,
+                            "durationMicroseconds": 232,
                             "functionName": "_pageTitle",
                             "line": 31,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 436,
+                            "durationMicroseconds": 210,
                             "functionName": "onCompleted",
                             "line": 33,
                             "message": "Cannot load property setupPageCompleted from QQuickLoader::item with type QObject."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 120,
                             "functionName": "contentWidth",
                             "line": 41,
                             "message": "Cannot access value for name availableWidth"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 92,
                             "functionName": "contentHeight",
                             "line": 42,
                             "message": "Cannot access value for name availableHeight"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 124,
                             "functionName": "fill",
                             "line": 40,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 42,
                             "functionName": "width",
                             "line": 47,
                             "message": "Cannot access value for name availableWidth"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 31,
                             "functionName": "spacing",
                             "line": 48,
                             "message": "Cannot access value for name _margins"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 120,
                             "functionName": "layoutDirection",
                             "line": 49,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 115,
                             "functionName": "visible",
                             "line": 50,
                             "message": "Cannot access value for name showAdvanced"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 38,
                             "functionName": "spacing",
                             "line": 59,
                             "message": "Cannot access value for name _margins"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 199,
                             "functionName": "text",
                             "line": 65,
                             "message": "Cannot access value for name _pageTitle"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 310,
+                            "durationMicroseconds": 164,
                             "functionName": "visible",
                             "line": 66,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 106,
                             "functionName": "pointSize",
                             "line": 64,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 107,
                             "functionName": "wrapMode",
                             "line": 71,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 52,
                             "functionName": "text",
                             "line": 72,
                             "message": "Cannot access value for name pageDescription"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 73,
                             "functionName": "visible",
                             "line": 73,
                             "message": "Cannot access value for name pageDescription"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 34,
                             "functionName": "topMargin",
                             "line": 80,
                             "message": "Cannot access value for name _margins"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 358,
+                            "durationMicroseconds": 163,
                             "functionName": "top",
                             "line": 81,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 155,
                             "functionName": "visible",
                             "line": 87,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 73,
                             "functionName": "fill",
                             "line": 88,
                             "message": ""

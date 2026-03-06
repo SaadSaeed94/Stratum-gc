@@ -16397,7 +16397,7 @@ Module {
             read: "sysidInControl"
             notify: "gcsControlStatusChanged"
             index: 139
-            lineNumber: 1324
+            lineNumber: 1330
             isReadonly: true
         }
         Property {
@@ -16406,7 +16406,7 @@ Module {
             read: "gcsControlStatusFlags_SystemManager"
             notify: "gcsControlStatusChanged"
             index: 140
-            lineNumber: 1325
+            lineNumber: 1331
             isReadonly: true
         }
         Property {
@@ -16415,7 +16415,7 @@ Module {
             read: "gcsControlStatusFlags_TakeoverAllowed"
             notify: "gcsControlStatusChanged"
             index: 141
-            lineNumber: 1326
+            lineNumber: 1332
             isReadonly: true
         }
         Property {
@@ -16424,7 +16424,7 @@ Module {
             read: "firstControlStatusReceived"
             notify: "gcsControlStatusChanged"
             index: 142
-            lineNumber: 1327
+            lineNumber: 1333
             isReadonly: true
         }
         Property {
@@ -16432,7 +16432,7 @@ Module {
             type: "int"
             read: "operatorControlTakeoverTimeoutMsecs"
             index: 143
-            lineNumber: 1328
+            lineNumber: 1334
             isReadonly: true
             isPropertyConstant: true
         }
@@ -16441,7 +16441,7 @@ Module {
             type: "int"
             read: "requestOperatorControlRemainingMsecs"
             index: 144
-            lineNumber: 1329
+            lineNumber: 1335
             isReadonly: true
             isPropertyConstant: true
         }
@@ -16451,7 +16451,7 @@ Module {
             read: "sendControlRequestAllowed"
             notify: "sendControlRequestAllowedChanged"
             index: 145
-            lineNumber: 1330
+            lineNumber: 1336
             isReadonly: true
         }
         Property {
@@ -16460,7 +16460,7 @@ Module {
             read: "messageTypeNone"
             notify: "messageTypeChanged"
             index: 146
-            lineNumber: 1359
+            lineNumber: 1365
             isReadonly: true
         }
         Property {
@@ -16469,7 +16469,7 @@ Module {
             read: "messageTypeNormal"
             notify: "messageTypeChanged"
             index: 147
-            lineNumber: 1360
+            lineNumber: 1366
             isReadonly: true
         }
         Property {
@@ -16478,7 +16478,7 @@ Module {
             read: "messageTypeWarning"
             notify: "messageTypeChanged"
             index: 148
-            lineNumber: 1361
+            lineNumber: 1367
             isReadonly: true
         }
         Property {
@@ -16487,7 +16487,7 @@ Module {
             read: "messageTypeError"
             notify: "messageTypeChanged"
             index: 149
-            lineNumber: 1362
+            lineNumber: 1368
             isReadonly: true
         }
         Property {
@@ -16496,7 +16496,7 @@ Module {
             read: "messageCount"
             notify: "messageCountChanged"
             index: 150
-            lineNumber: 1363
+            lineNumber: 1369
             isReadonly: true
         }
         Property {
@@ -16505,7 +16505,7 @@ Module {
             read: "formattedMessages"
             notify: "formattedMessagesChanged"
             index: 151
-            lineNumber: 1364
+            lineNumber: 1370
             isReadonly: true
         }
         Property {
@@ -16514,7 +16514,7 @@ Module {
             read: "flowImageIndex"
             notify: "flowImageIndexChanged"
             index: 152
-            lineNumber: 1409
+            lineNumber: 1415
             isReadonly: true
         }
         Property {
@@ -16524,7 +16524,7 @@ Module {
             read: "mavlinkLogManager"
             notify: "mavlinkLogManagerChanged"
             index: 153
-            lineNumber: 1427
+            lineNumber: 1433
             isReadonly: true
         }
         Property {
@@ -16534,7 +16534,7 @@ Module {
             read: "cameraManager"
             notify: "cameraManagerChanged"
             index: 154
-            lineNumber: 1446
+            lineNumber: 1452
             isReadonly: true
         }
         Property {
@@ -16542,219 +16542,219 @@ Module {
             type: "QVariantList"
             read: "staticCameraList"
             index: 155
-            lineNumber: 1447
+            lineNumber: 1453
             isReadonly: true
             isPropertyConstant: true
         }
         Signal {
             name: "coordinateChanged"
-            lineNumber: 803
+            lineNumber: 809
             Parameter { name: "coordinate"; type: "QGeoCoordinate" }
         }
         Signal {
             name: "mavlinkMessageReceived"
-            lineNumber: 804
+            lineNumber: 810
             Parameter { name: "message"; type: "mavlink_message_t" }
         }
         Signal {
             name: "homePositionChanged"
-            lineNumber: 805
+            lineNumber: 811
             Parameter { name: "homePosition"; type: "QGeoCoordinate" }
         }
-        Signal { name: "armedPositionChanged"; lineNumber: 806 }
+        Signal { name: "armedPositionChanged"; lineNumber: 812 }
         Signal {
             name: "armedChanged"
-            lineNumber: 807
+            lineNumber: 813
             Parameter { name: "armed"; type: "bool" }
         }
         Signal {
             name: "flightModeChanged"
-            lineNumber: 808
+            lineNumber: 814
             Parameter { name: "flightMode"; type: "QString" }
         }
         Signal {
             name: "flyingChanged"
-            lineNumber: 809
+            lineNumber: 815
             Parameter { name: "flying"; type: "bool" }
         }
         Signal {
             name: "landingChanged"
-            lineNumber: 810
+            lineNumber: 816
             Parameter { name: "landing"; type: "bool" }
         }
         Signal {
             name: "guidedModeChanged"
-            lineNumber: 811
+            lineNumber: 817
             Parameter { name: "guidedMode"; type: "bool" }
         }
-        Signal { name: "inFwdFlightChanged"; lineNumber: 812 }
+        Signal { name: "inFwdFlightChanged"; lineNumber: 818 }
         Signal {
             name: "vtolInFwdFlightChanged"
-            lineNumber: 813
+            lineNumber: 819
             Parameter { name: "vtolInFwdFlight"; type: "bool" }
         }
         Signal {
             name: "prearmErrorChanged"
-            lineNumber: 814
+            lineNumber: 820
             Parameter { name: "prearmError"; type: "QString" }
         }
         Signal {
             name: "soloFirmwareChanged"
-            lineNumber: 815
+            lineNumber: 821
             Parameter { name: "soloFirmware"; type: "bool" }
         }
         Signal {
             name: "defaultCruiseSpeedChanged"
-            lineNumber: 816
+            lineNumber: 822
             Parameter { name: "cruiseSpeed"; type: "double" }
         }
         Signal {
             name: "defaultHoverSpeedChanged"
-            lineNumber: 817
+            lineNumber: 823
             Parameter { name: "hoverSpeed"; type: "double" }
         }
-        Signal { name: "firmwareTypeChanged"; lineNumber: 818 }
-        Signal { name: "vehicleTypeChanged"; lineNumber: 819 }
-        Signal { name: "hobbsMeterChanged"; lineNumber: 820 }
+        Signal { name: "firmwareTypeChanged"; lineNumber: 824 }
+        Signal { name: "vehicleTypeChanged"; lineNumber: 825 }
+        Signal { name: "hobbsMeterChanged"; lineNumber: 826 }
         Signal {
             name: "capabilitiesKnownChanged"
-            lineNumber: 821
+            lineNumber: 827
             Parameter { name: "capabilitiesKnown"; type: "bool" }
         }
         Signal {
             name: "initialPlanRequestCompleteChanged"
-            lineNumber: 822
+            lineNumber: 828
             Parameter { name: "initialPlanRequestComplete"; type: "bool" }
         }
         Signal {
             name: "capabilityBitsChanged"
-            lineNumber: 823
+            lineNumber: 829
             Parameter { name: "capabilityBits"; type: "qulonglong" }
         }
-        Signal { name: "toolIndicatorsChanged"; lineNumber: 824 }
+        Signal { name: "toolIndicatorsChanged"; lineNumber: 830 }
         Signal {
             name: "calibrationEventReceived"
-            lineNumber: 825
+            lineNumber: 831
             Parameter { name: "uasid"; type: "int" }
             Parameter { name: "componentid"; type: "int" }
             Parameter { name: "severity"; type: "int" }
             Parameter { name: "event"; type: "QSharedPointer<events::parser::ParsedEvent>" }
         }
-        Signal { name: "checkListStateChanged"; lineNumber: 826 }
-        Signal { name: "longitudeChanged"; lineNumber: 827 }
-        Signal { name: "currentConfigChanged"; lineNumber: 828 }
+        Signal { name: "checkListStateChanged"; lineNumber: 832 }
+        Signal { name: "longitudeChanged"; lineNumber: 833 }
+        Signal { name: "currentConfigChanged"; lineNumber: 834 }
         Signal {
             name: "rcRSSIChanged"
-            lineNumber: 829
+            lineNumber: 835
             Parameter { name: "rcRSSI"; type: "int" }
         }
         Signal {
             name: "telemetryRRSSIChanged"
-            lineNumber: 830
+            lineNumber: 836
             Parameter { name: "value"; type: "int" }
         }
         Signal {
             name: "telemetryLRSSIChanged"
-            lineNumber: 831
+            lineNumber: 837
             Parameter { name: "value"; type: "int" }
         }
         Signal {
             name: "telemetryRXErrorsChanged"
-            lineNumber: 832
+            lineNumber: 838
             Parameter { name: "value"; type: "uint" }
         }
         Signal {
             name: "telemetryFixedChanged"
-            lineNumber: 833
+            lineNumber: 839
             Parameter { name: "value"; type: "uint" }
         }
         Signal {
             name: "telemetryTXBufferChanged"
-            lineNumber: 834
+            lineNumber: 840
             Parameter { name: "value"; type: "uint" }
         }
         Signal {
             name: "telemetryLNoiseChanged"
-            lineNumber: 835
+            lineNumber: 841
             Parameter { name: "value"; type: "int" }
         }
         Signal {
             name: "telemetryRNoiseChanged"
-            lineNumber: 836
+            lineNumber: 842
             Parameter { name: "value"; type: "int" }
         }
-        Signal { name: "autoDisarmChanged"; lineNumber: 837 }
-        Signal { name: "flightModesChanged"; lineNumber: 838 }
+        Signal { name: "autoDisarmChanged"; lineNumber: 843 }
+        Signal { name: "flightModesChanged"; lineNumber: 844 }
         Signal {
             name: "sensorsPresentBitsChanged"
-            lineNumber: 839
+            lineNumber: 845
             Parameter { name: "sensorsPresentBits"; type: "int" }
         }
         Signal {
             name: "sensorsEnabledBitsChanged"
-            lineNumber: 840
+            lineNumber: 846
             Parameter { name: "sensorsEnabledBits"; type: "int" }
         }
         Signal {
             name: "sensorsHealthBitsChanged"
-            lineNumber: 841
+            lineNumber: 847
             Parameter { name: "sensorsHealthBits"; type: "int" }
         }
         Signal {
             name: "sensorsUnhealthyBitsChanged"
-            lineNumber: 842
+            lineNumber: 848
             Parameter { name: "sensorsUnhealthyBits"; type: "int" }
         }
         Signal {
             name: "orbitActiveChanged"
-            lineNumber: 843
+            lineNumber: 849
             Parameter { name: "orbitActive"; type: "bool" }
         }
         Signal {
             name: "readyToFlyAvailableChanged"
-            lineNumber: 844
+            lineNumber: 850
             Parameter { name: "readyToFlyAvailable"; type: "bool" }
         }
         Signal {
             name: "readyToFlyChanged"
-            lineNumber: 845
+            lineNumber: 851
             Parameter { name: "readyToFy"; type: "bool" }
         }
         Signal {
             name: "allSensorsHealthyChanged"
-            lineNumber: 846
+            lineNumber: 852
             Parameter { name: "allSensorsHealthy"; type: "bool" }
         }
-        Signal { name: "requiresGpsFixChanged"; lineNumber: 847 }
-        Signal { name: "haveMRSpeedLimChanged"; lineNumber: 848 }
-        Signal { name: "haveFWSpeedLimChanged"; lineNumber: 849 }
-        Signal { name: "hasGripperChanged"; lineNumber: 850 }
-        Signal { name: "firmwareVersionChanged"; lineNumber: 852 }
-        Signal { name: "firmwareCustomVersionChanged"; lineNumber: 853 }
+        Signal { name: "requiresGpsFixChanged"; lineNumber: 853 }
+        Signal { name: "haveMRSpeedLimChanged"; lineNumber: 854 }
+        Signal { name: "haveFWSpeedLimChanged"; lineNumber: 855 }
+        Signal { name: "hasGripperChanged"; lineNumber: 856 }
+        Signal { name: "firmwareVersionChanged"; lineNumber: 858 }
+        Signal { name: "firmwareCustomVersionChanged"; lineNumber: 859 }
         Signal {
             name: "gitHashChanged"
-            lineNumber: 854
+            lineNumber: 860
             Parameter { name: "hash"; type: "QString" }
         }
-        Signal { name: "vehicleUIDChanged"; lineNumber: 855 }
+        Signal { name: "vehicleUIDChanged"; lineNumber: 861 }
         Signal {
             name: "loadProgressChanged"
-            lineNumber: 856
+            lineNumber: 862
             Parameter { name: "value"; type: "float" }
         }
         Signal {
             name: "rcChannelsChanged"
-            lineNumber: 860
+            lineNumber: 866
             Parameter { name: "channelValues"; type: "int"; isList: true }
         }
         Signal {
             name: "remoteControlRSSIChanged"
-            lineNumber: 863
+            lineNumber: 869
             Parameter { name: "rssi"; type: "quint8" }
         }
         Signal {
             name: "mavlinkLogData"
-            lineNumber: 866
+            lineNumber: 872
             Parameter { name: "vehicle"; type: "Vehicle"; isPointer: true }
             Parameter { name: "target_system"; type: "quint8" }
             Parameter { name: "target_component"; type: "quint8" }
@@ -16765,7 +16765,7 @@ Module {
         }
         Signal {
             name: "mavCommandResult"
-            lineNumber: 874
+            lineNumber: 880
             Parameter { name: "vehicleId"; type: "int" }
             Parameter { name: "targetComponent"; type: "int" }
             Parameter { name: "command"; type: "int" }
@@ -16774,30 +16774,30 @@ Module {
         }
         Signal {
             name: "mavlinkSerialControl"
-            lineNumber: 877
+            lineNumber: 883
             Parameter { name: "device"; type: "quint8" }
             Parameter { name: "flags"; type: "quint8" }
             Parameter { name: "timeout"; type: "ushort" }
             Parameter { name: "baudrate"; type: "uint" }
             Parameter { name: "data"; type: "QByteArray" }
         }
-        Signal { name: "mavlinkStatusChanged"; lineNumber: 879 }
-        Signal { name: "mavlinkSigningChanged"; lineNumber: 880 }
-        Signal { name: "isROIEnabledChanged"; lineNumber: 882 }
+        Signal { name: "mavlinkStatusChanged"; lineNumber: 885 }
+        Signal { name: "mavlinkSigningChanged"; lineNumber: 886 }
+        Signal { name: "isROIEnabledChanged"; lineNumber: 888 }
         Signal {
             name: "roiCoordChanged"
-            lineNumber: 883
+            lineNumber: 889
             Parameter { name: "centerCoord"; type: "QGeoCoordinate" }
         }
-        Signal { name: "initialConnectComplete"; lineNumber: 884 }
+        Signal { name: "initialConnectComplete"; lineNumber: 890 }
         Signal {
             name: "sensorsParametersResetAck"
-            lineNumber: 886
+            lineNumber: 892
             Parameter { name: "success"; type: "bool" }
         }
         Signal {
             name: "logEntry"
-            lineNumber: 888
+            lineNumber: 894
             Parameter { name: "time_utc"; type: "uint" }
             Parameter { name: "size"; type: "uint" }
             Parameter { name: "id"; type: "ushort" }
@@ -16806,7 +16806,7 @@ Module {
         }
         Signal {
             name: "logData"
-            lineNumber: 889
+            lineNumber: 895
             Parameter { name: "ofs"; type: "uint" }
             Parameter { name: "id"; type: "ushort" }
             Parameter { name: "count"; type: "quint8" }
@@ -16814,167 +16814,167 @@ Module {
         }
         Signal {
             name: "mavlinkMsgIntervalsChanged"
-            lineNumber: 1286
+            lineNumber: 1292
             Parameter { name: "compid"; type: "quint8" }
             Parameter { name: "msgId"; type: "ushort" }
             Parameter { name: "rate"; type: "int" }
         }
-        Signal { name: "gcsControlStatusChanged"; lineNumber: 1351 }
+        Signal { name: "gcsControlStatusChanged"; lineNumber: 1357 }
         Signal {
             name: "requestOperatorControlReceived"
-            lineNumber: 1352
+            lineNumber: 1358
             Parameter { name: "sysIdRequestingControl"; type: "int" }
             Parameter { name: "allowTakeover"; type: "int" }
             Parameter { name: "requestTimeoutSecs"; type: "int" }
         }
         Signal {
             name: "sendControlRequestAllowedChanged"
-            lineNumber: 1353
+            lineNumber: 1359
             Parameter { name: "sendControlRequestAllowed"; type: "bool" }
         }
         Signal {
             name: "textMessageReceived"
-            lineNumber: 1383
+            lineNumber: 1389
             Parameter { name: "sysid"; type: "int" }
             Parameter { name: "componentid"; type: "int" }
             Parameter { name: "severity"; type: "int" }
             Parameter { name: "text"; type: "QString" }
             Parameter { name: "description"; type: "QString" }
         }
-        Signal { name: "messagesReceivedChanged"; lineNumber: 1385 }
-        Signal { name: "messagesSentChanged"; lineNumber: 1386 }
-        Signal { name: "messagesLostChanged"; lineNumber: 1387 }
-        Signal { name: "messageTypeChanged"; lineNumber: 1388 }
-        Signal { name: "messageCountChanged"; lineNumber: 1389 }
-        Signal { name: "formattedMessagesChanged"; lineNumber: 1390 }
+        Signal { name: "messagesReceivedChanged"; lineNumber: 1391 }
+        Signal { name: "messagesSentChanged"; lineNumber: 1392 }
+        Signal { name: "messagesLostChanged"; lineNumber: 1393 }
+        Signal { name: "messageTypeChanged"; lineNumber: 1394 }
+        Signal { name: "messageCountChanged"; lineNumber: 1395 }
+        Signal { name: "formattedMessagesChanged"; lineNumber: 1396 }
         Signal {
             name: "newFormattedMessage"
-            lineNumber: 1391
+            lineNumber: 1397
             Parameter { name: "formattedMessage"; type: "QString" }
         }
-        Signal { name: "flowImageIndexChanged"; lineNumber: 1415 }
-        Signal { name: "mavlinkLogManagerChanged"; lineNumber: 1433 }
-        Signal { name: "cameraManagerChanged"; lineNumber: 1454 }
+        Signal { name: "flowImageIndexChanged"; lineNumber: 1421 }
+        Signal { name: "mavlinkLogManagerChanged"; lineNumber: 1439 }
+        Signal { name: "cameraManagerChanged"; lineNumber: 1460 }
         Method {
             name: "setVtolInFwdFlight"
-            lineNumber: 797
+            lineNumber: 803
             Parameter { name: "vtolInFwdFlight"; type: "bool" }
         }
         Method {
             name: "_offlineFirmwareTypeSettingChanged"
-            lineNumber: 798
+            lineNumber: 804
             Parameter { name: "varFirmwareType"; type: "QVariant" }
         }
         Method {
             name: "_offlineVehicleTypeSettingChanged"
-            lineNumber: 799
+            lineNumber: 805
             Parameter { name: "varVehicleType"; type: "QVariant" }
         }
         Method {
             name: "sendGripperAction"
-            lineNumber: 800
+            lineNumber: 806
             Parameter { name: "gripperOption"; type: "QGCMAVLink::GripperActions" }
         }
         Method {
             name: "_mavlinkMessageReceived"
-            lineNumber: 892
+            lineNumber: 898
             Parameter { name: "link"; type: "LinkInterface"; isPointer: true }
             Parameter { name: "message"; type: "mavlink_message_t" }
         }
-        Method { name: "_sendMessageMultipleNext"; lineNumber: 893 }
+        Method { name: "_sendMessageMultipleNext"; lineNumber: 899 }
         Method {
             name: "_parametersReady"
-            lineNumber: 894
+            lineNumber: 900
             Parameter { name: "parametersReady"; type: "bool" }
         }
         Method {
             name: "_remoteControlRSSIChanged"
-            lineNumber: 895
+            lineNumber: 901
             Parameter { name: "rssi"; type: "quint8" }
         }
         Method {
             name: "_handleFlightModeChanged"
-            lineNumber: 896
+            lineNumber: 902
             Parameter { name: "flightMode"; type: "QString" }
         }
         Method {
             name: "_announceArmedChanged"
-            lineNumber: 897
+            lineNumber: 903
             Parameter { name: "armed"; type: "bool" }
         }
         Method {
             name: "_offlineCruiseSpeedSettingChanged"
-            lineNumber: 898
+            lineNumber: 904
             Parameter { name: "value"; type: "QVariant" }
         }
         Method {
             name: "_offlineHoverSpeedSettingChanged"
-            lineNumber: 899
+            lineNumber: 905
             Parameter { name: "value"; type: "QVariant" }
         }
-        Method { name: "_prearmErrorTimeout"; lineNumber: 900 }
-        Method { name: "_firstMissionLoadComplete"; lineNumber: 901 }
-        Method { name: "_firstGeoFenceLoadComplete"; lineNumber: 902 }
-        Method { name: "_firstRallyPointLoadComplete"; lineNumber: 903 }
-        Method { name: "_sendMavCommandResponseTimeoutCheck"; lineNumber: 904 }
-        Method { name: "_clearCameraTriggerPoints"; lineNumber: 905 }
-        Method { name: "_updateDistanceHeadingHome"; lineNumber: 906 }
-        Method { name: "_updateMissionItemIndex"; lineNumber: 907 }
-        Method { name: "_updateHeadingToNextWP"; lineNumber: 908 }
-        Method { name: "_updateDistanceHeadingGCS"; lineNumber: 909 }
-        Method { name: "_updateHomepoint"; lineNumber: 910 }
-        Method { name: "_updateHobbsMeter"; lineNumber: 911 }
+        Method { name: "_prearmErrorTimeout"; lineNumber: 906 }
+        Method { name: "_firstMissionLoadComplete"; lineNumber: 907 }
+        Method { name: "_firstGeoFenceLoadComplete"; lineNumber: 908 }
+        Method { name: "_firstRallyPointLoadComplete"; lineNumber: 909 }
+        Method { name: "_sendMavCommandResponseTimeoutCheck"; lineNumber: 910 }
+        Method { name: "_clearCameraTriggerPoints"; lineNumber: 911 }
+        Method { name: "_updateDistanceHeadingHome"; lineNumber: 912 }
+        Method { name: "_updateMissionItemIndex"; lineNumber: 913 }
+        Method { name: "_updateHeadingToNextWP"; lineNumber: 914 }
+        Method { name: "_updateDistanceHeadingGCS"; lineNumber: 915 }
+        Method { name: "_updateHomepoint"; lineNumber: 916 }
+        Method { name: "_updateHobbsMeter"; lineNumber: 917 }
         Method {
             name: "_vehicleParamLoaded"
-            lineNumber: 912
+            lineNumber: 918
             Parameter { name: "ready"; type: "bool" }
         }
-        Method { name: "_sendQGCTimeToVehicle"; lineNumber: 913 }
+        Method { name: "_sendQGCTimeToVehicle"; lineNumber: 919 }
         Method {
             name: "_mavlinkMessageStatus"
-            lineNumber: 914
+            lineNumber: 920
             Parameter { name: "uasId"; type: "int" }
             Parameter { name: "totalSent"; type: "qulonglong" }
             Parameter { name: "totalReceived"; type: "qulonglong" }
             Parameter { name: "totalLoss"; type: "qulonglong" }
             Parameter { name: "lossPercent"; type: "float" }
         }
-        Method { name: "_orbitTelemetryTimeout"; lineNumber: 915 }
-        Method { name: "_updateFlightTime"; lineNumber: 916 }
+        Method { name: "_orbitTelemetryTimeout"; lineNumber: 921 }
+        Method { name: "_updateFlightTime"; lineNumber: 922 }
         Method {
             name: "_gotProgressUpdate"
-            lineNumber: 917
+            lineNumber: 923
             Parameter { name: "progressValue"; type: "float" }
         }
         Method {
             name: "_doSetHomeTerrainReceived"
-            lineNumber: 918
+            lineNumber: 924
             Parameter { name: "success"; type: "bool" }
             Parameter { name: "heights"; type: "double"; isList: true }
         }
         Method {
             name: "_roiTerrainReceived"
-            lineNumber: 919
+            lineNumber: 925
             Parameter { name: "success"; type: "bool" }
             Parameter { name: "heights"; type: "double"; isList: true }
         }
         Method {
             name: "_sendROICommand"
-            lineNumber: 920
+            lineNumber: 926
             Parameter { name: "coord"; type: "QGeoCoordinate" }
             Parameter { name: "frame"; type: "MAV_FRAME" }
             Parameter { name: "altitude"; type: "float" }
         }
-        Method { name: "_updateAltAboveTerrain"; lineNumber: 921 }
+        Method { name: "_updateAltAboveTerrain"; lineNumber: 927 }
         Method {
             name: "_altitudeAboveTerrainReceived"
-            lineNumber: 922
+            lineNumber: 928
             Parameter { name: "sucess"; type: "bool" }
             Parameter { name: "heights"; type: "double"; isList: true }
         }
         Method {
             name: "_textMessageReceived"
-            lineNumber: 1396
+            lineNumber: 1402
             Parameter { name: "componentid"; type: "MAV_COMPONENT" }
             Parameter { name: "severity"; type: "MAV_SEVERITY" }
             Parameter { name: "text"; type: "QString" }
@@ -16982,7 +16982,7 @@ Module {
         }
         Method {
             name: "_errorMessageReceived"
-            lineNumber: 1397
+            lineNumber: 1403
             Parameter { name: "message"; type: "QString" }
         }
         Method { name: "resetCounters"; lineNumber: 284 }
@@ -17126,26 +17126,37 @@ Module {
         Method { name: "closeVehicle"; lineNumber: 398 }
         Method { name: "triggerSimpleCamera"; lineNumber: 401 }
         Method {
-            name: "doSetHome"
+            name: "sendStandoffCommand"
             lineNumber: 404
+            Parameter { name: "lat"; type: "double" }
+            Parameter { name: "lon"; type: "double" }
+            Parameter { name: "distance"; type: "double" }
+            Parameter { name: "height"; type: "double" }
+            Parameter { name: "speed"; type: "double" }
+            Parameter { name: "direction"; type: "int" }
+        }
+        Method { name: "cancelStandoffCommand"; lineNumber: 407 }
+        Method {
+            name: "doSetHome"
+            lineNumber: 410
             Parameter { name: "coord"; type: "QGeoCoordinate" }
         }
-        Method { name: "sendSetupSigning"; lineNumber: 406 }
+        Method { name: "sendSetupSigning"; lineNumber: 412 }
         Method {
             name: "expandedToolbarIndicatorSource"
             type: "QVariant"
-            lineNumber: 408
+            lineNumber: 414
             Parameter { name: "indicatorName"; type: "QString" }
         }
         Method {
             name: "vehicleClassInternalName"
             type: "QString"
             isMethodConstant: true
-            lineNumber: 443
+            lineNumber: 449
         }
         Method {
             name: "sendCommand"
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17160,7 +17171,7 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17174,7 +17185,7 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17187,7 +17198,7 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17199,7 +17210,7 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17210,7 +17221,7 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17220,7 +17231,7 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
@@ -17229,33 +17240,33 @@ Module {
         Method {
             name: "sendCommand"
             isCloned: true
-            lineNumber: 635
+            lineNumber: 641
             Parameter { name: "compId"; type: "int" }
             Parameter { name: "command"; type: "int" }
             Parameter { name: "showError"; type: "bool" }
         }
-        Method { name: "flashBootloader"; lineNumber: 1306 }
+        Method { name: "flashBootloader"; lineNumber: 1312 }
         Method {
             name: "motorInterlock"
-            lineNumber: 1309
+            lineNumber: 1315
             Parameter { name: "enable"; type: "bool" }
         }
-        Method { name: "startTimerRevertAllowTakeover"; lineNumber: 1316 }
+        Method { name: "startTimerRevertAllowTakeover"; lineNumber: 1322 }
         Method {
             name: "requestOperatorControl"
-            lineNumber: 1317
+            lineNumber: 1323
             Parameter { name: "allowOverride"; type: "bool" }
             Parameter { name: "requestTimeoutSecs"; type: "int" }
         }
         Method {
             name: "requestOperatorControl"
             isCloned: true
-            lineNumber: 1317
+            lineNumber: 1323
             Parameter { name: "allowOverride"; type: "bool" }
         }
-        Method { name: "resetAllMessages"; lineNumber: 1369 }
-        Method { name: "resetErrorLevelMessages"; lineNumber: 1370 }
-        Method { name: "clearMessages"; lineNumber: 1371 }
+        Method { name: "resetAllMessages"; lineNumber: 1375 }
+        Method { name: "resetErrorLevelMessages"; lineNumber: 1376 }
+        Method { name: "clearMessages"; lineNumber: 1377 }
     }
     Component {
         file: "VehicleComponent.h"

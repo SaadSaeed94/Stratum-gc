@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 418,
+                            "durationMicroseconds": 246,
                             "functionName": "width",
                             "line": 15,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 12081,
+                            "durationMicroseconds": 7583,
                             "functionName": "height",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 594,
+                            "durationMicroseconds": 396,
                             "functionName": "_activeVehicle",
                             "line": 18,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,193 +32,233 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 80,
                             "functionName": "_communicationLost",
                             "line": 19,
                             "message": "Cannot load property vehicleLinkManager from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlyViewToolBar.qml)::_activeVehicle with type QVariant."
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 41,
-                            "durationMicroseconds": 83,
-                            "functionName": "_mainStatusBGColor",
-                            "line": 20,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
-                        },
-                        {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 363,
+                            "durationMicroseconds": 237,
                             "functionName": "_leftRightMargin",
-                            "line": 21,
+                            "line": 24,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 379,
+                            "durationMicroseconds": 266,
                             "functionName": "_guidedController",
-                            "line": 22,
+                            "line": 25,
                             "message": "Cannot access value for name globals"
                         },
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 338,
+                            "durationMicroseconds": 197,
                             "functionName": "dropMainStatusIndicatorTool",
-                            "line": 24,
+                            "line": 27,
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
-                            "column": 29,
-                            "durationMicroseconds": 245,
-                            "functionName": "contentWidth",
-                            "line": 32,
-                            "message": ""
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 54,
+                            "functionName": "color",
+                            "line": 36,
+                            "message": "Cannot access value for name _toolbarBG"
                         },
                         {
                             "codegenResult": 0,
-                            "column": 29,
-                            "durationMicroseconds": 228,
-                            "functionName": "flickableDirection",
-                            "line": 33,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 29,
-                            "durationMicroseconds": 184,
+                            "column": 23,
+                            "durationMicroseconds": 121,
                             "functionName": "fill",
-                            "line": 31,
+                            "line": 35,
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
+                            "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 208,
-                            "functionName": "height",
-                            "line": 37,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 25,
-                            "durationMicroseconds": 209,
-                            "functionName": "width",
+                            "durationMicroseconds": 49,
+                            "functionName": "color",
                             "line": 45,
+                            "message": "Cannot access value for name _milGreen"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 191,
+                            "functionName": "left",
+                            "line": 41,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 161,
-                            "functionName": "height",
-                            "line": 46,
+                            "durationMicroseconds": 159,
+                            "functionName": "right",
+                            "line": 42,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 33,
-                            "durationMicroseconds": 186,
-                            "functionName": "height",
+                            "column": 25,
+                            "durationMicroseconds": 148,
+                            "functionName": "bottom",
+                            "line": 43,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 138,
+                            "functionName": "contentWidth",
                             "line": 51,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 33,
-                            "durationMicroseconds": 184,
-                            "functionName": "width",
+                            "column": 29,
+                            "durationMicroseconds": 118,
+                            "functionName": "flickableDirection",
                             "line": 52,
                             "message": ""
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 33,
-                            "durationMicroseconds": 109,
-                            "functionName": "opacity",
-                            "line": 53,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 92,
+                            "functionName": "fill",
+                            "line": 50,
+                            "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 38,
-                            "durationMicroseconds": 192,
-                            "functionName": "orientation",
+                            "column": 25,
+                            "durationMicroseconds": 134,
+                            "functionName": "height",
                             "line": 56,
                             "message": ""
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 60,
-                            "durationMicroseconds": 126,
-                            "functionName": "color",
-                            "line": 57,
-                            "message": "Cannot access value for name _mainStatusBGColor"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 60,
-                            "durationMicroseconds": 81,
-                            "functionName": "color",
-                            "line": 58,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
-                        },
-                        {
                             "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 244,
-                            "functionName": "height",
-                            "line": 66,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 85,
-                            "functionName": "color",
-                            "line": 67,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 302,
-                            "functionName": "left",
+                            "column": 25,
+                            "durationMicroseconds": 130,
+                            "functionName": "width",
                             "line": 64,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 255,
-                            "functionName": "right",
+                            "column": 25,
+                            "durationMicroseconds": 154,
+                            "functionName": "height",
                             "line": 65,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 148,
                             "functionName": "height",
-                            "line": 72,
+                            "line": 70,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 366,
-                            "functionName": "spacing",
-                            "line": 73,
+                            "durationMicroseconds": 139,
+                            "functionName": "width",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 147,
+                            "functionName": "orientation",
+                            "line": 74,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 69,
+                            "functionName": "color",
+                            "line": 75,
+                            "message": "Cannot access value for name _milGreen"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 54,
+                            "functionName": "color",
+                            "line": 76,
+                            "message": "Cannot access value for name _mainStatusBGColor"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 50,
+                            "functionName": "color",
+                            "line": 77,
+                            "message": "Cannot access value for name _toolbarBG"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 147,
+                            "functionName": "height",
+                            "line": 85,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 55,
+                            "functionName": "color",
+                            "line": 86,
+                            "message": "Cannot access value for name _toolbarBGLight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 190,
+                            "functionName": "left",
+                            "line": 83,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 186,
+                            "functionName": "right",
+                            "line": 84,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 142,
                             "functionName": "height",
-                            "line": 77,
+                            "line": 91,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 233,
+                            "functionName": "spacing",
+                            "line": 92,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 137,
+                            "functionName": "height",
+                            "line": 96,
                             "message": ""
                         },
                         {
@@ -226,7 +266,7 @@
                             "column": 49,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 85,
+                            "line": 104,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
@@ -234,7 +274,7 @@
                             "column": 37,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 97,
+                            "line": 116,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
@@ -242,455 +282,447 @@
                             "column": 37,
                             "durationMicroseconds": 0,
                             "functionName": "visible",
-                            "line": 98,
+                            "line": 117,
                             "message": "Could not find property \"visible\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 65,
                             "functionName": "visible",
-                            "line": 103,
+                            "line": 122,
                             "message": "Cannot access value for name _activeVehicle"
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 1329,
+                            "durationMicroseconds": 965,
                             "functionName": "width",
-                            "line": 114,
+                            "line": 133,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 127,
                             "functionName": "height",
-                            "line": 116,
+                            "line": 135,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 63,
                             "functionName": "color",
-                            "line": 120,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 183,
-                            "functionName": "fill",
-                            "line": 119,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 49,
-                            "durationMicroseconds": 217,
-                            "functionName": "height",
-                            "line": 125,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 49,
-                            "durationMicroseconds": 187,
-                            "functionName": "guidedController",
-                            "line": 127,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 49,
-                            "durationMicroseconds": 179,
-                            "functionName": "guidedValueSlider",
-                            "line": 128,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 49,
-                            "durationMicroseconds": 188,
-                            "functionName": "utmspSliderTrigger",
-                            "line": 129,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 49,
-                            "durationMicroseconds": 170,
-                            "functionName": "messageDisplay",
-                            "line": 130,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 49,
-                            "durationMicroseconds": 260,
-                            "functionName": "horizontalCenter",
-                            "line": 126,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 25,
-                            "durationMicroseconds": 239,
-                            "functionName": "height",
                             "line": 139,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 25,
-                            "durationMicroseconds": 171,
-                            "functionName": "width",
-                            "line": 143,
-                            "message": "Cannot access value for name _leftRightMargin"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 78,
-                            "functionName": "color",
-                            "line": 147,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
+                            "message": "Cannot access value for name _toolbarBG"
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
+                            "line": 138,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 143,
+                            "functionName": "height",
+                            "line": 144,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 148,
+                            "functionName": "guidedController",
                             "line": 146,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 130,
+                            "functionName": "guidedValueSlider",
+                            "line": 147,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 119,
+                            "functionName": "utmspSliderTrigger",
+                            "line": 148,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 115,
+                            "functionName": "messageDisplay",
+                            "line": 149,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 180,
+                            "functionName": "horizontalCenter",
+                            "line": 145,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 132,
+                            "functionName": "height",
+                            "line": 158,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 118,
+                            "functionName": "width",
+                            "line": 162,
+                            "message": "Cannot access value for name _leftRightMargin"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 52,
+                            "functionName": "color",
+                            "line": 166,
+                            "message": "Cannot access value for name _toolbarBGLight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 110,
+                            "functionName": "fill",
+                            "line": 165,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 143,
                             "functionName": "spacing",
-                            "line": 154,
+                            "line": 173,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 107,
                             "functionName": "fill",
-                            "line": 151,
+                            "line": 170,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 61,
                             "functionName": "leftMargin",
-                            "line": 152,
+                            "line": 171,
                             "message": "Cannot access value for name _leftRightMargin"
                         },
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 55,
                             "functionName": "rightMargin",
-                            "line": 153,
+                            "line": 172,
                             "message": "Cannot access value for name _leftRightMargin"
                         },
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 589,
+                            "durationMicroseconds": 393,
                             "functionName": "vehicle",
-                            "line": 168,
+                            "line": 187,
                             "message": "Cannot access value for name QGroundControl"
                         },
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 72,
                             "functionName": "headingDeg",
-                            "line": 169,
+                            "line": 188,
                             "message": "Cannot load property heading from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlyViewToolBar.qml)::vehicle with type QVariant."
                         },
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 100,
                             "functionName": "preferredWidth",
-                            "line": 160,
+                            "line": 179,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 706,
+                            "durationMicroseconds": 513,
                             "functionName": "x",
-                            "line": 178,
+                            "line": 197,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 98,
                             "functionName": "fill",
-                            "line": 177,
+                            "line": 196,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 60,
                             "functionName": "deg",
-                            "line": 184,
+                            "line": 203,
                             "message": "Cannot access value for name index"
                         },
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 82,
                             "functionName": "x",
-                            "line": 185,
+                            "line": 204,
                             "message": "Cannot access value for name headingTape"
                         },
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 150,
                             "functionName": "height",
-                            "line": 186,
+                            "line": 205,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 200,
                             "functionName": "height",
-                            "line": 191,
+                            "line": 210,
                             "message": "Cannot access value for name deg"
                         },
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 199,
                             "functionName": "verticalCenter",
-                            "line": 192,
+                            "line": 211,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 83,
                             "functionName": "visible",
-                            "line": 200,
+                            "line": 219,
                             "message": "Cannot access value for name deg"
                         },
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 141,
                             "functionName": "text",
-                            "line": 207,
+                            "line": 226,
                             "message": "Cannot access value for name deg"
                         },
                         {
                             "codegenResult": 0,
                             "column": 54,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 206,
                             "functionName": "top",
-                            "line": 201,
+                            "line": 220,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 67,
-                            "durationMicroseconds": 268,
-                            "functionName": "horizontalCenter",
-                            "line": 203,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 37,
-                            "durationMicroseconds": 375,
-                            "functionName": "height",
-                            "line": 226,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 55,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 164,
                             "functionName": "horizontalCenter",
                             "line": 222,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 235,
+                            "functionName": "height",
+                            "line": 245,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 55,
+                            "durationMicroseconds": 176,
+                            "functionName": "horizontalCenter",
+                            "line": 241,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 178,
                             "functionName": "bottom",
-                            "line": 223,
+                            "line": 242,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 232,
                             "functionName": "height",
-                            "line": 234,
+                            "line": 253,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 103,
                             "functionName": "centerIn",
-                            "line": 235,
+                            "line": 254,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 769,
+                            "durationMicroseconds": 547,
                             "functionName": "text",
-                            "line": 245,
+                            "line": 263,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
                             "codegenResult": 0,
                             "column": 51,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 102,
                             "functionName": "centerIn",
-                            "line": 244,
+                            "line": 262,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 1231,
+                            "durationMicroseconds": 863,
                             "functionName": "x",
-                            "line": 272,
+                            "line": 290,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 510,
+                            "durationMicroseconds": 352,
                             "functionName": "width",
-                            "line": 274,
+                            "line": 292,
                             "message": "Cannot access value for name _margins"
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 357,
+                            "durationMicroseconds": 250,
                             "functionName": "height",
-                            "line": 275,
+                            "line": 293,
                             "message": "Cannot access value for name _margins"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 77,
-                            "functionName": "color",
-                            "line": 276,
-                            "message": "Cannot retrieve a non-object type by ID: qgcPal"
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 132,
                             "functionName": "radius",
-                            "line": 277,
+                            "line": 297,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 115,
                             "functionName": "visible",
-                            "line": 278,
+                            "line": 298,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 150,
                             "functionName": "top",
-                            "line": 270,
+                            "line": 288,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 446,
+                            "durationMicroseconds": 276,
                             "functionName": "topMargin",
-                            "line": 271,
+                            "line": 289,
                             "message": "Cannot access value for name _margins"
                         },
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 605,
+                            "durationMicroseconds": 422,
                             "functionName": "x",
-                            "line": 282,
+                            "line": 302,
                             "message": "Cannot access value for name _margins"
                         },
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 480,
+                            "durationMicroseconds": 394,
                             "functionName": "y",
-                            "line": 283,
+                            "line": 303,
                             "message": "Cannot access value for name _margins"
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 214,
                             "functionName": "width",
-                            "line": 284,
+                            "line": 304,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 135,
                             "functionName": "wrapMode",
-                            "line": 285,
+                            "line": 305,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 126,
                             "functionName": "text",
-                            "line": 286,
+                            "line": 306,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 98,
                             "functionName": "target",
-                            "line": 291,
+                            "line": 311,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 195,
                             "functionName": "onTriggered",
-                            "line": 301,
+                            "line": 321,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 112,
                             "functionName": "fill",
-                            "line": 306,
+                            "line": 326,
                             "message": ""
                         }
                     ],

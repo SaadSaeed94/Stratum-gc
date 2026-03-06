@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 893,
+                            "durationMicroseconds": 487,
                             "functionName": "activeVehicle",
                             "line": 13,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 741,
+                            "durationMicroseconds": 386,
                             "functionName": "rtkSettings",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 41,
                             "functionName": "useFixedPosition",
                             "line": 17,
                             "message": "Cannot load property useFixedBasePosition from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GPSIndicatorPage.qml)::rtkSettings with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 24,
                             "functionName": "manufacturer",
                             "line": 18,
                             "message": "Cannot load property baseReceiverManufacturers from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/GPSIndicatorPage.qml)::rtkSettings with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 160,
                             "functionName": "settingsDisplayId",
                             "line": 25,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 1920,
+                            "durationMicroseconds": 1137,
                             "functionName": "updateSettingsDisplayId",
                             "line": 27,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 120,
                             "functionName": "onManufacturerChanged",
                             "line": 49,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1991,
+                            "durationMicroseconds": 1139,
                             "functionName": "errorText",
                             "line": 57,
                             "message": "Cannot access value for name _activeVehicle"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 142,
                             "functionName": "onCompleted",
                             "line": 53,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 11848,
+                            "durationMicroseconds": 6917,
                             "functionName": "spacing",
                             "line": 84,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 80,
                             "functionName": "visible",
                             "line": 88,
                             "message": "Cannot access value for name activeVehicle"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 158,
                             "functionName": "labelText",
                             "line": 92,
                             "message": "Cannot access value for name activeVehicle"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 125,
                             "functionName": "labelText",
                             "line": 97,
                             "message": "Cannot access value for name activeVehicle"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 126,
                             "functionName": "labelText",
                             "line": 102,
                             "message": "Cannot access value for name activeVehicle"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 123,
                             "functionName": "labelText",
                             "line": 107,
                             "message": "Cannot access value for name activeVehicle"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 132,
                             "functionName": "labelText",
                             "line": 112,
                             "message": "Cannot access value for name activeVehicle"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 570,
+                            "durationMicroseconds": 239,
                             "functionName": "labelText",
                             "line": 117,
                             "message": "method errorText cannot be resolved."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 210,
                             "functionName": "visible",
                             "line": 118,
                             "message": "Cannot access value for name activeVehicle"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 629,
+                            "durationMicroseconds": 353,
                             "functionName": "visible",
                             "line": 124,
                             "message": "Cannot access value for name QGroundControl"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 921,
+                            "durationMicroseconds": 526,
                             "functionName": "text",
                             "line": 127,
                             "message": "Cannot access value for name QGroundControl"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 492,
+                            "durationMicroseconds": 300,
                             "functionName": "labelText",
                             "line": 132,
                             "message": "Cannot access value for name QGroundControl"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 490,
+                            "durationMicroseconds": 279,
                             "functionName": "labelText",
                             "line": 137,
                             "message": "Cannot access value for name QGroundControl"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 575,
+                            "durationMicroseconds": 349,
                             "functionName": "label",
                             "line": 141,
                             "message": "Cannot access value for name QGroundControl"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 824,
+                            "durationMicroseconds": 539,
                             "functionName": "labelText",
                             "line": 142,
                             "message": "Cannot access value for name QGroundControl"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 406,
+                            "durationMicroseconds": 256,
                             "functionName": "visible",
                             "line": 143,
                             "message": "Cannot access value for name QGroundControl"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 427,
+                            "durationMicroseconds": 269,
                             "functionName": "sliderWidth",
                             "line": 153,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1177,
+                            "durationMicroseconds": 688,
                             "functionName": "visible",
                             "line": 171,
                             "message": "Cannot access value for name QGroundControl"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 55,
                             "functionName": "preferredWidth",
                             "line": 193,
                             "message": "Cannot access value for name sliderWidth"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 38,
                             "functionName": "preferredWidth",
                             "line": 206,
                             "message": "Cannot access value for name sliderWidth"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 63,
                             "functionName": "label",
                             "line": 218,
                             "message": "Cannot access value for name rtkSettings"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 953,
+                            "durationMicroseconds": 533,
                             "functionName": "visible",
                             "line": 220,
                             "message": "Cannot access value for name useFixedPosition"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 65,
                             "functionName": "label",
                             "line": 227,
                             "message": "Cannot access value for name rtkSettings"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 841,
+                            "durationMicroseconds": 476,
                             "functionName": "visible",
                             "line": 229,
                             "message": "Cannot access value for name useFixedPosition"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 60,
                             "functionName": "label",
                             "line": 236,
                             "message": "Cannot access value for name rtkSettings"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 776,
+                            "durationMicroseconds": 468,
                             "functionName": "visible",
                             "line": 238,
                             "message": "Cannot access value for name useFixedPosition"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 62,
                             "functionName": "label",
                             "line": 245,
                             "message": "Cannot access value for name rtkSettings"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 747,
+                            "durationMicroseconds": 446,
                             "functionName": "visible",
                             "line": 247,
                             "message": "Cannot access value for name useFixedPosition"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 591,
+                            "durationMicroseconds": 521,
                             "functionName": "visible",
                             "line": 256,
                             "message": "Cannot access value for name useFixedPosition"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 480,
+                            "durationMicroseconds": 289,
                             "functionName": "enabled",
                             "line": 257,
                             "message": "Cannot access value for name QGroundControl"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 2076,
+                            "durationMicroseconds": 1274,
                             "functionName": "onClicked",
                             "line": 259,
                             "message": "Cannot access value for name rtkSettings"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 534,
+                            "durationMicroseconds": 397,
                             "functionName": "width",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 252,
                             "functionName": "height",
                             "line": 11,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1023,
+                            "durationMicroseconds": 719,
                             "functionName": "_scaleLengthsMeters",
                             "line": 16,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1819,
+                            "durationMicroseconds": 1299,
                             "functionName": "_scaleLengthsFeet",
                             "line": 17,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 79,
                             "functionName": "_color",
                             "line": 18,
                             "message": "Cannot load property isSatelliteMap from (component in /home/saad-saeed/qgroundcontrol/src/FlightMap/MapScale.qml)::mapControl with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1352,
+                            "durationMicroseconds": 983,
                             "functionName": "calculateScale",
                             "line": 101,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 707,
+                            "durationMicroseconds": 493,
                             "functionName": "triggerRecalc",
                             "line": 115,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 118,
                             "functionName": "onCompleted",
                             "line": 124,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 58,
                             "functionName": "target",
                             "line": 127,
                             "message": "Cannot access value for name mapControl"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 207,
                             "functionName": "onWidthChanged",
                             "line": 128,
                             "message": "method triggerRecalc cannot be resolved."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 88,
                             "functionName": "onHeightChanged",
                             "line": 129,
                             "message": "method triggerRecalc cannot be resolved."
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 73,
                             "functionName": "onZoomLevelChanged",
                             "line": 130,
                             "message": "method triggerRecalc cannot be resolved."
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 111,
                             "functionName": "target",
                             "line": 135,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 187,
                             "functionName": "onTriggered",
                             "line": 145,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 62,
                             "functionName": "map",
                             "line": 150,
                             "message": "Cannot access value for name mapControl"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 152,
                             "functionName": "horizontalAlignment",
                             "line": 154,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 177,
                             "functionName": "left",
                             "line": 152,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 152,
                             "functionName": "right",
                             "line": 153,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 12493,
+                            "durationMicroseconds": 8473,
                             "functionName": "height",
                             "line": 163,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 68,
                             "functionName": "color",
                             "line": 164,
                             "message": "Cannot access value for name _color"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 191,
                             "functionName": "top",
                             "line": 160,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 180,
                             "functionName": "left",
                             "line": 161,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 57,
                             "functionName": "color",
                             "line": 173,
                             "message": "Cannot access value for name _color"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 160,
                             "functionName": "bottom",
                             "line": 170,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 141,
                             "functionName": "left",
                             "line": 171,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 134,
                             "functionName": "height",
                             "line": 181,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 182,
                             "message": "Cannot access value for name _color"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 159,
                             "functionName": "top",
                             "line": 178,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 142,
                             "functionName": "left",
                             "line": 179,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 12152,
+                            "durationMicroseconds": 7385,
                             "functionName": "fontPointSize",
                             "line": 16,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 530,
+                            "durationMicroseconds": 363,
                             "functionName": "activeVehicle",
                             "line": 17,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 61,
                             "functionName": "_isVTOL",
                             "line": 21,
                             "message": "Cannot load property vtol from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlightModeIndicator.qml)::activeVehicle with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 33,
                             "functionName": "_vtolInFWDFlight",
                             "line": 22,
                             "message": "Cannot load property vtolInFwdFlight from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlightModeIndicator.qml)::activeVehicle with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 50,
                             "functionName": "_vehicleInAir",
                             "line": 23,
                             "message": "Cannot load property flying from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlightModeIndicator.qml)::activeVehicle with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 147,
                             "functionName": "preferredWidth",
                             "line": 11,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 181,
                             "functionName": "spacing",
                             "line": 30,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 164,
                             "functionName": "verticalCenter",
                             "line": 29,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 104,
                             "functionName": "fillMode",
                             "line": 36,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 54,
                             "functionName": "color",
                             "line": 38,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 310,
+                            "durationMicroseconds": 176,
                             "functionName": "preferredWidth",
                             "line": 34,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 101,
                             "functionName": "preferredHeight",
                             "line": 35,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 149,
                             "functionName": "text",
                             "line": 44,
                             "message": "Cannot access value for name activeVehicle"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 43,
                             "functionName": "color",
                             "line": 45,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 34,
                             "functionName": "pointSize",
                             "line": 46,
                             "message": "Cannot access value for name fontPointSize"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 115,
                             "functionName": "horizontalAlignment",
                             "line": 53,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 504,
+                            "durationMicroseconds": 88,
                             "functionName": "text",
                             "line": 54,
                             "message": "Cannot access value for name _vtolInFWDFlight"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 91,
                             "functionName": "wrapMode",
                             "line": 56,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 34,
                             "functionName": "visible",
                             "line": 57,
                             "message": "Cannot access value for name _isVTOL"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 97,
                             "functionName": "alignment",
                             "line": 52,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 116,
                             "functionName": "pointSize",
                             "line": 55,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 628,
+                            "durationMicroseconds": 387,
                             "functionName": "onClicked",
                             "line": 63,
                             "message": "Cannot access value for name mainWindow"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 112,
                             "functionName": "fill",
                             "line": 62,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 64,
                             "functionName": "waitForParameters",
                             "line": 71,
                             "message": "Cannot access value for name control"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 37,
                             "functionName": "contentComponent",
                             "line": 73,
                             "message": "Cannot access value for name flightModeContentComponent"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 33,
                             "functionName": "expandedComponent",
                             "line": 74,
                             "message": "Cannot access value for name flightModeExpandedComponent"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 74,
                             "functionName": "onExpandedChanged",
                             "line": 76,
                             "message": "Cannot find name editMode"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 348,
+                            "durationMicroseconds": 229,
                             "functionName": "spacing",
                             "line": 89,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 633,
+                            "durationMicroseconds": 501,
                             "functionName": "activeVehicle",
                             "line": 91,
                             "message": "Cannot access value for name QGroundControl"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 487,
+                            "durationMicroseconds": 290,
                             "functionName": "flightModeSettings",
                             "line": 92,
                             "message": "Cannot access value for name QGroundControl"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 55,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 117,
                             "functionName": "hiddenFlightModesList",
                             "line": 94,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 788,
+                            "durationMicroseconds": 480,
                             "functionName": "onCompleted",
                             "line": 96,
                             "message": "Cannot load property px4Firmware from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlightModeIndicator.qml)::activeVehicle with type QVariant."
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 44,
                             "functionName": "target",
                             "line": 122,
                             "message": "Cannot access value for name control"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 7169,
+                            "durationMicroseconds": 3758,
                             "functionName": "onEditModeChanged",
                             "line": 123,
                             "message": "Cannot access value for name editMode"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 128,
                             "functionName": "model",
                             "line": 149,
                             "message": "Cannot access value for name activeVehicle"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 192,
                             "functionName": "spacing",
                             "line": 152,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 128,
                             "functionName": "visible",
                             "line": 153,
                             "message": "Cannot access value for name editMode"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 171,
                             "functionName": "horizontalAlignment",
                             "line": 197,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 89,
                             "functionName": "calcVisible",
                             "line": 200,
                             "message": "Cannot access value for name hiddenFlightModesList"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 137,
                             "functionName": "pointSize",
                             "line": 196,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 288,
+                            "durationMicroseconds": 178,
                             "functionName": "spacing",
                             "line": 212,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 612,
+                            "durationMicroseconds": 356,
                             "functionName": "qgcPal",
                             "line": 214,
                             "message": "Cannot access value for name QGroundControl"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 120,
                             "functionName": "margins",
                             "line": 215,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 494,
+                            "durationMicroseconds": 295,
                             "functionName": "flightModeSettings",
                             "line": 216,
                             "message": "Cannot access value for name QGroundControl"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 348,
+                            "durationMicroseconds": 207,
                             "functionName": "preferredWidth",
                             "line": 211,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 585,
+                            "durationMicroseconds": 349,
                             "functionName": "source",
                             "line": 220,
                             "message": "Cannot access value for name _activeVehicle"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 66,
                             "functionName": "enabled",
                             "line": 234,
                             "message": "Cannot access value for name control"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1636,
+                            "durationMicroseconds": 916,
                             "functionName": "visible",
                             "line": 250,
                             "message": "Cannot access value for name _activeVehicle"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 1602,
+                            "durationMicroseconds": 725,
                             "functionName": "onClicked",
                             "line": 253,
                             "message": "Cannot access value for name mainWindow"

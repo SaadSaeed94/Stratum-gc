@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 156,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 54,
                             "functionName": "fill",
                             "line": 25,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 49,
                             "functionName": "valueText",
                             "line": 28,
                             "message": "Cannot retrieve a non-object type by ID: esp8266"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 384,
+                            "durationMicroseconds": 132,
                             "functionName": "valueText",
                             "line": 32,
                             "message": "Cannot access value for name wifiMode"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 55,
                             "functionName": "valueText",
                             "line": 36,
                             "message": "Cannot access value for name wifiChannel"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 51,
                             "functionName": "visible",
                             "line": 37,
                             "message": "Cannot access value for name wifiMode"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 29,
                             "functionName": "valueText",
                             "line": 41,
                             "message": "Cannot retrieve a non-object type by ID: esp8266"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 23,
                             "functionName": "valueText",
                             "line": 45,
                             "message": "Cannot retrieve a non-object type by ID: esp8266"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 53,
                             "functionName": "valueText",
                             "line": 59,
                             "message": "Cannot access value for name uartBaud"

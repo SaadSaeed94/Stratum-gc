@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 5411,
+                            "durationMicroseconds": 2708,
                             "functionName": "displayStatus",
                             "line": 4,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 115,
                             "functionName": "indicatorTopText",
                             "line": 6,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 70,
                             "functionName": "indicatorBottomText",
                             "line": 7,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"

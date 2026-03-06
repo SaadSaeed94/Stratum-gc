@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 115,
                             "functionName": "_activeVehicle",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 64,
                             "functionName": "_gripperAvailable",
                             "line": 11,
                             "message": "Cannot load property hasGripper from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewGripperButton.qml)::_activeVehicle with type QVariant."

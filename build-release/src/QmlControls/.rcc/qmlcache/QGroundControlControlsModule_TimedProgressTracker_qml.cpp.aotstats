@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1969,
+                            "durationMicroseconds": 1083,
                             "functionName": "onProgressChanged",
                             "line": 44,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 523,
+                            "durationMicroseconds": 268,
                             "functionName": "start",
                             "line": 60,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 248,
                             "functionName": "stop",
                             "line": 67,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 57,
                             "functionName": "interval",
                             "line": 19,
                             "message": "Cannot access value for name timeoutSeconds"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 74,
                             "functionName": "running",
                             "line": 21,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 660,
+                            "durationMicroseconds": 330,
                             "functionName": "onTriggered",
                             "line": 23,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 114,
                             "functionName": "running",
                             "line": 33,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 69,
                             "functionName": "target",
                             "line": 37,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 48,
                             "functionName": "duration",
                             "line": 40,
                             "message": "Cannot access value for name timeoutSeconds"

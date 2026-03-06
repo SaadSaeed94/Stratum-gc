@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 390,
+                            "durationMicroseconds": 153,
                             "functionName": "pageComponent",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 64,
                             "functionName": "width",
                             "line": 18,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 13999,
+                            "durationMicroseconds": 5390,
                             "functionName": "spacing",
                             "line": 19,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 612,
+                            "durationMicroseconds": 217,
                             "functionName": "luaNameFilters",
                             "line": 22,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 2915,
+                            "durationMicroseconds": 943,
                             "functionName": "filteredEntries",
                             "line": 25,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 48,
                             "functionName": "refreshDirectoryList",
                             "line": 57,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 344,
+                            "durationMicroseconds": 143,
                             "functionName": "onCompleted",
                             "line": 61,
                             "message": "Cannot access value for name scriptingEnabledFact"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 36,
                             "functionName": "target",
                             "line": 68,
                             "message": "Cannot access value for name scriptingEnabledFact"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 41,
                             "functionName": "text",
                             "line": 124,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 120,
                             "functionName": "wrapMode",
                             "line": 125,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 300,
+                            "durationMicroseconds": 108,
                             "functionName": "spacing",
                             "line": 131,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 355,
+                            "durationMicroseconds": 105,
                             "functionName": "enabled",
                             "line": 132,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 324,
+                            "durationMicroseconds": 116,
                             "functionName": "model",
                             "line": 145,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 545,
+                            "durationMicroseconds": 187,
                             "functionName": "width",
                             "line": 148,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 43,
                             "functionName": "height",
                             "line": 149,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 18,
                             "functionName": "radius",
                             "line": 150,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 37,
                             "functionName": "color",
                             "line": 153,
                             "message": "Cannot access value for name qgcPal"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 30,
                             "functionName": "width",
                             "line": 151,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 59,
                             "functionName": "color",
                             "line": 152,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 90,
                             "functionName": "width",
                             "line": 160,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 23,
                             "functionName": "height",
                             "line": 161,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 99,
                             "functionName": "fillMode",
                             "line": 162,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 22,
                             "functionName": "color",
                             "line": 164,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 46,
                             "functionName": "visible",
                             "line": 165,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 51,
                             "functionName": "leftMargin",
                             "line": 157,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 110,
                             "functionName": "left",
                             "line": 158,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 56,
                             "functionName": "verticalCenter",
                             "line": 159,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 81,
                             "functionName": "fillItem",
                             "line": 168,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 2761,
+                            "durationMicroseconds": 922,
                             "functionName": "onClicked",
                             "line": 169,
                             "message": "Cannot access value for name downloadDialog"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 71,
                             "functionName": "width",
                             "line": 190,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 25,
                             "functionName": "height",
                             "line": 191,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 73,
                             "functionName": "fillMode",
                             "line": 192,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 21,
                             "functionName": "color",
                             "line": 194,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 39,
                             "functionName": "visible",
                             "line": 195,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 39,
                             "functionName": "left",
                             "line": 188,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 39,
                             "functionName": "verticalCenter",
                             "line": 189,
                             "message": "Cannot retrieve a non-object type by ID: button"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 90,
                             "functionName": "fillItem",
                             "line": 198,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 44,
-                            "durationMicroseconds": 2809,
+                            "durationMicroseconds": 922,
                             "functionName": "onClicked",
                             "line": 199,
                             "message": "Cannot access value for name modelData"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 519,
+                            "durationMicroseconds": 154,
                             "functionName": "spacing",
                             "line": 217,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 304,
+                            "durationMicroseconds": 92,
                             "functionName": "text",
                             "line": 228,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 29,
                             "functionName": "visible",
                             "line": 229,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 117,
                             "functionName": "nameFilters",
                             "line": 236,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1613,
+                            "durationMicroseconds": 550,
                             "functionName": "onAcceptedForLoad",
                             "line": 238,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 45,
                             "functionName": "onAcceptedForLoad",
                             "line": 238,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 359,
+                            "durationMicroseconds": 90,
                             "functionName": "nameFilters",
                             "line": 263,
                             "message": ""
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1478,
+                            "durationMicroseconds": 425,
                             "functionName": "onAcceptedForLoad",
                             "line": 268,
                             "message": "Cannot retrieve a non-object type by ID: ftpController"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 43,
                             "functionName": "onAcceptedForLoad",
                             "line": 268,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 30,
                             "functionName": "color",
                             "line": 284,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 44,
                             "functionName": "visible",
                             "line": 285,
                             "message": "Cannot access value for name scriptingEnabledFact"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 25,
                             "functionName": "preferredHeight",
                             "line": 283,
                             "message": "Cannot access value for name availableHeight"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 303,
+                            "durationMicroseconds": 83,
                             "functionName": "wrapMode",
                             "line": 290,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 59,
                             "functionName": "horizontalAlignment",
                             "line": 291,
                             "message": ""
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 65,
                             "functionName": "verticalAlignment",
                             "line": 292,
                             "message": ""
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 64,
                             "functionName": "centerIn",
                             "line": 288,
                             "message": ""

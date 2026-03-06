@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 507,
+                            "durationMicroseconds": 350,
                             "functionName": "_tickValueDecimalPlaces",
                             "line": 21,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 151,
                             "functionName": "_indicatorCenterPos",
                             "line": 23,
                             "message": "Cannot access value for name width"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 12974,
+                            "durationMicroseconds": 7822,
                             "functionName": "_majorTickSpacing",
                             "line": 25,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 85,
                             "functionName": "_majorTickSize",
                             "line": 27,
                             "message": "Cannot access value for name valueIndicator"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 167,
                             "functionName": "_tickValueEdgeMargin",
                             "line": 28,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 121,
                             "functionName": "_minorTickSize",
                             "line": 29,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 121,
                             "functionName": "_sliderValuePerPixel",
                             "line": 30,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 110,
                             "functionName": "_minorTickValueStep",
                             "line": 32,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 471,
+                            "durationMicroseconds": 360,
                             "functionName": "_majorTicksVisibleBeyondIndicator",
                             "line": 41,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 129,
                             "functionName": "_majorTicksExtentsAdjustment",
                             "line": 42,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 659,
+                            "durationMicroseconds": 333,
                             "functionName": "_majorTickMinValue",
                             "line": 45,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 1078,
+                            "durationMicroseconds": 359,
                             "functionName": "_majorTickMaxValue",
                             "line": 46,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 518,
+                            "durationMicroseconds": 268,
                             "functionName": "_firstTickPixelOffset",
                             "line": 49,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 715,
+                            "durationMicroseconds": 175,
                             "functionName": "_firstPixelValue",
                             "line": 50,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 503,
+                            "durationMicroseconds": 238,
                             "functionName": "_cMajorTicks",
                             "line": 52,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 351,
+                            "durationMicroseconds": 211,
                             "functionName": "_sliderContentSize",
                             "line": 55,
                             "message": "Cannot access value for name background"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 140,
                             "functionName": "qgcPal",
                             "line": 59,
                             "message": "Cannot access value for name QGroundControl"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 531,
+                            "durationMicroseconds": 297,
                             "functionName": "_outputInternalValues",
                             "line": 69,
                             "message": "Cannot access value for name width"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 392,
+                            "durationMicroseconds": 213,
                             "functionName": "onCompleted",
                             "line": 87,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 344,
+                            "durationMicroseconds": 171,
                             "functionName": "acceptedButtons",
                             "line": 141,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 132,
                             "functionName": "onTapped",
                             "line": 142,
                             "message": "Cannot retrieve a non-object type by ID: control"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 95,
                             "functionName": "grabPermissions",
                             "line": 143,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 85,
                             "functionName": "implicitHeight",
                             "line": 147,
                             "message": "Cannot access value for name _majorTickSize"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 339,
+                            "durationMicroseconds": 180,
                             "functionName": "tickValueMargin",
                             "line": 150,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 107,
                             "functionName": "labelOffset",
                             "line": 151,
                             "message": "Cannot access value for name labelItem"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 428,
+                            "durationMicroseconds": 248,
                             "functionName": "y",
                             "line": 155,
                             "message": "Cannot access value for name background"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 31,
                             "functionName": "width",
                             "line": 156,
                             "message": "Cannot access value for name _sliderContentSize"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 174,
                             "functionName": "height",
                             "line": 157,
                             "message": "Cannot access value for name background"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 630,
+                            "durationMicroseconds": 311,
                             "functionName": "onXChanged",
                             "line": 159,
                             "message": "Cannot access value for name dragHandler"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 299,
+                            "durationMicroseconds": 149,
                             "functionName": "minimum",
                             "line": 171,
                             "message": "Cannot access value for name to"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 146,
                             "functionName": "type",
                             "line": 178,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 35,
                             "functionName": "model",
                             "line": 184,
                             "message": "Cannot access value for name _cMajorTicks"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 47,
                             "functionName": "height",
                             "line": 188,
                             "message": "Cannot access value for name sliderContainer"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 86,
                             "functionName": "x",
                             "line": 189,
                             "message": "Cannot access value for name _majorTickSpacing"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 129,
                             "functionName": "opacity",
                             "line": 190,
                             "message": "Cannot access value for name from"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 84,
                             "functionName": "tickValue",
                             "line": 192,
                             "message": "Cannot access value for name _majorTickMinValue"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 29,
                             "functionName": "height",
                             "line": 197,
                             "message": "Cannot access value for name _majorTickSize"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 35,
                             "functionName": "color",
                             "line": 198,
                             "message": "Cannot access value for name qgcPal"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 135,
                             "functionName": "text",
                             "line": 205,
                             "message": "Cannot load property tickValue from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/ValueSlider.qml)::parent with type QQuickItem."
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 33,
                             "functionName": "bottomMargin",
                             "line": 202,
                             "message": "Cannot access value for name _tickValueEdgeMargin"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 415,
+                            "durationMicroseconds": 170,
                             "functionName": "bottom",
                             "line": 203,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 127,
                             "functionName": "horizontalCenter",
                             "line": 204,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 36,
                             "functionName": "model",
                             "line": 212,
                             "message": "Cannot access value for name _cMajorTicks"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 278,
+                            "durationMicroseconds": 98,
                             "functionName": "x",
                             "line": 215,
                             "message": "Cannot access value for name _majorTickSpacing"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 28,
                             "functionName": "height",
                             "line": 217,
                             "message": "Cannot access value for name _minorTickSize"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 36,
                             "functionName": "color",
                             "line": 218,
                             "message": "Cannot access value for name qgcPal"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 110,
                             "functionName": "opacity",
                             "line": 219,
                             "message": "Cannot access value for name from"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 220,
                             "message": "Cannot access value for name index"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 92,
                             "functionName": "tickValue",
                             "line": 222,
                             "message": "Cannot access value for name _majorTickMaxValue"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 43,
                             "functionName": "width",
                             "line": 229,
                             "message": "Cannot access value for name labelItem"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 29,
                             "functionName": "height",
                             "line": 230,
                             "message": "Cannot access value for name labelItem"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 31,
                             "functionName": "color",
                             "line": 231,
                             "message": "Cannot access value for name qgcPal"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 30,
                             "functionName": "visible",
                             "line": 233,
                             "message": "Cannot access value for name labelItem"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 34,
                             "functionName": "text",
                             "line": 240,
                             "message": "Cannot access value for name label"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 40,
                             "functionName": "visible",
                             "line": 241,
                             "message": "Cannot access value for name label"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 33,
                             "functionName": "left",
                             "line": 238,
                             "message": "Cannot access value for name labelItemBackground"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 29,
                             "functionName": "top",
                             "line": 239,
                             "message": "Cannot access value for name labelItemBackground"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 26,
                             "functionName": "implicitHeight",
                             "line": 246,
                             "message": "Cannot access value for name valueIndicator"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 127,
                             "functionName": "width",
                             "line": 252,
                             "message": "Cannot access value for name valueLabel"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 66,
                             "functionName": "height",
                             "line": 253,
                             "message": "Cannot access value for name valueLabel"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 497,
+                            "durationMicroseconds": 281,
                             "functionName": "indicatorValueMargins",
                             "line": 255,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 50,
                             "functionName": "indicatorHeight",
                             "line": 256,
                             "message": "Cannot access value for name valueLabel"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 120,
                             "functionName": "pointerSize",
                             "line": 257,
                             "message": ""
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 538,
+                            "durationMicroseconds": 327,
                             "functionName": "onPaint",
                             "line": 259,
                             "message": "Cannot access value for name qgcPal"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 368,
+                            "durationMicroseconds": 171,
                             "functionName": "bottom",
                             "line": 250,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 244,
+                            "durationMicroseconds": 141,
                             "functionName": "horizontalCenter",
                             "line": 251,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 121,
                             "functionName": "horizontalAlignment",
                             "line": 282,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 99,
                             "functionName": "verticalAlignment",
                             "line": 283,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 1280,
+                            "durationMicroseconds": 745,
                             "functionName": "text",
                             "line": 284,
                             "message": "Cannot access value for name value"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 149,
                             "functionName": "bottomMargin",
                             "line": 279,
                             "message": "Cannot load property indicatorValueMargins from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/ValueSlider.qml)::parent with type QQuickItem."
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 165,
                             "functionName": "bottom",
                             "line": 280,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 130,
                             "functionName": "horizontalCenter",
                             "line": 281,
                             "message": ""
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1299,
+                            "durationMicroseconds": 650,
                             "functionName": "onClicked",
                             "line": 289,
                             "message": "Cannot access value for name sliderValueTextField"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 110,
                             "functionName": "fill",
                             "line": 288,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 43,
                             "functionName": "unitsLabel",
                             "line": 301,
                             "message": "Cannot access value for name unitsString"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 39,
                             "functionName": "target",
                             "line": 313,
                             "message": "Cannot access value for name control"
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 40,
                             "functionName": "onValueChanged",
                             "line": 314,
                             "message": "Cannot access value for name sliderValueTextField"

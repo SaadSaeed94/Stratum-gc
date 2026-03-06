@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 476,
+                            "durationMicroseconds": 277,
                             "functionName": "_missionItem",
                             "line": 17,
                             "message": "Cannot access value for name object"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 349,
+                            "durationMicroseconds": 179,
                             "functionName": "_structurePolygon",
                             "line": 18,
                             "message": "Cannot access value for name object"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 140,
                             "functionName": "_flightPolygon",
                             "line": 19,
                             "message": "Cannot access value for name object"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 89,
                             "functionName": "interactive",
                             "line": 20,
                             "message": "Cannot load property interactive from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/StructureScanMapVisual.qml)::parent with type QQuickItem."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 957,
+                            "durationMicroseconds": 478,
                             "functionName": "_addVisualElements",
                             "line": 24,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 97,
                             "functionName": "onCompleted",
                             "line": 28,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 38,
                             "functionName": "mapControl",
                             "line": 35,
                             "message": "Cannot access value for name map"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 26,
                             "functionName": "mapPolygon",
                             "line": 36,
                             "message": "Cannot access value for name _structurePolygon"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 80,
                             "functionName": "interactive",
                             "line": 37,
                             "message": "Cannot access value for name _missionItem"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 328,
+                            "durationMicroseconds": 190,
                             "functionName": "interiorOpacity",
                             "line": 42,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 29,
                             "functionName": "mapControl",
                             "line": 46,
                             "message": "Cannot access value for name map"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 22,
                             "functionName": "mapPolygon",
                             "line": 47,
                             "message": "Cannot access value for name _flightPolygon"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 85,
                             "functionName": "interiorOpacity",
                             "line": 51,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 554,
+                            "durationMicroseconds": 296,
                             "functionName": "z",
                             "line": 61,
                             "message": "Cannot access value for name QGroundControl"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 39,
                             "functionName": "coordinate",
                             "line": 62,
                             "message": "Cannot access value for name _missionItem"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 81,
                             "functionName": "visible",
                             "line": 63,
                             "message": "Cannot access value for name _missionItem"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 84,
                             "functionName": "x",
                             "line": 59,
                             "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/StructureScanMapVisual.qml)::sourceItem with type QQuickItem."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 66,
                             "functionName": "y",
                             "line": 60,
                             "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/StructureScanMapVisual.qml)::sourceItem with type QQuickItem."
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 41,
                             "functionName": "index",
                             "line": 66,
                             "message": "Cannot access value for name _missionItem"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 30,
                             "functionName": "checked",
                             "line": 68,
                             "message": "Cannot access value for name _missionItem"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 81,
                             "functionName": "onClicked",
                             "line": 69,
                             "message": "Cannot access value for name _root"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 509,
+                            "durationMicroseconds": 233,
                             "functionName": "z",
                             "line": 81,
                             "message": "Cannot access value for name QGroundControl"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 22,
                             "functionName": "coordinate",
                             "line": 82,
                             "message": "Cannot access value for name _missionItem"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 57,
                             "functionName": "visible",
                             "line": 83,
                             "message": "Cannot access value for name _missionItem"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 59,
                             "functionName": "x",
                             "line": 79,
                             "message": "Cannot load property anchorPointX from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/StructureScanMapVisual.qml)::sourceItem with type QQuickItem."
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 48,
                             "functionName": "y",
                             "line": 80,
                             "message": "Cannot load property anchorPointY from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/StructureScanMapVisual.qml)::sourceItem with type QQuickItem."
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 27,
                             "functionName": "index",
                             "line": 86,
                             "message": "Cannot access value for name _missionItem"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 22,
                             "functionName": "checked",
                             "line": 88,
                             "message": "Cannot access value for name _missionItem"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 57,
                             "functionName": "onClicked",
                             "line": 89,
                             "message": "Cannot access value for name _root"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 592,
+                            "durationMicroseconds": 374,
                             "functionName": "_currentItem",
                             "line": 14,
                             "message": "Cannot access value for name object"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 48,
                             "functionName": "mapControl",
                             "line": 18,
                             "message": "Cannot access value for name map"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 416,
+                            "durationMicroseconds": 249,
                             "functionName": "mapPolyline",
                             "line": 19,
                             "message": "Cannot access value for name object"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 537,
+                            "durationMicroseconds": 165,
                             "functionName": "interactive",
                             "line": 20,
                             "message": "Cannot access value for name _currentItem"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 23,
                             "message": "Cannot access value for name _currentItem"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 315,
+                            "durationMicroseconds": 203,
                             "functionName": "opacity",
                             "line": 24,
                             "message": ""

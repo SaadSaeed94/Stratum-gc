@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 131,
                             "functionName": "model",
                             "line": 18,
                             "message": "Cannot retrieve a non-object type by ID: flyViewToolStripActionList"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 427,
+                            "durationMicroseconds": 293,
                             "functionName": "onDisplayPreFlightChecklist",
                             "line": 15,
                             "message": ""

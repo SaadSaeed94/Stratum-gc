@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 667,
+                            "durationMicroseconds": 378,
                             "functionName": "showIndicator",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 538,
+                            "durationMicroseconds": 391,
                             "functionName": "_activeVehicle",
                             "line": 10,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 463,
+                            "durationMicroseconds": 322,
                             "functionName": "_rtkConnected",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"

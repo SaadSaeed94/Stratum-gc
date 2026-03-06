@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 835,
+                            "durationMicroseconds": 498,
                             "functionName": "color",
                             "line": 22,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 105,
                             "functionName": "x",
                             "line": 27,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 66,
                             "functionName": "y",
                             "line": 28,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 454,
+                            "durationMicroseconds": 249,
                             "functionName": "width",
                             "line": 29,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 422,
+                            "durationMicroseconds": 220,
                             "functionName": "height",
                             "line": 30,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 416,
+                            "durationMicroseconds": 231,
                             "functionName": "color",
                             "line": 31,
                             "message": "Cannot access value for name qgcPal"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 129,
                             "functionName": "width",
                             "line": 34,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 83,
                             "functionName": "height",
                             "line": 35,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 44,
                             "functionName": "source",
                             "line": 36,
                             "message": "Cannot access value for name imageSource"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 94,
                             "functionName": "fillMode",
                             "line": 37,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 98,
                             "functionName": "width",
                             "line": 42,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 81,
                             "functionName": "height",
                             "line": 43,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 86,
                             "functionName": "horizontalAlignment",
                             "line": 44,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 70,
                             "functionName": "verticalAlignment",
                             "line": 45,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 334,
+                            "durationMicroseconds": 181,
                             "functionName": "text",
                             "line": 47,
                             "message": "Cannot access value for name calInProgress"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 13085,
+                            "durationMicroseconds": 7104,
                             "functionName": "pointSize",
                             "line": 46,
                             "message": ""

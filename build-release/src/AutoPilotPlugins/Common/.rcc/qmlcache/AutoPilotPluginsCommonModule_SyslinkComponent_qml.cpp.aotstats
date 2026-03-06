@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 395,
+                            "durationMicroseconds": 194,
                             "functionName": "pageComponent",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 70,
                             "functionName": "width",
                             "line": 19,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 13667,
+                            "durationMicroseconds": 5188,
                             "functionName": "spacing",
                             "line": 20,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 781,
+                            "durationMicroseconds": 168,
                             "functionName": "textEditWidth",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 91,
                             "functionName": "width",
                             "line": 35,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 416,
+                            "durationMicroseconds": 153,
                             "functionName": "height",
                             "line": 36,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 458,
+                            "durationMicroseconds": 231,
                             "functionName": "color",
                             "line": 37,
                             "message": "Cannot access value for name qgcPal"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 91,
                             "functionName": "columnSpacing",
                             "line": 45,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 327,
+                            "durationMicroseconds": 137,
                             "functionName": "margins",
                             "line": 41,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 111,
                             "functionName": "left",
                             "line": 42,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 94,
                             "functionName": "top",
                             "line": 43,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 87,
                             "functionName": "wrapMode",
                             "line": 67,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 81,
                             "functionName": "columnSpan",
                             "line": 64,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 76,
                             "functionName": "pointSize",
                             "line": 66,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 108,
                             "functionName": "wrapMode",
                             "line": 92,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 109,
                             "functionName": "columnSpan",
                             "line": 89,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 85,
                             "functionName": "pointSize",
                             "line": 91,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 48,
                             "functionName": "model",
                             "line": 105,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 27,
                             "functionName": "currentIndex",
                             "line": 106,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 25,
                             "functionName": "onActivated",
                             "line": 107,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 48,
                             "functionName": "onActivated",
                             "line": 107,
                             "message": ""

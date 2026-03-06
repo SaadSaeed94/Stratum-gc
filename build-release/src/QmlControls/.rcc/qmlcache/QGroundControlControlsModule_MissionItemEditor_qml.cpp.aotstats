@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 1357,
+                            "durationMicroseconds": 865,
                             "functionName": "height",
                             "line": 14,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 115,
                             "functionName": "color",
                             "line": 15,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 185,
+                            "durationMicroseconds": 77,
                             "functionName": "radius",
                             "line": 16,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 149,
                             "functionName": "opacity",
                             "line": 17,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 72,
                             "functionName": "_masterController",
                             "line": 30,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 22,
                             "functionName": "_missionController",
                             "line": 31,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::_masterController with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 35,
+                            "durationMicroseconds": 15,
                             "functionName": "_currentItem",
                             "line": 32,
                             "message": "Cannot load property isCurrentItem from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::missionItem with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 67,
                             "functionName": "_outerTextColor",
                             "line": 33,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 51,
                             "functionName": "_noMissionItemsAdded",
                             "line": 34,
                             "message": "Cannot load property count from QQuickItemView::model with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 11907,
+                            "durationMicroseconds": 7266,
                             "functionName": "_sectionSpacer",
                             "line": 35,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 67,
                             "functionName": "_singleComplexItem",
                             "line": 36,
                             "message": "Cannot load property complexMissionItemNames from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::_missionController with type QVariant."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 779,
+                            "durationMicroseconds": 467,
                             "functionName": "_readyForSave",
                             "line": 37,
                             "message": "Cannot load property readyForSaveState from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::missionItem with type QVariant."
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 777,
+                            "durationMicroseconds": 500,
                             "functionName": "_editFieldWidth",
                             "line": 39,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 183,
                             "functionName": "_margin",
                             "line": 40,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 153,
                             "functionName": "_radius",
                             "line": 42,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 167,
                             "functionName": "_hamburgerSize",
                             "line": 43,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 163,
                             "functionName": "_trashSize",
                             "line": 44,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 802,
+                            "durationMicroseconds": 494,
                             "functionName": "_waypointsOnlyMode",
                             "line": 45,
                             "message": "Cannot access value for name QGroundControl"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 207,
                             "functionName": "width",
                             "line": 18,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 49,
                             "functionName": "color",
                             "line": 19,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 106,
                             "functionName": "fill",
                             "line": 54,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 696,
+                            "durationMicroseconds": 454,
                             "functionName": "onClicked",
                             "line": 58,
                             "message": "Cannot access value for name mainWindow"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 98,
                             "functionName": "fill",
                             "line": 57,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 332,
+                            "durationMicroseconds": 200,
                             "functionName": "onCoordinateChanged",
                             "line": 72,
                             "message": "Cannot access value for name missionItem"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 46,
                             "functionName": "spacing",
                             "line": 81,
                             "message": "Cannot access value for name _margin"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 35,
                             "functionName": "margins",
                             "line": 78,
                             "message": "Cannot access value for name _margin"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 315,
+                            "durationMicroseconds": 181,
                             "functionName": "left",
                             "line": 79,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 139,
                             "functionName": "top",
                             "line": 80,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 86,
                             "message": "Cannot access value for name _hamburgerSize"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 92,
                             "functionName": "height",
                             "line": 87,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 152,
                             "functionName": "radius",
                             "line": 91,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 39,
                             "functionName": "visible",
                             "line": 92,
                             "message": "Cannot access value for name _readyForSave"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 171,
                             "functionName": "verticalCenter",
                             "line": 85,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 54,
                             "functionName": "color",
                             "line": 89,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 38,
                             "functionName": "color",
                             "line": 99,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 103,
                             "functionName": "centerIn",
                             "line": 96,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 132,
                             "functionName": "pointSize",
                             "line": 100,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 57,
                             "functionName": "height",
                             "line": 107,
                             "message": "Cannot access value for name _hamburgerSize"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 89,
                             "functionName": "width",
                             "line": 108,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 104,
                             "functionName": "fillMode",
                             "line": 110,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 44,
                             "functionName": "color",
                             "line": 113,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 110,
                             "functionName": "visible",
                             "line": 114,
                             "message": "Cannot access value for name _currentItem"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 315,
+                            "durationMicroseconds": 187,
                             "functionName": "verticalCenter",
                             "line": 106,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 106,
                             "functionName": "height",
                             "line": 109,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 110,
                             "functionName": "fillItem",
                             "line": 118,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 631,
+                            "durationMicroseconds": 386,
                             "functionName": "onClicked",
                             "line": 119,
                             "message": "method remove cannot be resolved."
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 137,
                             "functionName": "height",
                             "line": 126,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 123,
                             "functionName": "width",
                             "line": 127,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 133,
                             "functionName": "visible",
                             "line": 128,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 134,
                             "functionName": "verticalCenter",
                             "line": 125,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 83,
                             "functionName": "spacing",
                             "line": 133,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 118,
                             "functionName": "_padding",
                             "line": 135,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 143,
                             "functionName": "verticalCenter",
                             "line": 132,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 84,
                             "functionName": "text",
                             "line": 137,
                             "message": "Cannot access value for name missionItem"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 141,
                             "functionName": "height",
                             "line": 140,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 76,
                             "functionName": "width",
                             "line": 141,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 186,
+                            "durationMicroseconds": 102,
                             "functionName": "fillMode",
                             "line": 142,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 57,
                             "functionName": "color",
                             "line": 145,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 124,
                             "functionName": "fillItem",
                             "line": 151,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 913,
+                            "durationMicroseconds": 509,
                             "functionName": "onClicked",
                             "line": 152,
                             "message": "Cannot access value for name mainWindow"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 64,
                             "functionName": "vehicle",
                             "line": 159,
                             "message": "Cannot access value for name masterController"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 41,
                             "functionName": "missionItem",
                             "line": 160,
                             "message": "Cannot access value for name _root"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 35,
                             "functionName": "map",
                             "line": 161,
                             "message": "Cannot access value for name _root"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 165,
                             "functionName": "width",
                             "line": 171,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 110,
                             "functionName": "height",
                             "line": 172,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 204,
                             "functionName": "visible",
                             "line": 173,
                             "message": "Cannot access value for name missionItem"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 137,
                             "functionName": "verticalAlignment",
                             "line": 174,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 47,
                             "functionName": "text",
                             "line": 175,
                             "message": "Cannot access value for name missionItem"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 37,
                             "functionName": "color",
                             "line": 176,
                             "message": "Cannot access value for name _outerTextColor"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 179,
                             "functionName": "verticalCenter",
                             "line": 170,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 242,
                             "functionName": "spacing",
                             "line": 188,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 54,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 177,
                             "functionName": "_activeVehicle",
                             "line": 200,
                             "message": "Cannot access value for name QGroundControl"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 69,
                             "functionName": "color",
                             "line": 226,
                             "message": "Cannot access value for name qgcPal"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 65,
                             "functionName": "color",
                             "line": 250,
                             "message": "Cannot access value for name qgcPal"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 114,
                             "functionName": "text",
                             "line": 254,
                             "message": "Cannot access value for name missionItem"
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 54,
                             "functionName": "width",
                             "line": 268,
                             "message": "Cannot access value for name _hamburgerSize"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 30,
                             "functionName": "height",
                             "line": 269,
                             "message": "Cannot access value for name _hamburgerSize"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 103,
                             "functionName": "visible",
                             "line": 272,
                             "message": "Cannot access value for name missionItem"
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 45,
                             "functionName": "color",
                             "line": 273,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 52,
                             "functionName": "margins",
                             "line": 265,
                             "message": "Cannot access value for name _margin"
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 220,
                             "functionName": "right",
                             "line": 266,
                             "message": ""
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 157,
                             "functionName": "verticalCenter",
                             "line": 267,
                             "message": ""
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 37,
                             "functionName": "height",
                             "line": 270,
                             "message": "Cannot access value for name _hamburgerSize"
@@ -768,7 +768,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 129,
                             "functionName": "fillItem",
                             "line": 276,
                             "message": ""
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 1510,
+                            "durationMicroseconds": 977,
                             "functionName": "onClicked",
                             "line": 277,
                             "message": "Cannot access value for name globals"
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 101,
                             "functionName": "onClicked",
                             "line": 277,
                             "message": ""
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 130,
                             "functionName": "source",
                             "line": 311,
                             "message": "Cannot access value for name _currentItem"
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 35,
                             "functionName": "masterController",
                             "line": 314,
                             "message": "Cannot access value for name _masterController"
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 501,
+                            "durationMicroseconds": 342,
                             "functionName": "availableWidth",
                             "line": 315,
                             "message": ""
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 121,
                             "functionName": "editorRoot",
                             "line": 316,
                             "message": ""
@@ -824,7 +824,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 57,
                             "functionName": "margins",
                             "line": 308,
                             "message": "Cannot access value for name _innerMargin"
@@ -832,7 +832,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 325,
+                            "durationMicroseconds": 185,
                             "functionName": "left",
                             "line": 309,
                             "message": ""
@@ -840,7 +840,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 148,
                             "functionName": "top",
                             "line": 310,
                             "message": ""

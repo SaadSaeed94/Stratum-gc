@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 15801,
+                            "durationMicroseconds": 8261,
                             "functionName": "spacing",
                             "line": 16,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 123,
                             "functionName": "_planMasterController",
                             "line": 18,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 50,
                             "functionName": "_missionController",
                             "line": 19,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 29,
                             "functionName": "_geoFenceController",
                             "line": 20,
                             "message": "Cannot load property geoFenceController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 34,
+                            "durationMicroseconds": 26,
                             "functionName": "_rallyPointController",
                             "line": 21,
                             "message": "Cannot load property rallyPointController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 33,
+                            "durationMicroseconds": 23,
                             "functionName": "_controllerOffline",
                             "line": 22,
                             "message": "Cannot load property offline from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 23,
                             "functionName": "_controllerDirty",
                             "line": 23,
                             "message": "Cannot load property dirty from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 32,
+                            "durationMicroseconds": 24,
                             "functionName": "_syncInProgress",
                             "line": 24,
                             "message": "Cannot load property syncInProgress from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 23,
                             "functionName": "_visualItems",
                             "line": 25,
                             "message": "Cannot load property visualItems from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_missionController with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 23,
                             "functionName": "_hasPlanItems",
                             "line": 26,
                             "message": "Cannot load property containsItems from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 155,
                             "functionName": "_margins",
                             "line": 28,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 780,
+                            "durationMicroseconds": 473,
                             "functionName": "_utmspEnabled",
                             "line": 31,
                             "message": "Cannot access value for name QGroundControl"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 4993,
+                            "durationMicroseconds": 3238,
                             "functionName": "_uploadClicked",
                             "line": 33,
                             "message": "Cannot access value for name QGroundControl"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1818,
+                            "durationMicroseconds": 1107,
                             "functionName": "_downloadClicked",
                             "line": 42,
                             "message": "Cannot load property dirty from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1692,
+                            "durationMicroseconds": 1068,
                             "functionName": "_openButtonClicked",
                             "line": 53,
                             "message": "Cannot load property dirty from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1269,
+                            "durationMicroseconds": 806,
                             "functionName": "_saveButtonClicked",
                             "line": 64,
                             "message": "Cannot load property currentPlanFile from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 92,
                             "functionName": "_saveAsKMLClicked",
                             "line": 75,
                             "message": "Cannot load property count from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_visualItems with type QVariant."
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1464,
+                            "durationMicroseconds": 875,
                             "functionName": "_storageClearButtonClicked",
                             "line": 82,
                             "message": "Cannot access value for name mainWindow"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1503,
+                            "durationMicroseconds": 900,
                             "functionName": "_vehicleClearButtonClicked",
                             "line": 89,
                             "message": "Cannot access value for name mainWindow"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 75,
                             "functionName": "_clearClicked",
                             "line": 108,
                             "message": "Cannot load property offline from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanToolBarIndicators.qml)::_planMasterController with type QVariant."
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 49,
                             "functionName": "primary",
                             "line": 129,
                             "message": "Cannot access value for name _controllerDirty"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 40,
                             "functionName": "primary",
                             "line": 139,
                             "message": "Cannot access value for name _controllerDirty"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 200,
                             "functionName": "alignment",
                             "line": 163,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 166,
                             "functionName": "text",
                             "line": 167,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 3235,
+                            "durationMicroseconds": 2019,
                             "functionName": "visible",
                             "line": 169,
                             "message": "Cannot access value for name _editingLayer"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 1590,
+                            "durationMicroseconds": 949,
                             "functionName": "_leftClickText",
                             "line": 171,
                             "message": "Cannot access value for name _editingLayer"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 179,
                             "functionName": "pointSize",
                             "line": 168,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 438,
+                            "durationMicroseconds": 271,
                             "functionName": "text",
                             "line": 181,
                             "message": "Cannot access value for name _missionController"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 1676,
+                            "durationMicroseconds": 1051,
                             "functionName": "visible",
                             "line": 183,
                             "message": "Cannot access value for name _editingLayer"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 342,
+                            "durationMicroseconds": 171,
                             "functionName": "pointSize",
                             "line": 182,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 399,
+                            "durationMicroseconds": 222,
                             "functionName": "spacing",
                             "line": 195,
                             "message": ""

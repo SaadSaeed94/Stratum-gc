@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 199,
                             "functionName": "pageComponent",
                             "line": 15,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 113,
                             "functionName": "width",
                             "line": 21,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 149,
                             "functionName": "height",
                             "line": 22,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 69,
-                            "durationMicroseconds": 452,
+                            "durationMicroseconds": 239,
                             "functionName": "_highlightPrefix",
                             "line": 24,
                             "message": "Cannot access value for name qgcPal"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 12544,
+                            "durationMicroseconds": 6796,
                             "functionName": "_textEditWidth",
                             "line": 27,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 130,
                             "functionName": "_indexedBatteryParamCount",
                             "line": 29,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 755,
+                            "durationMicroseconds": 409,
                             "functionName": "getIndexedBatteryParamCount",
                             "line": 31,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 161,
                             "functionName": "spacing",
                             "line": 52,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 153,
                             "functionName": "horizontalCenter",
                             "line": 51,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 50,
                             "functionName": "model",
                             "line": 81,
                             "message": "Cannot access value for name _indexedBatteryParamCount"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 42,
                             "functionName": "sourceComponent",
                             "line": 84,
                             "message": "Cannot access value for name batterySetupComponent"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 65,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 37,
                             "functionName": "batteryIndex",
                             "line": 86,
                             "message": "Cannot access value for name index"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 65,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 58,
                             "functionName": "showBatteryIndex",
                             "line": 87,
                             "message": "Cannot access value for name batterySetupRepeater"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 118,
                             "functionName": "spacing",
                             "line": 99,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 285,
+                            "durationMicroseconds": 151,
                             "functionName": "left",
                             "line": 97,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 137,
                             "functionName": "right",
                             "line": 98,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 778,
+                            "durationMicroseconds": 422,
                             "functionName": "color",
                             "line": 102,
                             "message": "Cannot access value for name qgcPal"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 105,
                             "functionName": "wrapMode",
                             "line": 103,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 117,
                             "functionName": "spacing",
                             "line": 133,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 185,
                             "functionName": "width",
                             "line": 137,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 151,
                             "functionName": "verticalCenter",
                             "line": 143,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 108,
                             "functionName": "spacing",
                             "line": 157,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 141,
                             "functionName": "left",
                             "line": 155,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 144,
                             "functionName": "right",
                             "line": 156,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 110,
                             "functionName": "wrapMode",
                             "line": 160,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 730,
+                            "durationMicroseconds": 380,
                             "functionName": "color",
                             "line": 161,
                             "message": "Cannot access value for name qgcPal"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 99,
                             "functionName": "wrapMode",
                             "line": 167,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 76,
                             "functionName": "wrapMode",
                             "line": 173,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 58,
                             "functionName": "_controller",
                             "line": 201,
                             "message": "Cannot access value for name controller"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 163,
                             "functionName": "_batteryIndex",
                             "line": 202,
                             "message": "Cannot access value for name batteryIndex"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 320,
+                            "durationMicroseconds": 164,
                             "functionName": "battNumCellsAvailable",
                             "line": 210,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 117,
                             "functionName": "battHighVoltAvailable",
                             "line": 211,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 202,
+                            "durationMicroseconds": 110,
                             "functionName": "battLowVoltAvailable",
                             "line": 212,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 112,
                             "functionName": "battVoltLoadDropAvailable",
                             "line": 213,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 111,
                             "functionName": "battVoltageDividerAvailable",
                             "line": 214,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 65,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 103,
                             "functionName": "battAmpsPerVoltAvailable",
                             "line": 215,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 306,
+                            "durationMicroseconds": 179,
                             "functionName": "getBatteryImage",
                             "line": 225,
                             "message": "Cannot access value for name battNumCells"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 45,
                             "functionName": "controller",
                             "line": 206,
                             "message": "Cannot access value for name _controller"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 34,
                             "functionName": "batteryIndex",
                             "line": 207,
                             "message": "Cannot access value for name _batteryIndex"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 131,
                             "functionName": "spacing",
                             "line": 240,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 64,
                             "functionName": "visible",
                             "line": 241,
                             "message": "Cannot access value for name battSource"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 50,
                             "functionName": "width",
                             "line": 245,
                             "message": "Cannot access value for name _textEditWidth"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 135,
                             "functionName": "columnSpacing",
                             "line": 255,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 78,
                             "functionName": "visible",
                             "line": 256,
                             "message": "Cannot access value for name battSource"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 49,
                             "functionName": "width",
                             "line": 260,
                             "message": "Cannot access value for name _textEditWidth"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 373,
+                            "durationMicroseconds": 176,
                             "functionName": "width",
                             "line": 269,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 110,
                             "functionName": "fillMode",
                             "line": 272,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 553,
+                            "durationMicroseconds": 306,
                             "functionName": "color",
                             "line": 274,
                             "message": "Cannot access value for name qgcPal"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 1058,
+                            "durationMicroseconds": 554,
                             "functionName": "source",
                             "line": 276,
                             "message": "Cannot access value for name batteryIndex"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 57,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 148,
                             "functionName": "visible",
                             "line": 277,
                             "message": "Cannot access value for name battNumCellsAvailable"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 57,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 109,
                             "functionName": "height",
                             "line": 271,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 458,
+                            "durationMicroseconds": 224,
                             "functionName": "columnSpan",
                             "line": 283,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 52,
                             "functionName": "visible",
                             "line": 288,
                             "message": "Cannot access value for name battNumCellsAvailable"
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 136,
                             "functionName": "visible",
                             "line": 298,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 411,
+                            "durationMicroseconds": 199,
                             "functionName": "text",
                             "line": 301,
                             "message": "Cannot access value for name battNumCells"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 127,
                             "functionName": "visible",
                             "line": 302,
                             "message": ""
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 151,
                             "functionName": "visible",
                             "line": 308,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 50,
                             "functionName": "visible",
                             "line": 313,
                             "message": "Cannot access value for name battLowVoltAvailable"
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 133,
                             "functionName": "visible",
                             "line": 323,
                             "message": ""
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 424,
+                            "durationMicroseconds": 199,
                             "functionName": "text",
                             "line": 326,
                             "message": "Cannot access value for name battNumCells"
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 130,
                             "functionName": "visible",
                             "line": 327,
                             "message": ""
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 71,
                             "functionName": "visible",
                             "line": 333,
                             "message": "Cannot access value for name battLowVoltAvailable"
@@ -768,7 +768,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 338,
                             "message": "Cannot access value for name battHighVoltAvailable"
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 42,
                             "functionName": "visible",
                             "line": 350,
                             "message": "Cannot access value for name battHighVoltAvailable"
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 486,
+                            "durationMicroseconds": 262,
                             "functionName": "columnSpan",
                             "line": 349,
                             "message": ""
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 355,
                             "message": "Cannot access value for name battVoltageDividerAvailable"
@@ -856,7 +856,7 @@
                         {
                             "codegenResult": 2,
                             "column": 88,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 46,
                             "functionName": "visible",
                             "line": 366,
                             "message": "Cannot access value for name battVoltageDividerAvailable"
@@ -864,7 +864,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 139,
                             "functionName": "wrapMode",
                             "line": 372,
                             "message": ""
@@ -872,7 +872,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 305,
                             "functionName": "text",
                             "line": 373,
                             "message": ""
@@ -880,7 +880,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 55,
                             "functionName": "visible",
                             "line": 375,
                             "message": "Cannot access value for name battVoltageDividerAvailable"
@@ -888,7 +888,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 140,
                             "functionName": "columnSpan",
                             "line": 369,
                             "message": ""
@@ -896,7 +896,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 118,
                             "functionName": "pointSize",
                             "line": 371,
                             "message": ""
@@ -904,7 +904,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 379,
                             "message": "Cannot access value for name battAmpsPerVoltAvailable"
@@ -944,7 +944,7 @@
                         {
                             "codegenResult": 2,
                             "column": 88,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 49,
                             "functionName": "visible",
                             "line": 390,
                             "message": "Cannot access value for name battAmpsPerVoltAvailable"
@@ -952,7 +952,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 142,
                             "functionName": "wrapMode",
                             "line": 396,
                             "message": ""
@@ -960,7 +960,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 571,
+                            "durationMicroseconds": 310,
                             "functionName": "text",
                             "line": 397,
                             "message": ""
@@ -968,7 +968,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 55,
                             "functionName": "visible",
                             "line": 399,
                             "message": "Cannot access value for name battAmpsPerVoltAvailable"
@@ -976,7 +976,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 303,
+                            "durationMicroseconds": 138,
                             "functionName": "columnSpan",
                             "line": 393,
                             "message": ""
@@ -984,7 +984,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 117,
                             "functionName": "pointSize",
                             "line": 395,
                             "message": ""
@@ -1000,7 +1000,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 137,
                             "functionName": "columnSpan",
                             "line": 404,
                             "message": ""
@@ -1008,7 +1008,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 81,
                             "functionName": "visible",
                             "line": 411,
                             "message": "Cannot retrieve a non-object type by ID: showAdvanced"
@@ -1032,7 +1032,7 @@
                         {
                             "codegenResult": 2,
                             "column": 88,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 61,
                             "functionName": "visible",
                             "line": 419,
                             "message": "Cannot retrieve a non-object type by ID: showAdvanced"
@@ -1040,7 +1040,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 135,
                             "functionName": "wrapMode",
                             "line": 424,
                             "message": ""
@@ -1048,7 +1048,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 342,
+                            "durationMicroseconds": 175,
                             "functionName": "text",
                             "line": 426,
                             "message": "Cannot access value for name _highlightPrefix"
@@ -1056,7 +1056,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 63,
                             "functionName": "visible",
                             "line": 429,
                             "message": "Cannot retrieve a non-object type by ID: showAdvanced"
@@ -1064,7 +1064,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 143,
                             "functionName": "columnSpan",
                             "line": 422,
                             "message": ""
@@ -1072,7 +1072,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 128,
                             "functionName": "pointSize",
                             "line": 425,
                             "message": ""
@@ -1080,7 +1080,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 73,
                             "functionName": "visible",
                             "line": 434,
                             "message": "Cannot retrieve a non-object type by ID: showAdvanced"
@@ -1088,7 +1088,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 649,
+                            "durationMicroseconds": 331,
                             "functionName": "text",
                             "line": 437,
                             "message": "Cannot access value for name battNumCells"
@@ -1096,7 +1096,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 55,
                             "functionName": "visible",
                             "line": 438,
                             "message": "Cannot retrieve a non-object type by ID: showAdvanced"
@@ -1104,7 +1104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 88,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 440,
                             "message": "Cannot retrieve a non-object type by ID: showAdvanced"
@@ -1112,7 +1112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 291,
+                            "durationMicroseconds": 148,
                             "functionName": "buttons",
                             "line": 451,
                             "message": "Cannot access value for name Dialog"
@@ -1120,7 +1120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 35,
                             "functionName": "_controller",
                             "line": 455,
                             "message": "Cannot access value for name controller"
@@ -1136,7 +1136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 40,
                             "functionName": "controller",
                             "line": 460,
                             "message": "Cannot access value for name _controller"
@@ -1144,7 +1144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 613,
+                            "durationMicroseconds": 174,
                             "functionName": "spacing",
                             "line": 464,
                             "message": ""
@@ -1152,7 +1152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 123,
                             "functionName": "wrapMode",
                             "line": 468,
                             "message": ""
@@ -1160,7 +1160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 314,
+                            "durationMicroseconds": 136,
                             "functionName": "preferredWidth",
                             "line": 467,
                             "message": ""
@@ -1168,7 +1168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 74,
                             "functionName": "text",
                             "line": 480,
                             "message": "Cannot access value for name _batteryFactGroup"
@@ -1192,7 +1192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 127,
                             "functionName": "buttons",
                             "line": 509,
                             "message": "Cannot access value for name Dialog"
@@ -1200,7 +1200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 61,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 35,
                             "functionName": "_controller",
                             "line": 513,
                             "message": "Cannot access value for name controller"
@@ -1216,7 +1216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 38,
                             "functionName": "controller",
                             "line": 518,
                             "message": "Cannot access value for name _controller"
@@ -1224,7 +1224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 159,
                             "functionName": "spacing",
                             "line": 522,
                             "message": ""
@@ -1232,7 +1232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 130,
                             "functionName": "wrapMode",
                             "line": 526,
                             "message": ""
@@ -1240,7 +1240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 135,
                             "functionName": "preferredWidth",
                             "line": 525,
                             "message": ""
@@ -1248,7 +1248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 82,
                             "functionName": "text",
                             "line": 538,
                             "message": "Cannot access value for name _batteryFactGroup"
@@ -1272,7 +1272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 127,
                             "functionName": "buttons",
                             "line": 568,
                             "message": "Cannot access value for name Dialog"
@@ -1280,7 +1280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 52,
                             "functionName": "target",
                             "line": 572,
                             "message": "Cannot access value for name controller"
@@ -1312,7 +1312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 158,
                             "functionName": "wrapMode",
                             "line": 582,
                             "message": ""
@@ -1320,7 +1320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 295,
+                            "durationMicroseconds": 142,
                             "functionName": "text",
                             "line": 583,
                             "message": "Cannot access value for name _highlightPrefix"
@@ -1328,7 +1328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 876,
+                            "durationMicroseconds": 448,
                             "functionName": "maximumWidth",
                             "line": 585,
                             "message": "Cannot access value for name mainWindow"

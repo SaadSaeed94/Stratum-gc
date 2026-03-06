@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 461,
+                            "durationMicroseconds": 281,
                             "functionName": "spacing",
                             "line": 11,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 650,
+                            "durationMicroseconds": 379,
                             "functionName": "qgcPal",
                             "line": 18,
                             "message": "Cannot access value for name QGroundControl"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 11518,
+                            "durationMicroseconds": 7287,
                             "functionName": "margins",
                             "line": 19,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 340,
+                            "durationMicroseconds": 243,
                             "functionName": "sliderWidth",
                             "line": 20,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 691,
+                            "durationMicroseconds": 424,
                             "functionName": "flyViewSettings",
                             "line": 21,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 367,
+                            "durationMicroseconds": 228,
                             "functionName": "preferredWidth",
                             "line": 10,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 353,
                             "functionName": "to",
                             "line": 33,
                             "message": "Cannot access value for name fact"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 47,
                             "functionName": "preferredWidth",
                             "line": 30,
                             "message": "Cannot access value for name sliderWidth"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 64,
                             "functionName": "to",
                             "line": 70,
                             "message": "Cannot access value for name flyViewSettings"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 60,
                             "functionName": "to",
                             "line": 98,
                             "message": "Cannot access value for name flyViewSettings"

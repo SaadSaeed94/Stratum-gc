@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 13416,
+                            "durationMicroseconds": 7548,
                             "functionName": "_selectCurrentIndexButton",
                             "line": 19,
                             "message": "Type conversion to QVariant does not have a property checked for writing"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 327,
+                            "durationMicroseconds": 194,
                             "functionName": "onCurrentIndexChanged",
                             "line": 46,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 96,
                             "functionName": "onVisibleChildrenChanged",
                             "line": 47,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 93,
                             "functionName": "onCompleted",
                             "line": 45,
                             "message": ""

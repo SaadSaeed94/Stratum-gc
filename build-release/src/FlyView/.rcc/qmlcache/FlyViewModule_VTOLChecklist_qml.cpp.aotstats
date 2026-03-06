@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 386,
+                            "durationMicroseconds": 225,
                             "functionName": "model",
                             "line": 10,
                             "message": ""

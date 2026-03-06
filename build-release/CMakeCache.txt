@@ -1257,7 +1257,7 @@ Shapelib_DIR:PATH=Shapelib_DIR-NOTFOUND
 
 //Enable if the system supports *fast* unaligned memory access
 // with 16-bit, 32-bit, and 64-bit integers.
-TUKLIB_FAST_UNALIGNED_ACCESS:BOOL=OFF
+TUKLIB_FAST_UNALIGNED_ACCESS:BOOL=ON
 
 //This introduces strict aliasing violations and may result in
 // broken code. However, this might improve performance in some

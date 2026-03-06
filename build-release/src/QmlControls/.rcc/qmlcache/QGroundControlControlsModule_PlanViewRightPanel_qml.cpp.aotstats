@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 205,
                             "functionName": "_editingTool",
                             "line": 20,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 55,
                             "functionName": "_missionController",
                             "line": 21,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanViewRightPanel.qml)::planMasterController with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 39,
+                            "durationMicroseconds": 31,
                             "functionName": "_geoFenceController",
                             "line": 22,
                             "message": "Cannot load property geoFenceController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanViewRightPanel.qml)::planMasterController with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 33,
+                            "durationMicroseconds": 26,
                             "functionName": "_rallyPointController",
                             "line": 23,
                             "message": "Cannot load property rallyPointController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanViewRightPanel.qml)::planMasterController with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 26,
                             "functionName": "_visualItems",
                             "line": 24,
                             "message": "Cannot load property visualItems from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanViewRightPanel.qml)::_missionController with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 544,
+                            "durationMicroseconds": 344,
                             "functionName": "_editingToolComponents",
                             "line": 25,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 11879,
+                            "durationMicroseconds": 8151,
                             "functionName": "_toolsMargin",
                             "line": 26,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 3160,
+                            "durationMicroseconds": 6073,
                             "functionName": "selectNextNotReady",
                             "line": 28,
                             "message": "Cannot load property visualItems from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanViewRightPanel.qml)::_missionController with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 77,
                             "functionName": "color",
                             "line": 44,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 156,
                             "functionName": "fill",
                             "line": 43,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 462,
+                            "durationMicroseconds": 2239,
                             "functionName": "width",
                             "line": 54,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 190,
                             "functionName": "height",
                             "line": 55,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 690,
+                            "durationMicroseconds": 504,
                             "functionName": "_expanded",
                             "line": 58,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QJSValue -> QQuickItem::right with type QQuickAnchorLine (stored as QVariant)"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 212,
                             "functionName": "right",
                             "line": 52,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 173,
                             "functionName": "verticalCenter",
                             "line": 53,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 385,
+                            "durationMicroseconds": 297,
                             "functionName": "width",
                             "line": 62,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 376,
+                            "durationMicroseconds": 218,
                             "functionName": "height",
                             "line": 63,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 159,
                             "functionName": "radius",
                             "line": 64,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 189,
                             "functionName": "color",
                             "line": 65,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 142,
                             "functionName": "opacity",
                             "line": 66,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 444,
+                            "durationMicroseconds": 301,
                             "functionName": "text",
                             "line": 71,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 88,
                             "functionName": "color",
                             "line": 72,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 131,
                             "functionName": "centerIn",
                             "line": 70,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 559,
+                            "durationMicroseconds": 374,
                             "functionName": "onClicked",
                             "line": 80,
                             "message": "cannot convert from void to QQuickAnchors::right with type QQuickAnchorLine"
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 128,
                             "functionName": "fill",
                             "line": 78,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 123,
                             "functionName": "fill",
                             "line": 97,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 111,
                             "functionName": "fill",
                             "line": 100,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 370,
+                            "durationMicroseconds": 268,
                             "functionName": "spacing",
                             "line": 105,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 120,
                             "functionName": "fill",
                             "line": 104,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 512,
+                            "durationMicroseconds": 719,
                             "functionName": "sourceComponent",
                             "line": 130,
                             "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/PlanViewRightPanel.qml)::_editingToolComponents with type QVariant (adjusted to QJSValue, stored as QJSValue)"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 250,
                             "functionName": "spacing",
                             "line": 138,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 405,
+                            "durationMicroseconds": 236,
                             "functionName": "spacing",
                             "line": 144,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 153,
                             "functionName": "orientation",
                             "line": 145,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 90,
                             "functionName": "model",
                             "line": 146,
                             "message": "Cannot access value for name _missionController"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 402,
                             "functionName": "cacheBuffer",
                             "line": 147,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 73,
                             "functionName": "currentIndex",
                             "line": 149,
                             "message": "Cannot access value for name _missionController"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 66,
                             "functionName": "map",
                             "line": 153,
                             "message": "Cannot access value for name editorMap"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 49,
                             "functionName": "masterController",
                             "line": 154,
                             "message": "Cannot access value for name planMasterController"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 591,
+                            "durationMicroseconds": 451,
                             "functionName": "missionItem",
                             "line": 155,
                             "message": "Cannot access value for name object"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 68,
                             "functionName": "width",
                             "line": 156,
                             "message": "Cannot access value for name missionItemEditorListView"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 550,
+                            "durationMicroseconds": 367,
                             "functionName": "onClicked",
                             "line": 159,
                             "message": "Cannot access value for name object"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 149,
                             "functionName": "onRemove",
                             "line": 161,
                             "message": "Cannot access value for name index"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 51,
-                            "durationMicroseconds": 726,
+                            "durationMicroseconds": 497,
                             "functionName": "onSelectNextNotReadyItem",
                             "line": 169,
                             "message": "method selectNextNotReady cannot be resolved."
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 232,
                             "functionName": "spacing",
                             "line": 179,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 149,
                             "functionName": "width",
                             "line": 182,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 71,
                             "functionName": "myGeoFenceController",
                             "line": 183,
                             "message": "Cannot access value for name root"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 53,
                             "functionName": "flightMap",
                             "line": 184,
                             "message": "Cannot access value for name root"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 428,
+                            "durationMicroseconds": 228,
                             "functionName": "spacing",
                             "line": 194,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 152,
                             "functionName": "width",
                             "line": 197,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 63,
                             "functionName": "controller",
                             "line": 198,
                             "message": "Cannot access value for name root"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 157,
                             "functionName": "width",
                             "line": 202,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 81,
                             "functionName": "visible",
                             "line": 203,
                             "message": "Cannot access value for name root"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 60,
                             "functionName": "rallyPoint",
                             "line": 204,
                             "message": "Cannot access value for name root"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 49,
                             "functionName": "controller",
                             "line": 205,
                             "message": "Cannot access value for name root"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 425,
+                            "durationMicroseconds": 269,
                             "functionName": "spacing",
                             "line": 214,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 181,
                             "functionName": "width",
                             "line": 217,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 73,
                             "functionName": "currentMissionItems",
                             "line": 218,
                             "message": "Cannot access value for name root"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 51,
                             "functionName": "myGeoFenceController",
                             "line": 219,
                             "message": "Cannot access value for name root"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 48,
                             "functionName": "flightMap",
                             "line": 220,
                             "message": "Cannot access value for name root"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 617,
+                            "durationMicroseconds": 424,
                             "functionName": "triggerSubmitButton",
                             "line": 221,
                             "message": "Cannot access value for name _triggerSubmit"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 631,
+                            "durationMicroseconds": 410,
                             "functionName": "resetRegisterFlightPlan",
                             "line": 222,
                             "message": "Cannot access value for name _resetRegisterFlightPlan"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 830,
+                            "durationMicroseconds": 570,
                             "functionName": "onRemoveFlightPlanTriggered",
                             "line": 224,
                             "message": "Cannot access value for name root"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 54,
-                            "durationMicroseconds": 354,
+                            "durationMicroseconds": 201,
                             "functionName": "onResetGeofencePolygonTriggered",
                             "line": 230,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 216,
+                            "durationMicroseconds": 138,
                             "functionName": "onTriggered",
                             "line": 239,
                             "message": "Cannot find name _resetGeofencePolygon"

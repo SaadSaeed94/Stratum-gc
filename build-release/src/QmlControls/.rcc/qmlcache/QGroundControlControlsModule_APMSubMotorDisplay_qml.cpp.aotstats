@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 172,
                             "functionName": "getImage",
                             "line": 14,
                             "message": "function without return type annotation returns QString. This may prevent proper compilation to Cpp."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 715,
+                            "durationMicroseconds": 427,
                             "functionName": "onCompleted",
                             "line": 30,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 126,
                             "functionName": "fillMode",
                             "line": 39,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 17770,
+                            "durationMicroseconds": 9956,
                             "functionName": "margins",
                             "line": 37,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 90,
                             "functionName": "fill",
                             "line": 38,
                             "message": ""

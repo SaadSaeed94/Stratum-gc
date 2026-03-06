@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 12794,
+                            "durationMicroseconds": 8074,
                             "functionName": "spacing",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 371,
+                            "durationMicroseconds": 218,
                             "functionName": "_verticalMargin",
                             "line": 13,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 549,
+                            "durationMicroseconds": 361,
                             "functionName": "vehicleCopy",
                             "line": 21,
                             "message": "Cannot access value for name globals"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 855,
+                            "durationMicroseconds": 488,
                             "functionName": "onVehicleCopyChanged",
                             "line": 23,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 1606,
+                            "durationMicroseconds": 1024,
                             "functionName": "onAllChecksPassedChanged",
                             "line": 29,
                             "message": "Cannot access value for name globals"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 1155,
+                            "durationMicroseconds": 768,
                             "functionName": "_updateModel",
                             "line": 62,
                             "message": "Cannot access value for name globals"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 523,
+                            "durationMicroseconds": 291,
                             "functionName": "onVisibleChanged",
                             "line": 88,
                             "message": "Cannot access value for name globals"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 134,
                             "functionName": "onCompleted",
                             "line": 84,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 310,
                             "functionName": "onTriggered",
                             "line": 103,
                             "message": "method _handleGroupPassedChanged cannot be resolved."
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 213,
                             "functionName": "height",
                             "line": 118,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 112,
                             "functionName": "text",
                             "line": 123,
                             "message": "Cannot access value for name allChecksPassed"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 132,
                             "functionName": "pointSize",
                             "line": 124,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 164,
                             "functionName": "alignment",
                             "line": 129,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 316,
                             "functionName": "color",
                             "line": 134,
                             "message": "Cannot access value for name qgcPal"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 105,
                             "functionName": "fill",
                             "line": 135,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 62,
                             "functionName": "model",
                             "line": 143,
                             "message": "Cannot load property model from QQuickLoader::item with type QObject."

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 279,
+                            "durationMicroseconds": 195,
                             "functionName": "text",
                             "line": 10,
                             "message": "Cannot load property flightMode from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlightModeMenu.qml)::currentVehicle with type QVariant."
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 860,
+                            "durationMicroseconds": 584,
                             "functionName": "currentVehicle",
                             "line": 12,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 175,
                             "functionName": "flightModesMenuItems",
                             "line": 28,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 3449,
+                            "durationMicroseconds": 2265,
                             "functionName": "updateFlightModesMenu",
                             "line": 30,
                             "message": "Cannot load property flightModeSetAvailable from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/FlightModeMenu.qml)::currentVehicle with type QVariant."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 399,
+                            "durationMicroseconds": 245,
                             "functionName": "onCompleted",
                             "line": 47,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 132,
                             "functionName": "target",
                             "line": 50,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 50,
                             "functionName": "target",
                             "line": 55,
                             "message": "Cannot access value for name currentVehicle"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 9,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 200,
                             "functionName": "onFlightModesChanged",
                             "line": 56,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 114,
                             "functionName": "visible",
                             "line": 61,
                             "message": "Cannot access value for name currentVehicle"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 145,
                             "functionName": "onClicked",
                             "line": 64,
                             "message": "Cannot retrieve a non-object type by ID: flightModesMenu"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 49,
                             "functionName": "leftMargin",
                             "line": 62,
                             "message": "Cannot access value for name mouseAreaLeftMargin"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 138,
                             "functionName": "fill",
                             "line": 63,
                             "message": ""

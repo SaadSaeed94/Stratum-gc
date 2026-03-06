@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 206,
                             "functionName": "pipState",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 156,
                             "functionName": "pipView",
                             "line": 17,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 648,
+                            "durationMicroseconds": 370,
                             "functionName": "onWindowAboutToOpen",
                             "line": 20,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 528,
+                            "durationMicroseconds": 283,
                             "functionName": "onWindowAboutToClose",
                             "line": 25,
                             "message": "Cannot access value for name QGroundControl"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 647,
+                            "durationMicroseconds": 352,
                             "functionName": "onStateChanged",
                             "line": 30,
                             "message": "Cannot load property state from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewVideo.qml)::pipState with type QString."
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 104,
                             "functionName": "onTriggered",
                             "line": 42,
                             "message": "Cannot access value for name QGroundControl"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 115,
                             "functionName": "useSmallFont",
                             "line": 49,
                             "message": "Cannot load property fullState from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewVideo.qml)::pipState with type QQuickItem."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 549,
+                            "durationMicroseconds": 289,
                             "functionName": "visible",
                             "line": 50,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 134,
                             "functionName": "fill",
                             "line": 48,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 505,
+                            "durationMicroseconds": 284,
                             "functionName": "visible",
                             "line": 56,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 289,
                             "functionName": "source",
                             "line": 57,
                             "message": "Cannot access value for name QGroundControl"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 99,
                             "functionName": "fill",
                             "line": 55,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 877,
+                            "durationMicroseconds": 462,
                             "functionName": "visible",
                             "line": 63,
                             "message": "Cannot access value for name QGroundControl"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 582,
+                            "durationMicroseconds": 323,
                             "functionName": "onVisibleChanged",
                             "line": 66,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 13696,
+                            "durationMicroseconds": 7513,
                             "functionName": "pointSize",
                             "line": 62,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 105,
                             "functionName": "centerIn",
                             "line": 64,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 103,
                             "functionName": "type",
                             "line": 77,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 131,
                             "functionName": "screenX",
                             "line": 84,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 105,
                             "functionName": "screenY",
                             "line": 85,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 82,
                             "functionName": "cameraTrackingEnabled",
                             "line": 86,
                             "message": "Cannot load property trackingEnabled from FlightDisplayViewVideo::_camera with type QVariant."
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 67,
                             "functionName": "fill",
                             "line": 83,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 220,
+                            "durationMicroseconds": 109,
                             "functionName": "enabled",
                             "line": 92,
                             "message": "Cannot access value for name pipState"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 594,
+                            "durationMicroseconds": 312,
                             "functionName": "trackingStatus",
                             "line": 103,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 336,
+                            "durationMicroseconds": 154,
                             "functionName": "onClicked",
                             "line": 105,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 1446,
+                            "durationMicroseconds": 765,
                             "functionName": "onDoubleClicked",
                             "line": 106,
                             "message": "Cannot access value for name QGroundControl"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 621,
+                            "durationMicroseconds": 330,
                             "functionName": "onPressed",
                             "line": 108,
                             "message": "Cannot find name _track_rec_x"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 74,
                             "functionName": "onPressed",
                             "line": 108,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 1006,
+                            "durationMicroseconds": 505,
                             "functionName": "onPositionChanged",
                             "line": 124,
                             "message": "Cannot load property x from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/FlyViewVideo.qml)::trackingROI with type QVariant."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 61,
                             "functionName": "onPositionChanged",
                             "line": 124,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 3170,
+                            "durationMicroseconds": 1689,
                             "functionName": "onReleased",
                             "line": 141,
                             "message": "Cannot load property trackingEnabled from FlightDisplayViewVideo::_camera with type QVariant."
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 82,
                             "functionName": "onReleased",
                             "line": 141,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 102,
                             "functionName": "fill",
                             "line": 91,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 733,
+                            "durationMicroseconds": 417,
                             "functionName": "color",
                             "line": 191,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 1579,
+                            "durationMicroseconds": 865,
                             "functionName": "onTriggered",
                             "line": 213,
                             "message": "Cannot load property trackingEnabled from FlightDisplayViewVideo::_camera with type QVariant."
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 592,
+                            "durationMicroseconds": 314,
                             "functionName": "vehicle",
                             "line": 242,
                             "message": "Cannot access value for name QGroundControl"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 114,
                             "functionName": "fill",
                             "line": 241,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 84,
                             "functionName": "showText",
                             "line": 247,
                             "message": "Cannot access value for name pipState"

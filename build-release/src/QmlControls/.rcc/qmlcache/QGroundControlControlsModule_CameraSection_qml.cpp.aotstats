@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 309,
+                            "durationMicroseconds": 191,
                             "functionName": "spacing",
                             "line": 16,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 613,
+                            "durationMicroseconds": 350,
                             "functionName": "_camera",
                             "line": 18,
                             "message": "Cannot access value for name missionItem"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 11584,
+                            "durationMicroseconds": 7617,
                             "functionName": "_fieldWidth",
                             "line": 19,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 356,
+                            "durationMicroseconds": 248,
                             "functionName": "_margin",
                             "line": 20,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 162,
                             "functionName": "width",
                             "line": 31,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 64,
                             "functionName": "spacing",
                             "line": 32,
                             "message": "Cannot access value for name _margin"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 133,
                             "functionName": "visible",
                             "line": 33,
                             "message": "Cannot access value for name showSectionHeader"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 171,
                             "functionName": "width",
                             "line": 37,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 149,
                             "functionName": "width",
                             "line": 44,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 90,
                             "functionName": "visible",
                             "line": 47,
                             "message": "Cannot access value for name _camera"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 143,
                             "functionName": "width",
                             "line": 51,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 87,
                             "functionName": "visible",
                             "line": 54,
                             "message": "Cannot access value for name _camera"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 140,
                             "functionName": "width",
                             "line": 58,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 133,
                             "functionName": "spacing",
                             "line": 59,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 65,
                             "functionName": "visible",
                             "line": 60,
                             "message": "Cannot access value for name _camera"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 83,
                             "functionName": "enabled",
                             "line": 72,
                             "message": "Cannot retrieve a non-object type by ID: modeCheckBox"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 217,
+                            "durationMicroseconds": 145,
                             "functionName": "width",
                             "line": 85,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 67,
                             "functionName": "enabled",
                             "line": 88,
                             "message": "Cannot retrieve a non-object type by ID: gimbalCheckBox"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 196,
+                            "durationMicroseconds": 140,
                             "functionName": "width",
                             "line": 92,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 69,
                             "functionName": "enabled",
                             "line": 95,
                             "message": "Cannot retrieve a non-object type by ID: gimbalCheckBox"

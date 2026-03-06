@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 762,
+                            "durationMicroseconds": 398,
                             "functionName": "implicitWidth",
                             "line": 8,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 478,
+                            "durationMicroseconds": 249,
                             "functionName": "implicitHeight",
                             "line": 9,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 64,
                             "functionName": "color",
                             "line": 10,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 14097,
+                            "durationMicroseconds": 7413,
                             "functionName": "radius",
                             "line": 11,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 661,
+                            "durationMicroseconds": 360,
                             "functionName": "_activeVehicle",
                             "line": 14,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 464,
+                            "durationMicroseconds": 207,
                             "functionName": "_margins",
                             "line": 15,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 113,
                             "functionName": "_totalBlocks",
                             "line": 16,
                             "message": "Cannot load property terrain from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/TerrainProgress.qml)::_activeVehicle with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 47,
                             "functionName": "_blocksLoaded",
                             "line": 17,
                             "message": "Cannot load property terrain from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/TerrainProgress.qml)::_activeVehicle with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 51,
                             "functionName": "_blocksPending",
                             "line": 18,
                             "message": "Cannot load property terrain from (component in /home/saad-saeed/qgroundcontrol/src/FlyView/TerrainProgress.qml)::_activeVehicle with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 592,
+                            "durationMicroseconds": 316,
                             "functionName": "_pctComplete",
                             "line": 19,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 732,
+                            "durationMicroseconds": 396,
                             "functionName": "on_BlocksPendingChanged",
                             "line": 21,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 739,
+                            "durationMicroseconds": 398,
                             "functionName": "on_BlocksLoadedChanged",
                             "line": 31,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 138,
                             "functionName": "interval",
                             "line": 43,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 40,
                             "functionName": "onTriggered",
                             "line": 44,
                             "message": "Type (component in /home/saad-saeed/qgroundcontrol/src/FlyView/TerrainProgress.qml)::parent with type QObject does not have a property visible for writing"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 50,
                             "functionName": "spacing",
                             "line": 54,
                             "message": "Cannot access value for name _margins"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 34,
                             "functionName": "margins",
                             "line": 51,
                             "message": "Cannot access value for name _margins"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 318,
+                            "durationMicroseconds": 172,
                             "functionName": "top",
                             "line": 52,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 194,
+                            "durationMicroseconds": 139,
                             "functionName": "left",
                             "line": 53,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 115,
                             "functionName": "alignment",
                             "line": 57,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 113,
                             "functionName": "pointSize",
                             "line": 59,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 147,
+                            "durationMicroseconds": 99,
                             "functionName": "height",
                             "line": 64,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 70,
                             "functionName": "width",
                             "line": 72,
                             "message": "Cannot access value for name _pctComplete"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 139,
                             "functionName": "top",
                             "line": 69,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 116,
                             "functionName": "bottom",
                             "line": 70,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 62,
                             "functionName": "visible",
                             "line": 77,
                             "message": "Cannot access value for name _blocksPending"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 158,
+                            "durationMicroseconds": 82,
                             "functionName": "centerIn",
                             "line": 75,
                             "message": ""

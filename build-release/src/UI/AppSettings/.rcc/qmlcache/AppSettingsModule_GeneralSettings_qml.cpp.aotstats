@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 618,
+                            "durationMicroseconds": 366,
                             "functionName": "_settingsManager",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 35,
                             "functionName": "_appSettings",
                             "line": 12,
                             "message": "Cannot load property appSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_settingsManager with type QVariant."
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 21,
                             "functionName": "_brandImageSettings",
                             "line": 13,
                             "message": "Cannot load property brandImageSettings from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_settingsManager with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 62,
                             "functionName": "visible",
                             "line": 27,
                             "message": "Cannot access value for name _appSettings"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 52,
                             "functionName": "visible",
                             "line": 34,
                             "message": "Cannot access value for name _appSettings"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 47,
                             "functionName": "visible",
                             "line": 41,
                             "message": "Cannot access value for name _appSettings"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 11769,
+                            "durationMicroseconds": 6924,
                             "functionName": "spacing",
                             "line": 74,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 90,
                             "functionName": "visible",
                             "line": 75,
                             "message": "Cannot access value for name _appFontPointSize"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 189,
                             "functionName": "spacing",
                             "line": 83,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 49,
                             "functionName": "preferredWidth",
                             "line": 86,
                             "message": "Cannot access value for name height"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 197,
                             "functionName": "width",
                             "line": 98,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 953,
+                            "durationMicroseconds": 566,
                             "functionName": "text",
                             "line": 99,
                             "message": "Cannot access value for name QGroundControl"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 46,
                             "functionName": "preferredWidth",
                             "line": 103,
                             "message": "Cannot access value for name height"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 305,
+                            "durationMicroseconds": 199,
                             "functionName": "spacing",
                             "line": 117,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 146,
+                            "durationMicroseconds": 87,
                             "functionName": "visible",
                             "line": 118,
                             "message": "Cannot access value for name _appSavePath"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 143,
                             "functionName": "text",
                             "line": 128,
                             "message": "Cannot access value for name _appSavePath"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 145,
                             "functionName": "elide",
                             "line": 129,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 109,
                             "functionName": "pointSize",
                             "line": 127,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 50,
                             "functionName": "folder",
                             "line": 139,
                             "message": "Cannot access value for name _appSavePath"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 50,
                             "functionName": "onAcceptedForLoad",
                             "line": 141,
                             "message": "Cannot access value for name _appSavePath"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 59,
                             "functionName": "onAcceptedForLoad",
                             "line": 141,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 815,
+                            "durationMicroseconds": 421,
                             "functionName": "visible",
                             "line": 150,
                             "message": "Cannot access value for name QGroundControl"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 2345,
+                            "durationMicroseconds": 1274,
                             "functionName": "model",
                             "line": 153,
                             "message": "Cannot access value for name QGroundControl"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 489,
+                            "durationMicroseconds": 243,
                             "functionName": "label",
                             "line": 156,
                             "message": "Cannot access value for name modelData"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 184,
+                            "durationMicroseconds": 91,
                             "functionName": "visible",
                             "line": 166,
                             "message": "Cannot access value for name _brandImageSettings"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 449,
+                            "durationMicroseconds": 238,
                             "functionName": "spacing",
                             "line": 170,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 53,
                             "functionName": "visible",
                             "line": 171,
                             "message": "Cannot access value for name _userBrandImageIndoor"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 70,
                             "functionName": "text",
                             "line": 184,
                             "message": "Cannot access value for name _userBrandImageIndoor"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 128,
                             "functionName": "elide",
                             "line": 185,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 62,
                             "functionName": "visible",
                             "line": 186,
                             "message": "Cannot access value for name _userBrandImageIndoor"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 265,
+                            "durationMicroseconds": 125,
                             "functionName": "pointSize",
                             "line": 183,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 61,
                             "functionName": "folder",
                             "line": 197,
                             "message": "Cannot access value for name _userBrandImageIndoor"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 60,
                             "functionName": "onAcceptedForLoad",
                             "line": 199,
                             "message": "Cannot access value for name _userBrandImageIndoor"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 55,
                             "functionName": "onAcceptedForLoad",
                             "line": 199,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 365,
+                            "durationMicroseconds": 201,
                             "functionName": "spacing",
                             "line": 206,
                             "message": ""
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 43,
                             "functionName": "visible",
                             "line": 207,
                             "message": "Cannot access value for name _userBrandImageOutdoor"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 69,
                             "functionName": "text",
                             "line": 220,
                             "message": "Cannot access value for name _userBrandImageOutdoor"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 135,
                             "functionName": "elide",
                             "line": 221,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 59,
                             "functionName": "visible",
                             "line": 222,
                             "message": "Cannot access value for name _userBrandImageOutdoor"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 125,
                             "functionName": "pointSize",
                             "line": 219,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 64,
                             "functionName": "folder",
                             "line": 233,
                             "message": "Cannot access value for name _userBrandImageOutdoor"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 59,
                             "functionName": "onAcceptedForLoad",
                             "line": 235,
                             "message": "Cannot access value for name _userBrandImageOutdoor"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 111,
+                            "durationMicroseconds": 61,
                             "functionName": "onAcceptedForLoad",
                             "line": 235,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 175,
+                            "durationMicroseconds": 101,
                             "functionName": "onClicked",
                             "line": 243,
                             "message": "Cannot access value for name _userBrandImageIndoor"

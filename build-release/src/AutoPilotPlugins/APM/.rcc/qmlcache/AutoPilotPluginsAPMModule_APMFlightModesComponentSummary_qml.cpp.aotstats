@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 105,
                             "functionName": "_vehicle",
                             "line": 13,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 42,
                             "functionName": "_roverFirmware",
                             "line": 14,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 127,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 57,
                             "functionName": "fill",
                             "line": 24,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 48,
                             "functionName": "valueText",
                             "line": 28,
                             "message": "Cannot access value for name flightMode1"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 27,
                             "functionName": "valueText",
                             "line": 33,
                             "message": "Cannot access value for name flightMode2"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 22,
                             "functionName": "valueText",
                             "line": 38,
                             "message": "Cannot access value for name flightMode3"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 21,
                             "functionName": "valueText",
                             "line": 43,
                             "message": "Cannot access value for name flightMode4"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 23,
                             "functionName": "valueText",
                             "line": 48,
                             "message": "Cannot access value for name flightMode5"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 25,
                             "functionName": "valueText",
                             "line": 53,
                             "message": "Cannot access value for name flightMode6"

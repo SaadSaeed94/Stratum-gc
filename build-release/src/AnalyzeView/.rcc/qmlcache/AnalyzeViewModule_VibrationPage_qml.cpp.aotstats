@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 294,
+                            "durationMicroseconds": 158,
                             "functionName": "pageComponent",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 1864,
+                            "durationMicroseconds": 657,
                             "functionName": "_activeVehicle",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 145,
+                            "durationMicroseconds": 57,
                             "functionName": "_available",
                             "line": 17,
                             "message": "Cannot load property vibration from (component in /home/saad-saeed/qgroundcontrol/src/AnalyzeView/VibrationPage.qml)::_activeVehicle with type QVariant."
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 13060,
+                            "durationMicroseconds": 4958,
                             "functionName": "_margins",
                             "line": 18,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 401,
+                            "durationMicroseconds": 116,
                             "functionName": "_barWidth",
                             "line": 19,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 106,
                             "functionName": "_barHeight",
                             "line": 20,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 52,
                             "functionName": "_xValue",
                             "line": 21,
                             "message": "Cannot load property vibration from (component in /home/saad-saeed/qgroundcontrol/src/AnalyzeView/VibrationPage.qml)::_activeVehicle with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 23,
                             "functionName": "_yValue",
                             "line": 22,
                             "message": "Cannot load property vibration from (component in /home/saad-saeed/qgroundcontrol/src/AnalyzeView/VibrationPage.qml)::_activeVehicle with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 21,
                             "functionName": "_zValue",
                             "line": 23,
                             "message": "Cannot load property vibration from (component in /home/saad-saeed/qgroundcontrol/src/AnalyzeView/VibrationPage.qml)::_activeVehicle with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 93,
                             "functionName": "width",
                             "line": 36,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 72,
                             "functionName": "height",
                             "line": 37,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 341,
+                            "durationMicroseconds": 107,
                             "functionName": "spacing",
                             "line": 41,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 40,
                             "functionName": "height",
                             "line": 46,
                             "message": "Cannot access value for name _barHeight"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 24,
                             "functionName": "width",
                             "line": 47,
                             "message": "Cannot access value for name _barWidth"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 75,
                             "functionName": "alignment",
                             "line": 48,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 127,
+                            "durationMicroseconds": 39,
                             "functionName": "color",
                             "line": 51,
                             "message": "Cannot access value for name qgcPal"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 307,
+                            "durationMicroseconds": 75,
                             "functionName": "width",
                             "line": 55,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 374,
+                            "durationMicroseconds": 139,
                             "functionName": "height",
                             "line": 56,
                             "message": "Cannot access value for name _barMaximum"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 34,
                             "functionName": "color",
                             "line": 57,
                             "message": "Cannot access value for name qgcPal"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 104,
                             "functionName": "bottom",
                             "line": 54,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 201,
+                            "durationMicroseconds": 68,
                             "functionName": "width",
                             "line": 66,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 137,
                             "functionName": "topMargin",
                             "line": 62,
                             "message": "Cannot access value for name _barBadValue"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 109,
                             "functionName": "top",
                             "line": 63,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 97,
                             "functionName": "left",
                             "line": 64,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 89,
                             "functionName": "right",
                             "line": 65,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 180,
+                            "durationMicroseconds": 78,
                             "functionName": "width",
                             "line": 77,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 352,
+                            "durationMicroseconds": 151,
                             "functionName": "topMargin",
                             "line": 73,
                             "message": "Cannot access value for name _barMidValue"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 112,
                             "functionName": "top",
                             "line": 74,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 93,
                             "functionName": "left",
                             "line": 75,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 85,
                             "functionName": "right",
                             "line": 76,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 81,
                             "functionName": "text",
                             "line": 85,
                             "message": "Cannot access value for name _xValue"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 96,
                             "functionName": "alignment",
                             "line": 84,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 34,
                             "functionName": "height",
                             "line": 91,
                             "message": "Cannot access value for name _barHeight"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 22,
                             "functionName": "width",
                             "line": 92,
                             "message": "Cannot access value for name _barWidth"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 124,
                             "functionName": "alignment",
                             "line": 93,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 40,
                             "functionName": "color",
                             "line": 96,
                             "message": "Cannot access value for name qgcPal"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 81,
                             "functionName": "width",
                             "line": 100,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 398,
+                            "durationMicroseconds": 136,
                             "functionName": "height",
                             "line": 101,
                             "message": "Cannot access value for name _barMaximum"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 32,
                             "functionName": "color",
                             "line": 102,
                             "message": "Cannot access value for name qgcPal"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 349,
+                            "durationMicroseconds": 103,
                             "functionName": "bottom",
                             "line": 99,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 77,
                             "functionName": "width",
                             "line": 111,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 432,
+                            "durationMicroseconds": 147,
                             "functionName": "topMargin",
                             "line": 107,
                             "message": "Cannot access value for name _barBadValue"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 351,
+                            "durationMicroseconds": 124,
                             "functionName": "top",
                             "line": 108,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 101,
                             "functionName": "left",
                             "line": 109,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 88,
                             "functionName": "right",
                             "line": 110,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 229,
+                            "durationMicroseconds": 81,
                             "functionName": "width",
                             "line": 122,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 416,
+                            "durationMicroseconds": 137,
                             "functionName": "topMargin",
                             "line": 118,
                             "message": "Cannot access value for name _barMidValue"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 373,
+                            "durationMicroseconds": 103,
                             "functionName": "top",
                             "line": 119,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 85,
                             "functionName": "left",
                             "line": 120,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 85,
                             "functionName": "right",
                             "line": 121,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 268,
+                            "durationMicroseconds": 76,
                             "functionName": "text",
                             "line": 130,
                             "message": "Cannot access value for name _yValue"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 79,
                             "functionName": "alignment",
                             "line": 129,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 31,
                             "functionName": "height",
                             "line": 136,
                             "message": "Cannot access value for name _barHeight"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 23,
                             "functionName": "width",
                             "line": 137,
                             "message": "Cannot access value for name _barWidth"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 69,
                             "functionName": "alignment",
                             "line": 138,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 38,
                             "functionName": "color",
                             "line": 141,
                             "message": "Cannot access value for name qgcPal"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 373,
+                            "durationMicroseconds": 98,
                             "functionName": "width",
                             "line": 145,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 379,
+                            "durationMicroseconds": 126,
                             "functionName": "height",
                             "line": 146,
                             "message": "Cannot access value for name _barMaximum"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 32,
                             "functionName": "color",
                             "line": 147,
                             "message": "Cannot access value for name qgcPal"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 324,
+                            "durationMicroseconds": 117,
                             "functionName": "bottom",
                             "line": 144,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 74,
                             "functionName": "width",
                             "line": 156,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 364,
+                            "durationMicroseconds": 128,
                             "functionName": "topMargin",
                             "line": 152,
                             "message": "Cannot access value for name _barBadValue"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 101,
                             "functionName": "top",
                             "line": 153,
                             "message": ""
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 89,
                             "functionName": "left",
                             "line": 154,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 88,
                             "functionName": "right",
                             "line": 155,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 72,
                             "functionName": "width",
                             "line": 167,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 364,
+                            "durationMicroseconds": 140,
                             "functionName": "topMargin",
                             "line": 163,
                             "message": "Cannot access value for name _barMidValue"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 104,
                             "functionName": "top",
                             "line": 164,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 276,
+                            "durationMicroseconds": 94,
                             "functionName": "left",
                             "line": 165,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 97,
                             "functionName": "right",
                             "line": 166,
                             "message": ""
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 182,
+                            "durationMicroseconds": 74,
                             "functionName": "text",
                             "line": 175,
                             "message": "Cannot access value for name _zValue"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 91,
                             "functionName": "alignment",
                             "line": 174,
                             "message": ""
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 91,
                             "functionName": "margins",
                             "line": 181,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 295,
+                            "durationMicroseconds": 100,
                             "functionName": "left",
                             "line": 182,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 80,
                             "functionName": "text",
                             "line": 189,
                             "message": "Cannot access value for name _activeVehicle"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 74,
                             "functionName": "text",
                             "line": 193,
                             "message": "Cannot access value for name _activeVehicle"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 67,
                             "functionName": "text",
                             "line": 197,
                             "message": "Cannot access value for name _activeVehicle"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 36,
                             "functionName": "color",
                             "line": 203,
                             "message": "Cannot access value for name qgcPal"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 205,
                             "message": "Cannot access value for name _available"
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 68,
                             "functionName": "fill",
                             "line": 202,
                             "message": ""
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 227,
+                            "durationMicroseconds": 85,
                             "functionName": "horizontalAlignment",
                             "line": 209,
                             "message": ""
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 65,
                             "functionName": "verticalAlignment",
                             "line": 210,
                             "message": ""
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 65,
                             "functionName": "fill",
                             "line": 208,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 432,
+                            "durationMicroseconds": 254,
                             "functionName": "_centerXY",
                             "line": 18,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 647,
+                            "durationMicroseconds": 387,
                             "functionName": "_fgColor",
                             "line": 20,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 527,
+                            "durationMicroseconds": 304,
                             "functionName": "_bgColor",
                             "line": 21,
                             "message": "Cannot access value for name QGroundControl"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 12086,
+                            "durationMicroseconds": 7033,
                             "functionName": "_hatWidth",
                             "line": 22,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 153,
                             "functionName": "_hatWidthHalf",
                             "line": 23,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 112,
+                            "durationMicroseconds": 63,
                             "functionName": "stickPositionX",
                             "line": 25,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 508,
+                            "durationMicroseconds": 299,
                             "functionName": "stickPositionY",
                             "line": 26,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 174,
+                            "durationMicroseconds": 101,
                             "functionName": "onStickPositionXChanged",
                             "line": 31,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 74,
                             "functionName": "onStickPositionYChanged",
                             "line": 32,
                             "message": ""
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 62,
                             "functionName": "onYAxisPositiveRangeOnlyChanged",
                             "line": 33,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 66,
                             "functionName": "onYAxisReCenterChanged",
                             "line": 34,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 494,
+                            "durationMicroseconds": 271,
                             "functionName": "yAxisReCentered",
                             "line": 36,
                             "message": "function without return type annotation returns (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/JoystickThumbPad.qml)::yAxis with type double. This may prevent proper compilation to Cpp."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 684,
+                            "durationMicroseconds": 412,
                             "functionName": "calculateXAxis",
                             "line": 64,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 1642,
+                            "durationMicroseconds": 938,
                             "functionName": "calculateYAxis",
                             "line": 74,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 5,
-                            "durationMicroseconds": 729,
+                            "durationMicroseconds": 395,
                             "functionName": "reCenter",
                             "line": 90,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 108,
                             "functionName": "fill",
                             "line": 141,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 155,
                             "functionName": "radius",
                             "line": 149,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 150,
                             "message": "Cannot access value for name _bgColor"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 83,
                             "functionName": "fill",
                             "line": 148,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 136,
                             "functionName": "radius",
                             "line": 156,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 183,
                             "functionName": "margins",
                             "line": 154,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 67,
                             "functionName": "fill",
                             "line": 155,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 42,
                             "functionName": "color",
                             "line": 157,
                             "message": "Cannot access value for name _fgColor"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 236,
+                            "durationMicroseconds": 243,
                             "functionName": "radius",
                             "line": 164,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 73,
                             "functionName": "fill",
                             "line": 163,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 39,
                             "functionName": "color",
                             "line": 165,
                             "message": "Cannot access value for name _fgColor"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 59,
+                            "durationMicroseconds": 32,
                             "functionName": "color",
                             "line": 172,
                             "message": "Cannot access value for name _fgColor"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 29,
                             "functionName": "visible",
                             "line": 173,
                             "message": "Cannot access value for name yAxisPositiveRangeOnly"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 142,
                             "functionName": "height",
                             "line": 174,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 65,
                             "functionName": "width",
                             "line": 175,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 169,
+                            "durationMicroseconds": 116,
                             "functionName": "fillMode",
                             "line": 178,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 129,
+                            "durationMicroseconds": 78,
                             "functionName": "height",
                             "line": 176,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 143,
                             "functionName": "right",
                             "line": 180,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 106,
                             "functionName": "rightMargin",
                             "line": 181,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 132,
                             "functionName": "verticalCenter",
                             "line": 182,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 41,
                             "functionName": "color",
                             "line": 186,
                             "message": "Cannot access value for name _fgColor"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 30,
                             "functionName": "visible",
                             "line": 187,
                             "message": "Cannot access value for name yAxisPositiveRangeOnly"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 206,
+                            "durationMicroseconds": 121,
                             "functionName": "height",
                             "line": 188,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 66,
                             "functionName": "width",
                             "line": 189,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 98,
                             "functionName": "fillMode",
                             "line": 192,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 152,
+                            "durationMicroseconds": 75,
                             "functionName": "height",
                             "line": 190,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 262,
+                            "durationMicroseconds": 148,
                             "functionName": "left",
                             "line": 194,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 179,
+                            "durationMicroseconds": 106,
                             "functionName": "leftMargin",
                             "line": 195,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 239,
+                            "durationMicroseconds": 136,
                             "functionName": "verticalCenter",
                             "line": 196,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 48,
                             "functionName": "color",
                             "line": 200,
                             "message": "Cannot access value for name _fgColor"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 201,
                             "message": "Cannot access value for name yAxisPositiveRangeOnly"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 119,
                             "functionName": "height",
                             "line": 202,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 67,
                             "functionName": "width",
                             "line": 203,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 95,
                             "functionName": "fillMode",
                             "line": 206,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 71,
                             "functionName": "height",
                             "line": 204,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 146,
                             "functionName": "top",
                             "line": 208,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 109,
                             "functionName": "topMargin",
                             "line": 209,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 124,
                             "functionName": "horizontalCenter",
                             "line": 210,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 46,
                             "functionName": "color",
                             "line": 214,
                             "message": "Cannot access value for name _fgColor"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 29,
                             "functionName": "visible",
                             "line": 215,
                             "message": "Cannot access value for name yAxisPositiveRangeOnly"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 192,
+                            "durationMicroseconds": 111,
                             "functionName": "height",
                             "line": 216,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 64,
                             "functionName": "width",
                             "line": 217,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 162,
+                            "durationMicroseconds": 104,
                             "functionName": "fillMode",
                             "line": 220,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 90,
                             "functionName": "height",
                             "line": 218,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 264,
+                            "durationMicroseconds": 144,
                             "functionName": "bottom",
                             "line": 222,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 193,
+                            "durationMicroseconds": 101,
                             "functionName": "bottomMargin",
                             "line": 223,
                             "message": ""
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 123,
                             "functionName": "horizontalCenter",
                             "line": 224,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 48,
                             "functionName": "width",
                             "line": 228,
                             "message": "Cannot access value for name _hatWidth"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 26,
                             "functionName": "height",
                             "line": 229,
                             "message": "Cannot access value for name _hatWidth"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 31,
                             "functionName": "radius",
                             "line": 230,
                             "message": "Cannot access value for name _hatWidthHalf"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 266,
+                            "durationMicroseconds": 155,
                             "functionName": "color",
                             "line": 233,
                             "message": "Cannot access value for name _fgColor"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 58,
                             "functionName": "x",
                             "line": 234,
                             "message": "Cannot access value for name stickPositionX"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 49,
                             "functionName": "y",
                             "line": 235,
                             "message": "Cannot access value for name stickPositionY"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 45,
+                            "durationMicroseconds": 27,
                             "functionName": "color",
                             "line": 231,
                             "message": "Cannot access value for name _fgColor"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 119,
                             "functionName": "target",
                             "line": 239,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 359,
+                            "durationMicroseconds": 196,
                             "functionName": "onPressed",
                             "line": 259,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 61,
                             "functionName": "onPressed",
                             "line": 259,
                             "message": ""
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 163,
                             "functionName": "onReleased",
                             "line": 260,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
                             "line": 254,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 99,
                             "functionName": "bottomMargin",
                             "line": 255,
                             "message": "Cannot access value for name yAxisReCenter"

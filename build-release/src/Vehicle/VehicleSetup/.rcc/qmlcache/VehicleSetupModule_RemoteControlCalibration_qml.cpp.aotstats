@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 14,
-                            "durationMicroseconds": 13396,
+                            "durationMicroseconds": 7805,
                             "functionName": "spacing",
                             "line": 22,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 46,
-                            "durationMicroseconds": 368,
+                            "durationMicroseconds": 242,
                             "functionName": "_channelValueDisplayWidth",
                             "line": 26,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 106,
                             "functionName": "_deadbandActive",
                             "line": 27,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 138,
                             "functionName": "spacing",
                             "line": 35,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 143,
                             "functionName": "alignment",
                             "line": 34,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 562,
+                            "durationMicroseconds": 127,
                             "functionName": "spacing",
                             "line": 40,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 104,
                             "functionName": "mode",
                             "line": 54,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 85,
                             "functionName": "channelValueMin",
                             "line": 55,
                             "message": "Cannot access value for name controller"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 60,
                             "functionName": "channelValueMax",
                             "line": 56,
                             "message": "Cannot access value for name controller"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 55,
                             "functionName": "channelMapped",
                             "line": 57,
                             "message": "Cannot access value for name controller"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 52,
                             "functionName": "channelValue",
                             "line": 58,
                             "message": "Cannot access value for name controller"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 51,
                             "functionName": "deadbandValue",
                             "line": 59,
                             "message": "Cannot access value for name controller"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 137,
                             "functionName": "deadbandEnabled",
                             "line": 60,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 131,
                             "functionName": "preferredWidth",
                             "line": 53,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 111,
                             "functionName": "mode",
                             "line": 74,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 143,
+                            "durationMicroseconds": 74,
                             "functionName": "channelValueMin",
                             "line": 75,
                             "message": "Cannot access value for name controller"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 56,
                             "functionName": "channelValueMax",
                             "line": 76,
                             "message": "Cannot access value for name controller"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 53,
                             "functionName": "channelMapped",
                             "line": 77,
                             "message": "Cannot access value for name controller"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 52,
                             "functionName": "channelValue",
                             "line": 78,
                             "message": "Cannot access value for name controller"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 51,
                             "functionName": "deadbandValue",
                             "line": 79,
                             "message": "Cannot access value for name controller"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 203,
+                            "durationMicroseconds": 132,
                             "functionName": "deadbandEnabled",
                             "line": 80,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 143,
                             "functionName": "preferredWidth",
                             "line": 73,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 133,
                             "functionName": "mode",
                             "line": 94,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 70,
                             "functionName": "channelValueMin",
                             "line": 95,
                             "message": "Cannot access value for name controller"
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 53,
                             "functionName": "channelValueMax",
                             "line": 96,
                             "message": "Cannot access value for name controller"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 59,
                             "functionName": "channelMapped",
                             "line": 97,
                             "message": "Cannot access value for name controller"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 52,
                             "functionName": "channelValue",
                             "line": 98,
                             "message": "Cannot access value for name controller"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 56,
                             "functionName": "deadbandValue",
                             "line": 99,
                             "message": "Cannot access value for name controller"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 171,
                             "functionName": "deadbandEnabled",
                             "line": 100,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 143,
                             "functionName": "preferredWidth",
                             "line": 93,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 195,
+                            "durationMicroseconds": 126,
                             "functionName": "mode",
                             "line": 114,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 66,
                             "functionName": "channelValueMin",
                             "line": 115,
                             "message": "Cannot access value for name controller"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 53,
                             "functionName": "channelValueMax",
                             "line": 116,
                             "message": "Cannot access value for name controller"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 58,
                             "functionName": "channelMapped",
                             "line": 117,
                             "message": "Cannot access value for name controller"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 52,
                             "functionName": "channelValue",
                             "line": 118,
                             "message": "Cannot access value for name controller"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 52,
                             "functionName": "deadbandValue",
                             "line": 119,
                             "message": "Cannot access value for name controller"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 222,
+                            "durationMicroseconds": 143,
                             "functionName": "deadbandEnabled",
                             "line": 120,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 48,
-                            "durationMicroseconds": 207,
+                            "durationMicroseconds": 132,
                             "functionName": "preferredWidth",
                             "line": 113,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 364,
+                            "durationMicroseconds": 251,
                             "functionName": "spacing",
                             "line": 129,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 140,
                             "functionName": "alignment",
                             "line": 128,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 556,
+                            "durationMicroseconds": 346,
                             "functionName": "implicitWidth",
                             "line": 133,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 513,
+                            "durationMicroseconds": 342,
                             "functionName": "implicitHeight",
                             "line": 134,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 63,
                             "functionName": "color",
                             "line": 137,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 205,
+                            "durationMicroseconds": 125,
                             "functionName": "radius",
                             "line": 138,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 302,
+                            "durationMicroseconds": 208,
                             "functionName": "_margins",
                             "line": 140,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 653,
+                            "durationMicroseconds": 390,
                             "functionName": "_stickAdjust",
                             "line": 141,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 64,
                             "functionName": "color",
                             "line": 135,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 219,
+                            "durationMicroseconds": 137,
                             "functionName": "spacing",
                             "line": 149,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 145,
                             "functionName": "leftMargin",
                             "line": 145,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 658,
+                            "durationMicroseconds": 123,
                             "functionName": "topMargin",
                             "line": 146,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 284,
+                            "durationMicroseconds": 171,
                             "functionName": "left",
                             "line": 147,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 175,
                             "functionName": "top",
                             "line": 148,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 389,
+                            "durationMicroseconds": 236,
                             "functionName": "spacing",
                             "line": 152,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1032,
+                            "durationMicroseconds": 601,
                             "functionName": "model",
                             "line": 156,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 171,
+                            "durationMicroseconds": 87,
                             "functionName": "enabled",
                             "line": 157,
                             "message": "Cannot access value for name controller"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 76,
                             "functionName": "onActivated",
                             "line": 159,
                             "message": "Cannot access value for name controller"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 66,
                             "functionName": "onActivated",
                             "line": 159,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 52,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 90,
                             "functionName": "onCompleted",
                             "line": 161,
                             "message": "Cannot access value for name controller"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 490,
+                            "durationMicroseconds": 263,
                             "functionName": "spacing",
                             "line": 177,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 426,
+                            "durationMicroseconds": 216,
                             "functionName": "implicitWidth",
                             "line": 182,
                             "message": ""
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 91,
                             "functionName": "implicitHeight",
                             "line": 183,
                             "message": ""
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 153,
                             "functionName": "radius",
                             "line": 184,
                             "message": ""
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 62,
                             "functionName": "color",
                             "line": 187,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 142,
                             "functionName": "alignment",
                             "line": 181,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 58,
                             "functionName": "color",
                             "line": 185,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 180,
                             "functionName": "x",
                             "line": 190,
                             "message": "Cannot access value for name controller"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 234,
+                            "durationMicroseconds": 161,
                             "functionName": "y",
                             "line": 191,
                             "message": "Cannot access value for name controller"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 282,
+                            "durationMicroseconds": 150,
                             "functionName": "width",
                             "line": 192,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 99,
                             "functionName": "height",
                             "line": 193,
                             "message": ""
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 287,
+                            "durationMicroseconds": 155,
                             "functionName": "radius",
                             "line": 194,
                             "message": ""
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 58,
                             "functionName": "color",
                             "line": 195,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 285,
+                            "durationMicroseconds": 175,
                             "functionName": "implicitWidth",
                             "line": 201,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 134,
+                            "durationMicroseconds": 93,
                             "functionName": "implicitHeight",
                             "line": 202,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 293,
+                            "durationMicroseconds": 163,
                             "functionName": "radius",
                             "line": 203,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 58,
                             "functionName": "color",
                             "line": 206,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 255,
+                            "durationMicroseconds": 142,
                             "functionName": "alignment",
                             "line": 200,
                             "message": ""
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 60,
                             "functionName": "color",
                             "line": 204,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 328,
+                            "durationMicroseconds": 190,
                             "functionName": "x",
                             "line": 209,
                             "message": "Cannot access value for name controller"
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 150,
                             "functionName": "y",
                             "line": 210,
                             "message": "Cannot access value for name controller"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 152,
                             "functionName": "width",
                             "line": 211,
                             "message": ""
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 90,
                             "functionName": "height",
                             "line": 212,
                             "message": ""
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 162,
                             "functionName": "radius",
                             "line": 213,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 71,
                             "functionName": "color",
                             "line": 214,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 148,
                             "functionName": "spacing",
                             "line": 226,
                             "message": ""
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 145,
                             "functionName": "preferredWidth",
                             "line": 225,
                             "message": ""
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 168,
                             "functionName": "wrapMode",
                             "line": 264,
                             "message": ""
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 57,
                             "functionName": "color",
                             "line": 272,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 280,
+                            "durationMicroseconds": 160,
                             "functionName": "spacing",
                             "line": 278,
                             "message": ""
@@ -768,7 +768,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 61,
                             "functionName": "visible",
                             "line": 284,
                             "message": "Cannot access value for name additionalSetupComponent"
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 43,
                             "functionName": "sourceComponent",
                             "line": 290,
                             "message": "Cannot access value for name additionalSetupComponent"
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 159,
                             "functionName": "alignment",
                             "line": 289,
                             "message": ""
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 256,
+                            "durationMicroseconds": 152,
                             "functionName": "spacing",
                             "line": 296,
                             "message": ""
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 213,
+                            "durationMicroseconds": 133,
                             "functionName": "alignment",
                             "line": 294,
                             "message": ""
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 81,
                             "functionName": "channelCount",
                             "line": 302,
                             "message": "Cannot access value for name controller"
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 52,
                             "functionName": "channelValueMin",
                             "line": 303,
                             "message": "Cannot access value for name controller"
@@ -824,7 +824,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 68,
                             "functionName": "channelValueMax",
                             "line": 304,
                             "message": "Cannot access value for name controller"
@@ -832,7 +832,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 53,
                             "functionName": "target",
                             "line": 307,
                             "message": "Cannot access value for name controller"
@@ -856,7 +856,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 47,
                             "functionName": "sourceComponent",
                             "line": 315,
                             "message": "Cannot access value for name additionalMonitorComponent"
@@ -864,7 +864,7 @@
                         {
                             "codegenResult": 0,
                             "column": 40,
-                            "durationMicroseconds": 295,
+                            "durationMicroseconds": 150,
                             "functionName": "preferredWidth",
                             "line": 314,
                             "message": ""

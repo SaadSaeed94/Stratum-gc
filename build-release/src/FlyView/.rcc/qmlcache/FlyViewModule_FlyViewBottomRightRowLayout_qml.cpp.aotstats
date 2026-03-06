@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 133,
+                            "durationMicroseconds": 90,
                             "functionName": "extraWidth",
                             "line": 11,
                             "message": "Cannot retrieve a non-object type by ID: instrumentPanel"
@@ -24,23 +24,15 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 362,
+                            "durationMicroseconds": 203,
                             "functionName": "alignment",
                             "line": 10,
                             "message": ""
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 29,
-                            "durationMicroseconds": 0,
-                            "functionName": "visible",
-                            "line": 19,
-                            "message": "Could not find property \"visible\"."
-                        },
-                        {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 121,
                             "functionName": "alignment",
                             "line": 18,
                             "message": ""

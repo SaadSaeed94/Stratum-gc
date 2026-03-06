@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 78,
                             "functionName": "followParamsAvailable",
                             "line": 17,
                             "message": "Cannot retrieve a non-object type by ID: controller"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 31,
-                            "durationMicroseconds": 4087,
+                            "durationMicroseconds": 1710,
                             "functionName": "followItems",
                             "line": 19,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 101,
                             "functionName": "fill",
                             "line": 9,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 45,
                             "functionName": "fill",
                             "line": 32,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 38,
                             "functionName": "model",
                             "line": 35,
                             "message": "Cannot access value for name followItems"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 535,
+                            "durationMicroseconds": 185,
                             "functionName": "labelText",
                             "line": 37,
                             "message": "Cannot access value for name modelData"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 28,
-                            "durationMicroseconds": 524,
+                            "durationMicroseconds": 167,
                             "functionName": "valueText",
                             "line": 38,
                             "message": "Cannot access value for name modelData"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 430,
+                            "durationMicroseconds": 134,
                             "functionName": "visible",
                             "line": 39,
                             "message": "Cannot access value for name modelData"

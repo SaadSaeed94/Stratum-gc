@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 709,
+                            "durationMicroseconds": 488,
                             "functionName": "z",
                             "line": 16,
                             "message": "Cannot access value for name QGroundControl"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 379,
+                            "durationMicroseconds": 231,
                             "functionName": "path",
                             "line": 17,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method _calcMissionLinePath, returning QVariant -> QList<QGeoCoordinate> stored as QVariant"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 851,
+                            "durationMicroseconds": 554,
                             "functionName": "_terrainCollision",
                             "line": 19,
                             "message": "Cannot access value for name object"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 831,
+                            "durationMicroseconds": 492,
                             "functionName": "_showSpecialVisual",
                             "line": 20,
                             "message": "Cannot access value for name object"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 9,
-                            "durationMicroseconds": 6769,
+                            "durationMicroseconds": 3973,
                             "functionName": "_calcMissionLinePath",
                             "line": 24,
                             "message": "Cannot access value for name object"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 673,
+                            "durationMicroseconds": 398,
                             "functionName": "color",
                             "line": 13,
                             "message": "Cannot access value for name QGroundControl"

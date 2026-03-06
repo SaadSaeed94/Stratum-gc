@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 12161,
+                            "durationMicroseconds": 7528,
                             "functionName": "spacing",
                             "line": 10,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 552,
+                            "durationMicroseconds": 330,
                             "functionName": "_availableHeight",
                             "line": 14,
                             "message": "Cannot access value for name availableHeight"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 427,
+                            "durationMicroseconds": 277,
                             "functionName": "_availableWidth",
                             "line": 15,
                             "message": "Cannot access value for name availableWidth"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 184,
                             "functionName": "model",
                             "line": 25,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 85,
                             "functionName": "source",
                             "line": 34,
                             "message": "Cannot access value for name model"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 30,
                             "functionName": "availableWidth",
                             "line": 37,
                             "message": "Cannot access value for name _availableWidth"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 48,
                             "functionName": "availableHeight",
                             "line": 38,
                             "message": "Cannot access value for name _availableHeight"

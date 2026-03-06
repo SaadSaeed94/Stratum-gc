@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 630,
+                            "durationMicroseconds": 421,
                             "functionName": "implicitWidth",
                             "line": 15,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 425,
+                            "durationMicroseconds": 281,
                             "functionName": "implicitHeight",
                             "line": 16,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 12,
-                            "durationMicroseconds": 862,
+                            "durationMicroseconds": 588,
                             "functionName": "color",
                             "line": 17,
                             "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 98,
                             "functionName": "_planMasterController",
                             "line": 19,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 886,
+                            "durationMicroseconds": 534,
                             "functionName": "_windowColor",
                             "line": 20,
                             "message": "Cannot access value for name QGroundControl"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 36,
                             "functionName": "_currentMissionItem",
                             "line": 21,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 55,
                             "functionName": "missionItems",
                             "line": 23,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 52,
                             "functionName": "missionPlannedDistance",
                             "line": 24,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 38,
                             "functionName": "missionTime",
                             "line": 25,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 53,
                             "functionName": "missionMaxTelemetry",
                             "line": 26,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 468,
+                            "durationMicroseconds": 330,
                             "functionName": "_controllerValid",
                             "line": 27,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 615,
+                            "durationMicroseconds": 393,
                             "functionName": "_currentMissionItemValid",
                             "line": 29,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 54,
                             "functionName": "_currentItemIsVTOLTakeoff",
                             "line": 30,
                             "message": "Cannot load property command from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_currentMissionItem with type QVariant."
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 228,
+                            "durationMicroseconds": 137,
                             "functionName": "_missionValid",
                             "line": 31,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 11996,
+                            "durationMicroseconds": 7566,
                             "functionName": "_dataFontSize",
                             "line": 33,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 205,
                             "functionName": "_largeValueWidth",
                             "line": 34,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 160,
                             "functionName": "_mediumValueWidth",
                             "line": 35,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 161,
                             "functionName": "_smallValueWidth",
                             "line": 36,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 99,
                             "functionName": "_labelToValueSpacing",
                             "line": 37,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 212,
                             "functionName": "_rowSpacing",
                             "line": 38,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 74,
                             "functionName": "_distance",
                             "line": 39,
                             "message": "Cannot load property distance from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_currentMissionItem with type QVariant."
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 44,
                             "functionName": "_altDifference",
                             "line": 40,
                             "message": "Cannot load property altDifference from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_currentMissionItem with type QVariant."
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 37,
                             "functionName": "_azimuth",
                             "line": 41,
                             "message": "Cannot load property azimuth from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_currentMissionItem with type QVariant."
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 33,
                             "functionName": "_heading",
                             "line": 42,
                             "message": "Cannot load property missionVehicleYaw from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_currentMissionItem with type QVariant."
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 44,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 200,
                             "functionName": "_missionPlannedDistance",
                             "line": 43,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 360,
+                            "durationMicroseconds": 186,
                             "functionName": "_missionMaxTelemetry",
                             "line": 44,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 150,
                             "functionName": "_missionTime",
                             "line": 45,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 39,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 56,
                             "functionName": "_batteryChangePoint",
                             "line": 46,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 34,
                             "functionName": "_batteriesRequired",
                             "line": 47,
                             "message": "Cannot load property missionController from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_planMasterController with type QVariant."
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 42,
-                            "durationMicroseconds": 457,
+                            "durationMicroseconds": 288,
                             "functionName": "_batteryInfoAvailable",
                             "line": 48,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 376,
+                            "durationMicroseconds": 206,
                             "functionName": "_gradient",
                             "line": 49,
                             "message": "Cannot load property distance from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/MissionStats.qml)::_currentMissionItem with type QVariant."
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 1763,
+                            "durationMicroseconds": 1085,
                             "functionName": "_distanceText",
                             "line": 54,
                             "message": "Cannot access value for name QGroundControl"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 1756,
+                            "durationMicroseconds": 1085,
                             "functionName": "_altDifferenceText",
                             "line": 55,
                             "message": "Cannot access value for name QGroundControl"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 796,
+                            "durationMicroseconds": 600,
                             "functionName": "_gradientText",
                             "line": 56,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 861,
+                            "durationMicroseconds": 567,
                             "functionName": "_azimuthText",
                             "line": 57,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 862,
+                            "durationMicroseconds": 521,
                             "functionName": "_headingText",
                             "line": 58,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 1831,
+                            "durationMicroseconds": 1156,
                             "functionName": "_missionPlannedDistanceText",
                             "line": 59,
                             "message": "Cannot access value for name QGroundControl"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 47,
-                            "durationMicroseconds": 1632,
+                            "durationMicroseconds": 1637,
                             "functionName": "_missionMaxTelemetryText",
                             "line": 60,
                             "message": "Cannot access value for name QGroundControl"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 46,
-                            "durationMicroseconds": 547,
+                            "durationMicroseconds": 835,
                             "functionName": "_batteryChangePointText",
                             "line": 61,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 608,
+                            "durationMicroseconds": 354,
                             "functionName": "_batteriesRequiredText",
                             "line": 62,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 235,
+                            "durationMicroseconds": 149,
                             "functionName": "_margins",
                             "line": 64,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 749,
+                            "durationMicroseconds": 989,
                             "functionName": "getMissionTime",
                             "line": 66,
                             "message": "function without return type annotation returns QString. This may prevent proper compilation to Cpp."
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 510,
                             "functionName": "flickableDirection",
                             "line": 86,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 160,
                             "functionName": "contentWidth",
                             "line": 87,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 44,
                             "functionName": "margins",
                             "line": 84,
                             "message": "Cannot access value for name _margins"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 178,
+                            "durationMicroseconds": 81,
                             "functionName": "fill",
                             "line": 85,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 388,
+                            "durationMicroseconds": 207,
                             "functionName": "spacing",
                             "line": 91,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 597,
                             "functionName": "rowSpacing",
                             "line": 95,
                             "message": "Cannot access value for name _rowSpacing"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 47,
                             "functionName": "columnSpacing",
                             "line": 96,
                             "message": "Cannot access value for name _labelToValueSpacing"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 257,
+                            "durationMicroseconds": 166,
                             "functionName": "pointSize",
                             "line": 101,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 69,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 50,
                             "functionName": "pointSize",
                             "line": 104,
                             "message": "Cannot access value for name _dataFontSize"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 44,
                             "functionName": "text",
                             "line": 106,
                             "message": "Cannot access value for name _altDifferenceText"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 404,
                             "functionName": "pointSize",
                             "line": 107,
                             "message": "Cannot access value for name _dataFontSize"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 52,
                             "functionName": "minimumWidth",
                             "line": 108,
                             "message": "Cannot access value for name _mediumValueWidth"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 68,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 41,
                             "functionName": "pointSize",
                             "line": 113,
                             "message": "Cannot access value for name _dataFontSize"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 34,
                             "functionName": "text",
                             "line": 115,
                             "message": "Cannot access value for name _azimuthText"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 31,
                             "functionName": "pointSize",
                             "line": 116,
                             "message": "Cannot access value for name _dataFontSize"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 41,
                             "functionName": "minimumWidth",
                             "line": 117,
                             "message": "Cannot access value for name _smallValueWidth"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 73,
-                            "durationMicroseconds": 70,
+                            "durationMicroseconds": 45,
                             "functionName": "pointSize",
                             "line": 122,
                             "message": "Cannot access value for name _dataFontSize"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 48,
                             "functionName": "text",
                             "line": 124,
                             "message": "Cannot access value for name _distanceText"
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 56,
                             "functionName": "pointSize",
                             "line": 125,
                             "message": "Cannot access value for name _dataFontSize"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 47,
                             "functionName": "minimumWidth",
                             "line": 126,
                             "message": "Cannot access value for name _largeValueWidth"
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 69,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 43,
                             "functionName": "pointSize",
                             "line": 129,
                             "message": "Cannot access value for name _dataFontSize"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 46,
                             "functionName": "text",
                             "line": 131,
                             "message": "Cannot access value for name _gradientText"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 50,
                             "functionName": "pointSize",
                             "line": 132,
                             "message": "Cannot access value for name _dataFontSize"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 48,
                             "functionName": "minimumWidth",
                             "line": 133,
                             "message": "Cannot access value for name _mediumValueWidth"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 68,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 35,
                             "functionName": "pointSize",
                             "line": 138,
                             "message": "Cannot access value for name _dataFontSize"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 40,
                             "functionName": "text",
                             "line": 140,
                             "message": "Cannot access value for name _headingText"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 48,
                             "functionName": "pointSize",
                             "line": 141,
                             "message": "Cannot access value for name _dataFontSize"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 44,
                             "functionName": "minimumWidth",
                             "line": 142,
                             "message": "Cannot access value for name _smallValueWidth"
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 46,
                             "functionName": "rowSpacing",
                             "line": 148,
                             "message": "Cannot access value for name _rowSpacing"
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 35,
                             "functionName": "columnSpacing",
                             "line": 149,
                             "message": "Cannot access value for name _labelToValueSpacing"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 281,
+                            "durationMicroseconds": 176,
                             "functionName": "pointSize",
                             "line": 154,
                             "message": ""
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 69,
-                            "durationMicroseconds": 102,
+                            "durationMicroseconds": 55,
                             "functionName": "pointSize",
                             "line": 157,
                             "message": "Cannot access value for name _dataFontSize"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 45,
                             "functionName": "text",
                             "line": 159,
                             "message": "Cannot access value for name _missionPlannedDistanceText"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 40,
                             "functionName": "pointSize",
                             "line": 160,
                             "message": "Cannot access value for name _dataFontSize"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 54,
                             "functionName": "minimumWidth",
                             "line": 161,
                             "message": "Cannot access value for name _largeValueWidth"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 75,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 42,
                             "functionName": "pointSize",
                             "line": 166,
                             "message": "Cannot access value for name _dataFontSize"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 46,
                             "functionName": "text",
                             "line": 168,
                             "message": "Cannot access value for name _missionMaxTelemetryText"
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 44,
                             "functionName": "pointSize",
                             "line": 169,
                             "message": "Cannot access value for name _dataFontSize"
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 44,
                             "functionName": "minimumWidth",
                             "line": 170,
                             "message": "Cannot access value for name _largeValueWidth"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 65,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 41,
                             "functionName": "pointSize",
                             "line": 173,
                             "message": "Cannot access value for name _dataFontSize"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 880,
+                            "durationMicroseconds": 558,
                             "functionName": "text",
                             "line": 175,
                             "message": "method getMissionTime cannot be resolved."
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 57,
                             "functionName": "pointSize",
                             "line": 176,
                             "message": "Cannot access value for name _dataFontSize"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 46,
                             "functionName": "minimumWidth",
                             "line": 177,
                             "message": "Cannot access value for name _largeValueWidth"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 54,
                             "functionName": "rowSpacing",
                             "line": 183,
                             "message": "Cannot access value for name _rowSpacing"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 37,
                             "functionName": "columnSpacing",
                             "line": 184,
                             "message": "Cannot access value for name _labelToValueSpacing"
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 34,
                             "functionName": "visible",
                             "line": 185,
                             "message": "Cannot access value for name _batteryInfoAvailable"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 157,
                             "functionName": "pointSize",
                             "line": 190,
                             "message": ""
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 79,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 53,
                             "functionName": "pointSize",
                             "line": 193,
                             "message": "Cannot access value for name _dataFontSize"
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 47,
                             "functionName": "text",
                             "line": 195,
                             "message": "Cannot access value for name _batteriesRequiredText"
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 43,
                             "functionName": "pointSize",
                             "line": 196,
                             "message": "Cannot access value for name _dataFontSize"
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 42,
                             "functionName": "minimumWidth",
                             "line": 197,
                             "message": "Cannot access value for name _mediumValueWidth"

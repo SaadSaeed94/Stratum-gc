@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 330,
+                            "durationMicroseconds": 170,
                             "functionName": "pageComponent",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 11678,
+                            "durationMicroseconds": 4848,
                             "functionName": "_verticalSpacing",
                             "line": 11,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 120,
                             "functionName": "_horizontalSpacing",
                             "line": 12,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 114,
                             "functionName": "sourceComponent",
                             "line": 20,
                             "message": "Cannot access value for name gimbalParams"
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 24,
                             "functionName": "spacing",
                             "line": 28,
                             "message": "Cannot access value for name _verticalSpacing"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 23,
                             "functionName": "width",
                             "line": 32,
                             "message": "Cannot access value for name availableWidth"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 34,
                             "message": "Cannot access value for name gimbalParams"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 22,
                             "functionName": "verticalSpacing",
                             "line": 47,
                             "message": "Cannot access value for name _verticalSpacing"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 19,
                             "functionName": "horizontalSpacing",
                             "line": 48,
                             "message": "Cannot access value for name _horizontalSpacing"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 130,
                             "functionName": "visible",
                             "line": 49,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 61,
                             "functionName": "sourceComponent",
                             "line": 54,
                             "message": "Cannot access value for name gimbalParams"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 105,
                             "functionName": "visible",
                             "line": 55,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 24,
                             "functionName": "verticalSpacing",
                             "line": 65,
                             "message": "Cannot access value for name _verticalSpacing"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 32,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 18,
                             "functionName": "horizontalSpacing",
                             "line": 66,
                             "message": "Cannot access value for name _horizontalSpacing"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 516,
+                            "durationMicroseconds": 75,
                             "functionName": "horizontalAlignment",
                             "line": 75,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 32,
-                            "durationMicroseconds": 190,
+                            "durationMicroseconds": 47,
                             "functionName": "verticalAlignment",
                             "line": 76,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 155,
+                            "durationMicroseconds": 45,
                             "functionName": "wrapMode",
                             "line": 78,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 26,
                             "functionName": "width",
                             "line": 79,
                             "message": "Cannot access value for name availableWidth"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 19,
                             "functionName": "height",
                             "line": 80,
                             "message": "Cannot access value for name availableHeight"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 78,
                             "functionName": "pointSize",
                             "line": 77,
                             "message": ""

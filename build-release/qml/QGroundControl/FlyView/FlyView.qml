@@ -87,7 +87,7 @@ Item {
     Rectangle {
         id: leftGutterPanel
         anchors.left: _root.left
-        anchors.top: _root.top
+        anchors.top: toolbar.bottom
         anchors.bottom: _root.bottom
         width: 230
         z: QGroundControl.zOrderTopMost + 10
@@ -134,10 +134,12 @@ Item {
                 id: btnTakeoff
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -158,6 +160,8 @@ Item {
                 QGCMouseArea {
                     anchors.fill: parent
                     enabled: leftGutterPanel._hasVehicle
+                    onPressed:  { btnTakeoff._pressed = true;  btnTakeoff.scale = 0.93 }
+                    onReleased: { btnTakeoff._pressed = false; btnTakeoff.scale = 1.0  }
                     onClicked: leftGutterPanel.doGuided(globals.guidedControllerFlyView.actionTakeoff)
                 }
             }
@@ -167,10 +171,12 @@ Item {
                 id: btnRTL
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -191,6 +197,8 @@ Item {
                 QGCMouseArea {
                     anchors.fill: parent
                     enabled: leftGutterPanel._hasVehicle
+                    onPressed:  { btnRTL._pressed = true;  btnRTL.scale = 0.93 }
+                    onReleased: { btnRTL._pressed = false; btnRTL.scale = 1.0  }
                     onClicked: leftGutterPanel.doGuided(globals.guidedControllerFlyView.actionRTL)
                 }
             }
@@ -200,10 +208,12 @@ Item {
                 id: btnLand
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -224,6 +234,8 @@ Item {
                 QGCMouseArea {
                     anchors.fill: parent
                     enabled: leftGutterPanel._hasVehicle
+                    onPressed:  { btnLand._pressed = true;  btnLand.scale = 0.93 }
+                    onReleased: { btnLand._pressed = false; btnLand.scale = 1.0  }
                     onClicked: leftGutterPanel.doGuided(globals.guidedControllerFlyView.actionLand)
                 }
             }
@@ -233,10 +245,12 @@ Item {
                 id: btnPause
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -255,11 +269,10 @@ Item {
 
                 QGCMouseArea {
                     anchors.fill: parent
-                    //enabled: leftGutterPanel._hasVehicle
                     enabled: true
-                    onClicked: {standoffdialog.open()
-
-                    }
+                    onPressed:  { btnPause._pressed = true;  btnPause.scale = 0.93 }
+                    onReleased: { btnPause._pressed = false; btnPause.scale = 1.0  }
+                    onClicked: standoffdialog.open()
                 }
             }
 
@@ -268,9 +281,11 @@ Item {
                 id: btnSetup
                 width: 86; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -290,6 +305,8 @@ Item {
 
                 QGCMouseArea {
                     anchors.fill: parent
+                    onPressed:  { btnSetup._pressed = true;  btnSetup.scale = 0.93 }
+                    onReleased: { btnSetup._pressed = false; btnSetup.scale = 1.0  }
                     onClicked: leftGutterPanel.showInfo(qsTr("Setup"), qsTr("Wire this to a screen later."))
                 }
             }
@@ -374,27 +391,13 @@ Item {
                         return
                     }
 
-                    // Step 1: STANDOFF_PARAMS cmd 31010
-                    v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31010,                              // STANDOFF_PARAMS
-                        true,                               // show error on fail
-                        47.401111,                            // param1: lat  (hardcoded)
-                        8.521111,                            // param2: lon  (hardcoded)
-                        parseFloat(distanceField.text),     // param3: distance (m)
-                        parseFloat(heightField.text),       // param4: height (m AGL)
-                        parseFloat(speedField.text),        // param5: speed (km/h)
-                        directionCombo.currentIndex,        // param6: direction 0/1/2/3
-                        0                                   // param7: unused
-                    )
-
-                    // Step 2: STANDOFF_COMMAND activate cmd 31011
-                    v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31011,                              // STANDOFF_COMMAND
-                        true,
-                        1,                                  // 1 = activate
-                        0, 0, 0, 0, 0, 0
+                    v.sendStandoffCommand(
+                        47.401111,                          // lat  (hardcoded for now)
+                        8.521111,                           // lon  (hardcoded for now)
+                        parseFloat(distanceField.text),     // distance (m)
+                        parseFloat(heightField.text),       // height (m AGL)
+                        parseFloat(speedField.text),        // speed (km/h)
+                        directionCombo.currentIndex         // direction 0=N 1=E 2=S 3=W
                     )
 
                     console.log("Standoff executed — dist:", distanceField.text,
@@ -415,13 +418,7 @@ Item {
                     var v = standoffdialog.vehicle
                     if (!v) return
 
-                    v.sendMavCommand(
-                        v.defaultComponentId,
-                        31011,                              // STANDOFF_COMMAND
-                        true,
-                        0,                                  // 0 = cancel
-                        0, 0, 0, 0, 0, 0
-                    )
+                    v.cancelStandoffCommand()
 
                     standoffdialog.close()
                 }

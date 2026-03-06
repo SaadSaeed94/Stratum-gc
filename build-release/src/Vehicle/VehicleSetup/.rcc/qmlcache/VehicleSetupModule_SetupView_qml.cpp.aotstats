@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 107,
                             "functionName": "color",
                             "line": 10,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 474,
+                            "durationMicroseconds": 378,
                             "functionName": "z",
                             "line": 11,
                             "message": "Cannot access value for name QGroundControl"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 8140,
+                            "durationMicroseconds": 7249,
                             "functionName": "_defaultTextHeight",
                             "line": 20,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 153,
+                            "durationMicroseconds": 136,
                             "functionName": "_defaultTextWidth",
                             "line": 21,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 163,
+                            "durationMicroseconds": 144,
                             "functionName": "_horizontalMargin",
                             "line": 22,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 114,
                             "functionName": "_verticalMargin",
                             "line": 23,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 128,
+                            "durationMicroseconds": 98,
                             "functionName": "_buttonWidth",
                             "line": 24,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 488,
+                            "durationMicroseconds": 394,
                             "functionName": "_activeVehicle",
                             "line": 27,
                             "message": "Cannot access value for name QGroundControl"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 59,
                             "functionName": "_vehicleArmed",
                             "line": 28,
                             "message": "Cannot load property armed from (component in /home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/SetupView.qml)::_activeVehicle with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 409,
+                            "durationMicroseconds": 393,
                             "functionName": "_fullParameterVehicleAvailable",
                             "line": 30,
                             "message": "Cannot access value for name QGroundControl"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 333,
+                            "durationMicroseconds": 310,
                             "functionName": "_corePlugin",
                             "line": 31,
                             "message": "Cannot access value for name QGroundControl"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 324,
                             "functionName": "showSummaryPanel",
                             "line": 33,
                             "message": "Cannot access value for name mainWindow"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 766,
+                            "durationMicroseconds": 647,
                             "functionName": "_showSummaryPanel",
                             "line": 39,
                             "message": "Cannot load property autopilotPlugin from (component in /home/saad-saeed/qgroundcontrol/src/Vehicle/VehicleSetup/SetupView.qml)::_activeVehicle with type QVariant."
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 386,
+                            "durationMicroseconds": 376,
                             "functionName": "showParametersPanel",
                             "line": 82,
                             "message": "Cannot access value for name mainWindow"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 170,
+                            "durationMicroseconds": 156,
                             "functionName": "fill",
                             "line": 15,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 123,
+                            "durationMicroseconds": 111,
                             "functionName": "onCompleted",
                             "line": 89,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 109,
                             "functionName": "target",
                             "line": 92,
                             "message": "Cannot access value for name QGroundControl"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 86,
                             "functionName": "target",
                             "line": 101,
                             "message": "Cannot access value for name QGroundControl"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 46,
+                            "durationMicroseconds": 55,
                             "functionName": "color",
                             "line": 117,
                             "message": "Cannot access value for name qgcPal"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 142,
+                            "durationMicroseconds": 136,
                             "functionName": "verticalAlignment",
                             "line": 121,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 95,
                             "functionName": "horizontalAlignment",
                             "line": 122,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 91,
                             "functionName": "wrapMode",
                             "line": 123,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 652,
+                            "durationMicroseconds": 579,
                             "functionName": "text",
                             "line": 125,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 56,
                             "functionName": "margins",
                             "line": 119,
                             "message": "Cannot access value for name _defaultTextWidth"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 101,
                             "functionName": "fill",
                             "line": 120,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 121,
                             "functionName": "pointSize",
                             "line": 124,
                             "message": ""
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 134,
                             "message": "Cannot access value for name qgcPal"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 106,
                             "functionName": "verticalAlignment",
                             "line": 138,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 99,
                             "functionName": "horizontalAlignment",
                             "line": 139,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 93,
                             "functionName": "wrapMode",
                             "line": 140,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 56,
                             "functionName": "margins",
                             "line": 136,
                             "message": "Cannot access value for name _defaultTextWidth"
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
                             "line": 137,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 119,
                             "functionName": "pointSize",
                             "line": 141,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 20,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 52,
                             "functionName": "color",
                             "line": 151,
                             "message": "Cannot access value for name qgcPal"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 128,
                             "functionName": "verticalAlignment",
                             "line": 156,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 102,
                             "functionName": "horizontalAlignment",
                             "line": 157,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 98,
                             "functionName": "wrapMode",
                             "line": 158,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 337,
+                            "durationMicroseconds": 285,
                             "functionName": "text",
                             "line": 160,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 56,
+                            "durationMicroseconds": 62,
                             "functionName": "margins",
                             "line": 154,
                             "message": "Cannot access value for name _defaultTextWidth"
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 94,
                             "functionName": "fill",
                             "line": 155,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 121,
+                            "durationMicroseconds": 134,
                             "functionName": "verticalAlignment",
                             "line": 173,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 92,
                             "functionName": "horizontalAlignment",
                             "line": 174,
                             "message": ""
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 87,
                             "functionName": "wrapMode",
                             "line": 175,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 54,
                             "functionName": "text",
                             "line": 177,
                             "message": "Cannot access value for name _messagePanelText"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 52,
                             "functionName": "margins",
                             "line": 171,
                             "message": "Cannot access value for name _defaultTextWidth"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 95,
                             "functionName": "fill",
                             "line": 172,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 140,
                             "functionName": "pointSize",
                             "line": 176,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 127,
                             "functionName": "width",
                             "line": 184,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 126,
+                            "durationMicroseconds": 121,
                             "functionName": "contentHeight",
                             "line": 190,
                             "message": ""
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 107,
                             "functionName": "flickableDirection",
                             "line": 191,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 74,
                             "functionName": "topMargin",
                             "line": 185,
                             "message": "Cannot access value for name _defaultTextHeight"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 172,
+                            "durationMicroseconds": 160,
                             "functionName": "top",
                             "line": 186,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 150,
+                            "durationMicroseconds": 134,
                             "functionName": "bottom",
                             "line": 187,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 33,
+                            "durationMicroseconds": 42,
                             "functionName": "leftMargin",
                             "line": 188,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 146,
                             "functionName": "left",
                             "line": 189,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 233,
                             "functionName": "spacing",
                             "line": 196,
                             "message": ""
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 139,
                             "functionName": "model",
                             "line": 217,
                             "message": "Cannot access value for name _fullParameterVehicleAvailable"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 57,
                             "functionName": "componentUrl",
                             "line": 227,
                             "message": "Cannot access value for name modelData"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 57,
                             "functionName": "color",
                             "line": 263,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 37,
+                            "durationMicroseconds": 46,
                             "functionName": "topMargin",
                             "line": 256,
                             "message": "Cannot access value for name _verticalMargin"
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 25,
+                            "durationMicroseconds": 28,
                             "functionName": "bottomMargin",
                             "line": 257,
                             "message": "Cannot access value for name _verticalMargin"
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 27,
+                            "durationMicroseconds": 25,
                             "functionName": "leftMargin",
                             "line": 258,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 198,
+                            "durationMicroseconds": 236,
                             "functionName": "left",
                             "line": 259,
                             "message": ""
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 170,
                             "functionName": "top",
                             "line": 260,
                             "message": ""
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 134,
                             "functionName": "bottom",
                             "line": 261,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 75,
                             "functionName": "topMargin",
                             "line": 268,
                             "message": "Cannot access value for name _verticalMargin"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 28,
+                            "durationMicroseconds": 33,
                             "functionName": "bottomMargin",
                             "line": 269,
                             "message": "Cannot access value for name _verticalMargin"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 28,
+                            "durationMicroseconds": 24,
                             "functionName": "leftMargin",
                             "line": 270,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 30,
+                            "durationMicroseconds": 24,
                             "functionName": "rightMargin",
                             "line": 271,
                             "message": "Cannot access value for name _horizontalMargin"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 232,
+                            "durationMicroseconds": 216,
                             "functionName": "left",
                             "line": 272,
                             "message": ""
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 149,
                             "functionName": "right",
                             "line": 273,
                             "message": ""
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 151,
                             "functionName": "top",
                             "line": 274,
                             "message": ""
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 149,
                             "functionName": "bottom",
                             "line": 275,
                             "message": ""

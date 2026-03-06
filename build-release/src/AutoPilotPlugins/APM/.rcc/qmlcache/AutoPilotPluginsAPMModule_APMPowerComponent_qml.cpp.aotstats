@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 335,
+                            "durationMicroseconds": 178,
                             "functionName": "pageComponent",
                             "line": 12,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 62,
                             "functionName": "width",
                             "line": 23,
                             "message": "Cannot access value for name availableWidth"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 23,
                             "functionName": "spacing",
                             "line": 24,
                             "message": "Cannot access value for name _margins"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 44,
                             "functionName": "_batt2MonitorAvailable",
                             "line": 28,
                             "message": "Cannot access value for name controller"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 31,
                             "functionName": "_batt1MonitorEnabled",
                             "line": 29,
                             "message": "Cannot access value for name _batt1Monitor"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 39,
                             "functionName": "_batt2MonitorEnabled",
                             "line": 30,
                             "message": "Cannot access value for name _batt2Monitor"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 29,
                             "functionName": "_batt1ParamsAvailable",
                             "line": 31,
                             "message": "Cannot access value for name controller"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 23,
                             "functionName": "_batt2ParamsAvailable",
                             "line": 32,
                             "message": "Cannot access value for name controller"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 438,
+                            "durationMicroseconds": 142,
                             "functionName": "_showBatt1Reboot",
                             "line": 33,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 87,
                             "functionName": "_showBatt2Reboot",
                             "line": 34,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 109,
+                            "durationMicroseconds": 38,
                             "functionName": "_escCalibrationAvailable",
                             "line": 35,
                             "message": "Cannot access value for name controller"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 28,
                             "functionName": "spacing",
                             "line": 44,
                             "message": "Cannot access value for name _margins"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 46,
                             "functionName": "visible",
                             "line": 45,
                             "message": "Cannot access value for name _batt1MonitorEnabled"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 56,
                             "functionName": "width",
                             "line": 53,
                             "message": "Cannot access value for name _margins"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 41,
                             "functionName": "height",
                             "line": 54,
                             "message": "Cannot access value for name _margins"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 29,
                             "functionName": "color",
                             "line": 55,
                             "message": "Cannot retrieve a non-object type by ID: ggcPal"
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 15245,
+                            "durationMicroseconds": 5092,
                             "functionName": "spacing",
                             "line": 62,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 68,
                             "functionName": "margins",
                             "line": 59,
                             "message": "Cannot access value for name _margins"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 289,
+                            "durationMicroseconds": 111,
                             "functionName": "top",
                             "line": 60,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 211,
+                            "durationMicroseconds": 74,
                             "functionName": "left",
                             "line": 61,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 237,
+                            "durationMicroseconds": 73,
                             "functionName": "spacing",
                             "line": 66,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 42,
                             "functionName": "text",
                             "line": 78,
                             "message": "Cannot access value for name _restartRequired"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 24,
                             "functionName": "visible",
                             "line": 79,
                             "message": "Cannot access value for name _showBatt1Reboot"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 28,
                             "functionName": "spacing",
                             "line": 94,
                             "message": "Cannot access value for name _margins"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 138,
+                            "durationMicroseconds": 50,
                             "functionName": "visible",
                             "line": 95,
                             "message": "Cannot access value for name _batt1MonitorEnabled"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 156,
+                            "durationMicroseconds": 47,
                             "functionName": "width",
                             "line": 103,
                             "message": "Cannot access value for name _margins"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 39,
                             "functionName": "height",
                             "line": 104,
                             "message": "Cannot access value for name _margins"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 28,
                             "functionName": "color",
                             "line": 105,
                             "message": "Cannot retrieve a non-object type by ID: ggcPal"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 189,
+                            "durationMicroseconds": 60,
                             "functionName": "sourceComponent",
                             "line": 112,
                             "message": "Cannot access value for name powerSetupComponent"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 32,
                             "functionName": "margins",
                             "line": 109,
                             "message": "Cannot access value for name _margins"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 363,
+                            "durationMicroseconds": 128,
                             "functionName": "top",
                             "line": 110,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 243,
+                            "durationMicroseconds": 76,
                             "functionName": "left",
                             "line": 111,
                             "message": ""
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 36,
                             "functionName": "spacing",
                             "line": 131,
                             "message": "Cannot access value for name _margins"
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 55,
                             "functionName": "visible",
                             "line": 132,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 58,
                             "functionName": "width",
                             "line": 140,
                             "message": "Cannot access value for name _margins"
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 137,
+                            "durationMicroseconds": 48,
                             "functionName": "height",
                             "line": 141,
                             "message": "Cannot access value for name _margins"
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 141,
+                            "durationMicroseconds": 30,
                             "functionName": "color",
                             "line": 142,
                             "message": "Cannot retrieve a non-object type by ID: ggcPal"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 286,
+                            "durationMicroseconds": 92,
                             "functionName": "spacing",
                             "line": 149,
                             "message": ""
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 35,
                             "functionName": "margins",
                             "line": 146,
                             "message": "Cannot access value for name _margins"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 310,
+                            "durationMicroseconds": 123,
                             "functionName": "top",
                             "line": 147,
                             "message": ""
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 86,
                             "functionName": "left",
                             "line": 148,
                             "message": ""
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 223,
+                            "durationMicroseconds": 76,
                             "functionName": "spacing",
                             "line": 153,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 36,
                             "functionName": "text",
                             "line": 165,
                             "message": "Cannot access value for name _restartRequired"
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 26,
                             "functionName": "visible",
                             "line": 166,
                             "message": "Cannot access value for name _showBatt2Reboot"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 33,
                             "functionName": "spacing",
                             "line": 181,
                             "message": "Cannot access value for name _margins"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 157,
+                            "durationMicroseconds": 54,
                             "functionName": "visible",
                             "line": 182,
                             "message": "Cannot access value for name _batt2MonitorEnabled"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 60,
                             "functionName": "width",
                             "line": 190,
                             "message": "Cannot access value for name _margins"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 55,
                             "functionName": "height",
                             "line": 191,
                             "message": "Cannot access value for name _margins"
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 34,
                             "functionName": "color",
                             "line": 192,
                             "message": "Cannot retrieve a non-object type by ID: ggcPal"
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 98,
                             "functionName": "sourceComponent",
                             "line": 199,
                             "message": "Cannot access value for name powerSetupComponent"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 37,
                             "functionName": "margins",
                             "line": 196,
                             "message": "Cannot access value for name _margins"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 366,
+                            "durationMicroseconds": 166,
                             "functionName": "top",
                             "line": 197,
                             "message": ""
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 541,
+                            "durationMicroseconds": 112,
                             "functionName": "left",
                             "line": 198,
                             "message": ""
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 44,
                             "functionName": "spacing",
                             "line": 217,
                             "message": "Cannot access value for name _margins"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 29,
                             "functionName": "visible",
                             "line": 218,
                             "message": "Cannot access value for name _escCalibrationAvailable"
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 181,
+                            "durationMicroseconds": 74,
                             "functionName": "width",
                             "line": 226,
                             "message": "Cannot access value for name _margins"
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 130,
+                            "durationMicroseconds": 56,
                             "functionName": "height",
                             "line": 227,
                             "message": "Cannot access value for name _margins"
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 38,
                             "functionName": "color",
                             "line": 228,
                             "message": "Cannot retrieve a non-object type by ID: ggcPal"
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 115,
+                            "durationMicroseconds": 37,
                             "functionName": "x",
                             "line": 232,
                             "message": "Cannot access value for name _margins"
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 28,
                             "functionName": "y",
                             "line": 233,
                             "message": "Cannot access value for name _margins"
@@ -736,7 +736,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 24,
                             "functionName": "spacing",
                             "line": 234,
                             "message": "Cannot access value for name _margins"
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 29,
                             "functionName": "spacing",
                             "line": 237,
                             "message": "Cannot access value for name _margins"
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 44,
                             "functionName": "color",
                             "line": 241,
                             "message": "Cannot access value for name qgcPal"
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 42,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 31,
                             "functionName": "spacing",
                             "line": 245,
                             "message": "Cannot access value for name _margins"
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 2,
                             "column": 46,
-                            "durationMicroseconds": 259,
+                            "durationMicroseconds": 102,
                             "functionName": "enabled",
                             "line": 254,
                             "message": "Cannot access value for name _escCalibration"
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 2,
                             "column": 56,
-                            "durationMicroseconds": 402,
+                            "durationMicroseconds": 150,
                             "functionName": "text",
                             "line": 255,
                             "message": "Cannot access value for name _escCalibration"
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 102,
                             "functionName": "spacing",
                             "line": 277,
                             "message": ""
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 417,
+                            "durationMicroseconds": 154,
                             "functionName": "_margins",
                             "line": 279,
                             "message": ""
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 513,
+                            "durationMicroseconds": 203,
                             "functionName": "_showAdvanced",
                             "line": 280,
                             "message": ""
@@ -824,7 +824,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 319,
+                            "durationMicroseconds": 127,
                             "functionName": "_fieldWidth",
                             "line": 281,
                             "message": ""
@@ -832,7 +832,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 24507,
+                            "durationMicroseconds": 8160,
                             "functionName": "calcSensor",
                             "line": 285,
                             "message": "Cannot access value for name battVoltPin"
@@ -840,7 +840,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 130,
                             "functionName": "onCompleted",
                             "line": 283,
                             "message": ""
@@ -848,7 +848,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 131,
+                            "durationMicroseconds": 64,
                             "functionName": "rowSpacing",
                             "line": 357,
                             "message": "Cannot access value for name _margins"
@@ -856,7 +856,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 29,
                             "functionName": "columnSpacing",
                             "line": 358,
                             "message": "Cannot access value for name _margins"
@@ -904,7 +904,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 270,
+                            "durationMicroseconds": 120,
                             "functionName": "model",
                             "line": 402,
                             "message": ""
@@ -912,7 +912,7 @@
                         {
                             "codegenResult": 2,
                             "column": 34,
-                            "durationMicroseconds": 5187,
+                            "durationMicroseconds": 1849,
                             "functionName": "onActivated",
                             "line": 405,
                             "message": "Cannot access value for name battVoltPin"
@@ -920,7 +920,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 167,
+                            "durationMicroseconds": 71,
                             "functionName": "onActivated",
                             "line": 405,
                             "message": ""
@@ -928,7 +928,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 41,
                             "functionName": "minimumWidth",
                             "line": 401,
                             "message": "Cannot access value for name _fieldWidth"
@@ -936,7 +936,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 422,
                             "message": "Cannot access value for name _showAdvanced"
@@ -952,7 +952,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 33,
                             "functionName": "visible",
                             "line": 429,
                             "message": "Cannot access value for name _showAdvanced"
@@ -960,7 +960,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 30,
                             "functionName": "minimumWidth",
                             "line": 426,
                             "message": "Cannot access value for name _fieldWidth"
@@ -968,7 +968,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 437,
                             "message": "Cannot access value for name _showAdvanced"
@@ -984,7 +984,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 28,
                             "functionName": "visible",
                             "line": 444,
                             "message": "Cannot access value for name _showAdvanced"
@@ -992,7 +992,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 27,
                             "functionName": "minimumWidth",
                             "line": 441,
                             "message": "Cannot access value for name _fieldWidth"
@@ -1000,7 +1000,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 72,
+                            "durationMicroseconds": 29,
                             "functionName": "visible",
                             "line": 452,
                             "message": "Cannot access value for name _showAdvanced"
@@ -1048,7 +1048,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 748,
+                            "durationMicroseconds": 113,
                             "functionName": "wrapMode",
                             "line": 471,
                             "message": ""
@@ -1056,7 +1056,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 132,
+                            "durationMicroseconds": 28,
                             "functionName": "visible",
                             "line": 473,
                             "message": "Cannot access value for name _showAdvanced"
@@ -1064,7 +1064,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 311,
+                            "durationMicroseconds": 110,
                             "functionName": "pointSize",
                             "line": 470,
                             "message": ""
@@ -1072,7 +1072,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 31,
                             "functionName": "visible",
                             "line": 478,
                             "message": "Cannot access value for name _showAdvanced"
@@ -1120,7 +1120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 275,
+                            "durationMicroseconds": 110,
                             "functionName": "wrapMode",
                             "line": 497,
                             "message": ""
@@ -1128,7 +1128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 37,
                             "functionName": "visible",
                             "line": 499,
                             "message": "Cannot access value for name _showAdvanced"
@@ -1136,7 +1136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 273,
+                            "durationMicroseconds": 99,
                             "functionName": "pointSize",
                             "line": 496,
                             "message": ""
@@ -1144,7 +1144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 30,
                             "functionName": "visible",
                             "line": 504,
                             "message": "Cannot access value for name _showAdvanced"
@@ -1176,7 +1176,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 261,
+                            "durationMicroseconds": 98,
                             "functionName": "wrapMode",
                             "line": 517,
                             "message": ""
@@ -1184,7 +1184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 32,
                             "functionName": "visible",
                             "line": 519,
                             "message": "Cannot access value for name _showAdvanced"
@@ -1192,7 +1192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 95,
                             "functionName": "pointSize",
                             "line": 516,
                             "message": ""
@@ -1200,7 +1200,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 108,
                             "functionName": "buttons",
                             "line": 531,
                             "message": "Cannot access value for name Dialog"
@@ -1208,7 +1208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 328,
+                            "durationMicroseconds": 124,
                             "functionName": "spacing",
                             "line": 537,
                             "message": ""
@@ -1216,7 +1216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 208,
+                            "durationMicroseconds": 70,
                             "functionName": "wrapMode",
                             "line": 541,
                             "message": ""
@@ -1224,7 +1224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 292,
+                            "durationMicroseconds": 95,
                             "functionName": "preferredWidth",
                             "line": 540,
                             "message": ""
@@ -1256,7 +1256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 253,
+                            "durationMicroseconds": 117,
                             "functionName": "buttons",
                             "line": 584,
                             "message": "Cannot access value for name Dialog"
@@ -1264,7 +1264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 26,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 95,
                             "functionName": "spacing",
                             "line": 590,
                             "message": ""
@@ -1272,7 +1272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 85,
                             "functionName": "wrapMode",
                             "line": 594,
                             "message": ""
@@ -1280,7 +1280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 45,
-                            "durationMicroseconds": 254,
+                            "durationMicroseconds": 147,
                             "functionName": "preferredWidth",
                             "line": 593,
                             "message": ""

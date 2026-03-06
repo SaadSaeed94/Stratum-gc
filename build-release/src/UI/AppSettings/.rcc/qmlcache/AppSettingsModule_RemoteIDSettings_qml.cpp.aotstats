@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 11683,
+                            "durationMicroseconds": 7337,
                             "functionName": "_margins",
                             "line": 13,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 353,
+                            "durationMicroseconds": 221,
                             "functionName": "_labelWidth",
                             "line": 14,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 308,
+                            "durationMicroseconds": 169,
                             "functionName": "_valueWidth",
                             "line": 15,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 274,
+                            "durationMicroseconds": 173,
                             "functionName": "_columnSpacing",
                             "line": 16,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 246,
+                            "durationMicroseconds": 149,
                             "functionName": "_comboFieldWidth",
                             "line": 17,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 240,
+                            "durationMicroseconds": 151,
                             "functionName": "_valueFieldWidth",
                             "line": 18,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 144,
                             "functionName": "flagsWidth",
                             "line": 21,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 230,
+                            "durationMicroseconds": 148,
                             "functionName": "flagsHeight",
                             "line": 22,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 149,
+                            "durationMicroseconds": 101,
                             "functionName": "_activeRID",
                             "line": 26,
                             "message": "Cannot load property remoteIDManager from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant."
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 110,
+                            "durationMicroseconds": 68,
                             "functionName": "commsGood",
                             "line": 29,
                             "message": "Cannot load property remoteIDManager from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant."
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 760,
+                            "durationMicroseconds": 478,
                             "functionName": "_activeVehicle",
                             "line": 32,
                             "message": "Cannot access value for name QGroundControl"
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 612,
+                            "durationMicroseconds": 428,
                             "functionName": "_offlineVehicle",
                             "line": 33,
                             "message": "Cannot access value for name QGroundControl"
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 607,
+                            "durationMicroseconds": 429,
                             "functionName": "_regionOperation",
                             "line": 34,
                             "message": "Cannot access value for name QGroundControl"
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 624,
+                            "durationMicroseconds": 376,
                             "functionName": "_locationType",
                             "line": 35,
                             "message": "Cannot access value for name QGroundControl"
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 620,
+                            "durationMicroseconds": 398,
                             "functionName": "_classificationType",
                             "line": 36,
                             "message": "Cannot access value for name QGroundControl"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 66,
                             "functionName": "_remoteIDManager",
                             "line": 37,
                             "message": "Cannot load property remoteIDManager from (component in /home/saad-saeed/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant."
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 723,
+                            "durationMicroseconds": 377,
                             "functionName": "remoteIDSettings",
                             "line": 40,
                             "message": "Cannot access value for name QGroundControl"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 245,
+                            "durationMicroseconds": 166,
                             "functionName": "isEURegion",
                             "line": 45,
                             "message": "Cannot access value for name regionFact"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 214,
+                            "durationMicroseconds": 132,
                             "functionName": "isFAARegion",
                             "line": 46,
                             "message": "Cannot access value for name regionFact"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 326,
+                            "durationMicroseconds": 250,
                             "functionName": "textFieldWidth",
                             "line": 47,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 247,
+                            "durationMicroseconds": 176,
                             "functionName": "textLabelWidth",
                             "line": 48,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 771,
+                            "durationMicroseconds": 485,
                             "functionName": "gcsPosition",
                             "line": 51,
                             "message": "Cannot access value for name QGroundControl"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 632,
+                            "durationMicroseconds": 434,
                             "functionName": "gcsHeading",
                             "line": 52,
                             "message": "Cannot access value for name QGroundControl"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 610,
+                            "durationMicroseconds": 386,
                             "functionName": "gcsHDOP",
                             "line": 53,
                             "message": "Cannot access value for name QGroundControl"
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 3194,
+                            "durationMicroseconds": 2013,
                             "functionName": "getSelfIdLabelText",
                             "line": 60,
                             "message": "Cannot access value for name selfIDComboBox"
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 5,
-                            "durationMicroseconds": 3403,
+                            "durationMicroseconds": 1960,
                             "functionName": "getSelfIDFact",
                             "line": 77,
                             "message": "Cannot access value for name selfIDComboBox"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 232,
                             "functionName": "width",
                             "line": 96,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 187,
+                            "durationMicroseconds": 134,
                             "functionName": "height",
                             "line": 97,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 209,
+                            "durationMicroseconds": 143,
                             "functionName": "alignment",
                             "line": 98,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 66,
                             "functionName": "spacing",
                             "line": 103,
                             "message": "Cannot access value for name _margins"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 163,
                             "functionName": "horizontalCenter",
                             "line": 102,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 58,
                             "functionName": "color",
                             "line": 112,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 45,
                             "functionName": "visible",
                             "line": 113,
                             "message": "Cannot access value for name _activeVehicle"
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 93,
                             "functionName": "preferredHeight",
                             "line": 110,
                             "message": "Cannot access value for name _margins"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 63,
                             "functionName": "preferredWidth",
                             "line": 111,
                             "message": "Cannot access value for name _margins"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 48,
                             "functionName": "rowSpacing",
                             "line": 122,
                             "message": "Cannot access value for name _margins"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 39,
                             "functionName": "columnSpacing",
                             "line": 123,
                             "message": "Cannot access value for name _margins"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 40,
                             "functionName": "margins",
                             "line": 118,
                             "message": "Cannot access value for name _margins"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 267,
+                            "durationMicroseconds": 212,
                             "functionName": "top",
                             "line": 119,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 277,
+                            "durationMicroseconds": 145,
                             "functionName": "horizontalCenter",
                             "line": 120,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 390,
+                            "durationMicroseconds": 436,
                             "functionName": "color",
                             "line": 129,
                             "message": "Cannot access value for name _activeRID"
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 50,
                             "functionName": "radius",
                             "line": 130,
                             "message": "Cannot access value for name radiusFlags"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 37,
                             "functionName": "visible",
                             "line": 131,
                             "message": "Cannot access value for name commsGood"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 55,
                             "functionName": "preferredHeight",
                             "line": 127,
                             "message": "Cannot access value for name flagsHeight"
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 38,
                             "functionName": "preferredWidth",
                             "line": 128,
                             "message": "Cannot access value for name flagsWidth"
@@ -400,7 +400,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 212,
+                            "durationMicroseconds": 187,
                             "functionName": "wrapMode",
                             "line": 136,
                             "message": ""
@@ -408,7 +408,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 164,
+                            "durationMicroseconds": 111,
                             "functionName": "horizontalAlignment",
                             "line": 137,
                             "message": ""
@@ -416,7 +416,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 173,
+                            "durationMicroseconds": 100,
                             "functionName": "verticalAlignment",
                             "line": 138,
                             "message": ""
@@ -424,7 +424,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 360,
+                            "durationMicroseconds": 101,
                             "functionName": "fill",
                             "line": 134,
                             "message": ""
@@ -432,7 +432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 423,
+                            "durationMicroseconds": 266,
                             "functionName": "color",
                             "line": 147,
                             "message": "Cannot access value for name _activeRID"
@@ -440,7 +440,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 38,
                             "functionName": "radius",
                             "line": 148,
                             "message": "Cannot access value for name radiusFlags"
@@ -448,7 +448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 39,
                             "functionName": "preferredHeight",
                             "line": 145,
                             "message": "Cannot access value for name flagsHeight"
@@ -456,7 +456,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 31,
                             "functionName": "preferredWidth",
                             "line": 146,
                             "message": "Cannot access value for name flagsWidth"
@@ -464,7 +464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 313,
+                            "durationMicroseconds": 176,
                             "functionName": "text",
                             "line": 152,
                             "message": "Cannot access value for name _activeRID"
@@ -472,7 +472,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 210,
+                            "durationMicroseconds": 160,
                             "functionName": "wrapMode",
                             "line": 153,
                             "message": ""
@@ -480,7 +480,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 112,
                             "functionName": "horizontalAlignment",
                             "line": 154,
                             "message": ""
@@ -488,7 +488,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 151,
+                            "durationMicroseconds": 103,
                             "functionName": "verticalAlignment",
                             "line": 155,
                             "message": ""
@@ -496,7 +496,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 168,
+                            "durationMicroseconds": 104,
                             "functionName": "fill",
                             "line": 151,
                             "message": ""
@@ -504,7 +504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 407,
+                            "durationMicroseconds": 291,
                             "functionName": "color",
                             "line": 164,
                             "message": "Cannot access value for name _activeRID"
@@ -512,7 +512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 45,
                             "functionName": "radius",
                             "line": 165,
                             "message": "Cannot access value for name radiusFlags"
@@ -520,7 +520,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 53,
+                            "durationMicroseconds": 34,
                             "functionName": "visible",
                             "line": 166,
                             "message": "Cannot access value for name commsGood"
@@ -528,7 +528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 77,
+                            "durationMicroseconds": 38,
                             "functionName": "preferredHeight",
                             "line": 162,
                             "message": "Cannot access value for name flagsHeight"
@@ -536,7 +536,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 37,
                             "functionName": "preferredWidth",
                             "line": 163,
                             "message": "Cannot access value for name flagsWidth"
@@ -544,7 +544,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 162,
                             "functionName": "wrapMode",
                             "line": 171,
                             "message": ""
@@ -552,7 +552,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 177,
+                            "durationMicroseconds": 101,
                             "functionName": "horizontalAlignment",
                             "line": 172,
                             "message": ""
@@ -560,7 +560,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 166,
+                            "durationMicroseconds": 89,
                             "functionName": "verticalAlignment",
                             "line": 173,
                             "message": ""
@@ -568,7 +568,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 160,
+                            "durationMicroseconds": 118,
                             "functionName": "fill",
                             "line": 169,
                             "message": ""
@@ -576,7 +576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 404,
+                            "durationMicroseconds": 253,
                             "functionName": "color",
                             "line": 182,
                             "message": "Cannot access value for name _activeRID"
@@ -584,7 +584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 46,
                             "functionName": "radius",
                             "line": 183,
                             "message": "Cannot access value for name radiusFlags"
@@ -592,7 +592,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 40,
                             "functionName": "visible",
                             "line": 184,
                             "message": "Cannot access value for name commsGood"
@@ -600,7 +600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 44,
                             "functionName": "preferredHeight",
                             "line": 180,
                             "message": "Cannot access value for name flagsHeight"
@@ -608,7 +608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 37,
                             "functionName": "preferredWidth",
                             "line": 181,
                             "message": "Cannot access value for name flagsWidth"
@@ -616,7 +616,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 183,
+                            "durationMicroseconds": 143,
                             "functionName": "wrapMode",
                             "line": 189,
                             "message": ""
@@ -624,7 +624,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 135,
+                            "durationMicroseconds": 92,
                             "functionName": "horizontalAlignment",
                             "line": 190,
                             "message": ""
@@ -632,7 +632,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 139,
+                            "durationMicroseconds": 102,
                             "functionName": "verticalAlignment",
                             "line": 191,
                             "message": ""
@@ -640,7 +640,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 99,
                             "functionName": "fill",
                             "line": 187,
                             "message": ""
@@ -648,7 +648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 469,
+                            "durationMicroseconds": 293,
                             "functionName": "color",
                             "line": 200,
                             "message": "Cannot access value for name _activeRID"
@@ -656,7 +656,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 43,
                             "functionName": "radius",
                             "line": 201,
                             "message": "Cannot access value for name radiusFlags"
@@ -664,7 +664,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 991,
+                            "durationMicroseconds": 630,
                             "functionName": "visible",
                             "line": 202,
                             "message": "Cannot access value for name commsGood"
@@ -672,7 +672,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 56,
                             "functionName": "preferredHeight",
                             "line": 198,
                             "message": "Cannot access value for name flagsHeight"
@@ -680,7 +680,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 47,
                             "functionName": "preferredWidth",
                             "line": 199,
                             "message": "Cannot access value for name flagsWidth"
@@ -688,7 +688,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 164,
                             "functionName": "wrapMode",
                             "line": 207,
                             "message": ""
@@ -696,7 +696,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 103,
                             "functionName": "horizontalAlignment",
                             "line": 208,
                             "message": ""
@@ -704,7 +704,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 161,
+                            "durationMicroseconds": 96,
                             "functionName": "verticalAlignment",
                             "line": 209,
                             "message": ""
@@ -712,7 +712,7 @@
                         {
                             "codegenResult": 0,
                             "column": 53,
-                            "durationMicroseconds": 226,
+                            "durationMicroseconds": 105,
                             "functionName": "fill",
                             "line": 205,
                             "message": ""
@@ -720,7 +720,7 @@
                         {
                             "codegenResult": 0,
                             "column": 18,
-                            "durationMicroseconds": 241,
+                            "durationMicroseconds": 147,
                             "functionName": "spacing",
                             "line": 219,
                             "message": ""
@@ -728,7 +728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 21,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 64,
                             "functionName": "target",
                             "line": 222,
                             "message": "Cannot access value for name regionFact"
@@ -744,7 +744,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 360,
+                            "durationMicroseconds": 242,
                             "functionName": "spacing",
                             "line": 233,
                             "message": ""
@@ -752,7 +752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 127,
                             "functionName": "alignment",
                             "line": 234,
                             "message": ""
@@ -760,7 +760,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 53,
                             "functionName": "label",
                             "line": 240,
                             "message": "Cannot access value for name fact"
@@ -776,7 +776,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 616,
+                            "durationMicroseconds": 419,
                             "functionName": "visible",
                             "line": 242,
                             "message": "Cannot access value for name QGroundControl"
@@ -784,7 +784,7 @@
                         {
                             "codegenResult": 2,
                             "column": 35,
-                            "durationMicroseconds": 290,
+                            "durationMicroseconds": 196,
                             "functionName": "outerBorderColor",
                             "line": 247,
                             "message": "Cannot access value for name _activeRID"
@@ -792,7 +792,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 323,
+                            "durationMicroseconds": 235,
                             "functionName": "visible",
                             "line": 248,
                             "message": ""
@@ -800,7 +800,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 125,
                             "functionName": "labelText",
                             "line": 252,
                             "message": "Cannot access value for name _remoteIDManager"
@@ -808,7 +808,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 269,
+                            "durationMicroseconds": 176,
                             "functionName": "visible",
                             "line": 253,
                             "message": ""
@@ -816,7 +816,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 295,
+                            "durationMicroseconds": 193,
                             "functionName": "outerBorderColor",
                             "line": 263,
                             "message": "Cannot access value for name _activeRID"
@@ -824,7 +824,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 48,
                             "functionName": "preferredWidth",
                             "line": 262,
                             "message": "Cannot access value for name textLabelWidth"
@@ -856,7 +856,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 51,
                             "functionName": "label",
                             "line": 278,
                             "message": "Cannot access value for name _fact"
@@ -872,7 +872,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 281,
                             "message": "Cannot access value for name _fact"
@@ -880,7 +880,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 53,
                             "functionName": "enabled",
                             "line": 282,
                             "message": "Cannot retrieve a non-object type by ID: sendBasicIDSlider"
@@ -896,7 +896,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 42,
                             "functionName": "label",
                             "line": 289,
                             "message": "Cannot access value for name _fact"
@@ -912,7 +912,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 292,
                             "message": "Cannot access value for name _fact"
@@ -920,7 +920,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 75,
+                            "durationMicroseconds": 45,
                             "functionName": "enabled",
                             "line": 293,
                             "message": "Cannot retrieve a non-object type by ID: sendBasicIDSlider"
@@ -936,7 +936,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 40,
                             "functionName": "label",
                             "line": 300,
                             "message": "Cannot access value for name _fact"
@@ -952,7 +952,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 23,
                             "functionName": "visible",
                             "line": 302,
                             "message": "Cannot access value for name _fact"
@@ -960,7 +960,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 47,
                             "functionName": "enabled",
                             "line": 303,
                             "message": "Cannot retrieve a non-object type by ID: sendBasicIDSlider"
@@ -968,7 +968,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 56,
                             "functionName": "textFieldPreferredWidth",
                             "line": 306,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1024,7 +1024,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 61,
                             "functionName": "label",
                             "line": 328,
                             "message": "Cannot access value for name _fact"
@@ -1040,7 +1040,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 93,
                             "functionName": "visible",
                             "line": 331,
                             "message": "Cannot access value for name _fact"
@@ -1056,7 +1056,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 436,
+                            "durationMicroseconds": 324,
                             "functionName": "spacing",
                             "line": 338,
                             "message": ""
@@ -1064,7 +1064,7 @@
                         {
                             "codegenResult": 2,
                             "column": 45,
-                            "durationMicroseconds": 358,
+                            "durationMicroseconds": 239,
                             "functionName": "text",
                             "line": 342,
                             "message": "Cannot access value for name operatorIDFact"
@@ -1088,7 +1088,7 @@
                         {
                             "codegenResult": 2,
                             "column": 58,
-                            "durationMicroseconds": 554,
+                            "durationMicroseconds": 379,
                             "functionName": "operatorIDInvalid",
                             "line": 353,
                             "message": "Cannot access value for name _regionOperation"
@@ -1096,7 +1096,7 @@
                         {
                             "codegenResult": 2,
                             "column": 53,
-                            "durationMicroseconds": 343,
+                            "durationMicroseconds": 221,
                             "functionName": "onOperatorIDInvalidChanged",
                             "line": 356,
                             "message": "Cannot retrieve a non-object type by ID: operatorIDTextField"
@@ -1120,7 +1120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 84,
+                            "durationMicroseconds": 56,
                             "functionName": "preferredWidth",
                             "line": 347,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1128,7 +1128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 55,
                             "functionName": "preferredWidth",
                             "line": 388,
                             "message": "Cannot access value for name textLabelWidth"
@@ -1168,7 +1168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 77,
                             "functionName": "visible",
                             "line": 405,
                             "message": "Cannot access value for name _fact"
@@ -1176,7 +1176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 59,
                             "functionName": "enabled",
                             "line": 406,
                             "message": "Cannot retrieve a non-object type by ID: sendSelfIDSlider"
@@ -1192,7 +1192,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 74,
                             "functionName": "label",
                             "line": 413,
                             "message": "Cannot access value for name _fact"
@@ -1208,7 +1208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 26,
                             "functionName": "visible",
                             "line": 415,
                             "message": "Cannot access value for name _fact"
@@ -1216,7 +1216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 50,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 57,
                             "functionName": "enabled",
                             "line": 416,
                             "message": "Cannot retrieve a non-object type by ID: sendSelfIDSlider"
@@ -1224,7 +1224,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 56,
                             "functionName": "textFieldPreferredWidth",
                             "line": 419,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1240,7 +1240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 50,
                             "functionName": "label",
                             "line": 425,
                             "message": "Cannot access value for name _fact"
@@ -1256,7 +1256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 25,
                             "functionName": "visible",
                             "line": 427,
                             "message": "Cannot access value for name _fact"
@@ -1264,7 +1264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 49,
                             "functionName": "enabled",
                             "line": 428,
                             "message": "Cannot retrieve a non-object type by ID: sendSelfIDSlider"
@@ -1272,7 +1272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 50,
                             "functionName": "textFieldPreferredWidth",
                             "line": 431,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1288,7 +1288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 46,
                             "functionName": "label",
                             "line": 437,
                             "message": "Cannot access value for name _fact"
@@ -1304,7 +1304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 27,
                             "functionName": "visible",
                             "line": 439,
                             "message": "Cannot access value for name _fact"
@@ -1312,7 +1312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 48,
                             "functionName": "textFieldPreferredWidth",
                             "line": 442,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1328,7 +1328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 592,
+                            "durationMicroseconds": 295,
                             "functionName": "spacing",
                             "line": 450,
                             "message": ""
@@ -1336,7 +1336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 251,
+                            "durationMicroseconds": 149,
                             "functionName": "alignment",
                             "line": 451,
                             "message": ""
@@ -1344,7 +1344,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 312,
+                            "durationMicroseconds": 211,
                             "functionName": "outerBorderColor",
                             "line": 455,
                             "message": "Cannot access value for name _activeRID"
@@ -1352,7 +1352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 74,
                             "functionName": "label",
                             "line": 457,
                             "message": "Cannot access value for name locationTypeFact"
@@ -1368,7 +1368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 124,
+                            "durationMicroseconds": 49,
                             "functionName": "label",
                             "line": 464,
                             "message": "Cannot access value for name _fact"
@@ -1384,7 +1384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 342,
+                            "durationMicroseconds": 192,
                             "functionName": "enabled",
                             "line": 467,
                             "message": "Cannot access value for name locationTypeFact"
@@ -1392,7 +1392,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 67,
+                            "durationMicroseconds": 43,
                             "functionName": "textFieldPreferredWidth",
                             "line": 469,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1408,7 +1408,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 47,
                             "functionName": "label",
                             "line": 475,
                             "message": "Cannot access value for name _fact"
@@ -1424,7 +1424,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 272,
+                            "durationMicroseconds": 178,
                             "functionName": "enabled",
                             "line": 478,
                             "message": "Cannot access value for name locationTypeFact"
@@ -1432,7 +1432,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 42,
                             "functionName": "textFieldPreferredWidth",
                             "line": 480,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1448,7 +1448,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 107,
+                            "durationMicroseconds": 59,
                             "functionName": "label",
                             "line": 486,
                             "message": "Cannot access value for name _fact"
@@ -1464,7 +1464,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 263,
+                            "durationMicroseconds": 190,
                             "functionName": "enabled",
                             "line": 489,
                             "message": "Cannot access value for name locationTypeFact"
@@ -1472,7 +1472,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 65,
+                            "durationMicroseconds": 43,
                             "functionName": "textFieldPreferredWidth",
                             "line": 491,
                             "message": "Cannot access value for name textFieldWidth"
@@ -1488,7 +1488,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 1739,
+                            "durationMicroseconds": 976,
                             "functionName": "visible",
                             "line": 498,
                             "message": "Cannot access value for name QGroundControl"
@@ -1496,7 +1496,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 57,
                             "functionName": "rowSpacing",
                             "line": 503,
                             "message": "Cannot access value for name _margins"
@@ -1504,7 +1504,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 64,
+                            "durationMicroseconds": 44,
                             "functionName": "columnSpacing",
                             "line": 505,
                             "message": "Cannot access value for name _margins"
@@ -1512,7 +1512,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 96,
+                            "durationMicroseconds": 48,
                             "functionName": "margins",
                             "line": 502,
                             "message": "Cannot access value for name _margins"
@@ -1520,7 +1520,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 183,
                             "functionName": "alignment",
                             "line": 506,
                             "message": ""
@@ -1528,7 +1528,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 1189,
+                            "durationMicroseconds": 795,
                             "functionName": "onActivated",
                             "line": 518,
                             "message": "Cannot access value for name QGroundControl"
@@ -1536,7 +1536,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 88,
                             "functionName": "onActivated",
                             "line": 518,
                             "message": ""
@@ -1544,7 +1544,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 99,
+                            "durationMicroseconds": 71,
                             "functionName": "preferredWidth",
                             "line": 513,
                             "message": "Cannot access value for name _comboFieldWidth"
@@ -1552,7 +1552,7 @@
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 9122,
+                            "durationMicroseconds": 5908,
                             "functionName": "onCompleted",
                             "line": 523,
                             "message": "Cannot access value for name gpsDisabled"
@@ -1560,7 +1560,7 @@
                         {
                             "codegenResult": 2,
                             "column": 43,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 201,
                             "functionName": "visible",
                             "line": 539,
                             "message": "Cannot access value for name gpsUdpPort"
@@ -1568,7 +1568,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 306,
+                            "durationMicroseconds": 177,
                             "functionName": "visible",
                             "line": 543,
                             "message": "Cannot access value for name gpsUdpPort"
@@ -1576,7 +1576,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 834,
+                            "durationMicroseconds": 589,
                             "functionName": "model",
                             "line": 546,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
@@ -1584,7 +1584,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 1174,
+                            "durationMicroseconds": 800,
                             "functionName": "onActivated",
                             "line": 548,
                             "message": "Cannot access value for name QGroundControl"
@@ -1592,7 +1592,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 122,
+                            "durationMicroseconds": 94,
                             "functionName": "onActivated",
                             "line": 548,
                             "message": ""
@@ -1600,7 +1600,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 113,
+                            "durationMicroseconds": 72,
                             "functionName": "preferredWidth",
                             "line": 545,
                             "message": "Cannot access value for name _comboFieldWidth"
@@ -1608,7 +1608,7 @@
                         {
                             "codegenResult": 2,
                             "column": 48,
-                            "durationMicroseconds": 1073,
+                            "durationMicroseconds": 730,
                             "functionName": "onCompleted",
                             "line": 553,
                             "message": "Cannot access value for name QGroundControl"
@@ -1616,7 +1616,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 215,
+                            "durationMicroseconds": 92,
                             "functionName": "visible",
                             "line": 561,
                             "message": "Cannot access value for name gpsUdpPort"
@@ -1640,7 +1640,7 @@
                         {
                             "codegenResult": 2,
                             "column": 49,
-                            "durationMicroseconds": 159,
+                            "durationMicroseconds": 56,
                             "functionName": "preferredWidth",
                             "line": 565,
                             "message": "Cannot access value for name _valueFieldWidth"
@@ -1648,7 +1648,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 50,
                             "functionName": "visible",
                             "line": 574,
                             "message": "Cannot access value for name isEURegion"
@@ -1688,7 +1688,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 68,
                             "functionName": "label",
                             "line": 590,
                             "message": "Cannot access value for name _fact"
@@ -1704,7 +1704,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 28,
                             "functionName": "visible",
                             "line": 593,
                             "message": "Cannot access value for name _fact"
@@ -1712,7 +1712,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 79,
                             "functionName": "enabled",
                             "line": 594,
                             "message": "Cannot retrieve a non-object type by ID: euProvideInfoSlider"
@@ -1728,7 +1728,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 65,
                             "functionName": "label",
                             "line": 601,
                             "message": "Cannot access value for name _fact"
@@ -1744,7 +1744,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 26,
                             "functionName": "visible",
                             "line": 604,
                             "message": "Cannot access value for name _fact"
@@ -1752,7 +1752,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 283,
+                            "durationMicroseconds": 195,
                             "functionName": "enabled",
                             "line": 605,
                             "message": ""

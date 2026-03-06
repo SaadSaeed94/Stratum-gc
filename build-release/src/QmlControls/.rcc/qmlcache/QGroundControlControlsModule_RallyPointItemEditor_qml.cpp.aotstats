@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 1635,
+                            "durationMicroseconds": 967,
                             "functionName": "height",
                             "line": 11,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 13,
-                            "durationMicroseconds": 231,
+                            "durationMicroseconds": 133,
                             "functionName": "color",
                             "line": 12,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 165,
+                            "durationMicroseconds": 99,
                             "functionName": "radius",
                             "line": 13,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 65,
                             "functionName": "_currentItem",
                             "line": 20,
                             "message": "Cannot load property currentRallyPoint from (component in /home/saad-saeed/qgroundcontrol/src/QmlControls/RallyPointItemEditor.qml)::controller with type QVariant."
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 41,
                             "functionName": "_outerTextColor",
                             "line": 21,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 12007,
+                            "durationMicroseconds": 6983,
                             "functionName": "_margin",
                             "line": 23,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 202,
                             "functionName": "_radius",
                             "line": 24,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 49,
-                            "durationMicroseconds": 298,
+                            "durationMicroseconds": 158,
                             "functionName": "_titleHeight",
                             "line": 25,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 60,
                             "functionName": "height",
                             "line": 35,
                             "message": "Cannot access value for name _titleHeight"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 66,
+                            "durationMicroseconds": 32,
                             "functionName": "margins",
                             "line": 31,
                             "message": "Cannot access value for name _margin"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 301,
+                            "durationMicroseconds": 151,
                             "functionName": "top",
                             "line": 32,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 224,
+                            "durationMicroseconds": 93,
                             "functionName": "left",
                             "line": 33,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 218,
+                            "durationMicroseconds": 92,
                             "functionName": "right",
                             "line": 34,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 225,
+                            "durationMicroseconds": 132,
                             "functionName": "verticalCenter",
                             "line": 39,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 204,
+                            "durationMicroseconds": 110,
                             "functionName": "left",
                             "line": 40,
                             "message": ""
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 49,
                             "functionName": "color",
                             "line": 50,
                             "message": "Cannot access value for name _outerTextColor"
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 63,
+                            "durationMicroseconds": 34,
                             "functionName": "leftMargin",
                             "line": 46,
                             "message": "Cannot access value for name _margin"
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 271,
+                            "durationMicroseconds": 138,
                             "functionName": "left",
                             "line": 47,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 221,
+                            "durationMicroseconds": 119,
                             "functionName": "verticalCenter",
                             "line": 48,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 321,
+                            "durationMicroseconds": 180,
                             "functionName": "width",
                             "line": 58,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 68,
                             "functionName": "height",
                             "line": 59,
                             "message": ""
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 62,
                             "functionName": "color",
                             "line": 62,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 2,
                             "column": 37,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 41,
                             "functionName": "rightMargin",
                             "line": 55,
                             "message": "Cannot access value for name _margin"
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 238,
+                            "durationMicroseconds": 131,
                             "functionName": "right",
                             "line": 56,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 116,
                             "functionName": "verticalCenter",
                             "line": 57,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 140,
+                            "durationMicroseconds": 81,
                             "functionName": "height",
                             "line": 60,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 68,
                             "functionName": "onClicked",
                             "line": 66,
                             "message": "Cannot retrieve a non-object type by ID: hamburgerMenu"
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 82,
                             "functionName": "fill",
                             "line": 65,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 136,
+                            "durationMicroseconds": 89,
                             "functionName": "height",
                             "line": 86,
                             "message": "Cannot access value for name _margin"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 40,
                             "functionName": "color",
                             "line": 87,
                             "message": "Cannot retrieve a non-object type by ID: qgcPal"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 68,
+                            "durationMicroseconds": 28,
                             "functionName": "visible",
                             "line": 88,
                             "message": "Cannot access value for name _currentItem"
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 28,
                             "functionName": "radius",
                             "line": 89,
                             "message": "Cannot access value for name _radius"
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 2,
                             "column": 29,
-                            "durationMicroseconds": 51,
+                            "durationMicroseconds": 32,
                             "functionName": "margins",
                             "line": 82,
                             "message": "Cannot access value for name _margin"
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 258,
+                            "durationMicroseconds": 146,
                             "functionName": "left",
                             "line": 83,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 242,
+                            "durationMicroseconds": 137,
                             "functionName": "right",
                             "line": 84,
                             "message": ""
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 252,
+                            "durationMicroseconds": 121,
                             "functionName": "top",
                             "line": 85,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 88,
+                            "durationMicroseconds": 45,
                             "functionName": "rowSpacing",
                             "line": 97,
                             "message": "Cannot access value for name _margin"
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 29,
                             "functionName": "columnSpacing",
                             "line": 98,
                             "message": "Cannot access value for name _margin"
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 188,
+                            "durationMicroseconds": 127,
                             "functionName": "rows",
                             "line": 99,
                             "message": "Cannot access value for name rallyPoint"
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 249,
+                            "durationMicroseconds": 138,
                             "functionName": "flow",
                             "line": 100,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 33,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 46,
                             "functionName": "margins",
                             "line": 93,
                             "message": "Cannot access value for name _margin"
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 322,
+                            "durationMicroseconds": 167,
                             "functionName": "left",
                             "line": 94,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 260,
+                            "durationMicroseconds": 129,
                             "functionName": "right",
                             "line": 95,
                             "message": ""
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 33,
-                            "durationMicroseconds": 248,
+                            "durationMicroseconds": 125,
                             "functionName": "top",
                             "line": 96,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 199,
+                            "durationMicroseconds": 109,
                             "functionName": "model",
                             "line": 103,
                             "message": "Cannot access value for name rallyPoint"
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 802,
+                            "durationMicroseconds": 447,
                             "functionName": "text",
                             "line": 105,
                             "message": "Cannot access value for name modelData"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 191,
+                            "durationMicroseconds": 103,
                             "functionName": "model",
                             "line": 110,
                             "message": "Cannot access value for name rallyPoint"

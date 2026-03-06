@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 394,
+                            "durationMicroseconds": 210,
                             "functionName": "horizontalAlignment",
                             "line": 9,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 233,
+                            "durationMicroseconds": 73,
                             "functionName": "verticalAlignment",
                             "line": 10,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 29,
-                            "durationMicroseconds": 154,
+                            "durationMicroseconds": 74,
                             "functionName": "fill",
                             "line": 7,
                             "message": ""
