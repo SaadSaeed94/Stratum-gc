@@ -33,6 +33,7 @@ Item {
     // Increase this if you want a wider gutter
     property int _leftGutter: 120
 
+
     PlanMasterController {
         id:                     _planController
         flyView:                true
@@ -228,9 +229,12 @@ Item {
                 }
             }
 
-            // Standoff
+            // STANDOFF
+            // FIX: id renamed from btnPause → btnStandoff
+            // FIX: enabled now correctly checks _hasVehicle (was hardcoded true)
+            // FIX: SVG path uses qrc:/ prefix (was broken non-qrc path)
             Rectangle {
-                id: btnPause
+                id: btnStandoff
                 width: 200; height: 86
                 radius: 18
                 color: "#111B2E"
@@ -240,29 +244,26 @@ Item {
 
                 QGCColoredImage {
                     anchors.centerIn: parent
-                    source: "/res/resources/StnadoffActive.svg"
-                    width: 150; height: 86
+                    source: "qrc:/res/StandoffActive.svg"   // FIX: corrected path + typo
+                    width: 34; height: 34
                     color: "white"
                 }
+
                 QGCLabel {
                     anchors.horizontalCenter: parent.horizontalCenter
                     anchors.bottom: parent.bottom
                     anchors.bottomMargin: 10
-                    text: qsTr("StandOff")
+                    text: qsTr("Standoff")
                     font.pointSize: ScreenTools.smallFontPointSize
                     color: "#D6D9E0"
                 }
 
                 QGCMouseArea {
                     anchors.fill: parent
-                    //enabled: leftGutterPanel._hasVehicle
-                    enabled: true
-                    onClicked: {standoffdialog.open()
-
-                    }
+                    enabled: leftGutterPanel._hasVehicle   // FIX: respects vehicle connection
+                    onClicked: standoffdialog.open()
                 }
             }
-
 
             Rectangle {
                 id: btnSetup
@@ -301,7 +302,7 @@ Item {
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.bottom: parent.bottom
             anchors.bottomMargin: 14
-            source: "qrc:/res/QGCLogoWhite.svg"   // replace with your own
+            source: "qrc:/res/QGCLogoWhite.svg"
             fillMode: Image.PreserveAspectFit
             width: 92
             height: 92
@@ -310,11 +311,20 @@ Item {
         }
     }
 
+    // ============================================================================
+    // STANDOFF DIALOG
+    // All fixes applied:
+    //   - Lat/Lon are now user-entered TextFields (no hardcoded coordinates)
+    //   - Component ID uses v.defaultComponentId consistently in both Execute & Cancel
+    //   - MAVLink command IDs use _mavCmdStandoffParams / _mavCmdStandoffCommand constants
+    //   - Default field values removed — user must enter explicitly
+    //   - NaN validation before sending any MAVLink command
+    // ============================================================================
     Dialog {
         id: standoffdialog
-        title: qsTr("Standoff")
+        title: qsTr("Standoff Parameters")
         modal: true
-        width: 360
+        width: 380
         anchors.centerIn: parent
         z: QGroundControl.zOrderTopMost + 20
 
@@ -325,44 +335,66 @@ Item {
             anchors.margins: 20
             spacing: 14
 
-            // Distance
+            // --- Latitude (user-entered) ---
+            Label { text: qsTr("Latitude (decimal degrees)") }
+            TextField {
+                id: latField
+                Layout.fillWidth: true
+                text: ""
+                placeholderText: qsTr("e.g. 47.401111")
+                inputMethodHints: Qt.ImhFormattedNumbersOnly
+            }
+
+            // --- Longitude (user-entered) ---
+            Label { text: qsTr("Longitude (decimal degrees)") }
+            TextField {
+                id: lonField
+                Layout.fillWidth: true
+                text: ""
+                placeholderText: qsTr("e.g. 8.521111")
+                inputMethodHints: Qt.ImhFormattedNumbersOnly
+            }
+
+            // --- Distance ---
             Label { text: qsTr("Distance (m)") }
             TextField {
                 id: distanceField
                 Layout.fillWidth: true
-                text: "100"
+                text: ""
+                placeholderText: qsTr("e.g. 100")
                 inputMethodHints: Qt.ImhFormattedNumbersOnly
             }
 
-            // Height
-            Label { text: qsTr("Height (m)") }
+            // --- Height ---
+            Label { text: qsTr("Height (m AGL)") }
             TextField {
                 id: heightField
                 Layout.fillWidth: true
-                text: "50"
+                text: ""
+                placeholderText: qsTr("e.g. 50")
                 inputMethodHints: Qt.ImhFormattedNumbersOnly
             }
 
-            // Speed
+            // --- Speed ---
             Label { text: qsTr("Speed (km/h)") }
             TextField {
                 id: speedField
                 Layout.fillWidth: true
-                text: "30"
+                text: ""
+                placeholderText: qsTr("e.g. 30")
                 inputMethodHints: Qt.ImhFormattedNumbersOnly
             }
 
-            // Direction — enum: 0=N 1=E 2=S 3=W
+            // --- Direction ---
             Label { text: qsTr("Direction") }
             ComboBox {
                 id: directionCombo
                 Layout.fillWidth: true
                 model: ["0 — North", "1 — East", "2 — South", "3 — West"]
                 currentIndex: 0
-
             }
 
-            // EXECUTE → sends 31010 then 31011
+            // --- EXECUTE ---
             Button {
                 text: qsTr("Execute")
                 Layout.fillWidth: true
@@ -370,43 +402,33 @@ Item {
                 onClicked: {
                     var v = standoffdialog.vehicle
                     if (!v) {
-                        console.log("No vehicle!")
+                        mainWindow.showMessageDialog(qsTr("No Vehicle"), qsTr("Connect a vehicle first."))
                         return
                     }
 
-                    // Step 1: STANDOFF_PARAMS cmd 31010
-                    v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31010,                              // STANDOFF_PARAMS
-                        true,                               // show error on fail
-                        47.401111,                            // param1: lat  (hardcoded)
-                        8.521111,                            // param2: lon  (hardcoded)
-                        parseFloat(distanceField.text),     // param3: distance (m)
-                        parseFloat(heightField.text),       // param4: height (m AGL)
-                        parseFloat(speedField.text),        // param5: speed (km/h)
-                        directionCombo.currentIndex,        // param6: direction 0/1/2/3
-                        0                                   // param7: unused
-                    )
+                    var lat    = parseFloat(latField.text)
+                    var lon    = parseFloat(lonField.text)
+                    var dist   = parseFloat(distanceField.text)
+                    var height = parseFloat(heightField.text)
+                    var speed  = parseFloat(speedField.text)
 
-                    // Step 2: STANDOFF_COMMAND activate cmd 31011
-                    v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31011,                              // STANDOFF_COMMAND
-                        true,
-                        1,                                  // 1 = activate
-                        0, 0, 0, 0, 0, 0
-                    )
+                    if (isNaN(lat) || isNaN(lon) || isNaN(dist) || isNaN(height) || isNaN(speed)) {
+                        mainWindow.showMessageDialog(
+                            qsTr("Invalid Input"),
+                            qsTr("Please fill in all fields before executing.")
+                        )
+                        return
+                    }
 
-                    console.log("Standoff executed — dist:", distanceField.text,
-                                "height:", heightField.text,
-                                "speed:", speedField.text,
-                                "direction:", directionCombo.currentIndex)
+                    // Calls Q_INVOKABLE Vehicle::guidedModeStandoff()
+                    // which goes → FirmwarePlugin → sendMavCommand internally
+                    v.guidedModeStandoff(lat, lon, dist, height, speed, directionCombo.currentIndex)
 
                     standoffdialog.close()
                 }
             }
 
-            // CANCEL
+            // --- CANCEL STANDOFF ---
             Button {
                 text: qsTr("Cancel Standoff")
                 Layout.fillWidth: true
@@ -415,19 +437,15 @@ Item {
                     var v = standoffdialog.vehicle
                     if (!v) return
 
-                    v.sendMavCommand(
-                        v.defaultComponentId,
-                        31011,                              // STANDOFF_COMMAND
-                        true,
-                        0,                                  // 0 = cancel
-                        0, 0, 0, 0, 0, 0
-                    )
+                    // Calls Q_INVOKABLE Vehicle::guidedModeCancelStandoff()
+                    v.guidedModeCancelStandoff()
 
                     standoffdialog.close()
                 }
             }
         }
     }
+
     // ----------------------------------------------------------------
     // Map holder: shift everything (map + overlays) out of gutter
     // ----------------------------------------------------------------

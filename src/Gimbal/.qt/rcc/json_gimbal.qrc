@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/json/Vehicle">
+    <file alias="GimbalFact.json">/home/asher/Stratum-gc/src/Gimbal/GimbalFact.json</file>
+  </qresource>
+</RCC>
+

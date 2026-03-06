@@ -140,6 +140,21 @@ void FirmwarePlugin::guidedModeTakeoff(Vehicle *vehicle, double takeoffAltRel) c
     Q_UNUSED(takeoffAltRel);
     qgcApp()->showAppMessage(guided_mode_not_supported_by_vehicle);
 }
+//Standoff
+void FirmwarePlugin::guidedModeStandoff(Vehicle* vehicle,double latitude, double longitude, double distance, double height, double speed, int direction)
+{
+    Q_UNUSED(vehicle);
+    Q_UNUSED(latitude);  Q_UNUSED(longitude);
+    Q_UNUSED(distance);  Q_UNUSED(height);
+    Q_UNUSED(speed);     Q_UNUSED(direction);
+    qWarning() << "guidedModeStandoff not implemented for this firmware";
+}
+
+void FirmwarePlugin::guidedModeCancelStandoff(Vehicle* vehicle)
+{
+    Q_UNUSED(vehicle);
+    qWarning() << "guidedModeCancelStandoff not implemented for this firmware";
+}
 
 void FirmwarePlugin::guidedModeGotoLocation(Vehicle *vehicle, const QGeoCoordinate &gotoCoord, double forwardFlightLoiterRadius) const
 {

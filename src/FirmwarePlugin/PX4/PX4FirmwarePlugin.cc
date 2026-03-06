@@ -11,6 +11,9 @@
 #include <QString>
 
 #include "px4_custom_mode.h"
+// At the top of PX4FirmwarePlugin.cpp, after includes
+static constexpr MAV_CMD MAV_CMD_STANDOFF_PARAMS  = static_cast<MAV_CMD>(31010);
+static constexpr MAV_CMD MAV_CMD_STANDOFF_COMMAND = static_cast<MAV_CMD>(31011);
 
 PX4FirmwarePluginInstanceData::PX4FirmwarePluginInstanceData(QObject* parent)
     : FirmwarePluginInstanceData(parent)
@@ -340,7 +343,55 @@ void PX4FirmwarePlugin::guidedModeTakeoff(Vehicle* vehicle, double takeoffAltRel
         NAN, NAN, NAN,                          // No yaw, lat, lon
         static_cast<float>(takeoffAltAMSL));    // AMSL altitude
 }
+//Standoff
+void PX4FirmwarePlugin::guidedModeStandoff(Vehicle* vehicle,
+                                           double latitude,
+                                           double longitude,
+                                           double distance,
+                                           double height,
+                                           double speed,
+                                           int    direction)
+{
+    // Step 1: Send standoff parameters
+    vehicle->sendMavCommand(
+        vehicle->defaultComponentId(),
+        MAV_CMD_STANDOFF_PARAMS,
+        true,
+        static_cast<float>(latitude),
+        static_cast<float>(longitude),
+        static_cast<float>(distance),
+        static_cast<float>(height),
+        static_cast<float>(speed),
+        static_cast<float>(direction),
+        0.0f
+        );
 
+            // Step 2: Activate standoff mode
+    vehicle->sendMavCommand(
+        vehicle->defaultComponentId(),
+        MAV_CMD_STANDOFF_COMMAND,
+        true,
+        1.0f,
+        0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f
+        );
+}
+
+void PX4FirmwarePlugin::guidedModeCancelStandoff(Vehicle* vehicle)
+{
+    // Deactivate standoff mode
+    vehicle->sendMavCommand(
+        vehicle->defaultComponentId(),  // component
+        MAV_CMD_STANDOFF_COMMAND,       // 31011
+        true,                           // show error on NACK
+        0.0f,                           // param1: 0 = cancel
+        0.0f,                           // param2: unused
+        0.0f,                           // param3: unused
+        0.0f,                           // param4: unused
+        0.0f,                           // param5: unused
+        0.0f,                           // param6: unused
+        0.0f                            // param7: unused
+        );
+}
 double PX4FirmwarePlugin::maximumHorizontalSpeedMultirotor(Vehicle* vehicle) const
 {
     QString speedParam("MPC_XY_VEL_MAX");

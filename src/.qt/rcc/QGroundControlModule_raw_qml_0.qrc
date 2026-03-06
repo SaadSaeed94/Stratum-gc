@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/">
+    <file alias="MainWindow.qml">/home/asher/Stratum-gc/src/UI/MainWindow.qml</file>
+  </qresource>
+</RCC>
+

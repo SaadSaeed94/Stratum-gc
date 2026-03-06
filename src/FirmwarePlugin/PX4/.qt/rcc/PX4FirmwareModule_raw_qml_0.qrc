@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/FirmwarePlugin/PX4/">
+    <file alias="PX4BatteryIndicator.qml">/home/asher/Stratum-gc/src/FirmwarePlugin/PX4/PX4BatteryIndicator.qml</file>
+    <file alias="PX4FlightModeIndicator.qml">/home/asher/Stratum-gc/src/FirmwarePlugin/PX4/PX4FlightModeIndicator.qml</file>
+    <file alias="PX4MainStatusIndicator.qml">/home/asher/Stratum-gc/src/FirmwarePlugin/PX4/PX4MainStatusIndicator.qml</file>
+  </qresource>
+</RCC>
+

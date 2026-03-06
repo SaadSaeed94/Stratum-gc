@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/FlightMap">
+    <file alias="qmldir">/home/asher/Stratum-gc/qml/QGroundControl/FlightMap/qmldir</file>
+  </qresource>
+</RCC>
+

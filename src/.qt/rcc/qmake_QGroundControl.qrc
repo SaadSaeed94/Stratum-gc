@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl">
+    <file alias="qmldir">/home/asher/Stratum-gc/qml/QGroundControl/qmldir</file>
+  </qresource>
+</RCC>
+

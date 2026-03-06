@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AnalyzeView/GeoTag">
+    <file alias="qmldir">/home/asher/Stratum-gc/qml/QGroundControl/AnalyzeView/GeoTag/qmldir</file>
+  </qresource>
+</RCC>
+
