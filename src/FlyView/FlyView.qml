@@ -88,7 +88,7 @@ Item {
     Rectangle {
         id: leftGutterPanel
         anchors.left: _root.left
-        anchors.top: _root.top
+        anchors.top: toolbar.bottom
         anchors.bottom: _root.bottom
         width: 230
         z: QGroundControl.zOrderTopMost + 10
@@ -126,7 +126,7 @@ Item {
         Column {
             id: gutterButtons
             anchors.top: parent.top
-            anchors.topMargin: toolbar.height + 18
+            anchors.topMargin:18
             anchors.horizontalCenter: parent.horizontalCenter
             spacing: 14
 
@@ -468,6 +468,7 @@ Item {
         FlyViewVideo {
             id:         videoControl
             pipView:    _pipView
+            visible:    QGroundControl.videoManager.hasVideo
         }
 
         PipView {
