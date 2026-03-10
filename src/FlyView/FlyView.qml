@@ -95,8 +95,8 @@ Item {
 
         // ---- THEME (change anytime) ----
         color: "#0B1220"          // gutter background
-        opacity: 0.95
-        radius: 14
+        opacity: 1.0
+        radius: 0
         border.color: "#1F2A44"
         border.width: 1
 
@@ -121,12 +121,153 @@ Item {
             mainWindow.showMessageDialog(title, msg)
         }
 
+        // ---- 6 NAV BUTTONS GRID (below toolbar, above Takeoff) ----
+        GridLayout {
+            id:                         navGrid
+            anchors.top:                parent.top
+            anchors.topMargin:          12
+            anchors.horizontalCenter:   parent.horizontalCenter
+            columns:                    3
+            rowSpacing:                 6
+            columnSpacing:              6
+
+            // Plan
+            Rectangle {
+                width: 64; height: 52; radius: 8
+                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
+                Column {
+                    anchors.centerIn: parent; spacing: 4
+                    QGCColoredImage {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        source: "qrc:/qmlimages/Plan.svg"
+                        width: 20; height: 20; color: "#D6D9E0"
+                    }
+                    QGCLabel {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        text: qsTr("Plan")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
+                        color: "#D6D9E0"
+                    }
+                }
+                MouseArea { anchors.fill: parent; onClicked: mainWindow.showPlanView() }
+            }
+
+            // Fly
+            Rectangle {
+                width: 64; height: 52; radius: 8
+                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
+                Column {
+                    anchors.centerIn: parent; spacing: 4
+                    QGCColoredImage {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        source: "qrc:/qmlimages/FlyView.svg"
+                        width: 20; height: 20; color: "#D6D9E0"
+                    }
+                    QGCLabel {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        text: qsTr("Fly")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
+                        color: "#D6D9E0"
+                    }
+                }
+                MouseArea { anchors.fill: parent; onClicked: mainWindow.showFlyView() }
+            }
+
+            // Analyze
+            Rectangle {
+                width: 64; height: 52; radius: 8
+                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
+                Column {
+                    anchors.centerIn: parent; spacing: 4
+                    QGCColoredImage {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        source: "qrc:/qmlimages/Analyze.svg"
+                        width: 20; height: 20; color: "#D6D9E0"
+                    }
+                    QGCLabel {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        text: qsTr("Analyze")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
+                        color: "#D6D9E0"
+                    }
+                }
+                MouseArea { anchors.fill: parent; onClicked: mainWindow.showAnalyzeView() }
+            }
+
+            // Setup
+            Rectangle {
+                width: 64; height: 52; radius: 8
+                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
+                Column {
+                    anchors.centerIn: parent; spacing: 4
+                    QGCColoredImage {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        source: "qrc:/qmlimages/Gears.svg"
+                        width: 20; height: 20; color: "#D6D9E0"
+                    }
+                    QGCLabel {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        text: qsTr("Setup")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
+                        color: "#D6D9E0"
+                    }
+                }
+                MouseArea { anchors.fill: parent; onClicked: mainWindow.showSetupView() }
+            }
+
+            // Settings
+            Rectangle {
+                width: 64; height: 52; radius: 8
+                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
+                Column {
+                    anchors.centerIn: parent; spacing: 4
+                    QGCColoredImage {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        source: "qrc:/qmlimages/Preferences.svg"
+                        width: 20; height: 20; color: "#D6D9E0"
+                    }
+                    QGCLabel {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        text: qsTr("Settings")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
+                        color: "#D6D9E0"
+                    }
+                }
+                MouseArea { anchors.fill: parent; onClicked: mainWindow.showSettingsView() }
+            }
+
+            // About
+            Rectangle {
+                width: 64; height: 52; radius: 8
+                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
+                Column {
+                    anchors.centerIn: parent; spacing: 4
+                    QGCColoredImage {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        source: "qrc:/qmlimages/Help.svg"
+                        width: 20; height: 20; color: "#D6D9E0"
+                    }
+                    QGCLabel {
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        text: qsTr("About")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
+                        color: "#D6D9E0"
+                    }
+                }
+                MouseArea { anchors.fill: parent; onClicked: mainWindow.showHelpView() }
+            }
+        }
+
         // ---- BUTTON LIST ----
-        // TIP: Add more buttons by copy/pasting any Rectangle button block below
         Column {
             id: gutterButtons
+
             anchors.top: parent.top
             anchors.topMargin:18
+
+            anchors.top: navGrid.bottom      // sits directly below the nav grid
+            anchors.topMargin: 14
+
             anchors.horizontalCenter: parent.horizontalCenter
             spacing: 14
 
@@ -244,8 +385,13 @@ Item {
 
                 QGCColoredImage {
                     anchors.centerIn: parent
+
                     source: "qrc:/res/StandoffActive.svg"   // FIX: corrected path + typo
                     width: 34; height: 34
+
+                    source: "qrc:/res/StandoffActive.svg"
+                    width: 150; height: 86
+
                     color: "white"
                 }
 
@@ -260,8 +406,16 @@ Item {
 
                 QGCMouseArea {
                     anchors.fill: parent
+
                     enabled: leftGutterPanel._hasVehicle   // FIX: respects vehicle connection
                     onClicked: standoffdialog.open()
+
+                    //enabled: leftGutterPanel._hasVehicle
+                    enabled: true
+                    onClicked: {standoffdialog.open()
+
+                    }
+
                 }
             }
 
@@ -406,6 +560,7 @@ Item {
                         return
                     }
 
+
                     var lat    = parseFloat(latField.text)
                     var lon    = parseFloat(lonField.text)
                     var dist   = parseFloat(distanceField.text)
@@ -419,6 +574,30 @@ Item {
                         )
                         return
                     }
+
+                    // Step 1: STANDOFF_PARAMS cmd 31010
+                    v.sendMavCommand(
+                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
+                        31010,                              // STANDOFF_PARAMS
+                        true,                               // show error on fail
+                        47.401111,                            // param1: lat  (hardcoded)
+                        8.521111,                            // param2: lon  (hardcoded)
+                        parseFloat(distanceField.text),     // param3: distance (m)
+                        parseFloat(heightField.text),       // param4: height (m AGL)
+                        parseFloat(speedField.text),        // param5: speed (km/h)
+                        directionCombo.currentIndex,        // param6: direction 0/1/2/3
+                        0                                   // param7: unused
+                    )
+
+                    // Step 2: STANDOFF_COMMAND activate cmd 31011
+                    v.sendMavCommand(
+                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
+                        31011,                              // STANDOFF_COMMAND
+                        true,
+                        1,                                  // 1 = activate
+                        0, 0, 0, 0, 0, 0
+                    )
+
 
                     // Calls Q_INVOKABLE Vehicle::guidedModeStandoff()
                     // which goes → FirmwarePlugin → sendMavCommand internally
@@ -437,8 +616,18 @@ Item {
                     var v = standoffdialog.vehicle
                     if (!v) return
 
+
                     // Calls Q_INVOKABLE Vehicle::guidedModeCancelStandoff()
                     v.guidedModeCancelStandoff()
+
+                    v.sendMavCommand(
+                        v.defaultComponentId,
+                        31011,                              // STANDOFF_COMMAND
+                        true,
+                        0,                                  // 0 = cancel
+                        0, 0, 0, 0, 0, 0
+                    )
+
 
                     standoffdialog.close()
                 }
