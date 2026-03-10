@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGroundControl/AnalyzeView">/home/asher/Stratum-gc/qml/QGroundControl/AnalyzeView</file>
-
-  </qresource>
-</RCC>

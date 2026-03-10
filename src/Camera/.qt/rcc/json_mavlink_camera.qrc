@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/json">
-    <file alias="CameraMetaData.json">/home/asher/Stratum-gc/src/Camera/CameraMetaData.json</file>
-  </qresource>
-</RCC>
-

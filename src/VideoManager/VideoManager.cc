@@ -12,8 +12,7 @@
 #include "VideoReceiver.h"
 #include "VideoSettings.h"
 #ifdef QGC_GST_STREAMING
-#include "GStreamer/GStreamer.h"
-// #include "/home/asher/qgroundcontrol/src/VideoManager/VideoReceiver/GStreamer/GStreamer.h"
+#include "GStreamer.h"
 #else
 #include "VideoItemStub.h"
 #endif

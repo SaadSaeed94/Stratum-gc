@@ -2015,26 +2015,6 @@ void Vehicle::guidedModeTakeoff(double altitudeRelative)
     _firmwarePlugin->guidedModeTakeoff(this, altitudeRelative);
 }
 
-//Standoff
-void Vehicle::guidedModeStandoff(double latitude, double longitude,double distance, double height, double speed, int direction)
-{
-    if (!guidedModeSupported()) {
-        qgcApp()->showAppMessage(guided_mode_not_supported_by_vehicle);
-        return;
-    }
-    _firmwarePlugin->guidedModeStandoff(this, latitude, longitude,
-                                        distance, height, speed, direction);
-}
-
-void Vehicle::guidedModeCancelStandoff(void)
-{
-    if (!guidedModeSupported()) {
-        qgcApp()->showAppMessage(guided_mode_not_supported_by_vehicle);
-        return;
-    }
-    _firmwarePlugin->guidedModeCancelStandoff(this);
-}
-
 double Vehicle::minimumTakeoffAltitudeMeters()
 {
     return _firmwarePlugin->minimumTakeoffAltitudeMeters(this);

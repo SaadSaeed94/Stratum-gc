@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/json/Vehicle">
-    <file alias="GPSRTKFact.json">/home/asher/Stratum-gc/src/GPS/GPSRTKFact.json</file>
-  </qresource>
-</RCC>
-

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGroundControl/AutoPilotPlugins/PX4">/home/asher/Stratum-gc/qml/QGroundControl/AutoPilotPlugins/PX4</file>
-
-  </qresource>
-</RCC>
