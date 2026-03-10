@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/json">
+    <file alias="USBBoardInfo.json">/home/asher/Stratum-gc/src/Comms/USBBoardInfo.json</file>
+  </qresource>
+</RCC>
+

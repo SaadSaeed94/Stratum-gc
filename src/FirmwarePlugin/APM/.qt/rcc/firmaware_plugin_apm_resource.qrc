@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/FirmwarePlugin/APM">
+    <file alias="Copter.OfflineEditing.params">/home/asher/Stratum-gc/src/FirmwarePlugin/APM/Copter.OfflineEditing.params</file>
+    <file alias="Plane.OfflineEditing.params">/home/asher/Stratum-gc/src/FirmwarePlugin/APM/Plane.OfflineEditing.params</file>
+    <file alias="Rover.OfflineEditing.params">/home/asher/Stratum-gc/src/FirmwarePlugin/APM/Rover.OfflineEditing.params</file>
+    <file alias="Sub.OfflineEditing.params">/home/asher/Stratum-gc/src/FirmwarePlugin/APM/Sub.OfflineEditing.params</file>
+  </qresource>
+</RCC>
+

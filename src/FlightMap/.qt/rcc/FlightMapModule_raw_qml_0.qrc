@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/FlightMap/">
+    <file alias="MapItems/CameraTriggerIndicator.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/CameraTriggerIndicator.qml</file>
+    <file alias="MapItems/CustomMapItems.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/CustomMapItems.qml</file>
+    <file alias="MapItems/MapLineArrow.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/MapLineArrow.qml</file>
+    <file alias="MapItems/MissionItemIndicator.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/MissionItemIndicator.qml</file>
+    <file alias="MapItems/MissionItemIndicatorDrag.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/MissionItemIndicatorDrag.qml</file>
+    <file alias="MapItems/MissionLineView.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/MissionLineView.qml</file>
+    <file alias="MapItems/PlanMapItems.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/PlanMapItems.qml</file>
+    <file alias="MapItems/ProximityRadarMapView.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/ProximityRadarMapView.qml</file>
+    <file alias="MapItems/QGCMapCircleVisuals.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/QGCMapCircleVisuals.qml</file>
+    <file alias="MapItems/QGCMapPolygonVisuals.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/QGCMapPolygonVisuals.qml</file>
+    <file alias="MapItems/QGCMapPolylineVisuals.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/QGCMapPolylineVisuals.qml</file>
+    <file alias="MapItems/SplitIndicator.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/SplitIndicator.qml</file>
+    <file alias="MapItems/VehicleMapItem.qml">/home/asher/Stratum-gc/src/FlightMap/MapItems/VehicleMapItem.qml</file>
+    <file alias="Widgets/CenterMapDropButton.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/CenterMapDropButton.qml</file>
+    <file alias="Widgets/CenterMapDropPanel.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/CenterMapDropPanel.qml</file>
+    <file alias="Widgets/CompassDial.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/CompassDial.qml</file>
+    <file alias="Widgets/CompassHeadingIndicator.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/CompassHeadingIndicator.qml</file>
+    <file alias="Widgets/HorizontalCompassAttitude.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/HorizontalCompassAttitude.qml</file>
+    <file alias="Widgets/IntegratedAttitudeIndicator.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/IntegratedAttitudeIndicator.qml</file>
+    <file alias="Widgets/IntegratedCompassAttitude.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/IntegratedCompassAttitude.qml</file>
+    <file alias="Widgets/MapFitFunctions.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/MapFitFunctions.qml</file>
+    <file alias="Widgets/PhotoVideoControl.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/PhotoVideoControl.qml</file>
+    <file alias="Widgets/QGCArtificialHorizon.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/QGCArtificialHorizon.qml</file>
+    <file alias="Widgets/QGCAttitudeWidget.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/QGCAttitudeWidget.qml</file>
+    <file alias="Widgets/QGCCompassWidget.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/QGCCompassWidget.qml</file>
+    <file alias="Widgets/QGCPitchIndicator.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/QGCPitchIndicator.qml</file>
+    <file alias="Widgets/VerticalCompassAttitude.qml">/home/asher/Stratum-gc/src/FlightMap/Widgets/VerticalCompassAttitude.qml</file>
+    <file alias="FlightMap.qml">/home/asher/Stratum-gc/src/FlightMap/FlightMap.qml</file>
+    <file alias="MapScale.qml">/home/asher/Stratum-gc/src/FlightMap/MapScale.qml</file>
+  </qresource>
+</RCC>
+

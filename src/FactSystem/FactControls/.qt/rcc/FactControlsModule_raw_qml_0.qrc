@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/FactControls/">
+    <file alias="AltitudeFactTextField.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/AltitudeFactTextField.qml</file>
+    <file alias="FactBitmask.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactBitmask.qml</file>
+    <file alias="FactCheckBox.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactCheckBox.qml</file>
+    <file alias="FactCheckBoxSlider.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactCheckBoxSlider.qml</file>
+    <file alias="FactComboBox.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactComboBox.qml</file>
+    <file alias="FactLabel.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactLabel.qml</file>
+    <file alias="FactTextField.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactTextField.qml</file>
+    <file alias="FactTextFieldGrid.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactTextFieldGrid.qml</file>
+    <file alias="FactTextFieldSlider.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactTextFieldSlider.qml</file>
+    <file alias="FactTextFieldSlider2.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactTextFieldSlider2.qml</file>
+    <file alias="FactValueSlider.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/FactValueSlider.qml</file>
+    <file alias="LabelledFactComboBox.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/LabelledFactComboBox.qml</file>
+    <file alias="LabelledFactLabel.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/LabelledFactLabel.qml</file>
+    <file alias="LabelledFactTextField.qml">/home/asher/Stratum-gc/src/FactSystem/FactControls/LabelledFactTextField.qml</file>
+  </qresource>
+</RCC>
+

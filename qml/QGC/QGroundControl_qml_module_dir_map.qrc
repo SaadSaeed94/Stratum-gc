@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGC">/home/asher/Stratum-gc/qml/QGC</file>
+
+  </qresource>
+</RCC>

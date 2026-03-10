@@ -177,6 +177,10 @@ public:
     /// Command vehicle to takeoff from current location to the specified height.
     virtual void guidedModeTakeoff(Vehicle *vehicle, double takeoffAltRel) const;
 
+    //Standoff
+    virtual void guidedModeStandoff(Vehicle* vehicle, double latitude,  double longitude, double distance, double height,double speed, int direction);
+
+    virtual void guidedModeCancelStandoff(Vehicle* vehicle);
     /// Command vehicle to rotate towards specified location.
     virtual void guidedModeChangeHeading(Vehicle *vehicle, const QGeoCoordinate &headingCoord) const;
 

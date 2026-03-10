@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/FlyView">/home/asher/Stratum-gc/qml/QGroundControl/FlyView</file>
+
+  </qresource>
+</RCC>
