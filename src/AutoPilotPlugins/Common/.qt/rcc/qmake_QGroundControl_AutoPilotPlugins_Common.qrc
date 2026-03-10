@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qml/QGroundControl/AutoPilotPlugins/Common">
-    <file alias="qmldir">/home/asher/Stratum-gc/qml/QGroundControl/AutoPilotPlugins/Common/qmldir</file>
-  </qresource>
-</RCC>
-

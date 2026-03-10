@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGroundControl/FirmwarePlugin/APM">/home/asher/Stratum-gc/qml/QGroundControl/FirmwarePlugin/APM</file>
-
-  </qresource>
-</RCC>

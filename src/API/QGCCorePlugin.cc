@@ -4,8 +4,7 @@
 #include "MavlinkSettings.h"
 #include "FactMetaData.h"
 #ifdef QGC_GST_STREAMING
-#include "GStreamer/GStreamer.h"
-// #include"/home/asher/qgroundcontrol/src/VideoManager/VideoReceiver/GStreamer/GStreamer.h"
+#include "GStreamer.h"
 #endif
 #include "HorizontalFactValueGrid.h"
 #include "InstrumentValueData.h"

@@ -37,8 +37,6 @@ public:
     void                guidedModeRTL                   (Vehicle* vehicle, bool smartRTL) const override;
     void                guidedModeLand                  (Vehicle* vehicle) const override;
     void                guidedModeTakeoff               (Vehicle* vehicle, double takeoffAltRel) const override;
-    void                guidedModeStandoff(Vehicle* vehicle,double latitude, double longitude, double distance, double height, double speed, int direction) override;
-    void                guidedModeCancelStandoff(Vehicle* vehicle) override;
     double              maximumHorizontalSpeedMultirotor(Vehicle* vehicle) const override;
     double              maximumEquivalentAirspeed(Vehicle* vehicle) const override;
     double              minimumEquivalentAirspeed(Vehicle* vehicle) const override;

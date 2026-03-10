@@ -4,8 +4,7 @@
 #include <QtCore/QVariantList>
 
 #ifdef QGC_GST_STREAMING
-#include "GStreamer/GStreamer.h"
-// #include"/home/asher/qgroundcontrol/src/VideoManager/VideoReceiver/GStreamer/GStreamer.h"
+#include "GStreamer.h"
 #endif
 #ifndef QGC_DISABLE_UVC
 #include "UVCReceiver.h"
