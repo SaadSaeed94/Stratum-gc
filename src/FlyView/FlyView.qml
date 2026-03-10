@@ -33,7 +33,6 @@ Item {
     // Increase this if you want a wider gutter
     property int _leftGutter: 120
 
-
     PlanMasterController {
         id:                     _planController
         flyView:                true
@@ -95,8 +94,8 @@ Item {
 
         // ---- THEME (change anytime) ----
         color: "#0B1220"          // gutter background
-        opacity: 1.0
-        radius: 0
+        opacity: 0.95
+        radius: 14
         border.color: "#1F2A44"
         border.width: 1
 
@@ -121,153 +120,12 @@ Item {
             mainWindow.showMessageDialog(title, msg)
         }
 
-        // ---- 6 NAV BUTTONS GRID (below toolbar, above Takeoff) ----
-        GridLayout {
-            id:                         navGrid
-            anchors.top:                parent.top
-            anchors.topMargin:          12
-            anchors.horizontalCenter:   parent.horizontalCenter
-            columns:                    3
-            rowSpacing:                 6
-            columnSpacing:              6
-
-            // Plan
-            Rectangle {
-                width: 64; height: 52; radius: 8
-                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
-                Column {
-                    anchors.centerIn: parent; spacing: 4
-                    QGCColoredImage {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        source: "qrc:/qmlimages/Plan.svg"
-                        width: 20; height: 20; color: "#D6D9E0"
-                    }
-                    QGCLabel {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        text: qsTr("Plan")
-                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
-                        color: "#D6D9E0"
-                    }
-                }
-                MouseArea { anchors.fill: parent; onClicked: mainWindow.showPlanView() }
-            }
-
-            // Fly
-            Rectangle {
-                width: 64; height: 52; radius: 8
-                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
-                Column {
-                    anchors.centerIn: parent; spacing: 4
-                    QGCColoredImage {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        source: "qrc:/qmlimages/FlyView.svg"
-                        width: 20; height: 20; color: "#D6D9E0"
-                    }
-                    QGCLabel {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        text: qsTr("Fly")
-                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
-                        color: "#D6D9E0"
-                    }
-                }
-                MouseArea { anchors.fill: parent; onClicked: mainWindow.showFlyView() }
-            }
-
-            // Analyze
-            Rectangle {
-                width: 64; height: 52; radius: 8
-                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
-                Column {
-                    anchors.centerIn: parent; spacing: 4
-                    QGCColoredImage {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        source: "qrc:/qmlimages/Analyze.svg"
-                        width: 20; height: 20; color: "#D6D9E0"
-                    }
-                    QGCLabel {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        text: qsTr("Analyze")
-                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
-                        color: "#D6D9E0"
-                    }
-                }
-                MouseArea { anchors.fill: parent; onClicked: mainWindow.showAnalyzeView() }
-            }
-
-            // Setup
-            Rectangle {
-                width: 64; height: 52; radius: 8
-                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
-                Column {
-                    anchors.centerIn: parent; spacing: 4
-                    QGCColoredImage {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        source: "qrc:/qmlimages/Gears.svg"
-                        width: 20; height: 20; color: "#D6D9E0"
-                    }
-                    QGCLabel {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        text: qsTr("Setup")
-                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
-                        color: "#D6D9E0"
-                    }
-                }
-                MouseArea { anchors.fill: parent; onClicked: mainWindow.showSetupView() }
-            }
-
-            // Settings
-            Rectangle {
-                width: 64; height: 52; radius: 8
-                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
-                Column {
-                    anchors.centerIn: parent; spacing: 4
-                    QGCColoredImage {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        source: "qrc:/qmlimages/Preferences.svg"
-                        width: 20; height: 20; color: "#D6D9E0"
-                    }
-                    QGCLabel {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        text: qsTr("Settings")
-                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
-                        color: "#D6D9E0"
-                    }
-                }
-                MouseArea { anchors.fill: parent; onClicked: mainWindow.showSettingsView() }
-            }
-
-            // About
-            Rectangle {
-                width: 64; height: 52; radius: 8
-                color: "#111B2E"; border.color: "#2B3A5C"; border.width: 1
-                Column {
-                    anchors.centerIn: parent; spacing: 4
-                    QGCColoredImage {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        source: "qrc:/qmlimages/Help.svg"
-                        width: 20; height: 20; color: "#D6D9E0"
-                    }
-                    QGCLabel {
-                        anchors.horizontalCenter: parent.horizontalCenter
-                        text: qsTr("About")
-                        font.pointSize: ScreenTools.smallFontPointSize * 0.85
-                        color: "#D6D9E0"
-                    }
-                }
-                MouseArea { anchors.fill: parent; onClicked: mainWindow.showHelpView() }
-            }
-        }
-
         // ---- BUTTON LIST ----
+        // TIP: Add more buttons by copy/pasting any Rectangle button block below
         Column {
             id: gutterButtons
-
             anchors.top: parent.top
-            anchors.topMargin:18
-
-            anchors.top: navGrid.bottom      // sits directly below the nav grid
-            anchors.topMargin: 14
-
+            anchors.topMargin: toolbar.height + 18
             anchors.horizontalCenter: parent.horizontalCenter
             spacing: 14
 
@@ -276,10 +134,12 @@ Item {
                 id: btnTakeoff
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -300,6 +160,8 @@ Item {
                 QGCMouseArea {
                     anchors.fill: parent
                     enabled: leftGutterPanel._hasVehicle
+                    onPressed:  { btnTakeoff._pressed = true;  btnTakeoff.scale = 0.93 }
+                    onReleased: { btnTakeoff._pressed = false; btnTakeoff.scale = 1.0  }
                     onClicked: leftGutterPanel.doGuided(globals.guidedControllerFlyView.actionTakeoff)
                 }
             }
@@ -309,10 +171,12 @@ Item {
                 id: btnRTL
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -333,6 +197,8 @@ Item {
                 QGCMouseArea {
                     anchors.fill: parent
                     enabled: leftGutterPanel._hasVehicle
+                    onPressed:  { btnRTL._pressed = true;  btnRTL.scale = 0.93 }
+                    onReleased: { btnRTL._pressed = false; btnRTL.scale = 1.0  }
                     onClicked: leftGutterPanel.doGuided(globals.guidedControllerFlyView.actionRTL)
                 }
             }
@@ -342,10 +208,12 @@ Item {
                 id: btnLand
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -366,66 +234,58 @@ Item {
                 QGCMouseArea {
                     anchors.fill: parent
                     enabled: leftGutterPanel._hasVehicle
+                    onPressed:  { btnLand._pressed = true;  btnLand.scale = 0.93 }
+                    onReleased: { btnLand._pressed = false; btnLand.scale = 1.0  }
                     onClicked: leftGutterPanel.doGuided(globals.guidedControllerFlyView.actionLand)
                 }
             }
 
-            // STANDOFF
-            // FIX: id renamed from btnPause → btnStandoff
-            // FIX: enabled now correctly checks _hasVehicle (was hardcoded true)
-            // FIX: SVG path uses qrc:/ prefix (was broken non-qrc path)
+            // Standoff
             Rectangle {
-                id: btnStandoff
+                id: btnPause
                 width: 200; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
                 opacity: leftGutterPanel._hasVehicle ? 1.0 : 0.45
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
-
-                    source: "qrc:/res/StandoffActive.svg"   // FIX: corrected path + typo
-                    width: 34; height: 34
-
-                    source: "qrc:/res/StandoffActive.svg"
+                    source: "/res/resources/StnadoffActive.svg"
                     width: 150; height: 86
-
                     color: "white"
                 }
-
                 QGCLabel {
                     anchors.horizontalCenter: parent.horizontalCenter
                     anchors.bottom: parent.bottom
                     anchors.bottomMargin: 10
-                    text: qsTr("Standoff")
+                    text: qsTr("StandOff")
                     font.pointSize: ScreenTools.smallFontPointSize
                     color: "#D6D9E0"
                 }
 
                 QGCMouseArea {
                     anchors.fill: parent
-
-                    enabled: leftGutterPanel._hasVehicle   // FIX: respects vehicle connection
-                    onClicked: standoffdialog.open()
-
-                    //enabled: leftGutterPanel._hasVehicle
                     enabled: true
-                    onClicked: {standoffdialog.open()
-
-                    }
-
+                    onPressed:  { btnPause._pressed = true;  btnPause.scale = 0.93 }
+                    onReleased: { btnPause._pressed = false; btnPause.scale = 1.0  }
+                    onClicked: standoffdialog.open()
                 }
             }
+
 
             Rectangle {
                 id: btnSetup
                 width: 86; height: 86
                 radius: 18
-                color: "#111B2E"
-                border.color: "#2B3A5C"
+                color: _pressed ? "#1E2E47" : "#111B2E"
+                border.color: _pressed ? "#4A6A9C" : "#2B3A5C"
                 border.width: 1
+                property bool _pressed: false
+                Behavior on scale { NumberAnimation { duration: 80; easing.type: Easing.OutCubic } }
 
                 QGCColoredImage {
                     anchors.centerIn: parent
@@ -445,6 +305,8 @@ Item {
 
                 QGCMouseArea {
                     anchors.fill: parent
+                    onPressed:  { btnSetup._pressed = true;  btnSetup.scale = 0.93 }
+                    onReleased: { btnSetup._pressed = false; btnSetup.scale = 1.0  }
                     onClicked: leftGutterPanel.showInfo(qsTr("Setup"), qsTr("Wire this to a screen later."))
                 }
             }
@@ -456,7 +318,7 @@ Item {
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.bottom: parent.bottom
             anchors.bottomMargin: 14
-            source: "qrc:/res/QGCLogoWhite.svg"
+            source: "qrc:/res/QGCLogoWhite.svg"   // replace with your own
             fillMode: Image.PreserveAspectFit
             width: 92
             height: 92
@@ -465,20 +327,11 @@ Item {
         }
     }
 
-    // ============================================================================
-    // STANDOFF DIALOG
-    // All fixes applied:
-    //   - Lat/Lon are now user-entered TextFields (no hardcoded coordinates)
-    //   - Component ID uses v.defaultComponentId consistently in both Execute & Cancel
-    //   - MAVLink command IDs use _mavCmdStandoffParams / _mavCmdStandoffCommand constants
-    //   - Default field values removed — user must enter explicitly
-    //   - NaN validation before sending any MAVLink command
-    // ============================================================================
     Dialog {
         id: standoffdialog
-        title: qsTr("Standoff Parameters")
+        title: qsTr("Standoff")
         modal: true
-        width: 380
+        width: 360
         anchors.centerIn: parent
         z: QGroundControl.zOrderTopMost + 20
 
@@ -489,66 +342,44 @@ Item {
             anchors.margins: 20
             spacing: 14
 
-            // --- Latitude (user-entered) ---
-            Label { text: qsTr("Latitude (decimal degrees)") }
-            TextField {
-                id: latField
-                Layout.fillWidth: true
-                text: ""
-                placeholderText: qsTr("e.g. 47.401111")
-                inputMethodHints: Qt.ImhFormattedNumbersOnly
-            }
-
-            // --- Longitude (user-entered) ---
-            Label { text: qsTr("Longitude (decimal degrees)") }
-            TextField {
-                id: lonField
-                Layout.fillWidth: true
-                text: ""
-                placeholderText: qsTr("e.g. 8.521111")
-                inputMethodHints: Qt.ImhFormattedNumbersOnly
-            }
-
-            // --- Distance ---
+            // Distance
             Label { text: qsTr("Distance (m)") }
             TextField {
                 id: distanceField
                 Layout.fillWidth: true
-                text: ""
-                placeholderText: qsTr("e.g. 100")
+                text: "100"
                 inputMethodHints: Qt.ImhFormattedNumbersOnly
             }
 
-            // --- Height ---
-            Label { text: qsTr("Height (m AGL)") }
+            // Height
+            Label { text: qsTr("Height (m)") }
             TextField {
                 id: heightField
                 Layout.fillWidth: true
-                text: ""
-                placeholderText: qsTr("e.g. 50")
+                text: "50"
                 inputMethodHints: Qt.ImhFormattedNumbersOnly
             }
 
-            // --- Speed ---
+            // Speed
             Label { text: qsTr("Speed (km/h)") }
             TextField {
                 id: speedField
                 Layout.fillWidth: true
-                text: ""
-                placeholderText: qsTr("e.g. 30")
+                text: "30"
                 inputMethodHints: Qt.ImhFormattedNumbersOnly
             }
 
-            // --- Direction ---
+            // Direction — enum: 0=N 1=E 2=S 3=W
             Label { text: qsTr("Direction") }
             ComboBox {
                 id: directionCombo
                 Layout.fillWidth: true
                 model: ["0 — North", "1 — East", "2 — South", "3 — West"]
                 currentIndex: 0
+
             }
 
-            // --- EXECUTE ---
+            // EXECUTE → sends 31010 then 31011
             Button {
                 text: qsTr("Execute")
                 Layout.fillWidth: true
@@ -556,58 +387,29 @@ Item {
                 onClicked: {
                     var v = standoffdialog.vehicle
                     if (!v) {
-                        mainWindow.showMessageDialog(qsTr("No Vehicle"), qsTr("Connect a vehicle first."))
+                        console.log("No vehicle!")
                         return
                     }
 
-
-                    var lat    = parseFloat(latField.text)
-                    var lon    = parseFloat(lonField.text)
-                    var dist   = parseFloat(distanceField.text)
-                    var height = parseFloat(heightField.text)
-                    var speed  = parseFloat(speedField.text)
-
-                    if (isNaN(lat) || isNaN(lon) || isNaN(dist) || isNaN(height) || isNaN(speed)) {
-                        mainWindow.showMessageDialog(
-                            qsTr("Invalid Input"),
-                            qsTr("Please fill in all fields before executing.")
-                        )
-                        return
-                    }
-
-                    // Step 1: STANDOFF_PARAMS cmd 31010
-                    v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31010,                              // STANDOFF_PARAMS
-                        true,                               // show error on fail
-                        47.401111,                            // param1: lat  (hardcoded)
-                        8.521111,                            // param2: lon  (hardcoded)
-                        parseFloat(distanceField.text),     // param3: distance (m)
-                        parseFloat(heightField.text),       // param4: height (m AGL)
-                        parseFloat(speedField.text),        // param5: speed (km/h)
-                        directionCombo.currentIndex,        // param6: direction 0/1/2/3
-                        0                                   // param7: unused
+                    v.sendStandoffCommand(
+                        47.401111,                          // lat  (hardcoded for now)
+                        8.521111,                           // lon  (hardcoded for now)
+                        parseFloat(distanceField.text),     // distance (m)
+                        parseFloat(heightField.text),       // height (m AGL)
+                        parseFloat(speedField.text),        // speed (km/h)
+                        directionCombo.currentIndex         // direction 0=N 1=E 2=S 3=W
                     )
 
-                    // Step 2: STANDOFF_COMMAND activate cmd 31011
-                    v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31011,                              // STANDOFF_COMMAND
-                        true,
-                        1,                                  // 1 = activate
-                        0, 0, 0, 0, 0, 0
-                    )
-
-
-                    // Calls Q_INVOKABLE Vehicle::guidedModeStandoff()
-                    // which goes → FirmwarePlugin → sendMavCommand internally
-                    v.guidedModeStandoff(lat, lon, dist, height, speed, directionCombo.currentIndex)
+                    console.log("Standoff executed — dist:", distanceField.text,
+                                "height:", heightField.text,
+                                "speed:", speedField.text,
+                                "direction:", directionCombo.currentIndex)
 
                     standoffdialog.close()
                 }
             }
 
-            // --- CANCEL STANDOFF ---
+            // CANCEL
             Button {
                 text: qsTr("Cancel Standoff")
                 Layout.fillWidth: true
@@ -616,25 +418,13 @@ Item {
                     var v = standoffdialog.vehicle
                     if (!v) return
 
-
-                    // Calls Q_INVOKABLE Vehicle::guidedModeCancelStandoff()
-                    v.guidedModeCancelStandoff()
-
-                    v.sendMavCommand(
-                        v.defaultComponentId,
-                        31011,                              // STANDOFF_COMMAND
-                        true,
-                        0,                                  // 0 = cancel
-                        0, 0, 0, 0, 0, 0
-                    )
-
+                    v.cancelStandoffCommand()
 
                     standoffdialog.close()
                 }
             }
         }
     }
-
     // ----------------------------------------------------------------
     // Map holder: shift everything (map + overlays) out of gutter
     // ----------------------------------------------------------------
@@ -657,7 +447,6 @@ Item {
         FlyViewVideo {
             id:         videoControl
             pipView:    _pipView
-            visible:    QGroundControl.videoManager.hasVideo
         }
 
         PipView {

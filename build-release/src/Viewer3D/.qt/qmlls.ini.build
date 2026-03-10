@@ -1,5 +1,0 @@
-[General]
-buildDir="/home/saad-saeed/qgroundcontrol/build-release/qml"
-no-cmake-calls=false
-docDir=/home/saad-saeed/Qt/6.10.0/Docs/Qt-6.10.1
-importPaths="/home/saad-saeed/Qt/6.10.0/6.10.1/gcc_64/qml"

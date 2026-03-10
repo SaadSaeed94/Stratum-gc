@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGroundControl/FactControls">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/FactControls</file>
-
-  </qresource>
-</RCC>

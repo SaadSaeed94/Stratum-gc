@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/json/Vehicle">
-    <file alias="GPSRTKFact.json">/home/saad-saeed/qgroundcontrol/src/GPS/GPSRTKFact.json</file>
-  </qresource>
-</RCC>
-

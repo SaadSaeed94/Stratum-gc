@@ -405,6 +405,12 @@ public:
     /// Trigger camera using MAV_CMD_DO_DIGICAM_CONTROL command
     Q_INVOKABLE void triggerSimpleCamera(void);
 
+    /// Send standoff parameters (cmd 31010) then activate (cmd 31011) to the onboard computer
+    Q_INVOKABLE void sendStandoffCommand(double lat, double lon, double distance, double height, double speed, int direction);
+
+    /// Cancel an active standoff (cmd 31011, param1=0)
+    Q_INVOKABLE void cancelStandoffCommand();
+
     /// Set home from flight map coordinate
     Q_INVOKABLE void doSetHome(const QGeoCoordinate& coord);
 

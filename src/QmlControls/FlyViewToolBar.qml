@@ -17,7 +17,10 @@ Item {
 
     property var    _activeVehicle:     QGroundControl.multiVehicleManager.activeVehicle
     property bool   _communicationLost: _activeVehicle ? _activeVehicle.vehicleLinkManager.communicationLost : false
-    property color  _mainStatusBGColor: qgcPal.brandingPurple
+    property color  _mainStatusBGColor: "#3D4A1E"       // military green accent
+    property color  _toolbarBG:         "#14160F"       // blackish-grey base
+    property color  _toolbarBGLight:    "#1C1F15"       // slightly lighter panel bg
+    property color  _milGreen:          "#4B5A24"       // military olive green
     property real   _leftRightMargin:   ScreenTools.defaultFontPixelWidth * 0.75
     property var    _guidedController:  globals.guidedControllerFlyView
 
@@ -26,6 +29,22 @@ Item {
     }
 
     QGCPalette { id: qgcPal }
+
+    // Solid toolbar background
+    Rectangle {
+        anchors.fill: parent
+        color:        _toolbarBG
+    }
+
+    // Military green bottom accent line
+    Rectangle {
+        anchors.left:   parent.left
+        anchors.right:  parent.right
+        anchors.bottom: parent.bottom
+        height:         2
+        color:          _milGreen
+        opacity:        0.85
+    }
 
     QGCFlickable {
         anchors.fill:       parent
@@ -45,26 +64,26 @@ Item {
                 width:  leftPanelLayout.implicitWidth
                 height: parent.height
 
-                // Gradient background behind Q button and main status indicator
+                // Gradient background behind logo and main status indicator
                 Rectangle {
                     id:         gradientBackground
                     height:     parent.height
                     width:      mainStatusLayout.width
-                    opacity:    qgcPal.windowTransparent.a
 
                     gradient: Gradient {
                         orientation: Gradient.Horizontal
-                        GradientStop { position: 0; color: _mainStatusBGColor }
-                        GradientStop { position: 1; color: qgcPal.window }
+                        GradientStop { position: 0.0; color: _milGreen }
+                        GradientStop { position: 0.6; color: _mainStatusBGColor }
+                        GradientStop { position: 1.0; color: _toolbarBG }
                     }
                 }
 
-                // Standard toolbar background to the right of the gradient
+                // Dark background to the right of the gradient
                 Rectangle {
                     anchors.left:   gradientBackground.right
                     anchors.right:  parent.right
                     height:         parent.height
-                    color:          qgcPal.windowTransparent
+                    color:          _toolbarBGLight
                 }
 
                 RowLayout {
@@ -117,7 +136,7 @@ Item {
 
                 Rectangle {
                     anchors.fill:   parent
-                    color:          qgcPal.windowTransparent
+                    color:          _toolbarBG
                 }
 
                 GuidedActionConfirm {
@@ -144,7 +163,7 @@ Item {
 
                 Rectangle {
                     anchors.fill:   parent
-                    color:          qgcPal.windowTransparent
+                    color:          _toolbarBGLight
                 }
 
                 RowLayout {
@@ -166,7 +185,7 @@ Item {
 
                         // Vehicle heading source
                         property var  vehicle: QGroundControl.multiVehicleManager.activeVehicle
-                        property real headingDeg: vehicle ? vehicle.heading : 0
+                        property real headingDeg: vehicle ? vehicle.heading.rawValue : 0
 
                         // Smooth movement
                         Behavior on headingDeg { NumberAnimation { duration: 120 } }
@@ -190,8 +209,8 @@ Item {
                                         width: 1
                                         height: (deg % 10 === 0) ? parent.height * 0.70 : parent.height * 0.40
                                         anchors.verticalCenter: parent.verticalCenter
-                                        color: "white"
-                                        opacity: 0.85
+                                        color: "#8FA850"    // muted military green ticks
+                                        opacity: 0.90
                                     }
 
                                     // Label every 30 degrees (Garmin-like),
@@ -203,7 +222,7 @@ Item {
                                         anchors.horizontalCenter: parent.horizontalCenter
                                         font.bold: true
                                         font.pointSize: 11
-                                        color: "white"
+                                        color: "#C8D4A0"    // soft olive-white
                                         text: {
                                             var d = deg % 360
                                             if (d === 0)   return "N"
@@ -217,15 +236,15 @@ Item {
                             }
                         }
 
-                        // Center pointer (fixed)
+                        // Center pointer (fixed) — military green
                         Rectangle {
                             anchors.horizontalCenter: parent.horizontalCenter
                             anchors.bottom: parent.bottom
                             anchors.bottomMargin: 2
                             width: 2
                             height: parent.height * 0.75
-                            color: "white"
-                            opacity: 0.95
+                            color: "#6B8A2A"
+                            opacity: 1.0
                         }
 
                         // Digital heading window
@@ -233,19 +252,18 @@ Item {
                             width: 70
                             height: parent.height * 0.72
                             anchors.centerIn: parent
-                            radius: 4
-                            color: "#000000"
-                            opacity: 0.45
+                            radius: 3
+                            color: "#0D0F0A"
+                            opacity: 0.85
                             border.width: 1
-                            border.color: "#55FFFFFF"   // semi-transparent white
-
+                            border.color: "#4B5A24"     // military green border
 
                             QGCLabel {
                                 anchors.centerIn: parent
                                 text: Math.round(headingTape.headingDeg).toString().padStart(3, "0")
                                 font.bold: true
                                 font.pointSize: 13
-                                color: "white"
+                                color: "#A8C456"        // bright military green text
                             }
                         }
                     }
@@ -273,7 +291,9 @@ Item {
                                     (guidedActionConfirm.width - guidedActionMessageDisplay.width) / 2
         width:                      messageLabel.contentWidth + (_margins * 2)
         height:                     messageLabel.contentHeight + (_margins * 2)
-        color:                      qgcPal.windowTransparent
+        color:                      "#1C1F15"
+        border.color:               "#4B5A24"
+        border.width:               1
         radius:                     ScreenTools.defaultBorderRadius
         visible:                    guidedActionConfirm.visible
 

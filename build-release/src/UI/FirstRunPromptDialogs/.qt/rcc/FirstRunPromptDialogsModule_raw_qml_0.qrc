@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qml/QGroundControl/FirstRunPromptDialogs/">
-    <file alias="OfflineVehicleFirstRunPrompt.qml">/home/saad-saeed/qgroundcontrol/src/UI/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml</file>
-    <file alias="UnitsFirstRunPrompt.qml">/home/saad-saeed/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml</file>
-  </qresource>
-</RCC>
-

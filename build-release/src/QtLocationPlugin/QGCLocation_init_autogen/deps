@@ -1,4 +1,0 @@
-QGCLocation_init_autogen/timestamp: \
-	/home/saad-saeed/qgroundcontrol/build-release/src/QtLocationPlugin/QGCLocation_init.cpp \
-	/home/saad-saeed/qgroundcontrol/src/QtLocationPlugin/CMakeLists.txt \
-	/home/saad-saeed/Qt/6.10.0/Tools/CMake/bin/cmake

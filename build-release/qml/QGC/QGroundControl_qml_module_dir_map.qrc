@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGC">/home/saad-saeed/qgroundcontrol/build-release/qml/QGC</file>
-
-  </qresource>
-</RCC>

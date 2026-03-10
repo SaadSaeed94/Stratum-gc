@@ -1,2 +1,0 @@
-/home/saad-saeed/qgroundcontrol/build-release/src/VideoManager/VideoReceiver/GStreamer/gstqml6gl/gstqml6gl_autogen/include/../VHWFXQTXMC/moc_gstqsg6glnode.cpp.json
-/home/saad-saeed/qgroundcontrol/build-release/src/VideoManager/VideoReceiver/GStreamer/gstqml6gl/gstqml6gl_autogen/include/../VHWFXQTXMC/moc_qt6glitem.cpp.json

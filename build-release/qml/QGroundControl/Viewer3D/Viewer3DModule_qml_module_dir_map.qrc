@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGroundControl/Viewer3D">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/Viewer3D</file>
-
-  </qresource>
-</RCC>

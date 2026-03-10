@@ -1,6 +1,0 @@
-module QGroundControl
-typeinfo QGroundControlModule.qmltypes
-import QGC
-prefer :/qml/QGroundControl/
-MainWindow 1.0 MainWindow.qml
-

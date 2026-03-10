@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qml/QGroundControl/AnalyzeView">/home/saad-saeed/qgroundcontrol/build-release/qml/QGroundControl/AnalyzeView</file>
-
-  </qresource>
-</RCC>

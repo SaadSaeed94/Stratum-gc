@@ -1,9 +1,0 @@
-module QGC
-typeinfo QGroundControl.qmltypes
-import QtQuick
-import QtQuick.Controls
-import QtQuick.Dialogs
-import QtQuick.Layouts
-prefer :/qml/QGC/
-depends QtQuick
-
