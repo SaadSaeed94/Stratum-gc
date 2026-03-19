@@ -530,7 +530,7 @@ Item {
                                             anchors.bottom: parent.bottom
                                             color: {
                                                 var lq = vehicleCard.isMock ? mockLink * 25
-                                                       : (object ? (object.telemetryLRSSI === 0 ? 0 : object.telemetryLRSSI >= -50 ? 100 : object.telemetryLRSSI >= -65 ? 75 : object.telemetryLRSSI >= -80 ? 50 : object.telemetryLRSSI >= -95 ? 25 : 0) : 0)
+                                                       : (object && object.links.count > 0 ? 75 : 0)
                                                 return lq >= (index + 1) * 25 ? "#3A9E5A" : "#1F3A2A"
                                             }
                                         }
@@ -583,8 +583,8 @@ Item {
                                 text: {
                                     if (vehicleCard.isMock) return qsTr("Alt ") + mockAlt + "   " + qsTr("Bat ") + mockBat
                                     if (!object) return ""
-                                    var alt = object.altitudeRelative ? object.altitudeRelative.rawValue : NaN
-                                    var bat = object.batteries && object.batteries.count > 0 ? object.batteries.get(0).percentRemaining.rawValue : NaN
+                                    var alt = object.altitudeRelative.rawValue
+                                    var bat = object.battery.percentRemaining.rawValue
                                     return qsTr("Alt ") + (isNaN(alt) ? "—" : Math.round(alt) + "m")
                                          + "   " + qsTr("Bat ") + ((bat < 0 || isNaN(bat)) ? "—" : Math.round(bat) + "%")
                                 }
