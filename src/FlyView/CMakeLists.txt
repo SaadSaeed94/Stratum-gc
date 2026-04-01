@@ -74,3 +74,4 @@ qt_add_qml_module(FlyViewModule
 
     NO_PLUGIN
 )
+target_link_libraries(FlyViewModule PRIVATE FleetModuleplugin)

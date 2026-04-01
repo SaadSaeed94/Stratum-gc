@@ -39,6 +39,8 @@
 #include "Vehicle.h"
 #include "VehicleComponent.h"
 #include "VideoManager.h"
+#include "FleetConfigLoader.h"
+
 
 #ifndef QGC_NO_SERIAL_LINK
 #include "SerialLink.h"
@@ -262,6 +264,7 @@ void QGCApplication::_initForNormalAppBoot()
     FollowMe::instance()->init();
     QGCPositionManager::instance()->init();
     LinkManager::instance()->init();
+    FleetConfigLoader::instance()->init();
     VideoManager::instance()->init(mainRootWindow());
 
     // Image provider for Optical Flow

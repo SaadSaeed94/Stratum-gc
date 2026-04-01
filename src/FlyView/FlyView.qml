@@ -18,6 +18,7 @@ import QGroundControl.FlyView
 import QGroundControl.FlightMap
 import QGroundControl.UTMSP
 import QGroundControl.Viewer3D
+import QGroundControl.Fleet
 
 Item {
     id: _root
@@ -350,10 +351,52 @@ Item {
             anchors.right:      parent.right
             color:              "transparent"
 
+            // ---- CONNECTION STATUS BAR ----
+            Rectangle {
+                id: fleetStatusBar
+                anchors.top:         parent.top
+                anchors.left:        parent.left
+                anchors.right:       parent.right
+                anchors.leftMargin:  10
+                anchors.rightMargin: 10
+                height:      26
+                radius:      6
+                color:       QGroundControl.multiVehicleManager.vehicles.count > 0 ? "#0D2A18" : "#1A1A0D"
+                border.color: QGroundControl.multiVehicleManager.vehicles.count > 0 ? "#1A4A2A" : "#3A3A10"
+                border.width: 1
+
+                Row {
+                    anchors.centerIn: parent
+                    spacing: 6
+
+                    Rectangle {
+                        width: 7; height: 7; radius: 4
+                        anchors.verticalCenter: parent.verticalCenter
+                        color: QGroundControl.multiVehicleManager.vehicles.count > 0 ? "#3A9E5A" : "#C8B020"
+                        SequentialAnimation on opacity {
+                            running: QGroundControl.multiVehicleManager.vehicles.count === 0
+                            loops:   Animation.Infinite
+                            NumberAnimation { to: 0.2; duration: 700 }
+                            NumberAnimation { to: 1.0; duration: 700 }
+                        }
+                    }
+
+                    QGCLabel {
+                        anchors.verticalCenter: parent.verticalCenter
+                        text: QGroundControl.multiVehicleManager.vehicles.count > 0
+                              ? qsTr("Connected · ") + QGroundControl.multiVehicleManager.vehicles.count + qsTr(" vehicle(s)")
+                              : qsTr("Searching for devices...")
+                        font.pointSize: ScreenTools.smallFontPointSize * 0.8
+                        color: QGroundControl.multiVehicleManager.vehicles.count > 0 ? "#3A9E5A" : "#C8B020"
+                    }
+                }
+            }
+
             // Header row
             Rectangle {
                 id: fleetHeader
-                anchors.top:   parent.top
+                anchors.top:   fleetStatusBar.bottom
+                anchors.topMargin: 4
                 anchors.left:  parent.left
                 anchors.right: parent.right
                 height:        28
@@ -383,7 +426,8 @@ Item {
                     QGCLabel {
                         id: vehicleCountLabel
                         anchors.centerIn: parent
-                        text: leftGutterPanel._vehicles ? leftGutterPanel._vehicles.count + qsTr(" vehicles") : qsTr("0 vehicles")
+                        // text: leftGutterPanel._vehicles ? leftGutterPanel._vehicles.count + qsTr(" vehicles") : qsTr("0 vehicles")
+                        text: QGroundControl.multiVehicleManager.vehicles.count + qsTr(" vehicles")
                         font.pointSize: ScreenTools.smallFontPointSize * 0.75
                         color: "#6B9EC8"
                     }
@@ -414,16 +458,19 @@ Item {
                 anchors.rightMargin:  10
                 spacing:              4
                 clip:                 true
-                model:                (leftGutterPanel._vehicles && leftGutterPanel._vehicles.count > 0)
-                                          ? leftGutterPanel._vehicles
+                // model:                (leftGutterPanel._vehicles && leftGutterPanel._vehicles.count > 0)
+                //                           ? leftGutterPanel._vehicles
+                //                           : mockVehicles
+                model:                QGroundControl.multiVehicleManager.vehicles.count > 0
+                                          ? QGroundControl.multiVehicleManager.vehicles
                                           : mockVehicles
 
                 ListModel {
                     id: mockVehicles
-                    ListElement { mockId: "UAV-001"; mockType: "Quadrotor";   mockIcon: "✦"; mockAlt: "42m";  mockBat: "87%"; mockLink: 4; mockGps: "3D"; mockGpsClass: "fix3d" }
-                    ListElement { mockId: "FW-002";  mockType: "Fixed Wing";  mockIcon: "✈"; mockAlt: "120m"; mockBat: "62%"; mockLink: 3; mockGps: "3D"; mockGpsClass: "fix3d" }
-                    ListElement { mockId: "UAV-003"; mockType: "Quadrotor";   mockIcon: "✦"; mockAlt: "18m";  mockBat: "45%"; mockLink: 2; mockGps: "2D"; mockGpsClass: "fix2d" }
-                    ListElement { mockId: "RVR-004"; mockType: "Ground Rover";mockIcon: "🚗";mockAlt: "0m";   mockBat: "—";   mockLink: 0; mockGps: "NO FIX"; mockGpsClass: "nofix" }
+                    ListElement { mockId: "UAV-001"; mockType: "Quadrotor";    mockIcon: "✦"; mockAlt: "42m";  mockBat: "87%"; mockLink: 4; mockGps: "3D";     mockGpsClass: "fix3d"; mockRole: "ISR"    }
+                    ListElement { mockId: "FW-002";  mockType: "Fixed Wing";   mockIcon: "✈"; mockAlt: "120m"; mockBat: "62%"; mockLink: 3; mockGps: "3D";     mockGpsClass: "fix3d"; mockRole: "Strike" }
+                    ListElement { mockId: "UAV-003"; mockType: "Quadrotor";    mockIcon: "✦"; mockAlt: "18m";  mockBat: "45%"; mockLink: 2; mockGps: "2D";     mockGpsClass: "fix2d"; mockRole: "ISR"    }
+                    ListElement { mockId: "RVR-004"; mockType: "Ground Rover"; mockIcon: "🚗"; mockAlt: "0m";  mockBat: "—";   mockLink: 0; mockGps: "NO FIX"; mockGpsClass: "nofix"; mockRole: "Scout"  }
                 }
 
                 ScrollBar.vertical: ScrollBar {
@@ -437,10 +484,10 @@ Item {
 
                 delegate: Rectangle {
                     id: vehicleCard
-                    // isMock is true when using mock data (no real vehicle object)
-                    property bool isMock: typeof mockId !== "undefined"
+                    // isMock is true when no real vehicles are connected
+                    property bool isMock: QGroundControl.multiVehicleManager.vehicles.count === 0
                     property bool isSelected: isMock
-                        ? leftGutterPanel._selectedVehicle === null && index === 0
+                        ? leftGutterPanel._selectedVehicle === mockId || (leftGutterPanel._selectedVehicle === null && index === 0)
                         : leftGutterPanel._selectedVehicle === object
 
                     width:  fleetList.width
@@ -484,9 +531,8 @@ Item {
                                     text: {
                                         if (vehicleCard.isMock) return mockIcon
                                         if (!object) return "?"
-                                        var t = object.vehicleType
-                                        if (t === 2 || t === 13) return "✈"
-                                        if (t === 10) return "🚗"
+                                        if (object.fixedWing || object.vtol) return "✈"
+                                        if (object.rover) return "🚗"
                                         return "✦"
                                     }
                                     font.pointSize: ScreenTools.smallFontPointSize * 1.1
@@ -505,10 +551,42 @@ Item {
                                     font.weight:    Font.Medium
                                     color: vehicleCard.isSelected ? "#6BA8E0" : "#C8D4E8"
                                 }
-                                QGCLabel {
-                                    text: vehicleCard.isMock ? mockType : (object ? object.vehicleTypeName : "")
-                                    font.pointSize: ScreenTools.smallFontPointSize * 0.8
-                                    color: "#4A5A7A"
+                                Row {
+                                    spacing: 5
+                                    QGCLabel {
+                                        text: vehicleCard.isMock ? mockType : (object ? object.vehicleTypeString : "")
+                                        font.pointSize: ScreenTools.smallFontPointSize * 0.8
+                                        color: "#4A5A7A"
+                                        anchors.verticalCenter: parent.verticalCenter
+                                    }
+                                    Rectangle {
+                                        property string roleText: {
+                                            if (vehicleCard.isMock) return mockRole
+                                            if (!object) return ""
+                                            var enrolled = FleetRegistry.vehicleForSysid(object.id)
+                                            if (enrolled) return enrolled.role
+                                            // fallback to type-based role
+                                            if (object.fixedWing || object.vtol) return "Strike"
+                                            if (object.rover) return "Scout"
+                                            return "ISR"
+                                        }
+                                        visible: roleText !== ""
+                                        height: 13
+                                        width:  roleLabel.contentWidth + 8
+                                        radius: 3
+                                        anchors.verticalCenter: parent.verticalCenter
+                                        color:        roleText === "Strike" ? "#2A0D0D" : roleText === "ISR" ? "#0D1F2A" : "#1A1F2A"
+                                        border.color: roleText === "Strike" ? "#7A1A1A" : roleText === "ISR" ? "#1A5A7A" : "#2A3A5A"
+                                        border.width: 1
+                                        QGCLabel {
+                                            id: roleLabel
+                                            anchors.centerIn: parent
+                                            text: parent.roleText
+                                            font.pointSize: ScreenTools.smallFontPointSize * 0.7
+                                            font.weight:    Font.Medium
+                                            color: parent.roleText === "Strike" ? "#C03030" : parent.roleText === "ISR" ? "#3A9EC8" : "#7A8AAA"
+                                        }
+                                    }
                                 }
                             }
 
@@ -575,7 +653,7 @@ Item {
                             }
                         }
 
-                        // Bottom row: alt + battery + active badge
+                        // Bottom row: alt + battery
                         Row {
                             width:   parent.width
                             spacing: 0
@@ -591,32 +669,39 @@ Item {
                                 font.pointSize: ScreenTools.smallFontPointSize * 0.8
                                 color: "#3A4A6A"
                             }
-                            Item { width: parent.width - activeBadge.width - 110; height: 1 }
-                            Rectangle {
-                                id: activeBadge
-                                visible: vehicleCard.isSelected
-                                height:  14
-                                width:   activeLabel.contentWidth + 12
-                                radius:  3
-                                color:   "#0D2440"
-                                border.color: "#1A4A7A"
-                                border.width: 1
-                                QGCLabel {
-                                    id: activeLabel
-                                    anchors.centerIn: parent
-                                    text: qsTr("ACTIVE")
-                                    font.pointSize: ScreenTools.smallFontPointSize * 0.7
-                                    font.weight:    Font.Medium
-                                    color: "#3A7AC8"
-                                }
-                            }
+                        }
+                    }
+
+                    // Active badge — bottom-right corner of card
+                    Rectangle {
+                        id: activeBadge
+                        visible: vehicleCard.isSelected
+                        anchors.right:        parent.right
+                        anchors.bottom:       parent.bottom
+                        anchors.margins:      8
+                        height:  14
+                        width:   activeLabel.contentWidth + 12
+                        radius:  3
+                        color:   "#0D2440"
+                        border.color: "#1A4A7A"
+                        border.width: 1
+                        QGCLabel {
+                            id: activeLabel
+                            anchors.centerIn: parent
+                            text: qsTr("ACTIVE")
+                            font.pointSize: ScreenTools.smallFontPointSize * 0.7
+                            font.weight:    Font.Medium
+                            color: "#3A7AC8"
                         }
                     }
 
                     MouseArea {
                         anchors.fill: parent
                         onClicked: {
-                            if (!vehicleCard.isMock) {
+                            if (vehicleCard.isMock) {
+                                // Mock: just highlight the card
+                                leftGutterPanel._selectedVehicle = mockId
+                            } else {
                                 leftGutterPanel._selectedVehicle = object
                                 QGroundControl.multiVehicleManager.activeVehicle = object
                             }
@@ -692,18 +777,24 @@ Item {
                         return
                     }
 
+                    if (!v.coordinate.isValid) {
+                        mainWindow.showMessageDialog(qsTr("No GPS Fix"),
+                            qsTr("Vehicle does not have a valid GPS position yet. Wait for a GPS fix before using Standoff."))
+                        return
+                    }
+
                     // Step 1: STANDOFF_PARAMS cmd 31010
                     v.sendMavCommand(
-                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
-                        31010,                              // STANDOFF_PARAMS
-                        true,                               // show error on fail
-                        47.401111,                            // param1: lat  (hardcoded)
-                        8.521111,                            // param2: lon  (hardcoded)
-                        parseFloat(distanceField.text),     // param3: distance (m)
-                        parseFloat(heightField.text),       // param4: height (m AGL)
-                        parseFloat(speedField.text),        // param5: speed (km/h)
-                        directionCombo.currentIndex,        // param6: direction 0/1/2/3
-                        0                                   // param7: unused
+                        191,                                        // MAV_COMP_ID_ONBOARD_COMPUTER
+                        31010,                                      // STANDOFF_PARAMS
+                        true,                                       // show error on fail
+                        v.coordinate.latitude,                      // param1: lat (real vehicle position)
+                        v.coordinate.longitude,                     // param2: lon (real vehicle position)
+                        parseFloat(distanceField.text),             // param3: distance (m)
+                        parseFloat(heightField.text),               // param4: height (m AGL)
+                        parseFloat(speedField.text),                // param5: speed (km/h)
+                        directionCombo.currentIndex,                // param6: direction 0/1/2/3
+                        0                                           // param7: unused
                     )
 
                     // Step 2: STANDOFF_COMMAND activate cmd 31011
@@ -798,8 +889,7 @@ Item {
             z:                      _fullItemZorder + 2
             parentToolInsets:       _toolInsets
             mapControl:             _mapControl
-            visible:                !QGroundControl.videoManager.fullScreen
-            isViewer3DOpen:         viewer3DWindow.isOpen
+            visible:                !QGroundControl.videoManager.fullScreen && QGroundControl.multiVehicleManager.vehicles.count === 0
         }
 
         FlyViewCustomLayer {

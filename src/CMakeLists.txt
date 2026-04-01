@@ -37,6 +37,7 @@ add_subdirectory(Comms)
 add_subdirectory(FactSystem)
 add_subdirectory(FirmwarePlugin)
 add_subdirectory(FlyView)
+add_subdirectory(Fleet)
 add_subdirectory(FlightMap)
 add_subdirectory(FollowMe)
 add_subdirectory(Gimbal)
@@ -80,6 +81,7 @@ target_sources(${CMAKE_PROJECT_NAME}
 target_include_directories(${CMAKE_PROJECT_NAME}
     PRIVATE
         ${CMAKE_CURRENT_SOURCE_DIR}
+        ${CMAKE_CURRENT_SOURCE_DIR}/Fleet    # ← add this
 )
 
 # ============================================================================
@@ -127,6 +129,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME}
         AutoPilotPluginsCommonModule
         FactControlsModule
         FirstRunPromptDialogsModule
+        FleetModule
         FlyViewModule
         FlightMapModule
         QGroundControlControlsModule
