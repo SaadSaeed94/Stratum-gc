@@ -1,0 +1,18 @@
+{
+    "fleet": [
+        {
+            "id":       "UAV-001",
+            "role":     "ISR",
+            "protocol": "UDP",
+            "ip":       "127.0.0.1",
+            "port":     14550
+        },
+        {
+            "id":       "FW-002",
+            "role":     "Strike",
+            "protocol": "UDP",
+            "ip":       "127.0.0.1",
+            "port":     14551
+        }
+    ]
+}

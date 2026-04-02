@@ -531,8 +531,9 @@ Item {
                                     text: {
                                         if (vehicleCard.isMock) return mockIcon
                                         if (!object) return "?"
-                                        if (object.fixedWing || object.vtol) return "✈"
-                                        if (object.rover) return "🚗"
+                                        var t = object.vehicleType
+                                        if (t === 2 || t === 13) return "✈"
+                                        if (t === 10) return "🚗"
                                         return "✦"
                                     }
                                     font.pointSize: ScreenTools.smallFontPointSize * 1.1
@@ -554,22 +555,14 @@ Item {
                                 Row {
                                     spacing: 5
                                     QGCLabel {
-                                        text: vehicleCard.isMock ? mockType : (object ? object.vehicleTypeString : "")
+                                        text: vehicleCard.isMock ? mockType : (object ? object.vehicleTypeName : "")
                                         font.pointSize: ScreenTools.smallFontPointSize * 0.8
                                         color: "#4A5A7A"
                                         anchors.verticalCenter: parent.verticalCenter
                                     }
                                     Rectangle {
-                                        property string roleText: {
-                                            if (vehicleCard.isMock) return mockRole
-                                            if (!object) return ""
-                                            var enrolled = FleetRegistry.vehicleForSysid(object.id)
-                                            if (enrolled) return enrolled.role
-                                            // fallback to type-based role
-                                            if (object.fixedWing || object.vtol) return "Strike"
-                                            if (object.rover) return "Scout"
-                                            return "ISR"
-                                        }
+                                        property string roleText: vehicleCard.isMock ? mockRole
+                                            : (object ? FleetRegistry.roleForType(object.vehicleType) : "")
                                         visible: roleText !== ""
                                         height: 13
                                         width:  roleLabel.contentWidth + 8
@@ -653,7 +646,7 @@ Item {
                             }
                         }
 
-                        // Bottom row: alt + battery
+                        // Bottom row: alt + battery + active badge
                         Row {
                             width:   parent.width
                             spacing: 0
@@ -669,29 +662,25 @@ Item {
                                 font.pointSize: ScreenTools.smallFontPointSize * 0.8
                                 color: "#3A4A6A"
                             }
-                        }
-                    }
-
-                    // Active badge — bottom-right corner of card
-                    Rectangle {
-                        id: activeBadge
-                        visible: vehicleCard.isSelected
-                        anchors.right:        parent.right
-                        anchors.bottom:       parent.bottom
-                        anchors.margins:      8
-                        height:  14
-                        width:   activeLabel.contentWidth + 12
-                        radius:  3
-                        color:   "#0D2440"
-                        border.color: "#1A4A7A"
-                        border.width: 1
-                        QGCLabel {
-                            id: activeLabel
-                            anchors.centerIn: parent
-                            text: qsTr("ACTIVE")
-                            font.pointSize: ScreenTools.smallFontPointSize * 0.7
-                            font.weight:    Font.Medium
-                            color: "#3A7AC8"
+                            Item { width: parent.width - activeBadge.width - 110; height: 1 }
+                            Rectangle {
+                                id: activeBadge
+                                visible: vehicleCard.isSelected
+                                height:  14
+                                width:   activeLabel.contentWidth + 12
+                                radius:  3
+                                color:   "#0D2440"
+                                border.color: "#1A4A7A"
+                                border.width: 1
+                                QGCLabel {
+                                    id: activeLabel
+                                    anchors.centerIn: parent
+                                    text: qsTr("ACTIVE")
+                                    font.pointSize: ScreenTools.smallFontPointSize * 0.7
+                                    font.weight:    Font.Medium
+                                    color: "#3A7AC8"
+                                }
+                            }
                         }
                     }
 
@@ -777,24 +766,18 @@ Item {
                         return
                     }
 
-                    if (!v.coordinate.isValid) {
-                        mainWindow.showMessageDialog(qsTr("No GPS Fix"),
-                            qsTr("Vehicle does not have a valid GPS position yet. Wait for a GPS fix before using Standoff."))
-                        return
-                    }
-
                     // Step 1: STANDOFF_PARAMS cmd 31010
                     v.sendMavCommand(
-                        191,                                        // MAV_COMP_ID_ONBOARD_COMPUTER
-                        31010,                                      // STANDOFF_PARAMS
-                        true,                                       // show error on fail
-                        v.coordinate.latitude,                      // param1: lat (real vehicle position)
-                        v.coordinate.longitude,                     // param2: lon (real vehicle position)
-                        parseFloat(distanceField.text),             // param3: distance (m)
-                        parseFloat(heightField.text),               // param4: height (m AGL)
-                        parseFloat(speedField.text),                // param5: speed (km/h)
-                        directionCombo.currentIndex,                // param6: direction 0/1/2/3
-                        0                                           // param7: unused
+                        191,                                // ← MAV_COMP_ID_ONBOARD_COMPUTER
+                        31010,                              // STANDOFF_PARAMS
+                        true,                               // show error on fail
+                        47.401111,                            // param1: lat  (hardcoded)
+                        8.521111,                            // param2: lon  (hardcoded)
+                        parseFloat(distanceField.text),     // param3: distance (m)
+                        parseFloat(heightField.text),       // param4: height (m AGL)
+                        parseFloat(speedField.text),        // param5: speed (km/h)
+                        directionCombo.currentIndex,        // param6: direction 0/1/2/3
+                        0                                   // param7: unused
                     )
 
                     // Step 2: STANDOFF_COMMAND activate cmd 31011

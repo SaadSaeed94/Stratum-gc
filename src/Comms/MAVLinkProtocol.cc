@@ -8,6 +8,7 @@
 #include "QGCLoggingCategory.h"
 #include "QmlObjectListModel.h"
 #include "SettingsManager.h"
+#include "FleetRegistry.h"
 
 #include <QtCore/QApplicationStatic>
 #include <QtCore/QDir>
@@ -218,12 +219,16 @@ void MAVLinkProtocol::_logData(LinkInterface *link, const mavlink_message_t &mes
 
     switch (message.msgid) {
     case MAVLINK_MSG_ID_HEARTBEAT: {
-        _startLogging();
-        mavlink_heartbeat_t heartbeat{};
-        mavlink_msg_heartbeat_decode(&message, &heartbeat);
-        emit vehicleHeartbeatInfo(link, message.sysid, message.compid, heartbeat.autopilot, heartbeat.type);
+            _startLogging();
+            mavlink_heartbeat_t heartbeat{};
+            mavlink_msg_heartbeat_decode(&message, &heartbeat);
+            FleetRegistry::instance()->processHeartbeat(message.sysid, heartbeat.type, heartbeat.autopilot);
+            emit vehicleHeartbeatInfo(link, message.sysid, message.compid, heartbeat.autopilot, heartbeat.type);
+            break;
+        }
+    case MAVLINK_MSG_ID_CAMERA_INFORMATION:
+        FleetRegistry::instance()->processCameraInformation(message);
         break;
-    }
     case MAVLINK_MSG_ID_HIGH_LATENCY: {
         _startLogging();
         mavlink_high_latency_t highLatency{};

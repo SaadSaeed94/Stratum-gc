@@ -7,7 +7,6 @@ import QtQuick.Layouts
 
 import QGroundControl
 import QGroundControl.Controls
-import QGroundControl.Fleet
 import QGroundControl.FlyView
 import QGroundControl.FlightMap
 
@@ -271,49 +270,6 @@ FlightMap {
             z:              QGroundControl.zOrderVehicles
         }
     }
-    // ── Camera FOV cones ────────────────────────────────────────────────────
-    // For each connected vehicle that has valid camera info, draw a translucent
-    // cone showing the camera field of view projected onto the map.
-    Repeater {
-        model: QGroundControl.multiVehicleManager.vehicles
-
-        delegate: Item {
-            id: fovDelegate
-
-            property var   _vehicle:   object
-            property var   _enrolled:  FleetRegistry.vehicleForSysid(_vehicle ? _vehicle.id : -1)
-            property bool  _hasCam:    _enrolled !== null && _enrolled !== undefined && _enrolled.cameraValid
-            property real  _hfov:      _hasCam ? _enrolled.cameraHFoV : 0
-            property real  _heading:   _vehicle ? _vehicle.heading.rawValue : 0
-            property var   _coord:     _vehicle ? _vehicle.coordinate : QtPositioning.coordinate()
-
-            // Range of the cone in metres — scales with altitude, min 100 m
-            property real  _range: {
-                if (!_vehicle) return 200
-                var alt = _vehicle.altitudeRelative ? _vehicle.altitudeRelative.rawValue : 0
-                return Math.max(100, alt * 2.5)
-            }
-
-            // Compute the three cone vertices: apex + two far-edge points
-            property var _conePoints: {
-                if (!_hasCam || !_coord.isValid || _hfov <= 0) return []
-                var half   = _hfov / 2.0
-                var left   = _coord.atDistanceAndAzimuth(_range, _heading - half)
-                var right  = _coord.atDistanceAndAzimuth(_range, _heading + half)
-                return [_coord, left, right]
-            }
-
-            MapPolygon {
-                path:       fovDelegate._conePoints
-                color:      Qt.rgba(0.2, 0.7, 1.0, 0.15)   // translucent blue fill
-                border.color: Qt.rgba(0.2, 0.7, 1.0, 0.6)  // solid blue border
-                border.width: 1
-                visible:    fovDelegate._hasCam && fovDelegate._conePoints.length === 3
-                z:          QGroundControl.zOrderVehicles - 1
-            }
-        }
-    }
-
     // Add distance sensor view
     MapItemView{
         model: QGroundControl.multiVehicleManager.vehicles

@@ -356,7 +356,7 @@ ApplicationWindow {
                     height: parent.height
                     icon.source: "/res/QGCLogoFull.svg"
                     logo: true
-                    onClicked: mainWindow.showToolSelectDialog()
+                    onClicked: toolDrawer.visible = false
                 }
 
                 QGCLabel {
